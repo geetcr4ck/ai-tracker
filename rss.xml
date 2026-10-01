@@ -6,6 +6,72 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter added 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1790872499606-openrouter-models-f875bfb3</guid>
+      <pubDate>Thu, 01 Oct 2026 16:34:56 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 added model entries
+
+Added: microsoft/mai-voice-2.1, microsoft/mai-voice-2.1-flash</description>
+    </item>
+    <item>
+      <title>Model catalog changes code reference: model identifiers</title>
+      <link>https://ai-gateway.vercel.sh/v1/models</link>
+      <guid isPermaLink="false">1790871213629-vercel-gateway-catalog-3584588f</guid>
+      <pubDate>Thu, 01 Oct 2026 16:13:33 GMT</pubDate>
+      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
+
+Added: microsoft/mai-transcribe-1.5, microsoft/mai-transcribe-2, microsoft/mai-transcribe-2-streaming, microsoft/mai-voice-2, microsoft/mai-voice-2-flash, microsoft/mai-voice-2.1, microsoft/mai-voice-2.1-flash</description>
+    </item>
+    <item>
+      <title>Microsoft removed mai-voice-2</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1790870680235-microsoft-ai-models-e5e93e0c-confirmed-removal</guid>
+      <pubDate>Thu, 01 Oct 2026 16:04:39 GMT</pubDate>
+      <description>Microsoft AI models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Microsoft added 4 models</title>
+      <link>https://microsoft.ai/news/our-first-streaming-transcription-model</link>
+      <guid isPermaLink="false">1790870413566-microsoft-ai-news-sitemap-6b90d975-model-page</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:12 GMT</pubDate>
+      <description>Microsoft AI newsroom: 4 added model entries
+
+Added: mai-image-2.6, mai-transcribe-2, mai-voice-2.1, mai-voice-2.1-flash</description>
+    </item>
+    <item>
+      <title>Microsoft added mai-voice-2.1</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1790870378219-microsoft-ai-models-e5e93e0c</guid>
+      <pubDate>Thu, 01 Oct 2026 15:59:37 GMT</pubDate>
+      <description>Microsoft AI models: 1 added model entry
+
+Added: mai-voice-2.1</description>
+    </item>
+    <item>
+      <title>OpenRouter added unbiased/pareto-26.10-preview</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1790863966732-openrouter-models-c09e6268</guid>
+      <pubDate>Thu, 01 Oct 2026 14:12:42 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 added model entry
+
+Added: unbiased/pareto-26.10-preview</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790863368369-artificial-analysis-llm-leaderboard-811d58a5</guid>
+      <pubDate>Thu, 01 Oct 2026 14:02:48 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 15 added, 15 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790860775831-artificial-analysis-llm-leaderboard-4f729dcf</guid>
+      <pubDate>Thu, 01 Oct 2026 13:19:35 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 15 added, 15 removed benchmark result rows</description>
+    </item>
+    <item>
       <title>Claude new webpage</title>
       <link>https://www.anthropic.com/news/barclays-scales-claude</link>
       <guid isPermaLink="false">1790841924699-anthropic-news-7763da97-new-page</guid>
@@ -25,6 +91,48 @@
       <guid isPermaLink="false">1790841798688-anthropic-news-7763da97-new-page</guid>
       <pubDate>Thu, 01 Oct 2026 08:03:18 GMT</pubDate>
       <description>Anthropic news: new webpage</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790838116300-artificial-analysis-llm-leaderboard-811d58a5</guid>
+      <pubDate>Thu, 01 Oct 2026 07:01:56 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 1 added, 1 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1790838040962-artificial-analysis-api-free-5219f706</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:40 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 4 added, 4 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790823181128-artificial-analysis-llm-leaderboard-abfea565</guid>
+      <pubDate>Thu, 01 Oct 2026 02:53:00 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 15 added, 15 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1790822572601-artificial-analysis-api-free-173f8ca9</guid>
+      <pubDate>Thu, 01 Oct 2026 02:42:51 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 11 added, 11 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790814240247-artificial-analysis-llm-leaderboard-72816e45</guid>
+      <pubDate>Thu, 01 Oct 2026 00:23:59 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 42 added, 43 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>DeepSWE benchmark results changed</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1790814118371-deepswe-benchlm-mirror-5dbbe5d8</guid>
+      <pubDate>Thu, 01 Oct 2026 00:21:58 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 2 added, 2 removed benchmark result rows</description>
     </item>
   </channel>
 </rss>
