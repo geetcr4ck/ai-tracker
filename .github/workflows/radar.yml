@@ -29,6 +29,7 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           FILTER_CATEGORIES: ${{ vars.FILTER_CATEGORIES || 'model-change,new-page' }}
+          FILTER_TOPICS: ${{ vars.FILTER_TOPICS || 'artificial-analysis,deepswe' }}
           RSS_PUBLIC_URL: ${{ vars.RSS_PUBLIC_URL || 'https://geetcr4ck.github.io/ai-tracker/' }}
       - name: Commit state + rss
         uses: stefanzweifel/git-auto-commit-action@v5

@@ -14,6 +14,10 @@ const FILTER_CATEGORIES = (process.env.FILTER_CATEGORIES ?? "model-change,new-pa
   .split(",")
   .map((s) => s.trim())
   .filter(Boolean);
+const FILTER_TOPICS = (process.env.FILTER_TOPICS ?? "artificial-analysis,deepswe")
+  .split(",")
+  .map((s) => s.trim().toLowerCase())
+  .filter(Boolean);
 const RSS_PUBLIC_URL = process.env.RSS_PUBLIC_URL ?? "https://geetcr4ck.github.io/ai-tracker/";
 const WEBHOOK = process.env.DISCORD_WEBHOOK_URL ?? "";
 const DRY_RUN = process.env.DRY_RUN === "1";
@@ -139,7 +143,13 @@ async function main() {
   const events = Array.isArray(data.events) ? data.events : Array.isArray(data) ? data : [];
 
   // TODO(v2): pertimbangkan filter lanjutan codeReferenceOnly==true (saat ini biarkan lolos).
-  const filtered = events.filter((ev) => FILTER_CATEGORIES.includes(ev.category));
+  // Lolos jika kategori cocok ATAU topik cocok (mis. benchmark AA/deepswe).
+  const filtered = events.filter((ev) => {
+    if (FILTER_CATEGORIES.includes(ev.category)) return true;
+    const t = String(ev.topic ?? "").toLowerCase();
+    const tl = String(ev.topicLabel ?? "").toLowerCase();
+    return FILTER_TOPICS.includes(t) || FILTER_TOPICS.includes(tl);
+  });
   const fresh = filtered.filter((ev) => ev?.id && !seenSet.has(ev.id));
   fresh.sort((a, b) => new Date(a.detectedAt) - new Date(b.detectedAt));
 
