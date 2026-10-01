@@ -1,0 +1,52 @@
+name: radar
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Poll tracker and notify
+        run: node scripts/radar.mjs
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          FILTER_CATEGORIES: ${{ vars.FILTER_CATEGORIES || 'model-change,new-page' }}
+          RSS_PUBLIC_URL: ${{ vars.RSS_PUBLIC_URL || 'https://geetcr4ck.github.io/ai-tracker/' }}
+      - name: Commit state + rss
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: radar state + rss"
+          file_pattern: "state.json rss.xml public/rss.xml"
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: poll
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

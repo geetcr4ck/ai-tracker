@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI Change Radar</title>
+    <link>https://geetcr4ck.github.io/ai-tracker/</link>
+    <description>AI model releases (model-change, new-page) from ai-tracker</description>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude new webpage</title>
+      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+      <guid isPermaLink="false">1790841924699-anthropic-news-7763da97-new-page</guid>
+      <pubDate>Thu, 01 Oct 2026 08:05:24 GMT</pubDate>
+      <description>Anthropic news: new webpage</description>
+    </item>
+    <item>
+      <title>Claude new webpage</title>
+      <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+      <guid isPermaLink="false">1790841859160-anthropic-news-4d69a5b5-new-page</guid>
+      <pubDate>Thu, 01 Oct 2026 08:04:18 GMT</pubDate>
+      <description>Anthropic news: new webpage</description>
+    </item>
+    <item>
+      <title>Claude new webpage</title>
+      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+      <guid isPermaLink="false">1790841798688-anthropic-news-7763da97-new-page</guid>
+      <pubDate>Thu, 01 Oct 2026 08:03:18 GMT</pubDate>
+      <description>Anthropic news: new webpage</description>
+    </item>
+    <item>
+      <title>Gemini added gemini-3.5-live</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1790800679651-gemini-api-models-8c7ca30e</guid>
+      <pubDate>Wed, 30 Sep 2026 20:37:23 GMT</pubDate>
+      <description>Gemini API models: 1 added model entry
+
+Added: gemini-3.5-live</description>
+    </item>
+  </channel>
+</rss>
