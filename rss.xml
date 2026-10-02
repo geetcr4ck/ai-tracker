@@ -7,6 +7,20 @@
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790928490813-artificial-analysis-llm-leaderboard-4f729dcf</guid>
+      <pubDate>Fri, 02 Oct 2026 08:08:09 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 104 added, 100 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790926022808-artificial-analysis-llm-leaderboard-562e2d03</guid>
+      <pubDate>Fri, 02 Oct 2026 07:27:02 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 100 added, 104 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1790924164795-artificial-analysis-api-free-f18215cc</guid>
       <pubDate>Fri, 02 Oct 2026 06:56:03 GMT</pubDate>
@@ -25,179 +39,6 @@
       <guid isPermaLink="false">1790904720431-deepswe-benchlm-mirror-9c8bec66</guid>
       <pubDate>Fri, 02 Oct 2026 01:31:59 GMT</pubDate>
       <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>DeepSWE benchmark results changed</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1790899143049-deepswe-benchlm-mirror-ce509c37</guid>
-      <pubDate>Thu, 01 Oct 2026 23:59:01 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Model catalog changes added nvidia/pixeldit2-imagenet</title>
-      <link>https://huggingface.co/nvidia/pixeldit2-imagenet</link>
-      <guid isPermaLink="false">1790895163034-official-huggingface-new-models-a939b480</guid>
-      <pubDate>Thu, 01 Oct 2026 22:52:42 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 added model entry
-
-Added: nvidia/pixeldit2-imagenet</description>
-    </item>
-    <item>
-      <title>Model catalog changes code reference: spacexai/grok-imagine-video-1.5-lite</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1790892309216-vercel-gateway-catalog-dcea873e</guid>
-      <pubDate>Thu, 01 Oct 2026 22:05:09 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
-
-Added: spacexai/grok-imagine-video-1.5-lite</description>
-    </item>
-    <item>
-      <title>Model catalog changes added nvidia/pixelumm</title>
-      <link>https://huggingface.co/nvidia/pixelumm</link>
-      <guid isPermaLink="false">1790890884702-official-huggingface-new-models-ec97d2f4</guid>
-      <pubDate>Thu, 01 Oct 2026 21:41:24 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 added model entry
-
-Added: nvidia/pixelumm</description>
-    </item>
-    <item>
-      <title>OpenRouter added bytedance-seed/seedream-5-0-flash</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1790890503158-openrouter-models-4a89e62c</guid>
-      <pubDate>Thu, 01 Oct 2026 21:34:58 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
-
-Added: bytedance-seed/seedream-5-0-flash</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1790889004663-artificial-analysis-llm-leaderboard-4f729dcf</guid>
-      <pubDate>Thu, 01 Oct 2026 21:10:04 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 102 added, 97 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>DeepSWE benchmark results changed</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1790888278787-deepswe-benchlm-mirror-12e9a6df</guid>
-      <pubDate>Thu, 01 Oct 2026 20:57:58 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1790887160053-artificial-analysis-llm-leaderboard-cee78d99</guid>
-      <pubDate>Thu, 01 Oct 2026 20:39:19 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 97 added, 102 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>OpenRouter added black-forest-labs/flux-3-image</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1790886168339-openrouter-models-d4425757</guid>
-      <pubDate>Thu, 01 Oct 2026 20:22:43 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
-
-Added: black-forest-labs/flux-3-image</description>
-    </item>
-    <item>
-      <title>Grok/xAI added 2 models</title>
-      <link>https://api.x.ai/v1/models</link>
-      <guid isPermaLink="false">1790881081709-xai-all-models-1392b7bf</guid>
-      <pubDate>Thu, 01 Oct 2026 18:58:01 GMT</pubDate>
-      <description>xAI all-model catalog: 2 added model entries
-
-Added: grok-imagine-video-1.5-lite, grok-imagine-video-canva</description>
-    </item>
-    <item>
-      <title>Model catalog changes code reference: convaiinnovations/laya</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1790881017732-vercel-gateway-catalog-5bb655a9</guid>
-      <pubDate>Thu, 01 Oct 2026 18:56:57 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
-
-Added: convaiinnovations/laya</description>
-    </item>
-    <item>
-      <title>OpenRouter added liquid/d1</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1790879171014-openrouter-models-e8060c38</guid>
-      <pubDate>Thu, 01 Oct 2026 18:26:05 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
-
-Added: liquid/d1</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1790878162126-artificial-analysis-llm-leaderboard-4f729dcf</guid>
-      <pubDate>Thu, 01 Oct 2026 18:09:21 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 87 added, 88 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Model catalog changes code reference: fledge-alpha</title>
-      <link>https://opencode.ai/zen/v1/models</link>
-      <guid isPermaLink="false">1790878071829-opencode-zen-catalog-c0bcfa97</guid>
-      <pubDate>Thu, 01 Oct 2026 18:07:51 GMT</pubDate>
-      <description>OpenCode Zen model catalog: model references spotted in code/tests; availability and specifications unconfirmed
-
-Added: fledge-alpha</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1790877912292-artificial-analysis-llm-leaderboard-4a26a913</guid>
-      <pubDate>Thu, 01 Oct 2026 18:05:11 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 88 added, 87 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1790877547361-artificial-analysis-api-free-4212c4b7</guid>
-      <pubDate>Thu, 01 Oct 2026 17:59:06 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 added benchmark result rows</description>
-    </item>
-    <item>
-      <title>OpenRouter added apodex/apodex-1.1-mini:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1790875524487-openrouter-models-346893fe</guid>
-      <pubDate>Thu, 01 Oct 2026 17:25:20 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
-
-Added: apodex/apodex-1.1-mini:free</description>
-    </item>
-    <item>
-      <title>OpenRouter added 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1790872499606-openrouter-models-f875bfb3</guid>
-      <pubDate>Thu, 01 Oct 2026 16:34:56 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 added model entries
-
-Added: microsoft/mai-voice-2.1, microsoft/mai-voice-2.1-flash</description>
-    </item>
-    <item>
-      <title>Model catalog changes code reference: model identifiers</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1790871213629-vercel-gateway-catalog-3584588f</guid>
-      <pubDate>Thu, 01 Oct 2026 16:13:33 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
-
-Added: microsoft/mai-transcribe-1.5, microsoft/mai-transcribe-2, microsoft/mai-transcribe-2-streaming, microsoft/mai-voice-2, microsoft/mai-voice-2-flash, microsoft/mai-voice-2.1, microsoft/mai-voice-2.1-flash</description>
-    </item>
-    <item>
-      <title>Microsoft removed mai-voice-2</title>
-      <link>https://microsoft.ai/models/</link>
-      <guid isPermaLink="false">1790870680235-microsoft-ai-models-e5e93e0c-confirmed-removal</guid>
-      <pubDate>Thu, 01 Oct 2026 16:04:39 GMT</pubDate>
-      <description>Microsoft AI models: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Microsoft added 4 models</title>
-      <link>https://microsoft.ai/news/our-first-streaming-transcription-model</link>
-      <guid isPermaLink="false">1790870413566-microsoft-ai-news-sitemap-6b90d975-model-page</guid>
-      <pubDate>Thu, 01 Oct 2026 16:00:12 GMT</pubDate>
-      <description>Microsoft AI newsroom: 4 added model entries
-
-Added: mai-image-2.6, mai-transcribe-2, mai-voice-2.1, mai-voice-2.1-flash</description>
     </item>
   </channel>
 </rss>
