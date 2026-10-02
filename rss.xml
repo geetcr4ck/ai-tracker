@@ -6,6 +6,31 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>DeepSWE benchmark results changed</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1790899143049-deepswe-benchlm-mirror-ce509c37</guid>
+      <pubDate>Thu, 01 Oct 2026 23:59:01 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Model catalog changes added nvidia/pixeldit2-imagenet</title>
+      <link>https://huggingface.co/nvidia/pixeldit2-imagenet</link>
+      <guid isPermaLink="false">1790895163034-official-huggingface-new-models-a939b480</guid>
+      <pubDate>Thu, 01 Oct 2026 22:52:42 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 added model entry
+
+Added: nvidia/pixeldit2-imagenet</description>
+    </item>
+    <item>
+      <title>Model catalog changes code reference: spacexai/grok-imagine-video-1.5-lite</title>
+      <link>https://ai-gateway.vercel.sh/v1/models</link>
+      <guid isPermaLink="false">1790892309216-vercel-gateway-catalog-dcea873e</guid>
+      <pubDate>Thu, 01 Oct 2026 22:05:09 GMT</pubDate>
+      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
+
+Added: spacexai/grok-imagine-video-1.5-lite</description>
+    </item>
+    <item>
       <title>Model catalog changes added nvidia/pixelumm</title>
       <link>https://huggingface.co/nvidia/pixelumm</link>
       <guid isPermaLink="false">1790890884702-official-huggingface-new-models-ec97d2f4</guid>
@@ -219,20 +244,6 @@ Added: unbiased/pareto-26.10-preview</description>
       <guid isPermaLink="false">1790838040962-artificial-analysis-api-free-5219f706</guid>
       <pubDate>Thu, 01 Oct 2026 07:00:40 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 4 added, 4 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1790823181128-artificial-analysis-llm-leaderboard-abfea565</guid>
-      <pubDate>Thu, 01 Oct 2026 02:53:00 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 15 added, 15 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1790822572601-artificial-analysis-api-free-173f8ca9</guid>
-      <pubDate>Thu, 01 Oct 2026 02:42:51 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 11 added, 11 removed benchmark result rows</description>
     </item>
   </channel>
 </rss>
