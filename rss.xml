@@ -6,6 +6,13 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>DeepSWE benchmark results changed</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791031940425-deepswe-benchlm-mirror-4076d2f8</guid>
+      <pubDate>Sat, 03 Oct 2026 12:52:19 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
+    </item>
+    <item>
       <title>Artificial Analysis benchmark results changed</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1791025709043-artificial-analysis-llm-leaderboard-562e2d03</guid>
@@ -85,45 +92,6 @@ Added: nvidia/switchyard</description>
       <guid isPermaLink="false">1790968097765-artificial-analysis-api-free-656d5208</guid>
       <pubDate>Fri, 02 Oct 2026 19:08:17 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 35 added, 35 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Claude new webpage</title>
-      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
-      <guid isPermaLink="false">1790960722644-anthropic-news-703b92ea-new-page</guid>
-      <pubDate>Fri, 02 Oct 2026 17:05:20 GMT</pubDate>
-      <description>Anthropic news: new webpage</description>
-    </item>
-    <item>
-      <title>Claude new webpage</title>
-      <link>https://www.anthropic.com/news/claude-text-watermark</link>
-      <guid isPermaLink="false">1790960658918-anthropic-news-7763da97-new-page</guid>
-      <pubDate>Fri, 02 Oct 2026 17:04:18 GMT</pubDate>
-      <description>Anthropic news: new webpage</description>
-    </item>
-    <item>
-      <title>Claude new webpage</title>
-      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
-      <guid isPermaLink="false">1790960595930-anthropic-news-703b92ea-new-page</guid>
-      <pubDate>Fri, 02 Oct 2026 17:03:15 GMT</pubDate>
-      <description>Anthropic news: new webpage</description>
-    </item>
-    <item>
-      <title>Model catalog changes code reference: ling-3.1-flash</title>
-      <link>https://opencode.ai/zen/v1/models</link>
-      <guid isPermaLink="false">1790957089437-opencode-zen-catalog-e7204282</guid>
-      <pubDate>Fri, 02 Oct 2026 16:04:49 GMT</pubDate>
-      <description>OpenCode Zen model catalog: model references spotted in code/tests; availability and specifications unconfirmed
-
-Added: ling-3.1-flash</description>
-    </item>
-    <item>
-      <title>OpenRouter added deepgram/flux-tts</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1790955543413-openrouter-models-e561c130</guid>
-      <pubDate>Fri, 02 Oct 2026 15:38:59 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
-
-Added: deepgram/flux-tts</description>
     </item>
   </channel>
 </rss>
