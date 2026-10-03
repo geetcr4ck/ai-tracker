@@ -6,6 +6,27 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791025709043-artificial-analysis-llm-leaderboard-562e2d03</guid>
+      <pubDate>Sat, 03 Oct 2026 11:08:28 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 95 added, 97 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791024481485-artificial-analysis-llm-leaderboard-783f878b</guid>
+      <pubDate>Sat, 03 Oct 2026 10:48:01 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 97 added, 95 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791023079483-artificial-analysis-api-free-d60f56ff</guid>
+      <pubDate>Sat, 03 Oct 2026 10:24:39 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 added benchmark result rows</description>
+    </item>
+    <item>
       <title>Alibaba Qwen added qwen-image-2.1-pro</title>
       <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
       <guid isPermaLink="false">1791007042049-qwen-model-pricing-docs-07d7b906</guid>
@@ -103,15 +124,6 @@ Added: ling-3.1-flash</description>
       <description>OpenRouter model catalog: 1 added model entry
 
 Added: deepgram/flux-tts</description>
-    </item>
-    <item>
-      <title>OpenRouter added inclusionai/ling-3.1-flash</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1790951541488-openrouter-models-93219281</guid>
-      <pubDate>Fri, 02 Oct 2026 14:32:17 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
-
-Added: inclusionai/ling-3.1-flash</description>
     </item>
   </channel>
 </rss>
