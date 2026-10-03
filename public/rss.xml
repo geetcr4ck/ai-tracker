@@ -6,6 +6,36 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alibaba Qwen added qwen-image-2.1-pro</title>
+      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
+      <guid isPermaLink="false">1791007042049-qwen-model-pricing-docs-07d7b906</guid>
+      <pubDate>Sat, 03 Oct 2026 05:57:19 GMT</pubDate>
+      <description>Alibaba Model Studio model catalog: 1 added model entry
+
+Added: qwen-image-2.1-pro</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790997040912-artificial-analysis-llm-leaderboard-562e2d03</guid>
+      <pubDate>Sat, 03 Oct 2026 03:10:40 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 16 added, 17 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1790996304804-artificial-analysis-llm-leaderboard-59c6db3c</guid>
+      <pubDate>Sat, 03 Oct 2026 02:58:24 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 17 added, 16 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1790996270948-artificial-analysis-api-free-2ad0af1e</guid>
+      <pubDate>Sat, 03 Oct 2026 02:57:50 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 added, 1 removed benchmark result rows</description>
+    </item>
+    <item>
       <title>OpenRouter added nvidia/switchyard</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1790977066199-openrouter-models-1dbea942</guid>
