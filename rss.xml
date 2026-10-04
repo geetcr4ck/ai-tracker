@@ -6,6 +6,13 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Codex removed 2 models</title>
+      <link>https://github.com/openai/codex/blob/e57fc9ea5a7ccdf1d45b5c9d50047ebd8e344b05/codex-rs/tui/src/history_cell/tests.rs</link>
+      <guid isPermaLink="false">1791096730410-openai-codex-official-code-models-2a0056ea</guid>
+      <pubDate>Sun, 04 Oct 2026 06:52:10 GMT</pubDate>
+      <description>openai/codex official code model references: 2 removed model entries</description>
+    </item>
+    <item>
       <title>StepFun model leak: step-5-preview</title>
       <link>https://x.com/i/web/status/2106507731469484234</link>
       <guid isPermaLink="false">1791065570410-official-x-model-posts-171ceed8</guid>
@@ -59,27 +66,6 @@ Added: cloudflare/clef, cloudflare/clef-flash, perplexity/pplx-decider-v1-27b</d
       <description>Alibaba Model Studio model catalog: 1 added model entry
 
 Added: qwen-image-2.1-pro</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1790997040912-artificial-analysis-llm-leaderboard-562e2d03</guid>
-      <pubDate>Sat, 03 Oct 2026 03:10:40 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 16 added, 17 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1790996304804-artificial-analysis-llm-leaderboard-59c6db3c</guid>
-      <pubDate>Sat, 03 Oct 2026 02:58:24 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 17 added, 16 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1790996270948-artificial-analysis-api-free-2ad0af1e</guid>
-      <pubDate>Sat, 03 Oct 2026 02:57:50 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 added, 1 removed benchmark result rows</description>
     </item>
   </channel>
 </rss>
