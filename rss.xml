@@ -30,42 +30,5 @@ Added: step-5-preview</description>
 
 Added: cloudflare/clef, cloudflare/clef-flash, perplexity/pplx-decider-v1-27b</description>
     </item>
-    <item>
-      <title>DeepSWE benchmark results changed</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791031940425-deepswe-benchlm-mirror-4076d2f8</guid>
-      <pubDate>Sat, 03 Oct 2026 12:52:19 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791025709043-artificial-analysis-llm-leaderboard-562e2d03</guid>
-      <pubDate>Sat, 03 Oct 2026 11:08:28 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 95 added, 97 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791024481485-artificial-analysis-llm-leaderboard-783f878b</guid>
-      <pubDate>Sat, 03 Oct 2026 10:48:01 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 97 added, 95 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791023079483-artificial-analysis-api-free-d60f56ff</guid>
-      <pubDate>Sat, 03 Oct 2026 10:24:39 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 added benchmark result rows</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen added qwen-image-2.1-pro</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1791007042049-qwen-model-pricing-docs-07d7b906</guid>
-      <pubDate>Sat, 03 Oct 2026 05:57:19 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 1 added model entry
-
-Added: qwen-image-2.1-pro</description>
-    </item>
   </channel>
 </rss>
