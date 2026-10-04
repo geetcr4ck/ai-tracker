@@ -19,23 +19,5 @@
       <pubDate>Sun, 04 Oct 2026 06:52:10 GMT</pubDate>
       <description>openai/codex official code model references: 2 removed model entries</description>
     </item>
-    <item>
-      <title>StepFun model leak: step-5-preview</title>
-      <link>https://x.com/i/web/status/2106507731469484234</link>
-      <guid isPermaLink="false">1791065570410-official-x-model-posts-171ceed8</guid>
-      <pubDate>Sat, 03 Oct 2026 22:12:49 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 new model leak
-
-Added: step-5-preview</description>
-    </item>
-    <item>
-      <title>OpenRouter added 3 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791063593325-openrouter-models-5ce1720a</guid>
-      <pubDate>Sat, 03 Oct 2026 21:39:48 GMT</pubDate>
-      <description>OpenRouter model catalog: 3 added model entries
-
-Added: cloudflare/clef, cloudflare/clef-flash, perplexity/pplx-decider-v1-27b</description>
-    </item>
   </channel>
 </rss>
