@@ -6,6 +6,13 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>DeepSWE benchmark results changed</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791144257329-deepswe-benchlm-mirror-9f7bb110</guid>
+      <pubDate>Sun, 04 Oct 2026 20:04:15 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
+    </item>
+    <item>
       <title>Codex removed 2 models</title>
       <link>https://github.com/openai/codex/blob/e57fc9ea5a7ccdf1d45b5c9d50047ebd8e344b05/codex-rs/tui/src/history_cell/tests.rs</link>
       <guid isPermaLink="false">1791096730410-openai-codex-official-code-models-2a0056ea</guid>
