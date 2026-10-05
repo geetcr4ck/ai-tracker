@@ -12,12 +12,5 @@
       <pubDate>Sun, 04 Oct 2026 20:04:15 GMT</pubDate>
       <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
     </item>
-    <item>
-      <title>Codex removed 2 models</title>
-      <link>https://github.com/openai/codex/blob/e57fc9ea5a7ccdf1d45b5c9d50047ebd8e344b05/codex-rs/tui/src/history_cell/tests.rs</link>
-      <guid isPermaLink="false">1791096730410-openai-codex-official-code-models-2a0056ea</guid>
-      <pubDate>Sun, 04 Oct 2026 06:52:10 GMT</pubDate>
-      <description>openai/codex official code model references: 2 removed model entries</description>
-    </item>
   </channel>
 </rss>
