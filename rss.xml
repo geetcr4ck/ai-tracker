@@ -6,6 +6,31 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Claude: 3 new model leaks</title>
+      <link>https://platform.claude.com/</link>
+      <guid isPermaLink="false">1791220088407-claude-console-app-models-117ac974</guid>
+      <pubDate>Mon, 05 Oct 2026 17:08:06 GMT</pubDate>
+      <description>Claude console models: 3 new model leaks
+
+Added: claude-sonnet-4-5, claude-sonnet-4-5-20250929, claude-sonnet-4.5</description>
+    </item>
+    <item>
+      <title>Claude added 2 models</title>
+      <link>https://platform.claude.com/docs/en/about-claude/models</link>
+      <guid isPermaLink="false">1791219828349-claude-models-docs-00e59f1d</guid>
+      <pubDate>Mon, 05 Oct 2026 17:03:42 GMT</pubDate>
+      <description>Claude models docs: 2 added model entries
+
+Added: claude-opus-4.5, claude-opus-4.6</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791209704796-artificial-analysis-api-free-72449e38</guid>
+      <pubDate>Mon, 05 Oct 2026 14:15:03 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 added, 1 removed benchmark result rows</description>
+    </item>
+    <item>
       <title>DeepSWE benchmark results changed</title>
       <link>https://benchlm.ai/benchmarks/deepSwe</link>
       <guid isPermaLink="false">1791144257329-deepswe-benchlm-mirror-9f7bb110</guid>
