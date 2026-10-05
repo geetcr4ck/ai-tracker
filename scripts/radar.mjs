@@ -9,7 +9,7 @@ const RSS_PUBLIC = join(ROOT, "public", "rss.xml");
 const RSS_ROOT = join(ROOT, "rss.xml");
 
 const LIMIT = Number.parseInt(process.env.LIMIT ?? "80", 10) || 80;
-const EVENTS_URL = `https://ai-tracker.ssh.codes/api/events?limit=${LIMIT}`;
+const EVENTS_URL = `https://live.aitracker.bot/api/events?limit=${LIMIT}`;
 const FILTER_CATEGORIES = (process.env.FILTER_CATEGORIES ?? "model-change,new-page")
   .split(",")
   .map((s) => s.trim())
