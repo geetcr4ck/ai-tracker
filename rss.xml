@@ -6,6 +6,83 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Claude model leak: claude-mythos-5.1</title>
+      <link>https://x.com/i/web/status/2107546569654636883</link>
+      <guid isPermaLink="false">1791313246953-official-x-model-posts-aa673ec7</guid>
+      <pubDate>Tue, 06 Oct 2026 19:00:46 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 new model leak
+
+Added: claude-mythos-5.1</description>
+    </item>
+    <item>
+      <title>Claude new webpage</title>
+      <link>https://www.anthropic.com/news/cyber-verification-program</link>
+      <guid isPermaLink="false">1791313097548-anthropic-news-80a238f2-new-page</guid>
+      <pubDate>Tue, 06 Oct 2026 18:58:16 GMT</pubDate>
+      <description>Anthropic news: new webpage</description>
+    </item>
+    <item>
+      <title>LM Arena model leak: flux-3-image</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1791311094845-arena-live-model-roster-ce03f8a3</guid>
+      <pubDate>Tue, 06 Oct 2026 18:24:54 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 new model leak
+
+Added: flux-3-image</description>
+    </item>
+    <item>
+      <title>OpenRouter added x-ai/grok-imagine-video-1.5-lite</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791310367960-openrouter-models-30c22344</guid>
+      <pubDate>Tue, 06 Oct 2026 18:12:41 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 added model entry
+
+Added: x-ai/grok-imagine-video-1.5-lite</description>
+    </item>
+    <item>
+      <title>DeepSWE benchmark results changed</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791307163095-deepswe-benchlm-mirror-087fd439</guid>
+      <pubDate>Tue, 06 Oct 2026 17:19:22 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>OpenRouter added google/gemini-nano-banana-2.1</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791305912025-openrouter-models-5c31cd64</guid>
+      <pubDate>Tue, 06 Oct 2026 16:58:26 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 added model entry
+
+Added: google/gemini-nano-banana-2.1</description>
+    </item>
+    <item>
+      <title>Gemini added gemini-nano-banana-2.1</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1791298815030-gemini-api-models-6329146b</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:14 GMT</pubDate>
+      <description>Gemini API models: 1 added model entry
+
+Added: gemini-nano-banana-2.1</description>
+    </item>
+    <item>
+      <title>LM Arena model leak: mistral-large-4</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1791295734187-arena-live-model-roster-e136a518</guid>
+      <pubDate>Tue, 06 Oct 2026 14:08:53 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 new model leak
+
+Added: mistral-large-4</description>
+    </item>
+    <item>
+      <title>OpenRouter added mistralai/mistral-large-4-0</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791294822387-openrouter-models-4c698015</guid>
+      <pubDate>Tue, 06 Oct 2026 13:53:31 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 added model entry
+
+Added: mistralai/mistral-large-4-0</description>
+    </item>
+    <item>
       <title>Artificial Analysis benchmark results changed</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1791293809545-artificial-analysis-llm-leaderboard-054e2137</guid>
@@ -43,45 +120,6 @@ Added: mistral-large-4</description>
       <guid isPermaLink="false">1791288730028-deepswe-benchlm-mirror-4de94e03</guid>
       <pubDate>Tue, 06 Oct 2026 12:12:08 GMT</pubDate>
       <description>DeepSWE BenchLM mirror: 24 added benchmark result rows</description>
-    </item>
-    <item>
-      <title>Model catalog changes code reference: model identifiers</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1791236170147-vercel-gateway-catalog-ef06bb05</guid>
-      <pubDate>Mon, 05 Oct 2026 21:36:10 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
-
-Added: cohere/embed-v5.0-fast, cohere/embed-v5.0-pro</description>
-    </item>
-    <item>
-      <title>OpenRouter added tencent/hy-image-v3.5-preview</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791232997525-openrouter-models-2434e4f6</guid>
-      <pubDate>Mon, 05 Oct 2026 20:43:10 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
-
-Added: tencent/hy-image-v3.5-preview</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791231408706-artificial-analysis-llm-leaderboard-562e2d03</guid>
-      <pubDate>Mon, 05 Oct 2026 20:16:48 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 95 added, 98 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>DeepSWE benchmark results changed</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791230297657-deepswe-benchlm-mirror-c16b1e5d</guid>
-      <pubDate>Mon, 05 Oct 2026 19:58:17 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791228623100-artificial-analysis-llm-leaderboard-3efe3d0f</guid>
-      <pubDate>Mon, 05 Oct 2026 19:30:22 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 98 added, 95 removed benchmark result rows</description>
     </item>
   </channel>
 </rss>
