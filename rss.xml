@@ -6,6 +6,42 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Model catalog changes code reference: model identifiers</title>
+      <link>https://ai-gateway.vercel.sh/v1/models</link>
+      <guid isPermaLink="false">1791323475222-vercel-gateway-catalog-adafcdbb</guid>
+      <pubDate>Tue, 06 Oct 2026 21:51:15 GMT</pubDate>
+      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
+
+Added: topaz/proteus, topaz/starlight-precise-2.6, topaz/wonder-3.5</description>
+    </item>
+    <item>
+      <title>OpenRouter added openai/gpt-6-luna-decisions</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791321967728-openrouter-models-0ae2f7e0</guid>
+      <pubDate>Tue, 06 Oct 2026 21:26:04 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 added model entry
+
+Added: openai/gpt-6-luna-decisions</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI added gpt-6-luna</title>
+      <link>https://x.com/i/web/status/2107573382229188645</link>
+      <guid isPermaLink="false">1791319640000-official-x-model-posts-2-bbf73948</guid>
+      <pubDate>Tue, 06 Oct 2026 20:47:19 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 added model entry
+
+Added: gpt-6-luna</description>
+    </item>
+    <item>
+      <title>LM Arena model leak: gemini-nano-banana-2.1</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1791317933351-arena-live-model-roster-4bbfff3b</guid>
+      <pubDate>Tue, 06 Oct 2026 20:18:53 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 new model leak
+
+Added: gemini-nano-banana-2.1</description>
+    </item>
+    <item>
       <title>Claude model leak: claude-mythos-5.1</title>
       <link>https://x.com/i/web/status/2107546569654636883</link>
       <guid isPermaLink="false">1791313246953-official-x-model-posts-aa673ec7</guid>
