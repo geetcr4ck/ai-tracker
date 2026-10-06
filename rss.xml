@@ -6,6 +6,45 @@
     <description>AI model releases (model-change, new-page) from ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791293809545-artificial-analysis-llm-leaderboard-054e2137</guid>
+      <pubDate>Tue, 06 Oct 2026 13:36:46 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 79 added, 78 removed benchmark result rows</description>
+    </item>
+    <item>
+      <title>Model catalog changes model leak: mistral-large-4-preview</title>
+      <link>https://artificialanalysis.ai/models/mistral-large-4</link>
+      <guid isPermaLink="false">1791293585056-artificial-analysis-model-discovery-3d14c48d</guid>
+      <pubDate>Tue, 06 Oct 2026 13:33:01 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 new model leak
+
+Added: mistral-large-4-preview</description>
+    </item>
+    <item>
+      <title>Artificial Analysis benchmark results changed</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791292882312-artificial-analysis-api-free-f69f1a0b</guid>
+      <pubDate>Tue, 06 Oct 2026 13:21:21 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 added benchmark result rows</description>
+    </item>
+    <item>
+      <title>Mistral AI added mistral-large-4</title>
+      <link>https://docs.mistral.ai/models</link>
+      <guid isPermaLink="false">1791292181103-mistral-models-docs-200a8a93</guid>
+      <pubDate>Tue, 06 Oct 2026 13:09:39 GMT</pubDate>
+      <description>Mistral model docs: 1 added model entry
+
+Added: mistral-large-4</description>
+    </item>
+    <item>
+      <title>DeepSWE benchmark results changed</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791288730028-deepswe-benchlm-mirror-4de94e03</guid>
+      <pubDate>Tue, 06 Oct 2026 12:12:08 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 24 added benchmark result rows</description>
+    </item>
+    <item>
       <title>Model catalog changes code reference: model identifiers</title>
       <link>https://ai-gateway.vercel.sh/v1/models</link>
       <guid isPermaLink="false">1791236170147-vercel-gateway-catalog-ef06bb05</guid>
@@ -43,40 +82,6 @@ Added: tencent/hy-image-v3.5-preview</description>
       <guid isPermaLink="false">1791228623100-artificial-analysis-llm-leaderboard-3efe3d0f</guid>
       <pubDate>Mon, 05 Oct 2026 19:30:22 GMT</pubDate>
       <description>Artificial Analysis LLM leaderboard: 98 added, 95 removed benchmark result rows</description>
-    </item>
-    <item>
-      <title>Model catalog changes code reference: bfl/flux-3-image</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1791227972417-vercel-gateway-catalog-05fb2b3d</guid>
-      <pubDate>Mon, 05 Oct 2026 19:19:32 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
-
-Added: bfl/flux-3-image</description>
-    </item>
-    <item>
-      <title>Claude: 3 new model leaks</title>
-      <link>https://platform.claude.com/</link>
-      <guid isPermaLink="false">1791220088407-claude-console-app-models-117ac974</guid>
-      <pubDate>Mon, 05 Oct 2026 17:08:06 GMT</pubDate>
-      <description>Claude console models: 3 new model leaks
-
-Added: claude-sonnet-4-5, claude-sonnet-4-5-20250929, claude-sonnet-4.5</description>
-    </item>
-    <item>
-      <title>Claude added 2 models</title>
-      <link>https://platform.claude.com/docs/en/about-claude/models</link>
-      <guid isPermaLink="false">1791219828349-claude-models-docs-00e59f1d</guid>
-      <pubDate>Mon, 05 Oct 2026 17:03:42 GMT</pubDate>
-      <description>Claude models docs: 2 added model entries
-
-Added: claude-opus-4.5, claude-opus-4.6</description>
-    </item>
-    <item>
-      <title>Artificial Analysis benchmark results changed</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791209704796-artificial-analysis-api-free-72449e38</guid>
-      <pubDate>Mon, 05 Oct 2026 14:15:03 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 added, 1 removed benchmark result rows</description>
     </item>
   </channel>
 </rss>
