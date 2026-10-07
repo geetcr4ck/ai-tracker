@@ -6,6 +6,149 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Image, video &amp; audio labs menambahkan vidu-q4</title>
+      <link>https://api.fal.ai/v1/models</link>
+      <guid isPermaLink="false">1791404742598-fal-media-models-3c38b35f</guid>
+      <pubDate>Wed, 07 Oct 2026 20:24:06 GMT</pubDate>
+      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
+
+Ditambahkan: vidu-q4</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791402403794-artificial-analysis-llm-leaderboard-541e76f1</guid>
+      <pubDate>Wed, 07 Oct 2026 19:46:43 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 96 baris hasil benchmark ditambahkan, 91 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added liquidai/d1-3b-w8a8</title>
+      <link>https://huggingface.co/liquidai/d1-3b-w8a8</link>
+      <guid isPermaLink="false">1791401750410-official-huggingface-new-models-183089fc</guid>
+      <pubDate>Wed, 07 Oct 2026 19:35:50 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: liquidai/d1-3b-w8a8</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791400556450-deepswe-benchlm-mirror-381feaae</guid>
+      <pubDate>Wed, 07 Oct 2026 19:15:56 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menghapus kimi-26614164-6840</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791400339385-kimi-artificial-analysis-e6985e39</guid>
+      <pubDate>Wed, 07 Oct 2026 19:12:18 GMT</pubDate>
+      <description>Artificial Analysis Kimi K3 presence: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791400050178-artificial-analysis-api-free-aa9894c8</guid>
+      <pubDate>Wed, 07 Oct 2026 19:07:29 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 5 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: claude-haiku-5.5</title>
+      <link>https://artificialanalysis.ai/models/claude-haiku-5-5</link>
+      <guid isPermaLink="false">1791399923136-artificial-analysis-model-discovery-2c7275c5</guid>
+      <pubDate>Wed, 07 Oct 2026 19:05:21 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: claude-haiku-5.5</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan anthropic/claude-haiku-5.5</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791398917592-openrouter-models-8490de08</guid>
+      <pubDate>Wed, 07 Oct 2026 18:48:30 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: anthropic/claude-haiku-5.5</description>
+    </item>
+    <item>
+      <title>Claude code reference: claude-haiku-5-5</title>
+      <link>https://unpkg.com/@anthropic-ai/sdk@0.132.0/src/resources/messages/messages.ts</link>
+      <guid isPermaLink="false">1791396768394-anthropic-sdk-package-models-027d5902</guid>
+      <pubDate>Wed, 07 Oct 2026 18:12:48 GMT</pubDate>
+      <description>Anthropic SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: claude-haiku-5-5</description>
+    </item>
+    <item>
+      <title>Claude: 3 new model leaks</title>
+      <link>https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md</link>
+      <guid isPermaLink="false">1791396640724-claude-code-github-changelog-models-1d2d408c</guid>
+      <pubDate>Wed, 07 Oct 2026 18:10:40 GMT</pubDate>
+      <description>anthropics/claude-code changelog: 3 new model leaks
+
+Ditambahkan: claude-haiku-5, claude-haiku-5-5, claude-haiku-5.5</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan 3 models</title>
+      <link>https://x.com/i/web/status/2107895006350791071</link>
+      <guid isPermaLink="false">1791396323322-official-x-model-posts-a1d3cb0b</guid>
+      <pubDate>Wed, 07 Oct 2026 18:05:23 GMT</pubDate>
+      <description>Official AI lab posts on X: 3 entri model baru
+
+Ditambahkan: gpt-6, gpt-6-luna, gpt-6-sol</description>
+    </item>
+    <item>
+      <title>Claude menambahkan 2 models</title>
+      <link>https://x.com/i/web/status/2107894039626277339</link>
+      <guid isPermaLink="false">1791396089686-official-x-model-posts-2-02b65495</guid>
+      <pubDate>Wed, 07 Oct 2026 18:01:29 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 2 entri model baru
+
+Ditambahkan: claude-haiku-4.5, claude-haiku-5.5</description>
+    </item>
+    <item>
+      <title>Claude menambahkan claude-haiku-4.5</title>
+      <link>https://platform.claude.com/docs/en/about-claude/models</link>
+      <guid isPermaLink="false">1791396054877-claude-models-docs-6eba7d98</guid>
+      <pubDate>Wed, 07 Oct 2026 18:00:54 GMT</pubDate>
+      <description>Claude models docs: 1 entri model baru
+
+Ditambahkan: claude-haiku-4.5</description>
+    </item>
+    <item>
+      <title>Claude menghapus 3 models</title>
+      <link>https://platform.claude.com/docs/en/about-claude/models</link>
+      <guid isPermaLink="false">1791395908258-claude-models-docs-114f077a-confirmed-removal</guid>
+      <pubDate>Wed, 07 Oct 2026 17:58:27 GMT</pubDate>
+      <description>Claude models docs: 3 removed model entries</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): claude-haiku-5-5</title>
+      <link>https://github.com/anthropics/anthropic-sdk-python/blob/22feda09befc5f7740b9c96121e6f3f2034dd7e7/src/anthropic/types/beta/beta_managed_agents_model.py</link>
+      <guid isPermaLink="false">1791395669987-anthropic-sdk-models-a41353fa</guid>
+      <pubDate>Wed, 07 Oct 2026 17:54:29 GMT</pubDate>
+      <description>Anthropic Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: claude-haiku-5-5</description>
+    </item>
+    <item>
+      <title>Claude menambahkan 2 models</title>
+      <link>https://api.anthropic.com/v1/models</link>
+      <guid isPermaLink="false">1791395481014-anthropic-api-models-b622abdd</guid>
+      <pubDate>Wed, 07 Oct 2026 17:51:20 GMT</pubDate>
+      <description>Anthropic API models: 2 entri model baru
+
+Ditambahkan: claude-haiku-5, claude-haiku-5-5, claude-haiku-5.5</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): stealth/glyph-cluster</title>
+      <link>https://ai-gateway.vercel.sh/v1/models</link>
+      <guid isPermaLink="false">1791395168260-vercel-gateway-catalog-f97f8799</guid>
+      <pubDate>Wed, 07 Oct 2026 17:46:08 GMT</pubDate>
+      <description>Vercel AI Gateway model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: stealth/glyph-cluster</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan perplexity/pplx-decider-v1.1-27b</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791387997766-openrouter-models-23e9869c</guid>
@@ -76,24 +219,6 @@ Ditambahkan: elevenlabs/eleven-v3, elevenlabs/eleven-v4</description>
       <description>Official AI lab posts on X (group 4): 1 entri model baru
 
 Ditambahkan: krea-2</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): mistral-large-4</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/0.235.0/linux/x64/droid</link>
-      <guid isPermaLink="false">1791349155075-factory-droid-registry-041c5637</guid>
-      <pubDate>Wed, 07 Oct 2026 04:59:11 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: mistral-large-4</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan kling-4.0</title>
-      <link>https://x.com/i/web/status/2107667230309904481</link>
-      <guid isPermaLink="false">1791342014302-official-x-model-posts-3-873177ff</guid>
-      <pubDate>Wed, 07 Oct 2026 03:00:14 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: kling-4.0</description>
     </item>
   </channel>
 </rss>
