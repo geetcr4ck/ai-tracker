@@ -6,6 +6,78 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan perplexity/pplx-decider-v1.1-27b</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791387997766-openrouter-models-23e9869c</guid>
+      <pubDate>Wed, 07 Oct 2026 15:46:25 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: perplexity/pplx-decider-v1.1-27b</description>
+    </item>
+    <item>
+      <title>Bocoran model Image, video &amp; audio labs: vidu-q4</title>
+      <link>https://x.com/i/web/status/2107857391148790190</link>
+      <guid isPermaLink="false">1791387351632-official-x-model-posts-4-688ece37</guid>
+      <pubDate>Wed, 07 Oct 2026 15:35:51 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 bocoran model baru
+
+Ditambahkan: vidu-q4</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan vidu-q4</title>
+      <link>https://x.com/i/web/status/2107856382263505219</link>
+      <guid isPermaLink="false">1791387113878-official-x-model-posts-4-38b0c23f</guid>
+      <pubDate>Wed, 07 Oct 2026 15:31:53 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 entri model baru
+
+Ditambahkan: vidu-q4</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 5 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791386082342-openrouter-models-ed872b22</guid>
+      <pubDate>Wed, 07 Oct 2026 15:14:34 GMT</pubDate>
+      <description>OpenRouter model catalog: 5 entri model baru
+
+Ditambahkan: elevenlabs/eleven-flash-v2, elevenlabs/eleven-turbo-v2, elevenlabs/eleven-turbo-v2.5, elevenlabs/scribe-v2, elevenlabs/scribe-v2-medical</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 3 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791385785445-openrouter-models-b6301400</guid>
+      <pubDate>Wed, 07 Oct 2026 15:09:36 GMT</pubDate>
+      <description>OpenRouter model catalog: 3 entri model baru
+
+Ditambahkan: elevenlabs/eleven-flash-v2.5, elevenlabs/eleven-multilingual-v2, elevenlabs/eleven-v3-conversational</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan elevenlabs/eleven-v4-turbo</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791385370093-openrouter-models-2532a823</guid>
+      <pubDate>Wed, 07 Oct 2026 15:02:33 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: elevenlabs/eleven-v4-turbo</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791385270002-openrouter-models-f563c197</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:57 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: elevenlabs/eleven-v3, elevenlabs/eleven-v4</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan krea-2</title>
+      <link>https://x.com/i/web/status/2107848434128752777</link>
+      <guid isPermaLink="false">1791385226181-official-x-model-posts-4-9ab78b17</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:25 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 entri model baru
+
+Ditambahkan: krea-2</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): mistral-large-4</title>
       <link>https://downloads.factory.ai/factory-cli/releases/0.235.0/linux/x64/droid</link>
       <guid isPermaLink="false">1791349155075-factory-droid-registry-041c5637</guid>
@@ -22,51 +94,6 @@ Ditambahkan: mistral-large-4</description>
       <description>Official AI lab posts on X (group 3): 1 entri model baru
 
 Ditambahkan: kling-4.0</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/5317ba374cdfc5d2523b7d96c776465cf57927c3/src/content/catalog-models/anthropic-claude-sonnet-5.5.json</link>
-      <guid isPermaLink="false">1791330891842-cloudflare-gateway-catalog-5c782ec0</guid>
-      <pubDate>Tue, 06 Oct 2026 23:54:50 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: anthropic/claude-sonnet-5.5, bria/fibo-edit-1.5, bria/fibo-generate-1.5, bria/remove-background, bria/v-rmbg-3.0, google/gemini-3.8-flash-lite-tts, google/gemini-3.8-flash-tts, openai/gpt-6.1-sol</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1791323475222-vercel-gateway-catalog-adafcdbb</guid>
-      <pubDate>Tue, 06 Oct 2026 21:51:15 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: topaz/proteus, topaz/starlight-precise-2.6, topaz/wonder-3.5</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan openai/gpt-6-luna-decisions</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791321967728-openrouter-models-0ae2f7e0</guid>
-      <pubDate>Tue, 06 Oct 2026 21:26:04 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: openai/gpt-6-luna-decisions</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-luna</title>
-      <link>https://x.com/i/web/status/2107573382229188645</link>
-      <guid isPermaLink="false">1791319640000-official-x-model-posts-2-bbf73948</guid>
-      <pubDate>Tue, 06 Oct 2026 20:47:19 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: gpt-6-luna</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: gemini-nano-banana-2.1</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1791317933351-arena-live-model-roster-4bbfff3b</guid>
-      <pubDate>Tue, 06 Oct 2026 20:18:53 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: gemini-nano-banana-2.1</description>
     </item>
   </channel>
 </rss>
