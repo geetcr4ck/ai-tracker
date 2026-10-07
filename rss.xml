@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah (referensi kode): mistral-large-4</title>
+      <link>https://downloads.factory.ai/factory-cli/releases/0.235.0/linux/x64/droid</link>
+      <guid isPermaLink="false">1791349155075-factory-droid-registry-041c5637</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:11 GMT</pubDate>
+      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: mistral-large-4</description>
+    </item>
+    <item>
       <title>Image, video &amp; audio labs menambahkan kling-4.0</title>
       <link>https://x.com/i/web/status/2107667230309904481</link>
       <guid isPermaLink="false">1791342014302-official-x-model-posts-3-873177ff</guid>
@@ -58,115 +67,6 @@ Ditambahkan: gpt-6-luna</description>
       <description>Arena live selectable-model roster: 1 bocoran model baru
 
 Ditambahkan: gemini-nano-banana-2.1</description>
-    </item>
-    <item>
-      <title>Bocoran model Claude: claude-mythos-5.1</title>
-      <link>https://x.com/i/web/status/2107546569654636883</link>
-      <guid isPermaLink="false">1791313246953-official-x-model-posts-aa673ec7</guid>
-      <pubDate>Tue, 06 Oct 2026 19:00:46 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 bocoran model baru
-
-Ditambahkan: claude-mythos-5.1</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/cyber-verification-program</link>
-      <guid isPermaLink="false">1791313097548-anthropic-news-80a238f2-new-page</guid>
-      <pubDate>Tue, 06 Oct 2026 18:58:16 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: flux-3-image</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1791311094845-arena-live-model-roster-ce03f8a3</guid>
-      <pubDate>Tue, 06 Oct 2026 18:24:54 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: flux-3-image</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan x-ai/grok-imagine-video-1.5-lite</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791310367960-openrouter-models-30c22344</guid>
-      <pubDate>Tue, 06 Oct 2026 18:12:41 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: x-ai/grok-imagine-video-1.5-lite</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791307163095-deepswe-benchlm-mirror-087fd439</guid>
-      <pubDate>Tue, 06 Oct 2026 17:19:22 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan google/gemini-nano-banana-2.1</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791305912025-openrouter-models-5c31cd64</guid>
-      <pubDate>Tue, 06 Oct 2026 16:58:26 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: google/gemini-nano-banana-2.1</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-nano-banana-2.1</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1791298815030-gemini-api-models-6329146b</guid>
-      <pubDate>Tue, 06 Oct 2026 15:00:14 GMT</pubDate>
-      <description>Gemini API models: 1 entri model baru
-
-Ditambahkan: gemini-nano-banana-2.1</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: mistral-large-4</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1791295734187-arena-live-model-roster-e136a518</guid>
-      <pubDate>Tue, 06 Oct 2026 14:08:53 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: mistral-large-4</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan mistralai/mistral-large-4-0</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791294822387-openrouter-models-4c698015</guid>
-      <pubDate>Tue, 06 Oct 2026 13:53:31 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: mistralai/mistral-large-4-0</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791293809545-artificial-analysis-llm-leaderboard-054e2137</guid>
-      <pubDate>Tue, 06 Oct 2026 13:36:46 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 79 baris hasil benchmark ditambahkan, 78 dihapus</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: mistral-large-4-preview</title>
-      <link>https://artificialanalysis.ai/models/mistral-large-4</link>
-      <guid isPermaLink="false">1791293585056-artificial-analysis-model-discovery-3d14c48d</guid>
-      <pubDate>Tue, 06 Oct 2026 13:33:01 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: mistral-large-4-preview</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791292882312-artificial-analysis-api-free-f69f1a0b</guid>
-      <pubDate>Tue, 06 Oct 2026 13:21:21 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Mistral AI menambahkan mistral-large-4</title>
-      <link>https://docs.mistral.ai/models</link>
-      <guid isPermaLink="false">1791292181103-mistral-models-docs-200a8a93</guid>
-      <pubDate>Tue, 06 Oct 2026 13:09:39 GMT</pubDate>
-      <description>Mistral model docs: 1 entri model baru
-
-Ditambahkan: mistral-large-4</description>
     </item>
   </channel>
 </rss>
