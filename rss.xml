@@ -7,6 +7,15 @@
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Model catalog changes code reference: model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/5317ba374cdfc5d2523b7d96c776465cf57927c3/src/content/catalog-models/anthropic-claude-sonnet-5.5.json</link>
+      <guid isPermaLink="false">1791330891842-cloudflare-gateway-catalog-5c782ec0</guid>
+      <pubDate>Tue, 06 Oct 2026 23:54:50 GMT</pubDate>
+      <description>Cloudflare public model catalog: model references spotted in code/tests; availability and specifications unconfirmed
+
+Added: anthropic/claude-sonnet-5.5, bria/fibo-edit-1.5, bria/fibo-generate-1.5, bria/remove-background, bria/v-rmbg-3.0, google/gemini-3.8-flash-lite-tts, google/gemini-3.8-flash-tts, openai/gpt-6.1-sol</description>
+    </item>
+    <item>
+      <title>Model catalog changes code reference: model identifiers</title>
       <link>https://ai-gateway.vercel.sh/v1/models</link>
       <guid isPermaLink="false">1791323475222-vercel-gateway-catalog-adafcdbb</guid>
       <pubDate>Tue, 06 Oct 2026 21:51:15 GMT</pubDate>
