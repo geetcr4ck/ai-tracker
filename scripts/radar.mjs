@@ -45,6 +45,53 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+// Kamus pola offline EN->ID (Rp0, deterministik). Nama model, URL, dan
+// istilah tak dikenal dibiarkan apa adanya (fallback = teks asli).
+const TITLE_RULES = [
+  [/^Model catalog changes code reference: (.+)$/, "Katalog model berubah (referensi kode): $1"],
+  [/^Model catalog changes model leak: (.+)$/, "Bocoran model dari katalog: $1"],
+  [/^Model catalog changes (.+)$/, "Katalog model berubah: $1"],
+  [/^(.+?) added (.+)$/, "$1 menambahkan $2"],
+  [/^(.+?) removed (.+)$/, "$1 menghapus $2"],
+  [/^(.+?) webpage edited$/, "Halaman web $1 diedit"],
+  [/^(.+?) new webpage$/, "Halaman web baru $1"],
+  [/^(.+?) app strings changed$/, "String aplikasi $1 berubah"],
+  [/^(.+?) benchmark results changed$/, "Hasil benchmark $1 berubah"],
+  [/^(.+?) model leak: (.+)$/, "Bocoran model $1: $2"],
+];
+
+const DETAIL_RULES = [
+  [/^(\d+) added, (\d+) removed benchmark result rows$/, "$1 baris hasil benchmark ditambahkan, $2 dihapus"],
+  [/^(\d+) added benchmark result rows$/, "$1 baris hasil benchmark ditambahkan"],
+  [/^(\d+) added model entr(?:y|ies)$/, "$1 entri model baru"],
+  [/^(\d+) new model leak$/, "$1 bocoran model baru"],
+  [/^(\d+) added app strings$/, "$1 string aplikasi ditambahkan"],
+  [/^(\d+) removed app strings$/, "$1 string aplikasi dihapus"],
+  [/^model references spotted in code\/tests; availability and specifications unconfirmed$/, "referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi"],
+  [/^webpage edited$/, "halaman web diedit"],
+  [/^new webpage$/, "halaman web baru"],
+];
+
+function applyRules(s, rules) {
+  for (const [re, rep] of rules) {
+    if (re.test(s)) return s.replace(re, rep);
+  }
+  return s;
+}
+
+function trTitle(t) {
+  return applyRules(String(t ?? ""), TITLE_RULES);
+}
+
+// Summary berbentuk "Sumber: detail" — kepala sumber dibiarkan asli,
+// hanya ekor detail yang diterjemahkan.
+function trSummary(s) {
+  const str = String(s ?? "");
+  const i = str.indexOf(": ");
+  if (i < 0) return applyRules(str, DETAIL_RULES);
+  return str.slice(0, i) + ": " + applyRules(str.slice(i + 2), DETAIL_RULES);
+}
+
 function loadSeen() {
   try {
     if (!existsSync(STATE_PATH)) return [];
@@ -57,9 +104,9 @@ function loadSeen() {
 
 function buildDescription(ev) {
   const parts = [];
-  if (ev.summary) parts.push(String(ev.summary));
+  if (ev.summary) parts.push(trSummary(ev.summary));
   const added = Array.isArray(ev.addedModels) ? ev.addedModels.filter(Boolean) : [];
-  if (added.length) parts.push("Added: " + added.join(", "));
+  if (added.length) parts.push("Ditambahkan: " + added.join(", "));
   return parts.join("\n\n");
 }
 
@@ -69,13 +116,13 @@ function buildRss(feedEvents, selfUrl) {
       const link = safeHttpUrl(ev.url);
       const pub = ev.detectedAt ? new Date(ev.detectedAt).toUTCString() : new Date().toUTCString();
       const desc = buildDescription(ev);
-      return `    <item>\n      <title>${escXml(ev.title ?? ev.id)}</title>\n${
+      return `    <item>\n      <title>${escXml(trTitle(ev.title ?? ev.id))}</title>\n${
         link ? `      <link>${escXml(link)}</link>\n` : ""
       }      <guid isPermaLink="false">${escXml(ev.id)}</guid>\n      <pubDate>${escXml(pub)}</pubDate>\n      <description>${escXml(desc)}</description>\n    </item>`;
     })
     .join("\n");
   const self = selfUrl.endsWith("/") ? selfUrl + "rss.xml" : selfUrl + "/rss.xml";
-  return `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n  <channel>\n    <title>AI Change Radar</title>\n    <link>${escXml(selfUrl)}</link>\n    <description>AI model releases (model-change, new-page) from ai-tracker</description>\n    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="${escXml(self)}" rel="self" type="application/rss+xml" />\n${items}\n  </channel>\n</rss>\n`;
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n  <channel>\n    <title>AI Change Radar</title>\n    <link>${escXml(selfUrl)}</link>\n    <description>Radar perubahan AI dari ai-tracker</description>\n    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="${escXml(self)}" rel="self" type="application/rss+xml" />\n${items}\n  </channel>\n</rss>\n`;
 }
 
 function buildEmbed(ev) {
@@ -87,11 +134,11 @@ function buildEmbed(ev) {
   const url = safeHttpUrl(ev.url);
   const added = Array.isArray(ev.addedModels) ? ev.addedModels.filter(Boolean) : [];
   const fields = [
-    ...(added.length ? [{ name: "Models +", value: added.join(", ").slice(0, 1024) }] : []),
+    ...(added.length ? [{ name: "Model +", value: added.join(", ").slice(0, 1024) }] : []),
     { name: "Kategori", value: String(ev.category ?? "-").slice(0, 256), inline: true },
   ];
   const embed = {
-    title: String(ev.title ?? ev.id).slice(0, 256),
+    title: trTitle(ev.title ?? ev.id).slice(0, 256),
     description,
     timestamp: ev.detectedAt ?? undefined,
     color: COLORS[ev.category] ?? FALLBACK_COLOR,

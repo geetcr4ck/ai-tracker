@@ -3,168 +3,170 @@
   <channel>
     <title>AI Change Radar</title>
     <link>https://geetcr4ck.github.io/ai-tracker/</link>
-    <description>AI model releases (model-change, new-page) from ai-tracker</description>
+    <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Model catalog changes code reference: model identifiers</title>
+      <title>Image, video &amp; audio labs menambahkan kling-4.0</title>
+      <link>https://x.com/i/web/status/2107667230309904481</link>
+      <guid isPermaLink="false">1791342014302-official-x-model-posts-3-873177ff</guid>
+      <pubDate>Wed, 07 Oct 2026 03:00:14 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: kling-4.0</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
       <link>https://github.com/cloudflare/cloudflare-docs/blob/5317ba374cdfc5d2523b7d96c776465cf57927c3/src/content/catalog-models/anthropic-claude-sonnet-5.5.json</link>
       <guid isPermaLink="false">1791330891842-cloudflare-gateway-catalog-5c782ec0</guid>
       <pubDate>Tue, 06 Oct 2026 23:54:50 GMT</pubDate>
-      <description>Cloudflare public model catalog: model references spotted in code/tests; availability and specifications unconfirmed
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
-Added: anthropic/claude-sonnet-5.5, bria/fibo-edit-1.5, bria/fibo-generate-1.5, bria/remove-background, bria/v-rmbg-3.0, google/gemini-3.8-flash-lite-tts, google/gemini-3.8-flash-tts, openai/gpt-6.1-sol</description>
+Ditambahkan: anthropic/claude-sonnet-5.5, bria/fibo-edit-1.5, bria/fibo-generate-1.5, bria/remove-background, bria/v-rmbg-3.0, google/gemini-3.8-flash-lite-tts, google/gemini-3.8-flash-tts, openai/gpt-6.1-sol</description>
     </item>
     <item>
-      <title>Model catalog changes code reference: model identifiers</title>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
       <link>https://ai-gateway.vercel.sh/v1/models</link>
       <guid isPermaLink="false">1791323475222-vercel-gateway-catalog-adafcdbb</guid>
       <pubDate>Tue, 06 Oct 2026 21:51:15 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: model references spotted in code/tests; availability and specifications unconfirmed
+      <description>Vercel AI Gateway model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
-Added: topaz/proteus, topaz/starlight-precise-2.6, topaz/wonder-3.5</description>
+Ditambahkan: topaz/proteus, topaz/starlight-precise-2.6, topaz/wonder-3.5</description>
     </item>
     <item>
-      <title>OpenRouter added openai/gpt-6-luna-decisions</title>
+      <title>OpenRouter menambahkan openai/gpt-6-luna-decisions</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791321967728-openrouter-models-0ae2f7e0</guid>
       <pubDate>Tue, 06 Oct 2026 21:26:04 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
+      <description>OpenRouter model catalog: 1 entri model baru
 
-Added: openai/gpt-6-luna-decisions</description>
+Ditambahkan: openai/gpt-6-luna-decisions</description>
     </item>
     <item>
-      <title>ChatGPT/OpenAI added gpt-6-luna</title>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-luna</title>
       <link>https://x.com/i/web/status/2107573382229188645</link>
       <guid isPermaLink="false">1791319640000-official-x-model-posts-2-bbf73948</guid>
       <pubDate>Tue, 06 Oct 2026 20:47:19 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 added model entry
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
 
-Added: gpt-6-luna</description>
+Ditambahkan: gpt-6-luna</description>
     </item>
     <item>
-      <title>LM Arena model leak: gemini-nano-banana-2.1</title>
+      <title>Bocoran model LM Arena: gemini-nano-banana-2.1</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1791317933351-arena-live-model-roster-4bbfff3b</guid>
       <pubDate>Tue, 06 Oct 2026 20:18:53 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 new model leak
+      <description>Arena live selectable-model roster: 1 bocoran model baru
 
-Added: gemini-nano-banana-2.1</description>
+Ditambahkan: gemini-nano-banana-2.1</description>
     </item>
     <item>
-      <title>Claude model leak: claude-mythos-5.1</title>
+      <title>Bocoran model Claude: claude-mythos-5.1</title>
       <link>https://x.com/i/web/status/2107546569654636883</link>
       <guid isPermaLink="false">1791313246953-official-x-model-posts-aa673ec7</guid>
       <pubDate>Tue, 06 Oct 2026 19:00:46 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 new model leak
+      <description>Official AI lab posts on X: 1 bocoran model baru
 
-Added: claude-mythos-5.1</description>
+Ditambahkan: claude-mythos-5.1</description>
     </item>
     <item>
-      <title>Claude new webpage</title>
+      <title>Halaman web baru Claude</title>
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
       <guid isPermaLink="false">1791313097548-anthropic-news-80a238f2-new-page</guid>
       <pubDate>Tue, 06 Oct 2026 18:58:16 GMT</pubDate>
-      <description>Anthropic news: new webpage</description>
+      <description>Anthropic news: halaman web baru</description>
     </item>
     <item>
-      <title>LM Arena model leak: flux-3-image</title>
+      <title>Bocoran model LM Arena: flux-3-image</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1791311094845-arena-live-model-roster-ce03f8a3</guid>
       <pubDate>Tue, 06 Oct 2026 18:24:54 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 new model leak
+      <description>Arena live selectable-model roster: 1 bocoran model baru
 
-Added: flux-3-image</description>
+Ditambahkan: flux-3-image</description>
     </item>
     <item>
-      <title>OpenRouter added x-ai/grok-imagine-video-1.5-lite</title>
+      <title>OpenRouter menambahkan x-ai/grok-imagine-video-1.5-lite</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791310367960-openrouter-models-30c22344</guid>
       <pubDate>Tue, 06 Oct 2026 18:12:41 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
+      <description>OpenRouter model catalog: 1 entri model baru
 
-Added: x-ai/grok-imagine-video-1.5-lite</description>
+Ditambahkan: x-ai/grok-imagine-video-1.5-lite</description>
     </item>
     <item>
-      <title>DeepSWE benchmark results changed</title>
+      <title>Hasil benchmark DeepSWE berubah</title>
       <link>https://benchlm.ai/benchmarks/deepSwe</link>
       <guid isPermaLink="false">1791307163095-deepswe-benchlm-mirror-087fd439</guid>
       <pubDate>Tue, 06 Oct 2026 17:19:22 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 added, 1 removed benchmark result rows</description>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
     <item>
-      <title>OpenRouter added google/gemini-nano-banana-2.1</title>
+      <title>OpenRouter menambahkan google/gemini-nano-banana-2.1</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791305912025-openrouter-models-5c31cd64</guid>
       <pubDate>Tue, 06 Oct 2026 16:58:26 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
+      <description>OpenRouter model catalog: 1 entri model baru
 
-Added: google/gemini-nano-banana-2.1</description>
+Ditambahkan: google/gemini-nano-banana-2.1</description>
     </item>
     <item>
-      <title>Gemini added gemini-nano-banana-2.1</title>
+      <title>Gemini menambahkan gemini-nano-banana-2.1</title>
       <link>https://ai.google.dev/gemini-api/docs/models</link>
       <guid isPermaLink="false">1791298815030-gemini-api-models-6329146b</guid>
       <pubDate>Tue, 06 Oct 2026 15:00:14 GMT</pubDate>
-      <description>Gemini API models: 1 added model entry
+      <description>Gemini API models: 1 entri model baru
 
-Added: gemini-nano-banana-2.1</description>
+Ditambahkan: gemini-nano-banana-2.1</description>
     </item>
     <item>
-      <title>LM Arena model leak: mistral-large-4</title>
+      <title>Bocoran model LM Arena: mistral-large-4</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1791295734187-arena-live-model-roster-e136a518</guid>
       <pubDate>Tue, 06 Oct 2026 14:08:53 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 new model leak
+      <description>Arena live selectable-model roster: 1 bocoran model baru
 
-Added: mistral-large-4</description>
+Ditambahkan: mistral-large-4</description>
     </item>
     <item>
-      <title>OpenRouter added mistralai/mistral-large-4-0</title>
+      <title>OpenRouter menambahkan mistralai/mistral-large-4-0</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791294822387-openrouter-models-4c698015</guid>
       <pubDate>Tue, 06 Oct 2026 13:53:31 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 added model entry
+      <description>OpenRouter model catalog: 1 entri model baru
 
-Added: mistralai/mistral-large-4-0</description>
+Ditambahkan: mistralai/mistral-large-4-0</description>
     </item>
     <item>
-      <title>Artificial Analysis benchmark results changed</title>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1791293809545-artificial-analysis-llm-leaderboard-054e2137</guid>
       <pubDate>Tue, 06 Oct 2026 13:36:46 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 79 added, 78 removed benchmark result rows</description>
+      <description>Artificial Analysis LLM leaderboard: 79 baris hasil benchmark ditambahkan, 78 dihapus</description>
     </item>
     <item>
-      <title>Model catalog changes model leak: mistral-large-4-preview</title>
+      <title>Bocoran model dari katalog: mistral-large-4-preview</title>
       <link>https://artificialanalysis.ai/models/mistral-large-4</link>
       <guid isPermaLink="false">1791293585056-artificial-analysis-model-discovery-3d14c48d</guid>
       <pubDate>Tue, 06 Oct 2026 13:33:01 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 new model leak
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
 
-Added: mistral-large-4-preview</description>
+Ditambahkan: mistral-large-4-preview</description>
     </item>
     <item>
-      <title>Artificial Analysis benchmark results changed</title>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1791292882312-artificial-analysis-api-free-f69f1a0b</guid>
       <pubDate>Tue, 06 Oct 2026 13:21:21 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 added benchmark result rows</description>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
     <item>
-      <title>Mistral AI added mistral-large-4</title>
+      <title>Mistral AI menambahkan mistral-large-4</title>
       <link>https://docs.mistral.ai/models</link>
       <guid isPermaLink="false">1791292181103-mistral-models-docs-200a8a93</guid>
       <pubDate>Tue, 06 Oct 2026 13:09:39 GMT</pubDate>
-      <description>Mistral model docs: 1 added model entry
+      <description>Mistral model docs: 1 entri model baru
 
-Added: mistral-large-4</description>
-    </item>
-    <item>
-      <title>DeepSWE benchmark results changed</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791288730028-deepswe-benchlm-mirror-4de94e03</guid>
-      <pubDate>Tue, 06 Oct 2026 12:12:08 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 24 added benchmark result rows</description>
+Ditambahkan: mistral-large-4</description>
     </item>
   </channel>
 </rss>
