@@ -6,6 +6,54 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791443503573-artificial-analysis-api-free-dd7e52b3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:11:42 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan tripo-p2.0</title>
+      <link>https://x.com/i/web/status/2108051437423140889</link>
+      <guid isPermaLink="false">1791433618160-official-x-model-posts-4-3e1684d6</guid>
+      <pubDate>Thu, 08 Oct 2026 04:26:57 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 entri model baru
+
+Ditambahkan: tripo-p2.0</description>
+    </item>
+    <item>
+      <title>Bocoran model Kimi/Moonshot: kimi-k2.6</title>
+      <link>https://www.kimi.com/</link>
+      <guid isPermaLink="false">1791429547265-kimi-web-app-models-75a88493</guid>
+      <pubDate>Thu, 08 Oct 2026 03:18:56 GMT</pubDate>
+      <description>Kimi web app bundle models: 1 bocoran model baru
+
+Ditambahkan: kimi-k2.6</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menghapus kimi-k2.6</title>
+      <link>https://www.kimi.com/</link>
+      <guid isPermaLink="false">1791429475782-kimi-web-app-models-05359e4e</guid>
+      <pubDate>Thu, 08 Oct 2026 03:17:42 GMT</pubDate>
+      <description>Kimi web app bundle models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Bocoran model LM Arena: gemini-nano-banana-2.1-2k</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1791427778394-arena-live-model-roster-57b57c64</guid>
+      <pubDate>Thu, 08 Oct 2026 02:49:37 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: gemini-nano-banana-2.1-2k</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791422105467-deepswe-benchlm-mirror-20f1c5bd</guid>
+      <pubDate>Thu, 08 Oct 2026 01:15:05 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan upstage/solar-decide-flash</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791420435874-openrouter-models-08dbc8ab</guid>
@@ -105,148 +153,6 @@ Ditambahkan: claude-haiku-5.5</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: anthropic/claude-haiku-5.5</description>
-    </item>
-    <item>
-      <title>Claude code reference: claude-haiku-5-5</title>
-      <link>https://unpkg.com/@anthropic-ai/sdk@0.132.0/src/resources/messages/messages.ts</link>
-      <guid isPermaLink="false">1791396768394-anthropic-sdk-package-models-027d5902</guid>
-      <pubDate>Wed, 07 Oct 2026 18:12:48 GMT</pubDate>
-      <description>Anthropic SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-haiku-5-5</description>
-    </item>
-    <item>
-      <title>Claude: 3 new model leaks</title>
-      <link>https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md</link>
-      <guid isPermaLink="false">1791396640724-claude-code-github-changelog-models-1d2d408c</guid>
-      <pubDate>Wed, 07 Oct 2026 18:10:40 GMT</pubDate>
-      <description>anthropics/claude-code changelog: 3 new model leaks
-
-Ditambahkan: claude-haiku-5, claude-haiku-5-5, claude-haiku-5.5</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan 3 models</title>
-      <link>https://x.com/i/web/status/2107895006350791071</link>
-      <guid isPermaLink="false">1791396323322-official-x-model-posts-a1d3cb0b</guid>
-      <pubDate>Wed, 07 Oct 2026 18:05:23 GMT</pubDate>
-      <description>Official AI lab posts on X: 3 entri model baru
-
-Ditambahkan: gpt-6, gpt-6-luna, gpt-6-sol</description>
-    </item>
-    <item>
-      <title>Claude menambahkan 2 models</title>
-      <link>https://x.com/i/web/status/2107894039626277339</link>
-      <guid isPermaLink="false">1791396089686-official-x-model-posts-2-02b65495</guid>
-      <pubDate>Wed, 07 Oct 2026 18:01:29 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 2 entri model baru
-
-Ditambahkan: claude-haiku-4.5, claude-haiku-5.5</description>
-    </item>
-    <item>
-      <title>Claude menambahkan claude-haiku-4.5</title>
-      <link>https://platform.claude.com/docs/en/about-claude/models</link>
-      <guid isPermaLink="false">1791396054877-claude-models-docs-6eba7d98</guid>
-      <pubDate>Wed, 07 Oct 2026 18:00:54 GMT</pubDate>
-      <description>Claude models docs: 1 entri model baru
-
-Ditambahkan: claude-haiku-4.5</description>
-    </item>
-    <item>
-      <title>Claude menghapus 3 models</title>
-      <link>https://platform.claude.com/docs/en/about-claude/models</link>
-      <guid isPermaLink="false">1791395908258-claude-models-docs-114f077a-confirmed-removal</guid>
-      <pubDate>Wed, 07 Oct 2026 17:58:27 GMT</pubDate>
-      <description>Claude models docs: 3 removed model entries</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): claude-haiku-5-5</title>
-      <link>https://github.com/anthropics/anthropic-sdk-python/blob/22feda09befc5f7740b9c96121e6f3f2034dd7e7/src/anthropic/types/beta/beta_managed_agents_model.py</link>
-      <guid isPermaLink="false">1791395669987-anthropic-sdk-models-a41353fa</guid>
-      <pubDate>Wed, 07 Oct 2026 17:54:29 GMT</pubDate>
-      <description>Anthropic Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-haiku-5-5</description>
-    </item>
-    <item>
-      <title>Claude menambahkan 2 models</title>
-      <link>https://api.anthropic.com/v1/models</link>
-      <guid isPermaLink="false">1791395481014-anthropic-api-models-b622abdd</guid>
-      <pubDate>Wed, 07 Oct 2026 17:51:20 GMT</pubDate>
-      <description>Anthropic API models: 2 entri model baru
-
-Ditambahkan: claude-haiku-5, claude-haiku-5-5, claude-haiku-5.5</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): stealth/glyph-cluster</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1791395168260-vercel-gateway-catalog-f97f8799</guid>
-      <pubDate>Wed, 07 Oct 2026 17:46:08 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: stealth/glyph-cluster</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan perplexity/pplx-decider-v1.1-27b</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791387997766-openrouter-models-23e9869c</guid>
-      <pubDate>Wed, 07 Oct 2026 15:46:25 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: perplexity/pplx-decider-v1.1-27b</description>
-    </item>
-    <item>
-      <title>Bocoran model Image, video &amp; audio labs: vidu-q4</title>
-      <link>https://x.com/i/web/status/2107857391148790190</link>
-      <guid isPermaLink="false">1791387351632-official-x-model-posts-4-688ece37</guid>
-      <pubDate>Wed, 07 Oct 2026 15:35:51 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 bocoran model baru
-
-Ditambahkan: vidu-q4</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan vidu-q4</title>
-      <link>https://x.com/i/web/status/2107856382263505219</link>
-      <guid isPermaLink="false">1791387113878-official-x-model-posts-4-38b0c23f</guid>
-      <pubDate>Wed, 07 Oct 2026 15:31:53 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 entri model baru
-
-Ditambahkan: vidu-q4</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 5 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791386082342-openrouter-models-ed872b22</guid>
-      <pubDate>Wed, 07 Oct 2026 15:14:34 GMT</pubDate>
-      <description>OpenRouter model catalog: 5 entri model baru
-
-Ditambahkan: elevenlabs/eleven-flash-v2, elevenlabs/eleven-turbo-v2, elevenlabs/eleven-turbo-v2.5, elevenlabs/scribe-v2, elevenlabs/scribe-v2-medical</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 3 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791385785445-openrouter-models-b6301400</guid>
-      <pubDate>Wed, 07 Oct 2026 15:09:36 GMT</pubDate>
-      <description>OpenRouter model catalog: 3 entri model baru
-
-Ditambahkan: elevenlabs/eleven-flash-v2.5, elevenlabs/eleven-multilingual-v2, elevenlabs/eleven-v3-conversational</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan elevenlabs/eleven-v4-turbo</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791385370093-openrouter-models-2532a823</guid>
-      <pubDate>Wed, 07 Oct 2026 15:02:33 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: elevenlabs/eleven-v4-turbo</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791385270002-openrouter-models-f563c197</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:57 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: elevenlabs/eleven-v3, elevenlabs/eleven-v4</description>
     </item>
   </channel>
 </rss>
