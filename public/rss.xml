@@ -6,6 +6,54 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791470040505-deepswe-benchlm-mirror-c75987d2</guid>
+      <pubDate>Thu, 08 Oct 2026 14:34:00 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>StepFun menambahkan step-5-preview</title>
+      <link>https://x.com/i/web/status/2108182766877843714</link>
+      <guid isPermaLink="false">1791464926949-official-x-model-posts-a5f31cda</guid>
+      <pubDate>Thu, 08 Oct 2026 13:08:46 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: step-5-preview</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan stepfun/step-5-preview</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791463368275-openrouter-models-8cd77e98</guid>
+      <pubDate>Thu, 08 Oct 2026 12:42:43 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: stepfun/step-5-preview</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan 2 models</title>
+      <link>https://platform.vidu.com/docs/overview/model-map</link>
+      <guid isPermaLink="false">1791454544482-vidu-api-model-map-269651a7</guid>
+      <pubDate>Thu, 08 Oct 2026 10:15:40 GMT</pubDate>
+      <description>Vidu official API model map: 2 entri model baru
+
+Ditambahkan: vidu-q2-pro, vidu-q2-turbo, vidu-q3-ad, vidu-q3-drama, vidu-q3-mix, vidu-q3-pro, vidu-q3-turbo, vidu-s2</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791446827573-artificial-analysis-llm-leaderboard-a25cb4d8</guid>
+      <pubDate>Thu, 08 Oct 2026 08:07:07 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791444974545-artificial-analysis-llm-leaderboard-0722a225</guid>
+      <pubDate>Thu, 08 Oct 2026 07:36:14 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1791443503573-artificial-analysis-api-free-dd7e52b3</guid>
@@ -68,91 +116,6 @@ Ditambahkan: upstage/solar-decide-flash</description>
       <guid isPermaLink="false">1791420300125-artificial-analysis-llm-leaderboard-a25cb4d8</guid>
       <pubDate>Thu, 08 Oct 2026 00:44:59 GMT</pubDate>
       <description>Artificial Analysis LLM leaderboard: 35 baris hasil benchmark ditambahkan, 37 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791418282775-artificial-analysis-llm-leaderboard-ed2f8cc8</guid>
-      <pubDate>Thu, 08 Oct 2026 00:11:22 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 37 baris hasil benchmark ditambahkan, 35 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791416280313-artificial-analysis-llm-leaderboard-a25cb4d8</guid>
-      <pubDate>Wed, 07 Oct 2026 23:38:00 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 38 baris hasil benchmark ditambahkan, 40 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791414613335-artificial-analysis-api-free-f04dbfcd</guid>
-      <pubDate>Wed, 07 Oct 2026 23:10:12 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 5 baris hasil benchmark ditambahkan, 5 dihapus</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan vidu-q4</title>
-      <link>https://api.fal.ai/v1/models</link>
-      <guid isPermaLink="false">1791404742598-fal-media-models-3c38b35f</guid>
-      <pubDate>Wed, 07 Oct 2026 20:24:06 GMT</pubDate>
-      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
-
-Ditambahkan: vidu-q4</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791402403794-artificial-analysis-llm-leaderboard-541e76f1</guid>
-      <pubDate>Wed, 07 Oct 2026 19:46:43 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 96 baris hasil benchmark ditambahkan, 91 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added liquidai/d1-3b-w8a8</title>
-      <link>https://huggingface.co/liquidai/d1-3b-w8a8</link>
-      <guid isPermaLink="false">1791401750410-official-huggingface-new-models-183089fc</guid>
-      <pubDate>Wed, 07 Oct 2026 19:35:50 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: liquidai/d1-3b-w8a8</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791400556450-deepswe-benchlm-mirror-381feaae</guid>
-      <pubDate>Wed, 07 Oct 2026 19:15:56 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menghapus kimi-26614164-6840</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791400339385-kimi-artificial-analysis-e6985e39</guid>
-      <pubDate>Wed, 07 Oct 2026 19:12:18 GMT</pubDate>
-      <description>Artificial Analysis Kimi K3 presence: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791400050178-artificial-analysis-api-free-aa9894c8</guid>
-      <pubDate>Wed, 07 Oct 2026 19:07:29 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 5 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: claude-haiku-5.5</title>
-      <link>https://artificialanalysis.ai/models/claude-haiku-5-5</link>
-      <guid isPermaLink="false">1791399923136-artificial-analysis-model-discovery-2c7275c5</guid>
-      <pubDate>Wed, 07 Oct 2026 19:05:21 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: claude-haiku-5.5</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan anthropic/claude-haiku-5.5</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791398917592-openrouter-models-8490de08</guid>
-      <pubDate>Wed, 07 Oct 2026 18:48:30 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: anthropic/claude-haiku-5.5</description>
     </item>
   </channel>
 </rss>
