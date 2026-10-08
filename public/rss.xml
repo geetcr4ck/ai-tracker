@@ -6,6 +6,43 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan upstage/solar-decide-flash</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791420435874-openrouter-models-08dbc8ab</guid>
+      <pubDate>Thu, 08 Oct 2026 00:47:11 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: upstage/solar-decide-flash</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791420300125-artificial-analysis-llm-leaderboard-a25cb4d8</guid>
+      <pubDate>Thu, 08 Oct 2026 00:44:59 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 35 baris hasil benchmark ditambahkan, 37 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791418282775-artificial-analysis-llm-leaderboard-ed2f8cc8</guid>
+      <pubDate>Thu, 08 Oct 2026 00:11:22 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 37 baris hasil benchmark ditambahkan, 35 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791416280313-artificial-analysis-llm-leaderboard-a25cb4d8</guid>
+      <pubDate>Wed, 07 Oct 2026 23:38:00 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 38 baris hasil benchmark ditambahkan, 40 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791414613335-artificial-analysis-api-free-f04dbfcd</guid>
+      <pubDate>Wed, 07 Oct 2026 23:10:12 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 5 baris hasil benchmark ditambahkan, 5 dihapus</description>
+    </item>
+    <item>
       <title>Image, video &amp; audio labs menambahkan vidu-q4</title>
       <link>https://api.fal.ai/v1/models</link>
       <guid isPermaLink="false">1791404742598-fal-media-models-3c38b35f</guid>
@@ -210,15 +247,6 @@ Ditambahkan: elevenlabs/eleven-v4-turbo</description>
       <description>OpenRouter model catalog: 2 entri model baru
 
 Ditambahkan: elevenlabs/eleven-v3, elevenlabs/eleven-v4</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan krea-2</title>
-      <link>https://x.com/i/web/status/2107848434128752777</link>
-      <guid isPermaLink="false">1791385226181-official-x-model-posts-4-9ab78b17</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:25 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 entri model baru
-
-Ditambahkan: krea-2</description>
     </item>
   </channel>
 </rss>
