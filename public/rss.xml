@@ -6,6 +6,59 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan inception/mercury-decide</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791490383826-openrouter-models-4f550e11</guid>
+      <pubDate>Thu, 08 Oct 2026 20:13:01 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: inception/mercury-decide</description>
+    </item>
+    <item>
+      <title>Claude menghapus claude-haiku-5</title>
+      <link>https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md</link>
+      <guid isPermaLink="false">1791488908175-claude-code-github-changelog-models-7d5ef443</guid>
+      <pubDate>Thu, 08 Oct 2026 19:48:27 GMT</pubDate>
+      <description>anthropics/claude-code changelog: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+      <guid isPermaLink="false">1791486164568-anthropic-news-77859327-new-page</guid>
+      <pubDate>Thu, 08 Oct 2026 19:02:44 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791484970503-artificial-analysis-api-free-fad6b46b</guid>
+      <pubDate>Thu, 08 Oct 2026 18:42:49 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+      <guid isPermaLink="false">1791478870756-anthropic-news-ed77cabd-new-page</guid>
+      <pubDate>Thu, 08 Oct 2026 17:01:10 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan inclusionai/ling-3.0-flash-sante</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791478340903-openrouter-models-b3b83b22</guid>
+      <pubDate>Thu, 08 Oct 2026 16:52:17 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: inclusionai/ling-3.0-flash-sante</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+      <guid isPermaLink="false">1791471639718-anthropic-news-4c28189f-new-page</guid>
+      <pubDate>Thu, 08 Oct 2026 15:00:39 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
       <title>Hasil benchmark DeepSWE berubah</title>
       <link>https://benchlm.ai/benchmarks/deepSwe</link>
       <guid isPermaLink="false">1791470040505-deepswe-benchlm-mirror-c75987d2</guid>
@@ -59,63 +112,6 @@ Ditambahkan: vidu-q2-pro, vidu-q2-turbo, vidu-q3-ad, vidu-q3-drama, vidu-q3-mix,
       <guid isPermaLink="false">1791443503573-artificial-analysis-api-free-dd7e52b3</guid>
       <pubDate>Thu, 08 Oct 2026 07:11:42 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan tripo-p2.0</title>
-      <link>https://x.com/i/web/status/2108051437423140889</link>
-      <guid isPermaLink="false">1791433618160-official-x-model-posts-4-3e1684d6</guid>
-      <pubDate>Thu, 08 Oct 2026 04:26:57 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 entri model baru
-
-Ditambahkan: tripo-p2.0</description>
-    </item>
-    <item>
-      <title>Bocoran model Kimi/Moonshot: kimi-k2.6</title>
-      <link>https://www.kimi.com/</link>
-      <guid isPermaLink="false">1791429547265-kimi-web-app-models-75a88493</guid>
-      <pubDate>Thu, 08 Oct 2026 03:18:56 GMT</pubDate>
-      <description>Kimi web app bundle models: 1 bocoran model baru
-
-Ditambahkan: kimi-k2.6</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menghapus kimi-k2.6</title>
-      <link>https://www.kimi.com/</link>
-      <guid isPermaLink="false">1791429475782-kimi-web-app-models-05359e4e</guid>
-      <pubDate>Thu, 08 Oct 2026 03:17:42 GMT</pubDate>
-      <description>Kimi web app bundle models: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: gemini-nano-banana-2.1-2k</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1791427778394-arena-live-model-roster-57b57c64</guid>
-      <pubDate>Thu, 08 Oct 2026 02:49:37 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: gemini-nano-banana-2.1-2k</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791422105467-deepswe-benchlm-mirror-20f1c5bd</guid>
-      <pubDate>Thu, 08 Oct 2026 01:15:05 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan upstage/solar-decide-flash</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791420435874-openrouter-models-08dbc8ab</guid>
-      <pubDate>Thu, 08 Oct 2026 00:47:11 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: upstage/solar-decide-flash</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791420300125-artificial-analysis-llm-leaderboard-a25cb4d8</guid>
-      <pubDate>Thu, 08 Oct 2026 00:44:59 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 35 baris hasil benchmark ditambahkan, 37 dihapus</description>
     </item>
   </channel>
 </rss>
