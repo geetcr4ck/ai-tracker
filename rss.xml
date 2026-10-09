@@ -6,6 +6,69 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alibaba Qwen menambahkan qwenimage21pipeline</title>
+      <link>https://x.com/i/web/status/2108549075218120949</link>
+      <guid isPermaLink="false">1791552261607-official-x-model-posts-c0f61315</guid>
+      <pubDate>Fri, 09 Oct 2026 13:24:21 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: qwen-image-2.1, qwen-image-2.1-turbo, qwenimage21pipeline</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan qwen/qwen-image-2.1-turbo</title>
+      <link>https://huggingface.co/qwen/qwen-image-2.1-turbo</link>
+      <guid isPermaLink="false">1791551998073-qwen-official-model-weights-2889c34d</guid>
+      <pubDate>Fri, 09 Oct 2026 13:19:58 GMT</pubDate>
+      <description>Qwen official model weights: 1 entri model baru
+
+Ditambahkan: qwen/qwen-image-2.1-turbo</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan qwen-image-2.1-turbo</title>
+      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
+      <guid isPermaLink="false">1791550350323-qwen-model-pricing-docs-faf36571</guid>
+      <pubDate>Fri, 09 Oct 2026 12:52:27 GMT</pubDate>
+      <description>Alibaba Model Studio model catalog: 1 entri model baru
+
+Ditambahkan: qwen-image-2.1-turbo</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added 2 models</title>
+      <link>https://huggingface.co/nvidia/agile_one_s_place_ssd_n17_24050</link>
+      <guid isPermaLink="false">1791534558910-official-huggingface-new-models-08a05b88</guid>
+      <pubDate>Fri, 09 Oct 2026 08:29:18 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 2 entri model baru
+
+Ditambahkan: nvidia/agile_one_s_place_ssd_n17_24050, nvidia/agile_one_s_walk_n2_1680</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/agile_one_s_pick_ssd_n17_58000</title>
+      <link>https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_58000</link>
+      <guid isPermaLink="false">1791534535515-official-huggingface-new-models-f7856d85</guid>
+      <pubDate>Fri, 09 Oct 2026 08:28:55 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/agile_one_s_pick_ssd_n17_58000</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/agile_one_s_pick_ssd_n17_40000</title>
+      <link>https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_40000</link>
+      <guid isPermaLink="false">1791534509043-official-huggingface-new-models-8099e37d</guid>
+      <pubDate>Fri, 09 Oct 2026 08:28:28 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/agile_one_s_pick_ssd_n17_40000</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added tencent/youtu-parsing-omni</title>
+      <link>https://huggingface.co/tencent/youtu-parsing-omni</link>
+      <guid isPermaLink="false">1791532480337-official-huggingface-new-models-e0f43120</guid>
+      <pubDate>Fri, 09 Oct 2026 07:54:40 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: tencent/youtu-parsing-omni</description>
+    </item>
+    <item>
       <title>Bocoran model Kimi/Moonshot: kimi-k2.6</title>
       <link>https://www.kimi.com/</link>
       <guid isPermaLink="false">1791519581680-kimi-web-app-models-75a88493</guid>
@@ -128,61 +191,6 @@ Ditambahkan: inception/mercury-decide</description>
       <guid isPermaLink="false">1791486164568-anthropic-news-77859327-new-page</guid>
       <pubDate>Thu, 08 Oct 2026 19:02:44 GMT</pubDate>
       <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791484970503-artificial-analysis-api-free-fad6b46b</guid>
-      <pubDate>Thu, 08 Oct 2026 18:42:49 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-      <guid isPermaLink="false">1791478870756-anthropic-news-ed77cabd-new-page</guid>
-      <pubDate>Thu, 08 Oct 2026 17:01:10 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan inclusionai/ling-3.0-flash-sante</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791478340903-openrouter-models-b3b83b22</guid>
-      <pubDate>Thu, 08 Oct 2026 16:52:17 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: inclusionai/ling-3.0-flash-sante</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-      <guid isPermaLink="false">1791471639718-anthropic-news-4c28189f-new-page</guid>
-      <pubDate>Thu, 08 Oct 2026 15:00:39 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791470040505-deepswe-benchlm-mirror-c75987d2</guid>
-      <pubDate>Thu, 08 Oct 2026 14:34:00 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>StepFun menambahkan step-5-preview</title>
-      <link>https://x.com/i/web/status/2108182766877843714</link>
-      <guid isPermaLink="false">1791464926949-official-x-model-posts-a5f31cda</guid>
-      <pubDate>Thu, 08 Oct 2026 13:08:46 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: step-5-preview</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan stepfun/step-5-preview</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791463368275-openrouter-models-8cd77e98</guid>
-      <pubDate>Thu, 08 Oct 2026 12:42:43 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: stepfun/step-5-preview</description>
     </item>
   </channel>
 </rss>
