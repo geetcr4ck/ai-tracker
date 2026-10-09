@@ -6,6 +6,63 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan microsoft/microsoft-decision-1</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791585308693-openrouter-models-1f8d8b97</guid>
+      <pubDate>Fri, 09 Oct 2026 22:35:05 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: microsoft/microsoft-decision-1</description>
+    </item>
+    <item>
+      <title>Gemini menghapus gemini-3.5-flash</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1791584218719-gemini-models-docs-9ea76cb1</guid>
+      <pubDate>Fri, 09 Oct 2026 22:16:58 GMT</pubDate>
+      <description>Gemini models docs: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan nace-ai/drex-v1.5</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791584212685-openrouter-models-e579d048</guid>
+      <pubDate>Fri, 09 Oct 2026 22:16:48 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: nace-ai/drex-v1.5</description>
+    </item>
+    <item>
+      <title>Microsoft menghapus mai-code-1.1-flash</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
+      <guid isPermaLink="false">1791583867024-microsoft-models-docs-9e473272-confirmed-removal</guid>
+      <pubDate>Fri, 09 Oct 2026 22:11:05 GMT</pubDate>
+      <description>Microsoft Foundry model docs: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan microsoft-decision-1</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
+      <guid isPermaLink="false">1791583566582-microsoft-models-docs-9e473272</guid>
+      <pubDate>Fri, 09 Oct 2026 22:06:05 GMT</pubDate>
+      <description>Microsoft Foundry model docs: 1 entri model baru
+
+Ditambahkan: microsoft-decision-1</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan cloudflare/clef-omni</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791577764200-openrouter-models-7937fca6</guid>
+      <pubDate>Fri, 09 Oct 2026 20:29:18 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: cloudflare/clef-omni</description>
+    </item>
+    <item>
+      <title>Gemini menghapus gemini-3.7-flash</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1791577097361-gemini-models-docs-c1801ca9</guid>
+      <pubDate>Fri, 09 Oct 2026 20:18:16 GMT</pubDate>
+      <description>Gemini models docs: 1 removed model entry</description>
+    </item>
+    <item>
       <title>Alibaba Qwen menambahkan qwen/qwen-image-2.1-turbo</title>
       <link>https://huggingface.co/qwen/qwen-image-2.1-turbo</link>
       <guid isPermaLink="false">1791551998073-qwen-official-model-weights-2889c34d</guid>
@@ -88,52 +145,6 @@ Ditambahkan: claude-haiku-5-5</description>
       <guid isPermaLink="false">1791510773636-artificial-analysis-llm-leaderboard-0b1c21cf</guid>
       <pubDate>Fri, 09 Oct 2026 01:52:53 GMT</pubDate>
       <description>Artificial Analysis LLM leaderboard: 9 baris hasil benchmark ditambahkan, 9 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791505943415-deepswe-benchlm-mirror-381feaae</guid>
-      <pubDate>Fri, 09 Oct 2026 00:32:23 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791500904627-artificial-analysis-llm-leaderboard-0722a225</guid>
-      <pubDate>Thu, 08 Oct 2026 23:08:24 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 19 baris hasil benchmark ditambahkan, 20 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791500656712-artificial-analysis-llm-leaderboard-b290628d</guid>
-      <pubDate>Thu, 08 Oct 2026 23:04:16 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 20 baris hasil benchmark ditambahkan, 19 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791500296811-artificial-analysis-api-free-522227c2</guid>
-      <pubDate>Thu, 08 Oct 2026 22:58:16 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan mai-code-1.1-flash</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
-      <guid isPermaLink="false">1791497472376-microsoft-models-docs-dd501b05</guid>
-      <pubDate>Thu, 08 Oct 2026 22:11:11 GMT</pubDate>
-      <description>Microsoft Foundry model docs: 1 entri model baru
-
-Ditambahkan: mai-code-1.1-flash</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6.1-sol</title>
-      <link>https://x.com/i/web/status/2108262812489531498</link>
-      <guid isPermaLink="false">1791491159448-official-x-model-posts-2-23604622</guid>
-      <pubDate>Thu, 08 Oct 2026 20:25:58 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: gpt-6.1-sol</description>
     </item>
   </channel>
 </rss>
