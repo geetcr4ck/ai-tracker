@@ -6,6 +6,59 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model Kimi/Moonshot: kimi-k2.6</title>
+      <link>https://www.kimi.com/</link>
+      <guid isPermaLink="false">1791519581680-kimi-web-app-models-75a88493</guid>
+      <pubDate>Fri, 09 Oct 2026 04:19:33 GMT</pubDate>
+      <description>Kimi web app bundle models: 1 bocoran model baru
+
+Ditambahkan: kimi-k2.6</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menghapus kimi-k2.6</title>
+      <link>https://www.kimi.com/</link>
+      <guid isPermaLink="false">1791519515210-kimi-web-app-models-05359e4e</guid>
+      <pubDate>Fri, 09 Oct 2026 04:18:23 GMT</pubDate>
+      <description>Kimi web app bundle models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): claude-haiku-5-5</title>
+      <link>https://downloads.factory.ai/factory-cli/releases/0.237.0/linux/x64/droid</link>
+      <guid isPermaLink="false">1791517176167-factory-droid-registry-7f0c5742</guid>
+      <pubDate>Fri, 09 Oct 2026 03:39:22 GMT</pubDate>
+      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: claude-haiku-5-5</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791511709679-artificial-analysis-llm-leaderboard-0722a225</guid>
+      <pubDate>Fri, 09 Oct 2026 02:08:29 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 9 baris hasil benchmark ditambahkan, 9 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791511208837-artificial-analysis-api-free-fbdbb998</guid>
+      <pubDate>Fri, 09 Oct 2026 02:00:07 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791510773636-artificial-analysis-llm-leaderboard-0b1c21cf</guid>
+      <pubDate>Fri, 09 Oct 2026 01:52:53 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 9 baris hasil benchmark ditambahkan, 9 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791505943415-deepswe-benchlm-mirror-381feaae</guid>
+      <pubDate>Fri, 09 Oct 2026 00:32:23 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Bocoran model Grok/xAI: grok-61134</title>
       <link>https://grok.com/</link>
       <guid isPermaLink="false">1791503741349-grok-web-app-models-0c805917</guid>
@@ -130,29 +183,6 @@ Ditambahkan: step-5-preview</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: stepfun/step-5-preview</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan 2 models</title>
-      <link>https://platform.vidu.com/docs/overview/model-map</link>
-      <guid isPermaLink="false">1791454544482-vidu-api-model-map-269651a7</guid>
-      <pubDate>Thu, 08 Oct 2026 10:15:40 GMT</pubDate>
-      <description>Vidu official API model map: 2 entri model baru
-
-Ditambahkan: vidu-q2-pro, vidu-q2-turbo, vidu-q3-ad, vidu-q3-drama, vidu-q3-mix, vidu-q3-pro, vidu-q3-turbo, vidu-s2</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791446827573-artificial-analysis-llm-leaderboard-a25cb4d8</guid>
-      <pubDate>Thu, 08 Oct 2026 08:07:07 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791444974545-artificial-analysis-llm-leaderboard-0722a225</guid>
-      <pubDate>Thu, 08 Oct 2026 07:36:14 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
