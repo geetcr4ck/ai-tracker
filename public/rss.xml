@@ -6,6 +6,54 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model Grok/xAI: grok-61134</title>
+      <link>https://grok.com/</link>
+      <guid isPermaLink="false">1791503741349-grok-web-app-models-0c805917</guid>
+      <pubDate>Thu, 08 Oct 2026 23:55:29 GMT</pubDate>
+      <description>Grok web app bundle models: 1 bocoran model baru
+
+Ditambahkan: grok-61134</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791500904627-artificial-analysis-llm-leaderboard-0722a225</guid>
+      <pubDate>Thu, 08 Oct 2026 23:08:24 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 19 baris hasil benchmark ditambahkan, 20 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1791500656712-artificial-analysis-llm-leaderboard-b290628d</guid>
+      <pubDate>Thu, 08 Oct 2026 23:04:16 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 20 baris hasil benchmark ditambahkan, 19 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1791500296811-artificial-analysis-api-free-522227c2</guid>
+      <pubDate>Thu, 08 Oct 2026 22:58:16 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-code-1.1-flash</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
+      <guid isPermaLink="false">1791497472376-microsoft-models-docs-dd501b05</guid>
+      <pubDate>Thu, 08 Oct 2026 22:11:11 GMT</pubDate>
+      <description>Microsoft Foundry model docs: 1 entri model baru
+
+Ditambahkan: mai-code-1.1-flash</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.1-sol</title>
+      <link>https://x.com/i/web/status/2108262812489531498</link>
+      <guid isPermaLink="false">1791491159448-official-x-model-posts-2-23604622</guid>
+      <pubDate>Thu, 08 Oct 2026 20:25:58 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: gpt-6.1-sol</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan inception/mercury-decide</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791490383826-openrouter-models-4f550e11</guid>
@@ -105,13 +153,6 @@ Ditambahkan: vidu-q2-pro, vidu-q2-turbo, vidu-q3-ad, vidu-q3-drama, vidu-q3-mix,
       <guid isPermaLink="false">1791444974545-artificial-analysis-llm-leaderboard-0722a225</guid>
       <pubDate>Thu, 08 Oct 2026 07:36:14 GMT</pubDate>
       <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791443503573-artificial-analysis-api-free-dd7e52b3</guid>
-      <pubDate>Thu, 08 Oct 2026 07:11:42 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
