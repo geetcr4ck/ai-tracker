@@ -6,6 +6,40 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1791595969786-deepswe-benchlm-mirror-074ba68d</guid>
+      <pubDate>Sat, 10 Oct 2026 01:32:48 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/agile_one_s_pick_ssd_n2_1120</title>
+      <link>https://huggingface.co/nvidia/agile_one_s_pick_ssd_n2_1120</link>
+      <guid isPermaLink="false">1791591631271-official-huggingface-new-models-2f51ce1f</guid>
+      <pubDate>Sat, 10 Oct 2026 00:20:31 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/agile_one_s_pick_ssd_n2_1120</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/agile_one_s_place_ssd_n2_1260</title>
+      <link>https://huggingface.co/nvidia/agile_one_s_place_ssd_n2_1260</link>
+      <guid isPermaLink="false">1791591538296-official-huggingface-new-models-eef37eca</guid>
+      <pubDate>Sat, 10 Oct 2026 00:18:58 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/agile_one_s_place_ssd_n2_1260</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/agile_one_s_pickplace_ssd_n2_18200</title>
+      <link>https://huggingface.co/nvidia/agile_one_s_pickplace_ssd_n2_18200</link>
+      <guid isPermaLink="false">1791591445878-official-huggingface-new-models-662bf7ae</guid>
+      <pubDate>Sat, 10 Oct 2026 00:17:25 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/agile_one_s_pickplace_ssd_n2_18200</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan microsoft/microsoft-decision-1</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1791585308693-openrouter-models-1f8d8b97</guid>
@@ -115,36 +149,6 @@ Ditambahkan: nvidia/agile_one_s_pick_ssd_n17_40000</description>
       <description>Official vendor Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: tencent/youtu-parsing-omni</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): claude-haiku-5-5</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/0.237.0/linux/x64/droid</link>
-      <guid isPermaLink="false">1791517176167-factory-droid-registry-7f0c5742</guid>
-      <pubDate>Fri, 09 Oct 2026 03:39:22 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-haiku-5-5</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791511709679-artificial-analysis-llm-leaderboard-0722a225</guid>
-      <pubDate>Fri, 09 Oct 2026 02:08:29 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 9 baris hasil benchmark ditambahkan, 9 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791511208837-artificial-analysis-api-free-fbdbb998</guid>
-      <pubDate>Fri, 09 Oct 2026 02:00:07 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791510773636-artificial-analysis-llm-leaderboard-0b1c21cf</guid>
-      <pubDate>Fri, 09 Oct 2026 01:52:53 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 9 baris hasil benchmark ditambahkan, 9 dihapus</description>
     </item>
   </channel>
 </rss>
