@@ -6,6 +6,13 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alibaba Qwen menghapus 81 models</title>
+      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
+      <guid isPermaLink="false">1791616476104-qwen-model-pricing-docs-c3de261a</guid>
+      <pubDate>Sat, 10 Oct 2026 07:14:32 GMT</pubDate>
+      <description>Alibaba Model Studio model catalog: 81 removed model entries</description>
+    </item>
+    <item>
       <title>Hasil benchmark DeepSWE berubah</title>
       <link>https://benchlm.ai/benchmarks/deepSwe</link>
       <guid isPermaLink="false">1791595969786-deepswe-benchlm-mirror-074ba68d</guid>
