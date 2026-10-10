@@ -117,23 +117,5 @@ Ditambahkan: cloudflare/clef-omni</description>
       <pubDate>Fri, 09 Oct 2026 20:18:16 GMT</pubDate>
       <description>Gemini models docs: 1 removed model entry</description>
     </item>
-    <item>
-      <title>Alibaba Qwen menambahkan qwen/qwen-image-2.1-turbo</title>
-      <link>https://huggingface.co/qwen/qwen-image-2.1-turbo</link>
-      <guid isPermaLink="false">1791551998073-qwen-official-model-weights-2889c34d</guid>
-      <pubDate>Fri, 09 Oct 2026 13:19:58 GMT</pubDate>
-      <description>Qwen official model weights: 1 entri model baru
-
-Ditambahkan: qwen/qwen-image-2.1-turbo</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan qwen-image-2.1-turbo</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1791550350323-qwen-model-pricing-docs-faf36571</guid>
-      <pubDate>Fri, 09 Oct 2026 12:52:27 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 1 entri model baru
-
-Ditambahkan: qwen-image-2.1-turbo</description>
-    </item>
   </channel>
 </rss>
