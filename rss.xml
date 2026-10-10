@@ -6,6 +6,20 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Z.ai menghapus 13 models</title>
+      <link>https://docs.z.ai/guides/overview/overview</link>
+      <guid isPermaLink="false">1791627772983-zai-models-docs-8656f97f</guid>
+      <pubDate>Sat, 10 Oct 2026 10:22:52 GMT</pubDate>
+      <description>Z.ai model docs: 13 removed model entries</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menghapus 56 models</title>
+      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
+      <guid isPermaLink="false">1791624776248-qwen-model-pricing-docs-f0393e05</guid>
+      <pubDate>Sat, 10 Oct 2026 09:32:53 GMT</pubDate>
+      <description>Alibaba Model Studio model catalog: 56 removed model entries</description>
+    </item>
+    <item>
       <title>Alibaba Qwen menghapus 81 models</title>
       <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
       <guid isPermaLink="false">1791616476104-qwen-model-pricing-docs-c3de261a</guid>
@@ -120,42 +134,6 @@ Ditambahkan: qwen/qwen-image-2.1-turbo</description>
       <description>Alibaba Model Studio model catalog: 1 entri model baru
 
 Ditambahkan: qwen-image-2.1-turbo</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added 2 models</title>
-      <link>https://huggingface.co/nvidia/agile_one_s_place_ssd_n17_24050</link>
-      <guid isPermaLink="false">1791534558910-official-huggingface-new-models-08a05b88</guid>
-      <pubDate>Fri, 09 Oct 2026 08:29:18 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 2 entri model baru
-
-Ditambahkan: nvidia/agile_one_s_place_ssd_n17_24050, nvidia/agile_one_s_walk_n2_1680</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/agile_one_s_pick_ssd_n17_58000</title>
-      <link>https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_58000</link>
-      <guid isPermaLink="false">1791534535515-official-huggingface-new-models-f7856d85</guid>
-      <pubDate>Fri, 09 Oct 2026 08:28:55 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/agile_one_s_pick_ssd_n17_58000</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/agile_one_s_pick_ssd_n17_40000</title>
-      <link>https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_40000</link>
-      <guid isPermaLink="false">1791534509043-official-huggingface-new-models-8099e37d</guid>
-      <pubDate>Fri, 09 Oct 2026 08:28:28 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/agile_one_s_pick_ssd_n17_40000</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added tencent/youtu-parsing-omni</title>
-      <link>https://huggingface.co/tencent/youtu-parsing-omni</link>
-      <guid isPermaLink="false">1791532480337-official-huggingface-new-models-e0f43120</guid>
-      <pubDate>Fri, 09 Oct 2026 07:54:40 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: tencent/youtu-parsing-omni</description>
     </item>
   </channel>
 </rss>
