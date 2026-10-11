@@ -6,11 +6,11 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alibaba Qwen menghapus 31 models</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1791688490488-qwen-model-pricing-docs-13cdc355</guid>
-      <pubDate>Sun, 11 Oct 2026 03:14:48 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 31 removed model entries</description>
+      <title>Codex menghapus 9 models</title>
+      <link>https://chatgpt.com/codex/pricing</link>
+      <guid isPermaLink="false">1791743112449-chatgpt-codex-pricing-285bb9b8</guid>
+      <pubDate>Sun, 11 Oct 2026 18:24:56 GMT</pubDate>
+      <description>ChatGPT Codex pricing: 9 removed model entries</description>
     </item>
   </channel>
 </rss>
