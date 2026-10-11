@@ -6,6 +6,13 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alibaba Qwen menghapus 31 models</title>
+      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
+      <guid isPermaLink="false">1791688490488-qwen-model-pricing-docs-13cdc355</guid>
+      <pubDate>Sun, 11 Oct 2026 03:14:48 GMT</pubDate>
+      <description>Alibaba Model Studio model catalog: 31 removed model entries</description>
+    </item>
+    <item>
       <title>Z.ai menghapus 13 models</title>
       <link>https://docs.z.ai/guides/overview/overview</link>
       <guid isPermaLink="false">1791627772983-zai-models-docs-8656f97f</guid>
@@ -32,90 +39,6 @@
       <guid isPermaLink="false">1791595969786-deepswe-benchlm-mirror-074ba68d</guid>
       <pubDate>Sat, 10 Oct 2026 01:32:48 GMT</pubDate>
       <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/agile_one_s_pick_ssd_n2_1120</title>
-      <link>https://huggingface.co/nvidia/agile_one_s_pick_ssd_n2_1120</link>
-      <guid isPermaLink="false">1791591631271-official-huggingface-new-models-2f51ce1f</guid>
-      <pubDate>Sat, 10 Oct 2026 00:20:31 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/agile_one_s_pick_ssd_n2_1120</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/agile_one_s_place_ssd_n2_1260</title>
-      <link>https://huggingface.co/nvidia/agile_one_s_place_ssd_n2_1260</link>
-      <guid isPermaLink="false">1791591538296-official-huggingface-new-models-eef37eca</guid>
-      <pubDate>Sat, 10 Oct 2026 00:18:58 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/agile_one_s_place_ssd_n2_1260</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/agile_one_s_pickplace_ssd_n2_18200</title>
-      <link>https://huggingface.co/nvidia/agile_one_s_pickplace_ssd_n2_18200</link>
-      <guid isPermaLink="false">1791591445878-official-huggingface-new-models-662bf7ae</guid>
-      <pubDate>Sat, 10 Oct 2026 00:17:25 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/agile_one_s_pickplace_ssd_n2_18200</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan microsoft/microsoft-decision-1</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791585308693-openrouter-models-1f8d8b97</guid>
-      <pubDate>Fri, 09 Oct 2026 22:35:05 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: microsoft/microsoft-decision-1</description>
-    </item>
-    <item>
-      <title>Gemini menghapus gemini-3.5-flash</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1791584218719-gemini-models-docs-9ea76cb1</guid>
-      <pubDate>Fri, 09 Oct 2026 22:16:58 GMT</pubDate>
-      <description>Gemini models docs: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan nace-ai/drex-v1.5</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791584212685-openrouter-models-e579d048</guid>
-      <pubDate>Fri, 09 Oct 2026 22:16:48 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: nace-ai/drex-v1.5</description>
-    </item>
-    <item>
-      <title>Microsoft menghapus mai-code-1.1-flash</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
-      <guid isPermaLink="false">1791583867024-microsoft-models-docs-9e473272-confirmed-removal</guid>
-      <pubDate>Fri, 09 Oct 2026 22:11:05 GMT</pubDate>
-      <description>Microsoft Foundry model docs: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan microsoft-decision-1</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
-      <guid isPermaLink="false">1791583566582-microsoft-models-docs-9e473272</guid>
-      <pubDate>Fri, 09 Oct 2026 22:06:05 GMT</pubDate>
-      <description>Microsoft Foundry model docs: 1 entri model baru
-
-Ditambahkan: microsoft-decision-1</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan cloudflare/clef-omni</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791577764200-openrouter-models-7937fca6</guid>
-      <pubDate>Fri, 09 Oct 2026 20:29:18 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: cloudflare/clef-omni</description>
-    </item>
-    <item>
-      <title>Gemini menghapus gemini-3.7-flash</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1791577097361-gemini-models-docs-c1801ca9</guid>
-      <pubDate>Fri, 09 Oct 2026 20:18:16 GMT</pubDate>
-      <description>Gemini models docs: 1 removed model entry</description>
     </item>
   </channel>
 </rss>
