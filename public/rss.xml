@@ -5,6 +5,23 @@
     <link>https://geetcr4ck.github.io/ai-tracker/</link>
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lemondecider</title>
+      <link>https://huggingface.co/inclusionai/lemondecider</link>
+      <guid isPermaLink="false">1791788801174-inclusionai-official-model-weights-c309ff57</guid>
+      <pubDate>Mon, 12 Oct 2026 07:06:40 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
 
+Ditambahkan: inclusionai/lemondecider</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added openbmb/trident-train</title>
+      <link>https://huggingface.co/openbmb/trident-train</link>
+      <guid isPermaLink="false">1791778573189-official-huggingface-new-models-c321891e</guid>
+      <pubDate>Mon, 12 Oct 2026 04:16:13 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: openbmb/trident-train</description>
+    </item>
   </channel>
 </rss>
