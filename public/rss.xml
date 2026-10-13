@@ -6,20 +6,13 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/a86e20128f0d8e593e128b242761522af2d34fde/src/content/catalog-models/anthropic-claude-haiku-5.5.json</link>
-      <guid isPermaLink="false">1791848302940-cloudflare-gateway-catalog-dbc4f542</guid>
-      <pubDate>Mon, 12 Oct 2026 23:38:21 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+      <title>Gemini code reference: model identifiers</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.23.0-5238607586394112/linux-arm/Antigravity.tar.gz</link>
+      <guid isPermaLink="false">1791858952421-google-antigravity-desktop-models-e96fb0d0</guid>
+      <pubDate>Tue, 13 Oct 2026 02:35:40 GMT</pubDate>
+      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
-Ditambahkan: anthropic/claude-haiku-5.5, google/nano-banana-2.1, meta/muse-spark-1.1, meta/muse-spark-1.2, meta/muse-spark-1.3, meta/muse-wonder-1.0, topaz/starlight-fast-2, topaz/starlight-precise-2-6</description>
-    </item>
-    <item>
-      <title>Halaman web baru Grok/xAI</title>
-      <link>https://x.ai/news</link>
-      <guid isPermaLink="false">1791844869748-xai-news-sitemap-592af71a-new-page</guid>
-      <pubDate>Mon, 12 Oct 2026 22:40:47 GMT</pubDate>
-      <description>xAI news sitemap: halaman web baru</description>
+Ditambahkan: gemini-3-flash, gemini-3.1-ultra, gemini-3.5-flash-lite, gemini-3.7-flash-tiered, gemini-4</description>
     </item>
   </channel>
 </rss>
