@@ -6,13 +6,22 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gemini code reference: model identifiers</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.23.0-5238607586394112/linux-arm/Antigravity.tar.gz</link>
-      <guid isPermaLink="false">1791858952421-google-antigravity-desktop-models-e96fb0d0</guid>
-      <pubDate>Tue, 13 Oct 2026 02:35:40 GMT</pubDate>
-      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791893811106-openrouter-models-f8037892</guid>
+      <pubDate>Tue, 13 Oct 2026 12:16:47 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
 
-Ditambahkan: gemini-3-flash, gemini-3.1-ultra, gemini-3.5-flash-lite, gemini-3.7-flash-tiered, gemini-4</description>
+Ditambahkan: scaledown/classify-1, scaledown/extract</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan scaledown/summarize</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791893676033-openrouter-models-fc980f66</guid>
+      <pubDate>Tue, 13 Oct 2026 12:14:33 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: scaledown/summarize</description>
     </item>
   </channel>
 </rss>
