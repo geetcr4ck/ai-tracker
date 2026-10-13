@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan ~unbiased/pareto-latest</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791933907021-openrouter-models-12a44787</guid>
+      <pubDate>Tue, 13 Oct 2026 23:25:03 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: ~unbiased/pareto-latest</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan unbiased/pareto-26.9</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791933778269-openrouter-models-89fcf079</guid>
+      <pubDate>Tue, 13 Oct 2026 23:22:54 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: unbiased/pareto-26.9</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1791930034128-openrouter-models-497c3a5d</guid>
+      <pubDate>Tue, 13 Oct 2026 22:20:27 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: heygen/heygen-voice-1, heygen/heygen-voice-1-turbo</description>
+    </item>
+    <item>
+      <title>Social posts menambahkan 2 models</title>
+      <link>https://x.com/i/web/status/2110111241566114252</link>
+      <guid isPermaLink="false">1791924711179-official-x-model-posts-2-fdc95782</guid>
+      <pubDate>Tue, 13 Oct 2026 20:51:50 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 2 entri model baru
+
+Ditambahkan: mai-image-2.6, mai-image-2.6-flash</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added nvidia/gr00t-n1.7-appletoplate-cosine40k-checkpoint-15000</title>
       <link>https://huggingface.co/nvidia/gr00t-n1.7-appletoplate-cosine40k-checkpoint-15000</link>
       <guid isPermaLink="false">1791923019588-official-huggingface-new-models-298db3a8</guid>
@@ -22,96 +58,6 @@ Ditambahkan: nvidia/gr00t-n1.7-appletoplate-cosine40k-checkpoint-15000</descript
       <description>Gemini web app bundle models: 1 bocoran model baru
 
 Ditambahkan: gemini-4</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan liquid/lfm-2.5-24b-a2b</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791911976562-openrouter-models-efdf7fc8</guid>
-      <pubDate>Tue, 13 Oct 2026 17:19:29 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: liquid/lfm-2.5-24b-a2b</description>
-    </item>
-    <item>
-      <title>Liquid AI/LFM menambahkan lfm2.5-24b-a2b</title>
-      <link>https://docs.liquid.ai/lfm/models/complete-library</link>
-      <guid isPermaLink="false">1791911312676-liquid-models-docs-7bc5f3bb</guid>
-      <pubDate>Tue, 13 Oct 2026 17:08:31 GMT</pubDate>
-      <description>Liquid AI model library docs: 1 entri model baru
-
-Ditambahkan: lfm2.5-24b-a2b</description>
-    </item>
-    <item>
-      <title>Liquid AI/LFM menambahkan liquidai/lfm2.5-24b-a2b</title>
-      <link>https://huggingface.co/liquidai/lfm2.5-24b-a2b</link>
-      <guid isPermaLink="false">1791910689395-liquid-official-model-weights-62edef1d</guid>
-      <pubDate>Tue, 13 Oct 2026 16:58:09 GMT</pubDate>
-      <description>Liquid AI official model weights: 1 entri model baru
-
-Ditambahkan: liquidai/lfm2.5-24b-a2b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/0.240.1/linux/x64/droid</link>
-      <guid isPermaLink="false">1791910493650-factory-droid-registry-1bc7e3c9</guid>
-      <pubDate>Tue, 13 Oct 2026 16:54:50 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4-argon, muse-spark-1.2</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan fish-audio/drama-3</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791910488554-openrouter-models-388217b0</guid>
-      <pubDate>Tue, 13 Oct 2026 16:54:43 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: fish-audio/drama-3</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan google/gemini-4-argon</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791907719500-openrouter-models-3fa90f0d</guid>
-      <pubDate>Tue, 13 Oct 2026 16:08:33 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: google/gemini-4-argon</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-4</title>
-      <link>https://x.com/i/web/status/2110039860077527293</link>
-      <guid isPermaLink="false">1791907694227-official-x-model-posts-7b02c162</guid>
-      <pubDate>Tue, 13 Oct 2026 16:08:13 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: gemini-4</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan microsoft-decision-1</title>
-      <link>https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers</link>
-      <guid isPermaLink="false">1791907407820-microsoft-command-line-sitemap-d0d1d2a4-model-page</guid>
-      <pubDate>Tue, 13 Oct 2026 16:03:25 GMT</pubDate>
-      <description>Microsoft Command Line blog: 1 entri model baru
-
-Ditambahkan: microsoft-decision-1</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan 2 models</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1791907317803-gemini-models-docs-e3e9c924</guid>
-      <pubDate>Tue, 13 Oct 2026 16:01:56 GMT</pubDate>
-      <description>Gemini models docs: 2 entri model baru
-
-Ditambahkan: gemini-4, gemini-4-argon</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-4-argon</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1791906305649-gemini-api-models-f9d811f0</guid>
-      <pubDate>Tue, 13 Oct 2026 15:45:05 GMT</pubDate>
-      <description>Gemini API models: 1 entri model baru
-
-Ditambahkan: gemini-4-argon</description>
     </item>
   </channel>
 </rss>
