@@ -6,106 +6,20 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenRouter menambahkan nace-ai/drex-v2.0</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791827415525-openrouter-models-d7b258df</guid>
-      <pubDate>Mon, 12 Oct 2026 17:50:07 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/a86e20128f0d8e593e128b242761522af2d34fde/src/content/catalog-models/anthropic-claude-haiku-5.5.json</link>
+      <guid isPermaLink="false">1791848302940-cloudflare-gateway-catalog-dbc4f542</guid>
+      <pubDate>Mon, 12 Oct 2026 23:38:21 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
-Ditambahkan: nace-ai/drex-v2.0</description>
+Ditambahkan: anthropic/claude-haiku-5.5, google/nano-banana-2.1, meta/muse-spark-1.1, meta/muse-spark-1.2, meta/muse-spark-1.3, meta/muse-wonder-1.0, topaz/starlight-fast-2, topaz/starlight-precise-2-6</description>
     </item>
     <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1791825781093-artificial-analysis-llm-leaderboard-2611ad2c</guid>
-      <pubDate>Mon, 12 Oct 2026 17:23:00 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 124 baris hasil benchmark ditambahkan, 122 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan meta/muse-wonder</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791825772318-openrouter-models-d3c3f432</guid>
-      <pubDate>Mon, 12 Oct 2026 17:22:47 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: meta/muse-wonder</description>
-    </item>
-    <item>
-      <title>Model catalog changes: 2 new model leaks</title>
-      <link>https://artificialanalysis.ai/models/muse-wonder-full</link>
-      <guid isPermaLink="false">1791825670146-artificial-analysis-model-discovery-6bfa50ef</guid>
-      <pubDate>Mon, 12 Oct 2026 17:21:09 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 2 new model leaks
-
-Ditambahkan: muse-wonder, muse-wonder-full</description>
-    </item>
-    <item>
-      <title>Meta menambahkan 3 models</title>
-      <link>https://dev.meta.ai/docs/models/</link>
-      <guid isPermaLink="false">1791825672410-meta-model-api-docs-4446ac87-baseline-alert</guid>
-      <pubDate>Mon, 12 Oct 2026 17:21:05 GMT</pubDate>
-      <description>Meta Model API models: 3 entri model baru
-
-Ditambahkan: muse-wonder, muse-wonder-1.0, muse-wonder-full</description>
-    </item>
-    <item>
-      <title>Meta menambahkan 3 models</title>
-      <link>https://dev.meta.ai/docs/models/</link>
-      <guid isPermaLink="false">1791825650702-meta-model-api-docs-4446ac87</guid>
-      <pubDate>Mon, 12 Oct 2026 17:20:45 GMT</pubDate>
-      <description>Meta Model API models: 3 entri model baru
-
-Ditambahkan: muse-wonder, muse-wonder-1.0, muse-wonder-full</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1791825416999-deepswe-benchlm-mirror-f735011e</guid>
-      <pubDate>Mon, 12 Oct 2026 17:16:55 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenBMB/MiniCPM menambahkan 2 models</title>
-      <link>https://huggingface.co/openbmb/minicpm-v-4.7-1b</link>
-      <guid isPermaLink="false">1791824966424-openbmb-official-model-weights-f53758bf</guid>
-      <pubDate>Mon, 12 Oct 2026 17:09:26 GMT</pubDate>
-      <description>OpenBMB official model weights: 2 entri model baru
-
-Ditambahkan: openbmb/minicpm-v-4.7-1b, openbmb/minicpm-v-4.7-35b-a3b</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1791824907300-artificial-analysis-api-free-1cf015f5</guid>
-      <pubDate>Mon, 12 Oct 2026 17:08:26 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 2 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan 2 models</title>
-      <link>https://x.com/i/web/status/2109691148943999167</link>
-      <guid isPermaLink="false">1791824568618-official-x-model-posts-2-05aed471</guid>
-      <pubDate>Mon, 12 Oct 2026 17:02:48 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 2 entri model baru
-
-Ditambahkan: muse-wonder, muse-wonder-full</description>
-    </item>
-    <item>
-      <title>Meta menambahkan muse-wonder-1.0</title>
-      <link>https://api.meta.ai/v1/models</link>
-      <guid isPermaLink="false">1791824523831-meta-model-api-live-models-dd98970c-baseline-alert</guid>
-      <pubDate>Mon, 12 Oct 2026 17:02:03 GMT</pubDate>
-      <description>Meta Model API live models: 1 entri model baru
-
-Ditambahkan: muse-wonder-1.0</description>
-    </item>
-    <item>
-      <title>Z.ai menambahkan glm-5.3-flash</title>
-      <link>https://x.com/i/web/status/2109678174468534511</link>
-      <guid isPermaLink="false">1791821461595-official-x-model-posts-38285710</guid>
-      <pubDate>Mon, 12 Oct 2026 16:11:01 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: glm-5.3-flash</description>
+      <title>Halaman web baru Grok/xAI</title>
+      <link>https://x.ai/news</link>
+      <guid isPermaLink="false">1791844869748-xai-news-sitemap-592af71a-new-page</guid>
+      <pubDate>Mon, 12 Oct 2026 22:40:47 GMT</pubDate>
+      <description>xAI news sitemap: halaman web baru</description>
     </item>
   </channel>
 </rss>
