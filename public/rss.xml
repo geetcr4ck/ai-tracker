@@ -6,6 +6,52 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1792010019868-deepswe-benchlm-mirror-4b504763</guid>
+      <pubDate>Wed, 14 Oct 2026 20:33:39 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): google/gemini-4-argon</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/8bd7830abcb2ed792c088ab92188b7baca853ce1/src/content/catalog-models/google-gemini-4-argon.json</link>
+      <guid isPermaLink="false">1792007638349-cloudflare-gateway-catalog-737aa6ad</guid>
+      <pubDate>Wed, 14 Oct 2026 19:53:57 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: google/gemini-4-argon</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1792007506688-deepswe-benchlm-mirror-8294aa3b</guid>
+      <pubDate>Wed, 14 Oct 2026 19:51:46 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/2026-us-midterms</link>
+      <guid isPermaLink="false">1792006562735-anthropic-news-74e3f5ab-new-page</guid>
+      <pubDate>Wed, 14 Oct 2026 19:36:02 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>OpenRouter menghapus ~perplexity/pplx-decider-27b-latest</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792005164733-openrouter-models-595b0ff5</guid>
+      <pubDate>Wed, 14 Oct 2026 19:12:35 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan ~perplexity/pplx-decider-latest</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792003717310-openrouter-models-e956e0fd</guid>
+      <pubDate>Wed, 14 Oct 2026 18:48:31 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: ~perplexity/pplx-decider-latest</description>
+    </item>
+    <item>
       <title>Reflection AI/Beam menambahkan beam-1.0-501b-a23b</title>
       <link>https://developers.reflection.ai/models.md</link>
       <guid isPermaLink="false">1792000079812-reflection-models-docs-33e954f4</guid>
@@ -47,15 +93,6 @@ Ditambahkan: grok-voice-3.0</description>
       <guid isPermaLink="false">1791996055488-xai-news-sitemap-f8c49894-new-page</guid>
       <pubDate>Wed, 14 Oct 2026 16:40:29 GMT</pubDate>
       <description>xAI news sitemap: halaman web baru</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/ling-3.1-flash</title>
-      <link>https://huggingface.co/inclusionai/ling-3.1-flash</link>
-      <guid isPermaLink="false">1791990097803-inclusionai-official-model-weights-e8b3dd3f</guid>
-      <pubDate>Wed, 14 Oct 2026 15:01:37 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/ling-3.1-flash</description>
     </item>
   </channel>
 </rss>
