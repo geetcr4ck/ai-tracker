@@ -6,6 +6,13 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/singapore-office-opening</link>
+      <guid isPermaLink="false">1791966905673-anthropic-news-ab214688-new-page</guid>
+      <pubDate>Wed, 14 Oct 2026 08:35:05 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
       <title>Hasil benchmark DeepSWE berubah</title>
       <link>https://benchlm.ai/benchmarks/deepSwe</link>
       <guid isPermaLink="false">1791943447725-deepswe-benchlm-mirror-074ba68d</guid>
@@ -18,51 +25,6 @@
       <guid isPermaLink="false">1791940819936-artificial-analysis-api-free-e1ce45a5</guid>
       <pubDate>Wed, 14 Oct 2026 01:20:18 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan ~unbiased/pareto-latest</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791933907021-openrouter-models-12a44787</guid>
-      <pubDate>Tue, 13 Oct 2026 23:25:03 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: ~unbiased/pareto-latest</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan unbiased/pareto-26.9</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791933778269-openrouter-models-89fcf079</guid>
-      <pubDate>Tue, 13 Oct 2026 23:22:54 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: unbiased/pareto-26.9</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1791930034128-openrouter-models-497c3a5d</guid>
-      <pubDate>Tue, 13 Oct 2026 22:20:27 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: heygen/heygen-voice-1, heygen/heygen-voice-1-turbo</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan 2 models</title>
-      <link>https://x.com/i/web/status/2110111241566114252</link>
-      <guid isPermaLink="false">1791924711179-official-x-model-posts-2-fdc95782</guid>
-      <pubDate>Tue, 13 Oct 2026 20:51:50 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 2 entri model baru
-
-Ditambahkan: mai-image-2.6, mai-image-2.6-flash</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/gr00t-n1.7-appletoplate-cosine40k-checkpoint-15000</title>
-      <link>https://huggingface.co/nvidia/gr00t-n1.7-appletoplate-cosine40k-checkpoint-15000</link>
-      <guid isPermaLink="false">1791923019588-official-huggingface-new-models-298db3a8</guid>
-      <pubDate>Tue, 13 Oct 2026 20:23:39 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/gr00t-n1.7-appletoplate-cosine40k-checkpoint-15000</description>
     </item>
   </channel>
 </rss>
