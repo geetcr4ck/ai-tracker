@@ -64,14 +64,5 @@ Ditambahkan: mai-image-2.6, mai-image-2.6-flash</description>
 
 Ditambahkan: nvidia/gr00t-n1.7-appletoplate-cosine40k-checkpoint-15000</description>
     </item>
-    <item>
-      <title>Bocoran model Gemini: gemini-4</title>
-      <link>https://gemini.google.com/app</link>
-      <guid isPermaLink="false">1791920025316-gemini-web-app-models-45faaadd</guid>
-      <pubDate>Tue, 13 Oct 2026 19:33:33 GMT</pubDate>
-      <description>Gemini web app bundle models: 1 bocoran model baru
-
-Ditambahkan: gemini-4</description>
-    </item>
   </channel>
 </rss>
