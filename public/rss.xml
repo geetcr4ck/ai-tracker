@@ -6,77 +6,170 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Image, video &amp; audio labs menambahkan meshy-7</title>
-      <link>https://api.fal.ai/v1/models</link>
-      <guid isPermaLink="false">1792062479013-fal-media-models-3a3db375</guid>
-      <pubDate>Thu, 15 Oct 2026 11:06:21 GMT</pubDate>
-      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
+      <title>Bocoran model ChatGPT/OpenAI: gpt-live-1.1</title>
+      <link>https://x.com/i/web/status/2110797830361436604</link>
+      <guid isPermaLink="false">1792088406475-official-x-model-posts-a09fba0b</guid>
+      <pubDate>Thu, 15 Oct 2026 18:20:05 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 bocoran model baru
 
-Ditambahkan: meshy-7</description>
-    </item>
-    <item>
-      <title>ByteDance Seed/Doubao menambahkan seed-2</title>
-      <link>https://www.volcengine.com/docs/82379/1330310</link>
-      <guid isPermaLink="false">1792061710782-volcengine-ark-model-docs-f5f61389</guid>
-      <pubDate>Thu, 15 Oct 2026 10:55:09 GMT</pubDate>
-      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
-
-Ditambahkan: seed-2</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/0.242.0/linux/x64/droid</link>
-      <guid isPermaLink="false">1792036081580-factory-droid-registry-ae076362</guid>
-      <pubDate>Thu, 15 Oct 2026 03:47:57 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6-luna-fast, gpt-6-sol-fast, gpt-6.1-sol-ultrafast</description>
-    </item>
-    <item>
-      <title>StepFun menambahkan 2 models</title>
-      <link>https://huggingface.co/stepfun-ai/step-5-preview</link>
-      <guid isPermaLink="false">1792029632511-stepfun-official-model-weights-70c73bda</guid>
-      <pubDate>Thu, 15 Oct 2026 02:00:32 GMT</pubDate>
-      <description>StepFun official model weights: 2 entri model baru
-
-Ditambahkan: stepfun-ai/step-5-preview, stepfun-ai/step-5-preview-bf16</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1792027841935-deepswe-benchlm-mirror-8294aa3b</guid>
-      <pubDate>Thu, 15 Oct 2026 01:30:41 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1792026432552-artificial-analysis-llm-leaderboard-2611ad2c</guid>
-      <pubDate>Thu, 15 Oct 2026 01:07:12 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 10 baris hasil benchmark ditambahkan, 13 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1792024547285-artificial-analysis-llm-leaderboard-562cdfca</guid>
-      <pubDate>Thu, 15 Oct 2026 00:35:47 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 13 baris hasil benchmark ditambahkan, 10 dihapus</description>
+Ditambahkan: gpt-live-1.1</description>
     </item>
     <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792022791910-artificial-analysis-api-free-16bc1caa</guid>
-      <pubDate>Thu, 15 Oct 2026 00:06:31 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 8 baris hasil benchmark ditambahkan, 8 dihapus</description>
+      <guid isPermaLink="false">1792088074431-artificial-analysis-api-free-5e8d2fc0</guid>
+      <pubDate>Thu, 15 Oct 2026 18:14:33 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
     <item>
-      <title>OpenRouter menambahkan typesafe/jev-1.14</title>
+      <title>NVIDIA menambahkan nvidia/nemotron-3.5-rerank-8b</title>
+      <link>https://huggingface.co/nvidia/nemotron-3.5-rerank-8b-bf16</link>
+      <guid isPermaLink="false">1792086646426-nvidia-official-model-weights-f128321f</guid>
+      <pubDate>Thu, 15 Oct 2026 17:50:46 GMT</pubDate>
+      <description>NVIDIA Nemotron official model weights: 1 entri model baru
+
+Ditambahkan: nvidia/nemotron-3.5-rerank-8b</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan meta/muse-spark-open</title>
       <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792022021823-openrouter-models-74109182</guid>
-      <pubDate>Wed, 14 Oct 2026 23:53:36 GMT</pubDate>
+      <guid isPermaLink="false">1792086605649-openrouter-models-f65bc706</guid>
+      <pubDate>Thu, 15 Oct 2026 17:49:57 GMT</pubDate>
       <description>OpenRouter model catalog: 1 entri model baru
 
-Ditambahkan: typesafe/jev-1.14</description>
+Ditambahkan: meta/muse-spark-open</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <guid isPermaLink="false">1792084869070-anthropic-news-c280f242-new-page</guid>
+      <pubDate>Thu, 15 Oct 2026 17:21:08 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan black-forest-labs/flux-3-image-klein</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792084313808-openrouter-models-d42186a9</guid>
+      <pubDate>Thu, 15 Oct 2026 17:11:46 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: black-forest-labs/flux-3-image-klein</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan nemotron-3.5-super-vl-120b-a12b</title>
+      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
+      <guid isPermaLink="false">1792084066600-nvidia-nim-models-docs-8fec2949</guid>
+      <pubDate>Thu, 15 Oct 2026 17:07:46 GMT</pubDate>
+      <description>NVIDIA NIM model release notes: 1 entri model baru
+
+Ditambahkan: nemotron-3.5-super-vl-120b-a12b</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan nvidia/nemotron-3.5-super-vl</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792081884807-openrouter-models-8a071a50</guid>
+      <pubDate>Thu, 15 Oct 2026 16:31:13 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: nvidia/nemotron-3.5-super-vl</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan 2 models</title>
+      <link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai</link>
+      <guid isPermaLink="false">1792080547663-microsoft-ai-news-sitemap-aa2e3f62-model-page</guid>
+      <pubDate>Thu, 15 Oct 2026 16:09:06 GMT</pubDate>
+      <description>Microsoft AI newsroom: 2 entri model baru
+
+Ditambahkan: mai-base-1, mai-base-2, mai-base-3, mai-thinking-1</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1792080355273-artificial-analysis-llm-leaderboard-562cdfca</guid>
+      <pubDate>Thu, 15 Oct 2026 16:05:54 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 57 baris hasil benchmark ditambahkan, 58 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1792079553840-artificial-analysis-llm-leaderboard-44137954</guid>
+      <pubDate>Thu, 15 Oct 2026 15:52:33 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 58 baris hasil benchmark ditambahkan, 57 dihapus</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan krea-3</title>
+      <link>https://api.fal.ai/v1/models</link>
+      <guid isPermaLink="false">1792079505526-fal-media-models-b215658c</guid>
+      <pubDate>Thu, 15 Oct 2026 15:50:10 GMT</pubDate>
+      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
+
+Ditambahkan: krea-3</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: nemotron-3.5-bolt-74b-a9b</title>
+      <link>https://artificialanalysis.ai/models/nemotron-3-5-super-vl</link>
+      <guid isPermaLink="false">1792079406177-artificial-analysis-model-discovery-f863c213</guid>
+      <pubDate>Thu, 15 Oct 2026 15:50:05 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: nemotron-3.5-bolt-74b-a9b, nemotron-3.5-super-vl</description>
+    </item>
+    <item>
+      <title>Bocoran model Image, video &amp; audio labs: krea-3</title>
+      <link>https://x.com/i/web/status/2110760037128012146</link>
+      <guid isPermaLink="false">1792079401784-official-x-model-posts-4-31930024</guid>
+      <pubDate>Thu, 15 Oct 2026 15:50:01 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 bocoran model baru
+
+Ditambahkan: krea-3</description>
+    </item>
+    <item>
+      <title>Bocoran model Image, video &amp; audio labs: eleven-v4</title>
+      <link>https://x.com/i/web/status/2110758997578142173</link>
+      <guid isPermaLink="false">1792079149999-official-x-model-posts-3-dfd60765</guid>
+      <pubDate>Thu, 15 Oct 2026 15:45:49 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 bocoran model baru
+
+Ditambahkan: eleven-v4</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan nemotron-3.5-super-vl-120b-a12b</title>
+      <link>https://build.nvidia.com/nvidia/nemotron-3.5-super-vl-120b-a12b</link>
+      <guid isPermaLink="false">1792078911282-nvidia-build-nemotron-sitemap-af7dbc4b-model-page</guid>
+      <pubDate>Thu, 15 Oct 2026 15:41:50 GMT</pubDate>
+      <description>NVIDIA Build Nemotron catalog: 1 entri model baru
+
+Ditambahkan: nemotron-3.5-super-vl-120b-a12b</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792078667833-artificial-analysis-api-free-a64c092c</guid>
+      <pubDate>Thu, 15 Oct 2026 15:37:47 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 2 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1792077423456-deepswe-benchlm-mirror-36d5eb08</guid>
+      <pubDate>Thu, 15 Oct 2026 15:17:00 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan nvidia/nemotron-3.5-super-vl:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792077100839-openrouter-models-6fce00e5</guid>
+      <pubDate>Thu, 15 Oct 2026 15:11:32 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: nvidia/nemotron-3.5-super-vl:free</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1792076427526-microsoft-command-line-sitemap-e3f8ceed-new-page</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:26 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
     </item>
   </channel>
 </rss>
