@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Image, video &amp; audio labs menambahkan meshy-7</title>
+      <link>https://api.fal.ai/v1/models</link>
+      <guid isPermaLink="false">1792062479013-fal-media-models-3a3db375</guid>
+      <pubDate>Thu, 15 Oct 2026 11:06:21 GMT</pubDate>
+      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
+
+Ditambahkan: meshy-7</description>
+    </item>
+    <item>
+      <title>ByteDance Seed/Doubao menambahkan seed-2</title>
+      <link>https://www.volcengine.com/docs/82379/1330310</link>
+      <guid isPermaLink="false">1792061710782-volcengine-ark-model-docs-f5f61389</guid>
+      <pubDate>Thu, 15 Oct 2026 10:55:09 GMT</pubDate>
+      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
+
+Ditambahkan: seed-2</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): model identifiers</title>
       <link>https://downloads.factory.ai/factory-cli/releases/0.242.0/linux/x64/droid</link>
       <guid isPermaLink="false">1792036081580-factory-droid-registry-ae076362</guid>
@@ -59,24 +77,6 @@ Ditambahkan: stepfun-ai/step-5-preview, stepfun-ai/step-5-preview-bf16</descript
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: typesafe/jev-1.14</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added microsoft/userrepgen-4b</title>
-      <link>https://huggingface.co/microsoft/userrepgen-4b</link>
-      <guid isPermaLink="false">1792014753258-official-huggingface-new-models-d505625e</guid>
-      <pubDate>Wed, 14 Oct 2026 21:52:33 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: microsoft/userrepgen-4b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan assemblyai/universal-3-6-pro</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792014323646-openrouter-models-460ea2d3</guid>
-      <pubDate>Wed, 14 Oct 2026 21:45:17 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: assemblyai/universal-3-6-pro</description>
     </item>
   </channel>
 </rss>
