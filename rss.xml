@@ -6,6 +6,119 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added xingchen-agi/xing4.0-29b-a4b-w8a8</title>
+      <link>https://huggingface.co/xingchen-agi/xing4.0-29b-a4b-w8a8</link>
+      <guid isPermaLink="false">1792139031155-official-huggingface-new-models-e8a5fbf7</guid>
+      <pubDate>Fri, 16 Oct 2026 08:23:51 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: xingchen-agi/xing4.0-29b-a4b-w8a8</description>
+    </item>
+    <item>
+      <title>Liquid AI/LFM menambahkan d1-ultra</title>
+      <link>https://docs.liquid.ai/lfm/models/complete-library</link>
+      <guid isPermaLink="false">1792134849388-liquid-models-docs-cbd4cb76</guid>
+      <pubDate>Fri, 16 Oct 2026 07:14:09 GMT</pubDate>
+      <description>Liquid AI model library docs: 1 entri model baru
+
+Ditambahkan: d1-ultra</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1792130467632-artificial-analysis-llm-leaderboard-4b46ea53</guid>
+      <pubDate>Fri, 16 Oct 2026 06:01:06 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 59 baris hasil benchmark ditambahkan, 58 dihapus</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zwz2-27b</title>
+      <link>https://huggingface.co/inclusionai/zwz2-27b</link>
+      <guid isPermaLink="false">1792129972401-inclusionai-official-model-weights-c782dfb8</guid>
+      <pubDate>Fri, 16 Oct 2026 05:52:52 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/zwz2-27b</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792129761551-artificial-analysis-api-free-1c8c3ef0</guid>
+      <pubDate>Fri, 16 Oct 2026 05:49:21 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zwz2-27b</title>
+      <link>https://huggingface.co/inclusionai/zwz2-27b</link>
+      <guid isPermaLink="false">1792129372194-official-huggingface-new-models-851c52da</guid>
+      <pubDate>Fri, 16 Oct 2026 05:42:52 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/zwz2-27b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/muse-spark-open-816b-a42b-dflash2</title>
+      <link>https://huggingface.co/nvidia/muse-spark-open-816b-a42b-dflash2</link>
+      <guid isPermaLink="false">1792127999967-official-huggingface-new-models-60492139</guid>
+      <pubDate>Fri, 16 Oct 2026 05:19:59 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/muse-spark-open-816b-a42b-dflash2</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zwz2-9b</title>
+      <link>https://huggingface.co/inclusionai/zwz2-9b</link>
+      <guid isPermaLink="false">1792122395452-inclusionai-official-model-weights-84470fee</guid>
+      <pubDate>Fri, 16 Oct 2026 03:46:35 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/zwz2-9b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zwz2-9b</title>
+      <link>https://huggingface.co/inclusionai/zwz2-9b</link>
+      <guid isPermaLink="false">1792122321962-official-huggingface-new-models-e1c42b03</guid>
+      <pubDate>Fri, 16 Oct 2026 03:44:42 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/zwz2-9b</description>
+    </item>
+    <item>
+      <title>Bocoran model StepFun: step-5</title>
+      <link>https://x.com/i/web/status/2110896147082695009</link>
+      <guid isPermaLink="false">1792111847970-official-x-model-posts-943f4de6</guid>
+      <pubDate>Fri, 16 Oct 2026 00:50:47 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 bocoran model baru
+
+Ditambahkan: step-5</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan respan/span-02</title>
+      <link>https://openrouter.ai/api/v1/models</link>
+      <guid isPermaLink="false">1792109891967-openrouter-decision-models-2b3160e2</guid>
+      <pubDate>Fri, 16 Oct 2026 00:18:11 GMT</pubDate>
+      <description>OpenRouter decision models: 1 entri model baru
+
+Ditambahkan: respan/span-02</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan respan/span-02</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792109756812-openrouter-models-7eea03cc</guid>
+      <pubDate>Fri, 16 Oct 2026 00:15:49 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: respan/span-02</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan liquid/d1-ultra</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792109114627-openrouter-models-8b3341b6</guid>
+      <pubDate>Fri, 16 Oct 2026 00:05:09 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: liquid/d1-ultra</description>
+    </item>
+    <item>
       <title>Bocoran model LM Arena: gemini-4-argon-high</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1792106354493-arena-live-model-roster-dcafec57</guid>
@@ -65,140 +178,6 @@ Ditambahkan: gpt-rosalind</description>
       <description>IBM Granite official model weights: 1 entri model baru
 
 Ditambahkan: ibm-granite/granite-switch-4.1-8b</description>
-    </item>
-    <item>
-      <title>IBM Granite menambahkan ibm-granite/granite-switch-4.1-30b</title>
-      <link>https://huggingface.co/ibm-granite/granite-switch-4.1-30b</link>
-      <guid isPermaLink="false">1792096402369-ibm-official-model-weights-57202ec0</guid>
-      <pubDate>Thu, 15 Oct 2026 20:33:22 GMT</pubDate>
-      <description>IBM Granite official model weights: 1 entri model baru
-
-Ditambahkan: ibm-granite/granite-switch-4.1-30b</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan nemotron-3.5</title>
-      <link>https://x.com/i/web/status/2110823354261500382</link>
-      <guid isPermaLink="false">1792094492189-official-x-model-posts-2-d59e116b</guid>
-      <pubDate>Thu, 15 Oct 2026 20:01:31 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: nemotron-3.5</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): liquid/d1-ultra</title>
-      <link>https://ai-gateway.vercel.sh/v1/models</link>
-      <guid isPermaLink="false">1792092977702-vercel-gateway-catalog-ea970281</guid>
-      <pubDate>Thu, 15 Oct 2026 19:36:17 GMT</pubDate>
-      <description>Vercel AI Gateway model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: liquid/d1-ultra</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan meshy-t2.5</title>
-      <link>https://docs.meshy.ai/en/api/image-to-3d</link>
-      <guid isPermaLink="false">1792091833386-meshy-direct-models-a4a3e38a</guid>
-      <pubDate>Thu, 15 Oct 2026 19:17:12 GMT</pubDate>
-      <description>Meshy official generation models: 1 entri model baru
-
-Ditambahkan: meshy-t2.5</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1792091240176-artificial-analysis-llm-leaderboard-562cdfca</guid>
-      <pubDate>Thu, 15 Oct 2026 19:07:19 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 83 baris hasil benchmark ditambahkan, 85 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1792089376959-deepswe-benchlm-mirror-6df30d5c</guid>
-      <pubDate>Thu, 15 Oct 2026 18:36:16 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1792089345742-artificial-analysis-llm-leaderboard-5048d8fc</guid>
-      <pubDate>Thu, 15 Oct 2026 18:35:45 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 85 baris hasil benchmark ditambahkan, 83 dihapus</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: muse-spark-open</title>
-      <link>https://artificialanalysis.ai/models/muse-spark-open</link>
-      <guid isPermaLink="false">1792089120772-artificial-analysis-model-discovery-636ee8ce</guid>
-      <pubDate>Thu, 15 Oct 2026 18:32:00 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: muse-spark-open</description>
-    </item>
-    <item>
-      <title>Bocoran model ChatGPT/OpenAI: gpt-live-1.1</title>
-      <link>https://x.com/i/web/status/2110797830361436604</link>
-      <guid isPermaLink="false">1792088406475-official-x-model-posts-a09fba0b</guid>
-      <pubDate>Thu, 15 Oct 2026 18:20:05 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 bocoran model baru
-
-Ditambahkan: gpt-live-1.1</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792088074431-artificial-analysis-api-free-5e8d2fc0</guid>
-      <pubDate>Thu, 15 Oct 2026 18:14:33 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan nvidia/nemotron-3.5-rerank-8b</title>
-      <link>https://huggingface.co/nvidia/nemotron-3.5-rerank-8b-bf16</link>
-      <guid isPermaLink="false">1792086646426-nvidia-official-model-weights-f128321f</guid>
-      <pubDate>Thu, 15 Oct 2026 17:50:46 GMT</pubDate>
-      <description>NVIDIA Nemotron official model weights: 1 entri model baru
-
-Ditambahkan: nvidia/nemotron-3.5-rerank-8b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan meta/muse-spark-open</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792086605649-openrouter-models-f65bc706</guid>
-      <pubDate>Thu, 15 Oct 2026 17:49:57 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: meta/muse-spark-open</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-      <guid isPermaLink="false">1792084869070-anthropic-news-c280f242-new-page</guid>
-      <pubDate>Thu, 15 Oct 2026 17:21:08 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan black-forest-labs/flux-3-image-klein</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792084313808-openrouter-models-d42186a9</guid>
-      <pubDate>Thu, 15 Oct 2026 17:11:46 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: black-forest-labs/flux-3-image-klein</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan nemotron-3.5-super-vl-120b-a12b</title>
-      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
-      <guid isPermaLink="false">1792084066600-nvidia-nim-models-docs-8fec2949</guid>
-      <pubDate>Thu, 15 Oct 2026 17:07:46 GMT</pubDate>
-      <description>NVIDIA NIM model release notes: 1 entri model baru
-
-Ditambahkan: nemotron-3.5-super-vl-120b-a12b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan nvidia/nemotron-3.5-super-vl</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792081884807-openrouter-models-8a071a50</guid>
-      <pubDate>Thu, 15 Oct 2026 16:31:13 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: nvidia/nemotron-3.5-super-vl</description>
     </item>
   </channel>
 </rss>
