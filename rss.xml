@@ -6,6 +6,38 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1792156964562-artificial-analysis-llm-leaderboard-73c2a760</guid>
+      <pubDate>Fri, 16 Oct 2026 13:22:44 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 69 baris hasil benchmark ditambahkan, 68 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792156480004-artificial-analysis-api-free-00f14685</guid>
+      <pubDate>Fri, 16 Oct 2026 13:14:39 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Reflection AI/Beam menambahkan reflection/beam-1.0-501b-a23b-dflash2</title>
+      <link>https://huggingface.co/reflection/beam-1.0-501b-a23b-dflash2</link>
+      <guid isPermaLink="false">1792155654166-reflection-official-model-weights-4482e2bd</guid>
+      <pubDate>Fri, 16 Oct 2026 13:00:54 GMT</pubDate>
+      <description>Reflection AI official model weights: 1 entri model baru
+
+Ditambahkan: reflection/beam-1.0-501b-a23b-dflash2</description>
+    </item>
+    <item>
+      <title>Reflection AI/Beam menambahkan reflection/beam-1.0-501b-a23b</title>
+      <link>https://huggingface.co/reflection/beam-1.0-501b-a23b</link>
+      <guid isPermaLink="false">1792155603771-reflection-official-model-weights-00c2ae10</guid>
+      <pubDate>Fri, 16 Oct 2026 13:00:03 GMT</pubDate>
+      <description>Reflection AI official model weights: 1 entri model baru
+
+Ditambahkan: reflection/beam-1.0-501b-a23b</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added xingchen-agi/xing4.0-29b-a4b-w8a8</title>
       <link>https://huggingface.co/xingchen-agi/xing4.0-29b-a4b-w8a8</link>
       <guid isPermaLink="false">1792139031155-official-huggingface-new-models-e8a5fbf7</guid>
@@ -90,94 +122,6 @@ Ditambahkan: inclusionai/zwz2-9b</description>
       <description>Official AI lab posts on X: 1 bocoran model baru
 
 Ditambahkan: step-5</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan respan/span-02</title>
-      <link>https://openrouter.ai/api/v1/models</link>
-      <guid isPermaLink="false">1792109891967-openrouter-decision-models-2b3160e2</guid>
-      <pubDate>Fri, 16 Oct 2026 00:18:11 GMT</pubDate>
-      <description>OpenRouter decision models: 1 entri model baru
-
-Ditambahkan: respan/span-02</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan respan/span-02</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792109756812-openrouter-models-7eea03cc</guid>
-      <pubDate>Fri, 16 Oct 2026 00:15:49 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: respan/span-02</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan liquid/d1-ultra</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792109114627-openrouter-models-8b3341b6</guid>
-      <pubDate>Fri, 16 Oct 2026 00:05:09 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: liquid/d1-ultra</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: gemini-4-argon-high</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1792106354493-arena-live-model-roster-dcafec57</guid>
-      <pubDate>Thu, 15 Oct 2026 23:19:14 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: gemini-4-argon-high</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1792105291797-deepswe-benchlm-mirror-7eb6ecda</guid>
-      <pubDate>Thu, 15 Oct 2026 23:01:31 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan krea/k3-edit</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792103639254-openrouter-models-67764707</guid>
-      <pubDate>Thu, 15 Oct 2026 22:33:52 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: krea/k3-edit</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792102948741-openrouter-models-bad3e7eb</guid>
-      <pubDate>Thu, 15 Oct 2026 22:22:18 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: moondream/moondream3-preview, moondream/moondream3.1-9b-a2b</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan nvidia/nemotron-3.5-embed-8b</title>
-      <link>https://huggingface.co/nvidia/nemotron-3.5-embed-1b-bf16</link>
-      <guid isPermaLink="false">1792102724452-nvidia-official-model-weights-367c126d</guid>
-      <pubDate>Thu, 15 Oct 2026 22:18:44 GMT</pubDate>
-      <description>NVIDIA Nemotron official model weights: 1 entri model baru
-
-Ditambahkan: nvidia/nemotron-3.5-embed-1b, nvidia/nemotron-3.5-embed-8b</description>
-    </item>
-    <item>
-      <title>Bocoran model ChatGPT/OpenAI: gpt-rosalind</title>
-      <link>https://x.com/i/web/status/2110841898076418336</link>
-      <guid isPermaLink="false">1792099242491-official-x-model-posts-47473809</guid>
-      <pubDate>Thu, 15 Oct 2026 21:20:42 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 bocoran model baru
-
-Ditambahkan: gpt-rosalind</description>
-    </item>
-    <item>
-      <title>IBM Granite menambahkan ibm-granite/granite-switch-4.1-8b</title>
-      <link>https://huggingface.co/ibm-granite/granite-switch-4.1-8b</link>
-      <guid isPermaLink="false">1792096450041-ibm-official-model-weights-52726c4b</guid>
-      <pubDate>Thu, 15 Oct 2026 20:34:09 GMT</pubDate>
-      <description>IBM Granite official model weights: 1 entri model baru
-
-Ditambahkan: ibm-granite/granite-switch-4.1-8b</description>
     </item>
   </channel>
 </rss>
