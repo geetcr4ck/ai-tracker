@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model LM Arena: flux-3-image-klein</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1792185732222-arena-live-model-roster-42b20350</guid>
+      <pubDate>Fri, 16 Oct 2026 21:22:11 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: flux-3-image-klein</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan ~perplexity/pplx-decider-flash-latest</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792184661733-openrouter-models-1fdbe16b</guid>
+      <pubDate>Fri, 16 Oct 2026 21:04:15 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: ~perplexity/pplx-decider-flash-latest</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-astra-pro</title>
+      <link>https://x.com/i/web/status/2111192259073094035</link>
+      <guid isPermaLink="false">1792182446236-official-x-model-posts-d60e96ef</guid>
+      <pubDate>Fri, 16 Oct 2026 20:27:26 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: gpt-6-astra-pro</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792182328429-openrouter-models-b022fee6</guid>
+      <pubDate>Fri, 16 Oct 2026 20:25:18 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: perplexity/pplx-decider-flash-v1.2, perplexity/pplx-decider-v1.2</description>
+    </item>
+    <item>
       <title>ChatGPT/OpenAI menambahkan gpt-6-pro</title>
       <link>https://x.com/i/web/status/2111185504746213705</link>
       <guid isPermaLink="false">1792180835810-official-x-model-posts-cf0ce6b3</guid>
@@ -61,40 +97,6 @@ Ditambahkan: xingchen-agi/xing4.0-29b-a4b:free</description>
       <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: black-forest-labs/flux-3-image-klein, bria/ad-delayer, fireworks/ember-1, krea/krea-3, recraft/recraftv4-1-flash, reflection-ai/beam-1.0-501b-a23b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan reflection/beam-1.0-501b-a23b</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792164831200-openrouter-models-010d9701</guid>
-      <pubDate>Fri, 16 Oct 2026 15:33:45 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: reflection/beam-1.0-501b-a23b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added microsoft/scfm-dataselection</title>
-      <link>https://huggingface.co/microsoft/scfm-dataselection</link>
-      <guid isPermaLink="false">1792161377595-official-huggingface-new-models-51fb8ca2</guid>
-      <pubDate>Fri, 16 Oct 2026 14:36:16 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: microsoft/scfm-dataselection</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added tencent/qwen3-8b-dspine-b16</title>
-      <link>https://huggingface.co/tencent/qwen3-8b-dspine-b16</link>
-      <guid isPermaLink="false">1792160332034-official-huggingface-new-models-2136834b</guid>
-      <pubDate>Fri, 16 Oct 2026 14:18:51 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: tencent/qwen3-8b-dspine-b16</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1792160163476-artificial-analysis-llm-leaderboard-8e2c2da8</guid>
-      <pubDate>Fri, 16 Oct 2026 14:16:03 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
