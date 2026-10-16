@@ -6,6 +6,47 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-pro</title>
+      <link>https://x.com/i/web/status/2111185504746213705</link>
+      <guid isPermaLink="false">1792180835810-official-x-model-posts-cf0ce6b3</guid>
+      <pubDate>Fri, 16 Oct 2026 20:00:35 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: gpt-6-pro</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): typesafe/jev-1.14.0</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/9cb1933da5d6a68cc3de9b00c61a378b0ba9c401/src/content/catalog-models/typesafe-jev-1.14.0.json</link>
+      <guid isPermaLink="false">1792178335991-cloudflare-gateway-catalog-03833c8a</guid>
+      <pubDate>Fri, 16 Oct 2026 19:18:53 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: typesafe/jev-1.14.0</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan xingchen-agi/xing4.0-29b-a4b:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792178301885-openrouter-models-0ef8bbf8</guid>
+      <pubDate>Fri, 16 Oct 2026 19:18:12 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: xingchen-agi/xing4.0-29b-a4b:free</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1792177687640-deepswe-benchlm-mirror-1e570615</guid>
+      <pubDate>Fri, 16 Oct 2026 19:08:07 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1792174332908-deepswe-benchlm-mirror-cd9d98c3</guid>
+      <pubDate>Fri, 16 Oct 2026 18:12:11 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Hasil benchmark DeepSWE berubah</title>
       <link>https://benchlm.ai/benchmarks/deepSwe</link>
       <guid isPermaLink="false">1792167165788-deepswe-benchlm-mirror-0ced248e</guid>
@@ -54,27 +95,6 @@ Ditambahkan: tencent/qwen3-8b-dspine-b16</description>
       <guid isPermaLink="false">1792160163476-artificial-analysis-llm-leaderboard-8e2c2da8</guid>
       <pubDate>Fri, 16 Oct 2026 14:16:03 GMT</pubDate>
       <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792159437862-artificial-analysis-api-free-4908fa61</guid>
-      <pubDate>Fri, 16 Oct 2026 14:03:57 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1792156964562-artificial-analysis-llm-leaderboard-73c2a760</guid>
-      <pubDate>Fri, 16 Oct 2026 13:22:44 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 69 baris hasil benchmark ditambahkan, 68 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792156480004-artificial-analysis-api-free-00f14685</guid>
-      <pubDate>Fri, 16 Oct 2026 13:14:39 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
   </channel>
 </rss>
