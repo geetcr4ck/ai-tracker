@@ -6,6 +6,63 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1792167165788-deepswe-benchlm-mirror-0ced248e</guid>
+      <pubDate>Fri, 16 Oct 2026 16:12:45 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/0a7e37ca429f00cf754c5504bafb0b8e564f4e59/src/content/catalog-models/black-forest-labs-flux-3-image-klein.json</link>
+      <guid isPermaLink="false">1792167043167-cloudflare-gateway-catalog-e32f2e92</guid>
+      <pubDate>Fri, 16 Oct 2026 16:10:41 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: black-forest-labs/flux-3-image-klein, bria/ad-delayer, fireworks/ember-1, krea/krea-3, recraft/recraftv4-1-flash, reflection-ai/beam-1.0-501b-a23b</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan reflection/beam-1.0-501b-a23b</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792164831200-openrouter-models-010d9701</guid>
+      <pubDate>Fri, 16 Oct 2026 15:33:45 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: reflection/beam-1.0-501b-a23b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added microsoft/scfm-dataselection</title>
+      <link>https://huggingface.co/microsoft/scfm-dataselection</link>
+      <guid isPermaLink="false">1792161377595-official-huggingface-new-models-51fb8ca2</guid>
+      <pubDate>Fri, 16 Oct 2026 14:36:16 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: microsoft/scfm-dataselection</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added tencent/qwen3-8b-dspine-b16</title>
+      <link>https://huggingface.co/tencent/qwen3-8b-dspine-b16</link>
+      <guid isPermaLink="false">1792160332034-official-huggingface-new-models-2136834b</guid>
+      <pubDate>Fri, 16 Oct 2026 14:18:51 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: tencent/qwen3-8b-dspine-b16</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1792160163476-artificial-analysis-llm-leaderboard-8e2c2da8</guid>
+      <pubDate>Fri, 16 Oct 2026 14:16:03 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792159437862-artificial-analysis-api-free-4908fa61</guid>
+      <pubDate>Fri, 16 Oct 2026 14:03:57 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1792156964562-artificial-analysis-llm-leaderboard-73c2a760</guid>
@@ -18,110 +75,6 @@
       <guid isPermaLink="false">1792156480004-artificial-analysis-api-free-00f14685</guid>
       <pubDate>Fri, 16 Oct 2026 13:14:39 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Reflection AI/Beam menambahkan reflection/beam-1.0-501b-a23b-dflash2</title>
-      <link>https://huggingface.co/reflection/beam-1.0-501b-a23b-dflash2</link>
-      <guid isPermaLink="false">1792155654166-reflection-official-model-weights-4482e2bd</guid>
-      <pubDate>Fri, 16 Oct 2026 13:00:54 GMT</pubDate>
-      <description>Reflection AI official model weights: 1 entri model baru
-
-Ditambahkan: reflection/beam-1.0-501b-a23b-dflash2</description>
-    </item>
-    <item>
-      <title>Reflection AI/Beam menambahkan reflection/beam-1.0-501b-a23b</title>
-      <link>https://huggingface.co/reflection/beam-1.0-501b-a23b</link>
-      <guid isPermaLink="false">1792155603771-reflection-official-model-weights-00c2ae10</guid>
-      <pubDate>Fri, 16 Oct 2026 13:00:03 GMT</pubDate>
-      <description>Reflection AI official model weights: 1 entri model baru
-
-Ditambahkan: reflection/beam-1.0-501b-a23b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added xingchen-agi/xing4.0-29b-a4b-w8a8</title>
-      <link>https://huggingface.co/xingchen-agi/xing4.0-29b-a4b-w8a8</link>
-      <guid isPermaLink="false">1792139031155-official-huggingface-new-models-e8a5fbf7</guid>
-      <pubDate>Fri, 16 Oct 2026 08:23:51 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: xingchen-agi/xing4.0-29b-a4b-w8a8</description>
-    </item>
-    <item>
-      <title>Liquid AI/LFM menambahkan d1-ultra</title>
-      <link>https://docs.liquid.ai/lfm/models/complete-library</link>
-      <guid isPermaLink="false">1792134849388-liquid-models-docs-cbd4cb76</guid>
-      <pubDate>Fri, 16 Oct 2026 07:14:09 GMT</pubDate>
-      <description>Liquid AI model library docs: 1 entri model baru
-
-Ditambahkan: d1-ultra</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1792130467632-artificial-analysis-llm-leaderboard-4b46ea53</guid>
-      <pubDate>Fri, 16 Oct 2026 06:01:06 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 59 baris hasil benchmark ditambahkan, 58 dihapus</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zwz2-27b</title>
-      <link>https://huggingface.co/inclusionai/zwz2-27b</link>
-      <guid isPermaLink="false">1792129972401-inclusionai-official-model-weights-c782dfb8</guid>
-      <pubDate>Fri, 16 Oct 2026 05:52:52 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-27b</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792129761551-artificial-analysis-api-free-1c8c3ef0</guid>
-      <pubDate>Fri, 16 Oct 2026 05:49:21 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zwz2-27b</title>
-      <link>https://huggingface.co/inclusionai/zwz2-27b</link>
-      <guid isPermaLink="false">1792129372194-official-huggingface-new-models-851c52da</guid>
-      <pubDate>Fri, 16 Oct 2026 05:42:52 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-27b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/muse-spark-open-816b-a42b-dflash2</title>
-      <link>https://huggingface.co/nvidia/muse-spark-open-816b-a42b-dflash2</link>
-      <guid isPermaLink="false">1792127999967-official-huggingface-new-models-60492139</guid>
-      <pubDate>Fri, 16 Oct 2026 05:19:59 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/muse-spark-open-816b-a42b-dflash2</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zwz2-9b</title>
-      <link>https://huggingface.co/inclusionai/zwz2-9b</link>
-      <guid isPermaLink="false">1792122395452-inclusionai-official-model-weights-84470fee</guid>
-      <pubDate>Fri, 16 Oct 2026 03:46:35 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-9b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zwz2-9b</title>
-      <link>https://huggingface.co/inclusionai/zwz2-9b</link>
-      <guid isPermaLink="false">1792122321962-official-huggingface-new-models-e1c42b03</guid>
-      <pubDate>Fri, 16 Oct 2026 03:44:42 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-9b</description>
-    </item>
-    <item>
-      <title>Bocoran model StepFun: step-5</title>
-      <link>https://x.com/i/web/status/2110896147082695009</link>
-      <guid isPermaLink="false">1792111847970-official-x-model-posts-943f4de6</guid>
-      <pubDate>Fri, 16 Oct 2026 00:50:47 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 bocoran model baru
-
-Ditambahkan: step-5</description>
     </item>
   </channel>
 </rss>
