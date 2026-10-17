@@ -6,6 +6,33 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Social posts menambahkan deepseek-v4.1-flash-1017</title>
+      <link>https://x.com/i/web/status/2111375640717033777</link>
+      <guid isPermaLink="false">1792226168579-official-x-model-posts-2-2626d5c9</guid>
+      <pubDate>Sat, 17 Oct 2026 08:36:08 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan deepseek/deepseek-v4.1-flash-1017</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792225758685-openrouter-models-cd39672d</guid>
+      <pubDate>Sat, 17 Oct 2026 08:29:09 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: deepseek/deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
+      <title>DeepSeek menambahkan deepseek-ai/deepseek-v4.1-flash-1017</title>
+      <link>https://huggingface.co/deepseek-ai/deepseek-v4.1-flash-1017</link>
+      <guid isPermaLink="false">1792224391209-deepseek-official-model-weights-5236036f</guid>
+      <pubDate>Sat, 17 Oct 2026 08:06:31 GMT</pubDate>
+      <description>DeepSeek official model weights: 1 entri model baru
+
+Ditambahkan: deepseek-ai/deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan elorian/glimpse</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1792206785938-openrouter-models-b767f3c3</guid>
@@ -13,69 +40,6 @@
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: elorian/glimpse</description>
-    </item>
-    <item>
-      <title>DeepSeek menambahkan deepseek-v4.1-flash-1017</title>
-      <link>https://api.deepseek.com/models</link>
-      <guid isPermaLink="false">1792202344054-deepseek-api-models-0a094e0d</guid>
-      <pubDate>Sat, 17 Oct 2026 01:59:03 GMT</pubDate>
-      <description>DeepSeek API models: 1 entri model baru
-
-Ditambahkan: deepseek-v4.1-flash-1017</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): meta/muse-spark-open</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/c7e5b29eb2a2b986c13e744421aa750ebbaba6b8/src/content/catalog-models/meta-muse-spark-open.json</link>
-      <guid isPermaLink="false">1792198169585-cloudflare-gateway-catalog-90fb2193</guid>
-      <pubDate>Sat, 17 Oct 2026 00:49:28 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: meta/muse-spark-open</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan qwen/qwen-image-2.1-turbo</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792194772278-openrouter-models-7597ddc0</guid>
-      <pubDate>Fri, 16 Oct 2026 23:52:43 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: qwen/qwen-image-2.1-turbo</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan qwen/qwen-image-2.1-pro</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792194498021-openrouter-models-e666205d</guid>
-      <pubDate>Fri, 16 Oct 2026 23:48:12 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: qwen/qwen-image-2.1-pro</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): beam-1.0</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/0.243.1/linux/x64/droid</link>
-      <guid isPermaLink="false">1792192809887-factory-droid-registry-125307be</guid>
-      <pubDate>Fri, 16 Oct 2026 23:20:05 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: beam-1.0</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: flux-3-image-klein</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1792185732222-arena-live-model-roster-42b20350</guid>
-      <pubDate>Fri, 16 Oct 2026 21:22:11 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: flux-3-image-klein</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan ~perplexity/pplx-decider-flash-latest</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792184661733-openrouter-models-1fdbe16b</guid>
-      <pubDate>Fri, 16 Oct 2026 21:04:15 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: ~perplexity/pplx-decider-flash-latest</description>
     </item>
   </channel>
 </rss>
