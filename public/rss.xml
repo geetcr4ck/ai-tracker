@@ -6,6 +6,33 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan elorian/glimpse</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792206785938-openrouter-models-b767f3c3</guid>
+      <pubDate>Sat, 17 Oct 2026 03:13:00 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: elorian/glimpse</description>
+    </item>
+    <item>
+      <title>DeepSeek menambahkan deepseek-v4.1-flash-1017</title>
+      <link>https://api.deepseek.com/models</link>
+      <guid isPermaLink="false">1792202344054-deepseek-api-models-0a094e0d</guid>
+      <pubDate>Sat, 17 Oct 2026 01:59:03 GMT</pubDate>
+      <description>DeepSeek API models: 1 entri model baru
+
+Ditambahkan: deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): meta/muse-spark-open</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/c7e5b29eb2a2b986c13e744421aa750ebbaba6b8/src/content/catalog-models/meta-muse-spark-open.json</link>
+      <guid isPermaLink="false">1792198169585-cloudflare-gateway-catalog-90fb2193</guid>
+      <pubDate>Sat, 17 Oct 2026 00:49:28 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: meta/muse-spark-open</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan qwen/qwen-image-2.1-turbo</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1792194772278-openrouter-models-7597ddc0</guid>
@@ -49,65 +76,6 @@ Ditambahkan: flux-3-image-klein</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: ~perplexity/pplx-decider-flash-latest</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-astra-pro</title>
-      <link>https://x.com/i/web/status/2111192259073094035</link>
-      <guid isPermaLink="false">1792182446236-official-x-model-posts-d60e96ef</guid>
-      <pubDate>Fri, 16 Oct 2026 20:27:26 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: gpt-6-astra-pro</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792182328429-openrouter-models-b022fee6</guid>
-      <pubDate>Fri, 16 Oct 2026 20:25:18 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: perplexity/pplx-decider-flash-v1.2, perplexity/pplx-decider-v1.2</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-pro</title>
-      <link>https://x.com/i/web/status/2111185504746213705</link>
-      <guid isPermaLink="false">1792180835810-official-x-model-posts-cf0ce6b3</guid>
-      <pubDate>Fri, 16 Oct 2026 20:00:35 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: gpt-6-pro</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): typesafe/jev-1.14.0</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/9cb1933da5d6a68cc3de9b00c61a378b0ba9c401/src/content/catalog-models/typesafe-jev-1.14.0.json</link>
-      <guid isPermaLink="false">1792178335991-cloudflare-gateway-catalog-03833c8a</guid>
-      <pubDate>Fri, 16 Oct 2026 19:18:53 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: typesafe/jev-1.14.0</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan xingchen-agi/xing4.0-29b-a4b:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792178301885-openrouter-models-0ef8bbf8</guid>
-      <pubDate>Fri, 16 Oct 2026 19:18:12 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: xingchen-agi/xing4.0-29b-a4b:free</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1792177687640-deepswe-benchlm-mirror-1e570615</guid>
-      <pubDate>Fri, 16 Oct 2026 19:08:07 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1792174332908-deepswe-benchlm-mirror-cd9d98c3</guid>
-      <pubDate>Fri, 16 Oct 2026 18:12:11 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
