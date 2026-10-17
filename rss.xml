@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model dari katalog: deepseek-v4.1-flash-1017</title>
+      <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
+      <guid isPermaLink="false">1792263070815-alibaba-model-studio-partner-models-3e8802e1</guid>
+      <pubDate>Sat, 17 Oct 2026 18:51:09 GMT</pubDate>
+      <description>Alibaba Model Studio partner models: 1 bocoran model baru
+
+Ditambahkan: deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
       <title>Bocoran model LM Arena: deepseek-v4.1-flash-max</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1792258302375-arena-live-model-roster-6a13e141</guid>
@@ -49,15 +58,6 @@ Ditambahkan: deepseek-v4.1-flash-1017</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: deepseek/deepseek-v4.1-flash-1017</description>
-    </item>
-    <item>
-      <title>DeepSeek menambahkan deepseek-ai/deepseek-v4.1-flash-1017</title>
-      <link>https://huggingface.co/deepseek-ai/deepseek-v4.1-flash-1017</link>
-      <guid isPermaLink="false">1792224391209-deepseek-official-model-weights-5236036f</guid>
-      <pubDate>Sat, 17 Oct 2026 08:06:31 GMT</pubDate>
-      <description>DeepSeek official model weights: 1 entri model baru
-
-Ditambahkan: deepseek-ai/deepseek-v4.1-flash-1017</description>
     </item>
   </channel>
 </rss>
