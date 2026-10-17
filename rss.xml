@@ -6,6 +6,33 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan qwen/qwen-image-2.1-turbo</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792194772278-openrouter-models-7597ddc0</guid>
+      <pubDate>Fri, 16 Oct 2026 23:52:43 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: qwen/qwen-image-2.1-turbo</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan qwen/qwen-image-2.1-pro</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792194498021-openrouter-models-e666205d</guid>
+      <pubDate>Fri, 16 Oct 2026 23:48:12 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: qwen/qwen-image-2.1-pro</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): beam-1.0</title>
+      <link>https://downloads.factory.ai/factory-cli/releases/0.243.1/linux/x64/droid</link>
+      <guid isPermaLink="false">1792192809887-factory-droid-registry-125307be</guid>
+      <pubDate>Fri, 16 Oct 2026 23:20:05 GMT</pubDate>
+      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: beam-1.0</description>
+    </item>
+    <item>
       <title>Bocoran model LM Arena: flux-3-image-klein</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1792185732222-arena-live-model-roster-42b20350</guid>
@@ -81,22 +108,6 @@ Ditambahkan: xingchen-agi/xing4.0-29b-a4b:free</description>
       <guid isPermaLink="false">1792174332908-deepswe-benchlm-mirror-cd9d98c3</guid>
       <pubDate>Fri, 16 Oct 2026 18:12:11 GMT</pubDate>
       <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1792167165788-deepswe-benchlm-mirror-0ced248e</guid>
-      <pubDate>Fri, 16 Oct 2026 16:12:45 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/0a7e37ca429f00cf754c5504bafb0b8e564f4e59/src/content/catalog-models/black-forest-labs-flux-3-image-klein.json</link>
-      <guid isPermaLink="false">1792167043167-cloudflare-gateway-catalog-e32f2e92</guid>
-      <pubDate>Fri, 16 Oct 2026 16:10:41 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: black-forest-labs/flux-3-image-klein, bria/ad-delayer, fireworks/ember-1, krea/krea-3, recraft/recraftv4-1-flash, reflection-ai/beam-1.0-501b-a23b</description>
     </item>
   </channel>
 </rss>
