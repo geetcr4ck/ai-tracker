@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ByteDance Seed/Doubao menambahkan seed-2-0</title>
+      <link>https://www.volcengine.com/docs/82379/1330310</link>
+      <guid isPermaLink="false">1792228911211-volcengine-ark-model-docs-bd1f2978</guid>
+      <pubDate>Sat, 17 Oct 2026 09:21:49 GMT</pubDate>
+      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
+
+Ditambahkan: seed-2-0</description>
+    </item>
+    <item>
       <title>Social posts menambahkan deepseek-v4.1-flash-1017</title>
       <link>https://x.com/i/web/status/2111375640717033777</link>
       <guid isPermaLink="false">1792226168579-official-x-model-posts-2-2626d5c9</guid>
@@ -31,15 +40,6 @@ Ditambahkan: deepseek/deepseek-v4.1-flash-1017</description>
       <description>DeepSeek official model weights: 1 entri model baru
 
 Ditambahkan: deepseek-ai/deepseek-v4.1-flash-1017</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan elorian/glimpse</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792206785938-openrouter-models-b767f3c3</guid>
-      <pubDate>Sat, 17 Oct 2026 03:13:00 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: elorian/glimpse</description>
     </item>
   </channel>
 </rss>
