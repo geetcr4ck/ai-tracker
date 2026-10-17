@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan unbiased/pareto-26.10</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792271891107-openrouter-models-1ea281b0</guid>
+      <pubDate>Sat, 17 Oct 2026 21:17:59 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: unbiased/pareto-26.10</description>
+    </item>
+    <item>
       <title>Bocoran model dari katalog: deepseek-v4.1-flash-1017</title>
       <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
       <guid isPermaLink="false">1792263070815-alibaba-model-studio-partner-models-3e8802e1</guid>
@@ -31,33 +40,6 @@ Ditambahkan: deepseek-v4.1-flash-max</description>
       <description>Official AI lab posts on X (group 2): 1 entri model baru
 
 Ditambahkan: flux-3-image-klein</description>
-    </item>
-    <item>
-      <title>ByteDance Seed/Doubao menambahkan seed-2-0</title>
-      <link>https://www.volcengine.com/docs/82379/1330310</link>
-      <guid isPermaLink="false">1792228911211-volcengine-ark-model-docs-bd1f2978</guid>
-      <pubDate>Sat, 17 Oct 2026 09:21:49 GMT</pubDate>
-      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
-
-Ditambahkan: seed-2-0</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan deepseek-v4.1-flash-1017</title>
-      <link>https://x.com/i/web/status/2111375640717033777</link>
-      <guid isPermaLink="false">1792226168579-official-x-model-posts-2-2626d5c9</guid>
-      <pubDate>Sat, 17 Oct 2026 08:36:08 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: deepseek-v4.1-flash-1017</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan deepseek/deepseek-v4.1-flash-1017</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792225758685-openrouter-models-cd39672d</guid>
-      <pubDate>Sat, 17 Oct 2026 08:29:09 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: deepseek/deepseek-v4.1-flash-1017</description>
     </item>
   </channel>
 </rss>
