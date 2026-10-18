@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model LM Arena: deepseek-v4.1-flash-high</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1792281549482-arena-live-model-roster-d4501255</guid>
+      <pubDate>Sat, 17 Oct 2026 23:59:09 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: deepseek-v4.1-flash-high</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan unbiased/pareto-26.10</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1792271891107-openrouter-models-1ea281b0</guid>
@@ -31,15 +40,6 @@ Ditambahkan: deepseek-v4.1-flash-1017</description>
       <description>Arena live selectable-model roster: 1 bocoran model baru
 
 Ditambahkan: deepseek-v4.1-flash-max</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan flux-3-image-klein</title>
-      <link>https://x.com/i/web/status/2111467996350652684</link>
-      <guid isPermaLink="false">1792248186733-official-x-model-posts-2-f65b9a3f</guid>
-      <pubDate>Sat, 17 Oct 2026 14:43:06 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: flux-3-image-klein</description>
     </item>
   </channel>
 </rss>
