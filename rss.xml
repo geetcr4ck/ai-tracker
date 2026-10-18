@@ -23,14 +23,5 @@ Ditambahkan: nvidia/nemotron-3.5-parse</description>
 
 Ditambahkan: deepseek-v4.1-flash-high</description>
     </item>
-    <item>
-      <title>OpenRouter menambahkan unbiased/pareto-26.10</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792271891107-openrouter-models-1ea281b0</guid>
-      <pubDate>Sat, 17 Oct 2026 21:17:59 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: unbiased/pareto-26.10</description>
-    </item>
   </channel>
 </rss>
