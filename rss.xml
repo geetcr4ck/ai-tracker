@@ -6,6 +6,22 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792452854676-artificial-analysis-api-free-4b7b0bef</guid>
+      <pubDate>Mon, 19 Oct 2026 23:34:13 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/physical-plausibility-evaluator</title>
+      <link>https://huggingface.co/nvidia/physical-plausibility-evaluator</link>
+      <guid isPermaLink="false">1792448748805-official-huggingface-lab-rotation-96452656</guid>
+      <pubDate>Mon, 19 Oct 2026 22:25:48 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/physical-plausibility-evaluator</description>
+    </item>
+    <item>
       <title>Image, video &amp; audio labs menambahkan krea-3</title>
       <link>https://x.com/i/web/status/2112273927074632120</link>
       <guid isPermaLink="false">1792440335875-official-x-model-posts-4-ecd3097b</guid>
@@ -122,38 +138,6 @@ Ditambahkan: MiniMax-M3.1-Flash</description>
       <guid isPermaLink="false">1792399447359-minimax-agent-model-catalog-01d451b7</guid>
       <pubDate>Mon, 19 Oct 2026 08:44:07 GMT</pubDate>
       <description>MiniMax Agent model selector: 2 removed model entries</description>
-    </item>
-    <item>
-      <title>MiniMax/Hailuo menghapus minimax-m3.1-flash-preview</title>
-      <link>https://platform.minimax.io/docs/api-reference/api-overview</link>
-      <guid isPermaLink="false">1792384867502-minimax-models-docs-09aac062-confirmed-removal</guid>
-      <pubDate>Mon, 19 Oct 2026 04:41:07 GMT</pubDate>
-      <description>MiniMax official API models: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>MiniMax/Hailuo menambahkan minimax-m3.1-flash</title>
-      <link>https://platform.minimax.io/docs/api-reference/api-overview</link>
-      <guid isPermaLink="false">1792384564926-minimax-models-docs-09aac062</guid>
-      <pubDate>Mon, 19 Oct 2026 04:36:04 GMT</pubDate>
-      <description>MiniMax official API models: 1 entri model baru
-
-Ditambahkan: minimax-m3.1-flash</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: deepseek-v4.1-flash-1017</title>
-      <link>https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</link>
-      <guid isPermaLink="false">1792384436528-artificial-analysis-model-discovery-dc53a729</guid>
-      <pubDate>Mon, 19 Oct 2026 04:33:55 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: deepseek-v4.1-flash-1017</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792383303701-artificial-analysis-api-free-7306d41e</guid>
-      <pubDate>Mon, 19 Oct 2026 04:15:02 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
   </channel>
 </rss>
