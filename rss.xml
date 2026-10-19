@@ -6,6 +6,51 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Image, video &amp; audio labs menambahkan krea-3</title>
+      <link>https://x.com/i/web/status/2112273927074632120</link>
+      <guid isPermaLink="false">1792440335875-official-x-model-posts-4-ecd3097b</guid>
+      <pubDate>Mon, 19 Oct 2026 20:05:35 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 entri model baru
+
+Ditambahkan: krea-3</description>
+    </item>
+    <item>
+      <title>Social posts menambahkan 2 models</title>
+      <link>https://x.com/i/web/status/2112255353677328415</link>
+      <guid isPermaLink="false">1792440001395-official-x-model-posts-2-717f746b</guid>
+      <pubDate>Mon, 19 Oct 2026 20:00:01 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 2 entri model baru
+
+Ditambahkan: flux-3, flux-3-max</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan inception/mercury-3</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792439618605-openrouter-models-b946dc14</guid>
+      <pubDate>Mon, 19 Oct 2026 19:53:31 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: inception/mercury-3</description>
+    </item>
+    <item>
+      <title>Black Forest Labs/FLUX menambahkan flux-3-max</title>
+      <link>https://bfl.ai/models</link>
+      <guid isPermaLink="false">1792439596946-bfl-models-catalog-5686d3a1</guid>
+      <pubDate>Mon, 19 Oct 2026 19:53:16 GMT</pubDate>
+      <description>Black Forest Labs official model catalog: 1 entri model baru
+
+Ditambahkan: flux-3-max</description>
+    </item>
+    <item>
+      <title>ByteDance Seed/Doubao menambahkan seed-translation-2</title>
+      <link>https://www.volcengine.com/docs/82379/1330310</link>
+      <guid isPermaLink="false">1792423591064-volcengine-ark-model-docs-ec050010</guid>
+      <pubDate>Mon, 19 Oct 2026 15:26:29 GMT</pubDate>
+      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
+
+Ditambahkan: seed-translation-2</description>
+    </item>
+    <item>
       <title>inclusionAI (Ant Ling/Ring) menambahkan 4 models</title>
       <link>https://huggingface.co/inclusionai/ming-3.0-asr-tiny</link>
       <guid isPermaLink="false">1792420094608-inclusionai-official-model-weights-f82f9420</guid>
@@ -109,15 +154,6 @@ Ditambahkan: deepseek-v4.1-flash-1017</description>
       <guid isPermaLink="false">1792383303701-artificial-analysis-api-free-7306d41e</guid>
       <pubDate>Mon, 19 Oct 2026 04:15:02 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: gpt-image-2.5-sunburst</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1792378640663-arena-live-model-roster-16171587</guid>
-      <pubDate>Mon, 19 Oct 2026 02:57:20 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: gpt-image-2.5-sunburst</description>
     </item>
   </channel>
 </rss>
