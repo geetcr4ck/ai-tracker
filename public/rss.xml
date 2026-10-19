@@ -6,11 +6,45 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/public-benefit-fund</link>
-      <guid isPermaLink="false">1792346863728-anthropic-news-f98f84d3-new-page</guid>
-      <pubDate>Sun, 18 Oct 2026 18:07:43 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
+      <title>MiniMax/Hailuo menghapus minimax-m3.1-flash-preview</title>
+      <link>https://platform.minimax.io/docs/api-reference/api-overview</link>
+      <guid isPermaLink="false">1792384867502-minimax-models-docs-09aac062-confirmed-removal</guid>
+      <pubDate>Mon, 19 Oct 2026 04:41:07 GMT</pubDate>
+      <description>MiniMax official API models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>MiniMax/Hailuo menambahkan minimax-m3.1-flash</title>
+      <link>https://platform.minimax.io/docs/api-reference/api-overview</link>
+      <guid isPermaLink="false">1792384564926-minimax-models-docs-09aac062</guid>
+      <pubDate>Mon, 19 Oct 2026 04:36:04 GMT</pubDate>
+      <description>MiniMax official API models: 1 entri model baru
+
+Ditambahkan: minimax-m3.1-flash</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: deepseek-v4.1-flash-1017</title>
+      <link>https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</link>
+      <guid isPermaLink="false">1792384436528-artificial-analysis-model-discovery-dc53a729</guid>
+      <pubDate>Mon, 19 Oct 2026 04:33:55 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792383303701-artificial-analysis-api-free-7306d41e</guid>
+      <pubDate>Mon, 19 Oct 2026 04:15:02 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Bocoran model LM Arena: gpt-image-2.5-sunburst</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1792378640663-arena-live-model-roster-16171587</guid>
+      <pubDate>Mon, 19 Oct 2026 02:57:20 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: gpt-image-2.5-sunburst</description>
     </item>
   </channel>
 </rss>
