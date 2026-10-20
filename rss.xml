@@ -6,6 +6,33 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Image, video &amp; audio labs menambahkan 2 models</title>
+      <link>https://elevenlabs.io/docs/overview/models</link>
+      <guid isPermaLink="false">1792499301615-elevenlabs-models-docs-e53f5159</guid>
+      <pubDate>Tue, 20 Oct 2026 12:28:21 GMT</pubDate>
+      <description>ElevenLabs models docs: 2 entri model baru
+
+Ditambahkan: eleven_realtime_v1_max, eleven_realtime_v1_mini</description>
+    </item>
+    <item>
+      <title>Social posts menambahkan deepseek-v4.1-flash</title>
+      <link>https://x.com/i/web/status/2112476496283775135</link>
+      <guid isPermaLink="false">1792488632900-official-x-model-posts-2-730e4782</guid>
+      <pubDate>Tue, 20 Oct 2026 09:30:32 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: deepseek-v4.1-flash</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added microsoft/bioemu2</title>
+      <link>https://huggingface.co/microsoft/bioemu2</link>
+      <guid isPermaLink="false">1792487218913-official-huggingface-lab-rotation-b2c1efa0</guid>
+      <pubDate>Tue, 20 Oct 2026 09:06:58 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: microsoft/bioemu2</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added 3 models</title>
       <link>https://huggingface.co/nvidia/cosmos-anomalygen-glass-nano</link>
       <guid isPermaLink="false">1792457955488-official-huggingface-lab-rotation-6e89b3a7</guid>
@@ -74,49 +101,6 @@ Ditambahkan: flux-3-max</description>
       <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
 
 Ditambahkan: seed-translation-2</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan 4 models</title>
-      <link>https://huggingface.co/inclusionai/ming-3.0-asr-tiny</link>
-      <guid isPermaLink="false">1792420094608-inclusionai-official-model-weights-f82f9420</guid>
-      <pubDate>Mon, 19 Oct 2026 14:28:14 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 4 entri model baru
-
-Ditambahkan: inclusionai/ming-3.0-asr-tiny, inclusionai/ming-3.0-audio-flash, inclusionai/ming-3.0-audio-tiny, inclusionai/ming-3.0-tts-0.5b</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/ming-3.0-tts-tiny</title>
-      <link>https://huggingface.co/inclusionai/ming-3.0-tts-tiny</link>
-      <guid isPermaLink="false">1792419730986-inclusionai-official-model-weights-87af9006</guid>
-      <pubDate>Mon, 19 Oct 2026 14:22:10 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/ming-3.0-tts-tiny</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: minimax-m3.1-flash</title>
-      <link>https://artificialanalysis.ai/models/minimax-m3-1-flash</link>
-      <guid isPermaLink="false">1792413995404-artificial-analysis-model-discovery-42e2051a</guid>
-      <pubDate>Mon, 19 Oct 2026 12:46:34 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: minimax-m3.1-flash</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792413267306-artificial-analysis-api-free-70c11a16</guid>
-      <pubDate>Mon, 19 Oct 2026 12:34:26 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan minimax/minimax-m3.1-flash:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792410913806-openrouter-models-591ff071</guid>
-      <pubDate>Mon, 19 Oct 2026 11:55:10 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: minimax/minimax-m3.1-flash:free</description>
     </item>
   </channel>
 </rss>
