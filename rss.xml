@@ -6,6 +6,49 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cohere menambahkan 4 models</title>
+      <link>https://docs.cohere.com/v1/docs/models</link>
+      <guid isPermaLink="false">1792527444731-cohere-models-docs-e060f2a6</guid>
+      <pubDate>Tue, 20 Oct 2026 20:17:23 GMT</pubDate>
+      <description>Cohere model docs: 4 entri model baru
+
+Ditambahkan: rerank-v5-fast, rerank-v5-pro, rerank-v5.0-fast, rerank-v5.0-pro</description>
+    </item>
+    <item>
+      <title>Cohere menambahkan 2 models</title>
+      <link>https://docs.cohere.com/docs/rerank-overview</link>
+      <guid isPermaLink="false">1792527443313-cohere-rerank-docs-249ec640</guid>
+      <pubDate>Tue, 20 Oct 2026 20:17:22 GMT</pubDate>
+      <description>Cohere reranking model documentation: 2 entri model baru
+
+Ditambahkan: rerank-v5.0-fast, rerank-v5.0-pro</description>
+    </item>
+    <item>
+      <title>Cohere menambahkan 2 models</title>
+      <link>https://docs.cohere.com/changelog</link>
+      <guid isPermaLink="false">1792527443150-cohere-release-notes-6c9a4fa1</guid>
+      <pubDate>Tue, 20 Oct 2026 20:17:21 GMT</pubDate>
+      <description>Cohere official release notes: 2 entri model baru
+
+Ditambahkan: rerank-v5.0-fast, rerank-v5.0-pro</description>
+    </item>
+    <item>
+      <title>Halaman web baru Grok/xAI</title>
+      <link>https://x.ai/news</link>
+      <guid isPermaLink="false">1792521034798-xai-news-sitemap-64fefabb-new-page</guid>
+      <pubDate>Tue, 20 Oct 2026 18:30:25 GMT</pubDate>
+      <description>xAI news sitemap: halaman web baru</description>
+    </item>
+    <item>
+      <title>Social posts menambahkan ornith-1.5-122b</title>
+      <link>https://x.com/i/web/status/2112574671438991718</link>
+      <guid isPermaLink="false">1792520149616-official-x-model-posts-4-eb77456d</guid>
+      <pubDate>Tue, 20 Oct 2026 18:15:38 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 entri model baru
+
+Ditambahkan: ornith-1.5-122b</description>
+    </item>
+    <item>
       <title>Claude new webpages</title>
       <link>https://www.anthropic.com/news/announcements</link>
       <guid isPermaLink="false">1792515771540-anthropic-news-2b3a9753-new-page</guid>
@@ -54,42 +97,6 @@ Ditambahkan: voxtral-3</description>
       <guid isPermaLink="false">1792508002265-microsoft-command-line-sitemap-68a677c0-new-page</guid>
       <pubDate>Tue, 20 Oct 2026 14:53:21 GMT</pubDate>
       <description>Microsoft Command Line blog: halaman web baru</description>
-    </item>
-    <item>
-      <title>Mistral AI menambahkan 4 models</title>
-      <link>https://docs.mistral.ai/models</link>
-      <guid isPermaLink="false">1792503084654-mistral-api-models-9be3e5fb</guid>
-      <pubDate>Tue, 20 Oct 2026 13:31:24 GMT</pubDate>
-      <description>Mistral API model catalog: 4 entri model baru
-
-Ditambahkan: voxtral-mini-transcribe-3, voxtral-mini-transcribe-3-0, voxtral-mini-transcribe-realtime-3, voxtral-mini-transcribe-realtime-3-0, voxtral-mini-tts-3, voxtral-mini-tts-3-0, voxtral-small-transcribe-3, voxtral-small-transcribe-3-0</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan 2 models</title>
-      <link>https://elevenlabs.io/docs/overview/models</link>
-      <guid isPermaLink="false">1792499301615-elevenlabs-models-docs-e53f5159</guid>
-      <pubDate>Tue, 20 Oct 2026 12:28:21 GMT</pubDate>
-      <description>ElevenLabs models docs: 2 entri model baru
-
-Ditambahkan: eleven_realtime_v1_max, eleven_realtime_v1_mini</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan deepseek-v4.1-flash</title>
-      <link>https://x.com/i/web/status/2112476496283775135</link>
-      <guid isPermaLink="false">1792488632900-official-x-model-posts-2-730e4782</guid>
-      <pubDate>Tue, 20 Oct 2026 09:30:32 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: deepseek-v4.1-flash</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added microsoft/bioemu2</title>
-      <link>https://huggingface.co/microsoft/bioemu2</link>
-      <guid isPermaLink="false">1792487218913-official-huggingface-lab-rotation-b2c1efa0</guid>
-      <pubDate>Tue, 20 Oct 2026 09:06:58 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: microsoft/bioemu2</description>
     </item>
   </channel>
 </rss>
