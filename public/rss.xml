@@ -118,35 +118,5 @@ Ditambahkan: minimax-m3.1-flash</description>
 
 Ditambahkan: minimax/minimax-m3.1-flash:free</description>
     </item>
-    <item>
-      <title>MiniMax/Hailuo menghapus 7 models</title>
-      <link>https://platform.minimax.io/docs/api-reference/api-overview</link>
-      <guid isPermaLink="false">1792410408900-minimax-models-docs-863322b2</guid>
-      <pubDate>Mon, 19 Oct 2026 11:46:48 GMT</pubDate>
-      <description>MiniMax official API models: 7 removed model entries</description>
-    </item>
-    <item>
-      <title>MiniMax/Hailuo menghapus minimax-m3.1-flash-preview</title>
-      <link>https://agent.minimax.io/minimax-cloud/api/v1/config</link>
-      <guid isPermaLink="false">1792408244319-minimax-agent-model-catalog-50ed7135-confirmed-removal</guid>
-      <pubDate>Mon, 19 Oct 2026 11:10:44 GMT</pubDate>
-      <description>MiniMax Agent model selector: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Bocoran model MiniMax/Hailuo: MiniMax-M3.1-Flash</title>
-      <link>https://agent.minimax.io/minimax-cloud/api/v1/config</link>
-      <guid isPermaLink="false">1792407941385-minimax-agent-model-catalog-50ed7135</guid>
-      <pubDate>Mon, 19 Oct 2026 11:05:41 GMT</pubDate>
-      <description>MiniMax Agent model selector: 1 bocoran model baru
-
-Ditambahkan: MiniMax-M3.1-Flash</description>
-    </item>
-    <item>
-      <title>MiniMax/Hailuo menghapus 2 models</title>
-      <link>https://agent.minimax.io/minimax-cloud/api/v1/config</link>
-      <guid isPermaLink="false">1792399447359-minimax-agent-model-catalog-01d451b7</guid>
-      <pubDate>Mon, 19 Oct 2026 08:44:07 GMT</pubDate>
-      <description>MiniMax Agent model selector: 2 removed model entries</description>
-    </item>
   </channel>
 </rss>
