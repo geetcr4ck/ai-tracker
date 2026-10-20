@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added 3 models</title>
+      <link>https://huggingface.co/nvidia/cosmos-anomalygen-glass-nano</link>
+      <guid isPermaLink="false">1792457955488-official-huggingface-lab-rotation-6e89b3a7</guid>
+      <pubDate>Tue, 20 Oct 2026 00:59:15 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 3 entri model baru
+
+Ditambahkan: nvidia/cosmos-anomalygen-glass-nano, nvidia/cosmos-anomalygen-metal-nano, nvidia/cosmos-anomalygen-pcb-nano</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1792452854676-artificial-analysis-api-free-4b7b0bef</guid>
