@@ -6,6 +6,65 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Claude new webpages</title>
+      <link>https://www.anthropic.com/news/announcements</link>
+      <guid isPermaLink="false">1792515771540-anthropic-news-2b3a9753-new-page</guid>
+      <pubDate>Tue, 20 Oct 2026 17:02:51 GMT</pubDate>
+      <description>Anthropic news: 7 new webpages</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792515229518-openrouter-models-55881aa7</guid>
+      <pubDate>Tue, 20 Oct 2026 16:53:37 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: mistralai/voxtral-mini-tts-3-0, mistralai/voxtral-small-transcribe-3-0</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan mistralai/voxtral-mini-transcribe-3-0</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792515074907-openrouter-models-d38a68b3</guid>
+      <pubDate>Tue, 20 Oct 2026 16:51:09 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: mistralai/voxtral-mini-transcribe-3-0</description>
+    </item>
+    <item>
+      <title>Mistral AI menambahkan 4 models</title>
+      <link>https://docs.mistral.ai/models</link>
+      <guid isPermaLink="false">1792512400571-mistral-models-docs-fb852ef0</guid>
+      <pubDate>Tue, 20 Oct 2026 16:06:39 GMT</pubDate>
+      <description>Mistral model docs: 4 entri model baru
+
+Ditambahkan: voxtral-mini-transcribe-3, voxtral-mini-transcribe-realtime-3, voxtral-small-transcribe-3, voxtral-tts-3</description>
+    </item>
+    <item>
+      <title>Mistral AI menambahkan voxtral-3</title>
+      <link>https://x.com/i/web/status/2112574615318876178</link>
+      <guid isPermaLink="false">1792512025663-official-x-model-posts-2c6597f9</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:25 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: voxtral-3</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1792508002265-microsoft-command-line-sitemap-68a677c0-new-page</guid>
+      <pubDate>Tue, 20 Oct 2026 14:53:21 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
+    </item>
+    <item>
+      <title>Mistral AI menambahkan 4 models</title>
+      <link>https://docs.mistral.ai/models</link>
+      <guid isPermaLink="false">1792503084654-mistral-api-models-9be3e5fb</guid>
+      <pubDate>Tue, 20 Oct 2026 13:31:24 GMT</pubDate>
+      <description>Mistral API model catalog: 4 entri model baru
+
+Ditambahkan: voxtral-mini-transcribe-3, voxtral-mini-transcribe-3-0, voxtral-mini-transcribe-realtime-3, voxtral-mini-transcribe-realtime-3-0, voxtral-mini-tts-3, voxtral-mini-tts-3-0, voxtral-small-transcribe-3, voxtral-small-transcribe-3-0</description>
+    </item>
+    <item>
       <title>Image, video &amp; audio labs menambahkan 2 models</title>
       <link>https://elevenlabs.io/docs/overview/models</link>
       <guid isPermaLink="false">1792499301615-elevenlabs-models-docs-e53f5159</guid>
@@ -31,76 +90,6 @@ Ditambahkan: deepseek-v4.1-flash</description>
       <description>Official lab Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: microsoft/bioemu2</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added 3 models</title>
-      <link>https://huggingface.co/nvidia/cosmos-anomalygen-glass-nano</link>
-      <guid isPermaLink="false">1792457955488-official-huggingface-lab-rotation-6e89b3a7</guid>
-      <pubDate>Tue, 20 Oct 2026 00:59:15 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 3 entri model baru
-
-Ditambahkan: nvidia/cosmos-anomalygen-glass-nano, nvidia/cosmos-anomalygen-metal-nano, nvidia/cosmos-anomalygen-pcb-nano</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792452854676-artificial-analysis-api-free-4b7b0bef</guid>
-      <pubDate>Mon, 19 Oct 2026 23:34:13 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/physical-plausibility-evaluator</title>
-      <link>https://huggingface.co/nvidia/physical-plausibility-evaluator</link>
-      <guid isPermaLink="false">1792448748805-official-huggingface-lab-rotation-96452656</guid>
-      <pubDate>Mon, 19 Oct 2026 22:25:48 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/physical-plausibility-evaluator</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan krea-3</title>
-      <link>https://x.com/i/web/status/2112273927074632120</link>
-      <guid isPermaLink="false">1792440335875-official-x-model-posts-4-ecd3097b</guid>
-      <pubDate>Mon, 19 Oct 2026 20:05:35 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 entri model baru
-
-Ditambahkan: krea-3</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan 2 models</title>
-      <link>https://x.com/i/web/status/2112255353677328415</link>
-      <guid isPermaLink="false">1792440001395-official-x-model-posts-2-717f746b</guid>
-      <pubDate>Mon, 19 Oct 2026 20:00:01 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 2 entri model baru
-
-Ditambahkan: flux-3, flux-3-max</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan inception/mercury-3</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792439618605-openrouter-models-b946dc14</guid>
-      <pubDate>Mon, 19 Oct 2026 19:53:31 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: inception/mercury-3</description>
-    </item>
-    <item>
-      <title>Black Forest Labs/FLUX menambahkan flux-3-max</title>
-      <link>https://bfl.ai/models</link>
-      <guid isPermaLink="false">1792439596946-bfl-models-catalog-5686d3a1</guid>
-      <pubDate>Mon, 19 Oct 2026 19:53:16 GMT</pubDate>
-      <description>Black Forest Labs official model catalog: 1 entri model baru
-
-Ditambahkan: flux-3-max</description>
-    </item>
-    <item>
-      <title>ByteDance Seed/Doubao menambahkan seed-translation-2</title>
-      <link>https://www.volcengine.com/docs/82379/1330310</link>
-      <guid isPermaLink="false">1792423591064-volcengine-ark-model-docs-ec050010</guid>
-      <pubDate>Mon, 19 Oct 2026 15:26:29 GMT</pubDate>
-      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
-
-Ditambahkan: seed-translation-2</description>
     </item>
   </channel>
 </rss>
