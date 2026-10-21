@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>NVIDIA menambahkan 7 models</title>
+      <link>https://build.nvidia.com/nvidia/nemotron-3_5-rerank-8b</link>
+      <guid isPermaLink="false">1792537783598-nvidia-build-nemotron-sitemap-1e733b3e-model-page</guid>
+      <pubDate>Tue, 20 Oct 2026 23:09:40 GMT</pubDate>
+      <description>NVIDIA Build Nemotron catalog: 7 entri model baru
+
+Ditambahkan: nemotron-3_5-embed-1b, nemotron-3_5-embed-8b, nemotron-3_5-rerank-8b, nemotron-3.5, nemotron-3.5-embed-1b, nemotron-3.5-embed-8b, nemotron-3.5-rerank-8b</description>
+    </item>
+    <item>
       <title>Cohere menambahkan 4 models</title>
       <link>https://docs.cohere.com/v1/docs/models</link>
       <guid isPermaLink="false">1792527444731-cohere-models-docs-e060f2a6</guid>
@@ -90,13 +99,6 @@ Ditambahkan: voxtral-mini-transcribe-3, voxtral-mini-transcribe-realtime-3, voxt
       <description>Official AI lab posts on X: 1 entri model baru
 
 Ditambahkan: voxtral-3</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://commandline.microsoft.com/</link>
-      <guid isPermaLink="false">1792508002265-microsoft-command-line-sitemap-68a677c0-new-page</guid>
-      <pubDate>Tue, 20 Oct 2026 14:53:21 GMT</pubDate>
-      <description>Microsoft Command Line blog: halaman web baru</description>
     </item>
   </channel>
 </rss>
