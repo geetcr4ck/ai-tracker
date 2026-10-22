@@ -6,6 +6,13 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792649895798-artificial-analysis-api-free-d29f27b8</guid>
+      <pubDate>Thu, 22 Oct 2026 06:18:15 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): muse-spark-1.3</title>
       <link>https://downloads.factory.ai/factory-cli/releases/0.247.0/linux/x64/droid</link>
       <guid isPermaLink="false">1792636741825-factory-droid-registry-bcf6d7e3</guid>
@@ -49,74 +56,6 @@ Ditambahkan: baseten/elephant-1:free, baseten/mammoth-1:free</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: recursive/flint-v1.0:free</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menghapus qwen3.8-max-prime</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1792610523083-qwen-model-pricing-docs-77f1024a-confirmed-removal</guid>
-      <pubDate>Wed, 21 Oct 2026 19:21:59 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan 2 models</title>
-      <link>https://huggingface.co/inclusionai/ling-3.0-flash-ubtree</link>
-      <guid isPermaLink="false">1792610493370-inclusionai-official-model-weights-99560f40</guid>
-      <pubDate>Wed, 21 Oct 2026 19:21:33 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 2 entri model baru
-
-Ditambahkan: inclusionai/ling-3.0-flash-ubtree, inclusionai/ling-3.0-tiny-ubtree</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 4 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792610432367-openrouter-models-766e9cf5</guid>
-      <pubDate>Wed, 21 Oct 2026 19:20:09 GMT</pubDate>
-      <description>OpenRouter model catalog: 4 entri model baru
-
-Ditambahkan: nace-ai/drex-max, nvidia/nemotron-3.5-embed-1b:free, nvidia/nemotron-3.5-embed-8b:free, nvidia/nemotron-3.5-rerank-8b:free</description>
-    </item>
-    <item>
-      <title>Z.ai menambahkan glm-5.3-flashx-legal</title>
-      <link>https://docs.z.ai/guides/overview/overview</link>
-      <guid isPermaLink="false">1792610154821-zai-models-docs-743e7673</guid>
-      <pubDate>Wed, 21 Oct 2026 19:15:54 GMT</pubDate>
-      <description>Z.ai model docs: 1 entri model baru
-
-Ditambahkan: glm-5.3-flashx-legal</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
-      <guid isPermaLink="false">1792610146091-anthropic-news-8d594664-new-page</guid>
-      <pubDate>Wed, 21 Oct 2026 19:15:45 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan qwen-audio-3.1-tts-plus</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1792610136795-qwen-model-pricing-docs-77f1024a</guid>
-      <pubDate>Wed, 21 Oct 2026 19:15:33 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 1 entri model baru
-
-Ditambahkan: qwen-audio-3.1-tts-plus</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan kling-4.0</title>
-      <link>https://api.fal.ai/v1/models</link>
-      <guid isPermaLink="false">1792610166319-fal-media-models-ae4278f3</guid>
-      <pubDate>Wed, 21 Oct 2026 19:14:26 GMT</pubDate>
-      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
-
-Ditambahkan: kling-4.0</description>
-    </item>
-    <item>
-      <title>IBM Granite menambahkan ibm-granite/granite-speech-5.0-2b</title>
-      <link>https://huggingface.co/ibm-granite/granite-speech-5.0-2b</link>
-      <guid isPermaLink="false">1792610061002-ibm-official-model-weights-2f17540a</guid>
-      <pubDate>Wed, 21 Oct 2026 19:14:20 GMT</pubDate>
-      <description>IBM Granite official model weights: 1 entri model baru
-
-Ditambahkan: ibm-granite/granite-speech-5.0-2b</description>
     </item>
   </channel>
 </rss>
