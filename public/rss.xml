@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan ling-3.0</title>
+      <link>https://x.com/i/web/status/2113066156508766526</link>
+      <guid isPermaLink="false">1792629217916-official-x-model-posts-3-614889e1</guid>
+      <pubDate>Thu, 22 Oct 2026 00:33:37 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: ling-3.0</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792623468738-openrouter-models-96be7c94</guid>
+      <pubDate>Wed, 21 Oct 2026 22:57:37 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: baseten/elephant-1:free, baseten/mammoth-1:free</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan recursive/flint-v1.0:free</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1792614225241-openrouter-models-30150bb4</guid>
@@ -97,51 +115,6 @@ Ditambahkan: ibm-granite/granite-speech-5.0-2b</description>
       <description>NVIDIA NIM model release notes: 5 entri model baru
 
 Ditambahkan: nemotron-15b-thinker, nemotron-3.5, nemotron-3.5-content-safety, nemotron-parse-v2, nemotron-parse-v2.0</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): mai-code-2</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.101.tgz</link>
-      <guid isPermaLink="false">1792543395271-github-copilot-native-models-ae2f51e8</guid>
-      <pubDate>Wed, 21 Oct 2026 00:42:55 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: mai-code-2</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan 7 models</title>
-      <link>https://build.nvidia.com/nvidia/nemotron-3_5-rerank-8b</link>
-      <guid isPermaLink="false">1792537783598-nvidia-build-nemotron-sitemap-1e733b3e-model-page</guid>
-      <pubDate>Tue, 20 Oct 2026 23:09:40 GMT</pubDate>
-      <description>NVIDIA Build Nemotron catalog: 7 entri model baru
-
-Ditambahkan: nemotron-3_5-embed-1b, nemotron-3_5-embed-8b, nemotron-3_5-rerank-8b, nemotron-3.5, nemotron-3.5-embed-1b, nemotron-3.5-embed-8b, nemotron-3.5-rerank-8b</description>
-    </item>
-    <item>
-      <title>Cohere menambahkan 4 models</title>
-      <link>https://docs.cohere.com/v1/docs/models</link>
-      <guid isPermaLink="false">1792527444731-cohere-models-docs-e060f2a6</guid>
-      <pubDate>Tue, 20 Oct 2026 20:17:23 GMT</pubDate>
-      <description>Cohere model docs: 4 entri model baru
-
-Ditambahkan: rerank-v5-fast, rerank-v5-pro, rerank-v5.0-fast, rerank-v5.0-pro</description>
-    </item>
-    <item>
-      <title>Cohere menambahkan 2 models</title>
-      <link>https://docs.cohere.com/docs/rerank-overview</link>
-      <guid isPermaLink="false">1792527443313-cohere-rerank-docs-249ec640</guid>
-      <pubDate>Tue, 20 Oct 2026 20:17:22 GMT</pubDate>
-      <description>Cohere reranking model documentation: 2 entri model baru
-
-Ditambahkan: rerank-v5.0-fast, rerank-v5.0-pro</description>
-    </item>
-    <item>
-      <title>Cohere menambahkan 2 models</title>
-      <link>https://docs.cohere.com/changelog</link>
-      <guid isPermaLink="false">1792527443150-cohere-release-notes-6c9a4fa1</guid>
-      <pubDate>Tue, 20 Oct 2026 20:17:21 GMT</pubDate>
-      <description>Cohere official release notes: 2 entri model baru
-
-Ditambahkan: rerank-v5.0-fast, rerank-v5.0-pro</description>
     </item>
   </channel>
 </rss>
