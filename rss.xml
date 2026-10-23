@@ -6,6 +6,43 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenBMB/MiniCPM menambahkan minicpm5-2b</title>
+      <link>https://x.com/i/web/status/2113462832583061872</link>
+      <guid isPermaLink="false">1792725423605-official-x-model-posts-3-49133e89</guid>
+      <pubDate>Fri, 23 Oct 2026 03:16:58 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: minicpm5-2b</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
+      <guid isPermaLink="false">1792718224935-anthropic-news-39038908-new-page</guid>
+      <pubDate>Fri, 23 Oct 2026 01:17:04 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://microsoft.ai/blog/</link>
+      <guid isPermaLink="false">1792692072121-microsoft-ai-news-sitemap-500e0d00-new-page</guid>
+      <pubDate>Thu, 22 Oct 2026 18:01:11 GMT</pubDate>
+      <description>Microsoft AI newsroom: halaman web baru</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
+      <guid isPermaLink="false">1792691641234-anthropic-news-0f2d7865-new-page</guid>
+      <pubDate>Thu, 22 Oct 2026 17:54:01 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>Gemini menghapus gemini-4-argon</title>
+      <link>https://antigravity.google/docs/changelog</link>
+      <guid isPermaLink="false">1792686212309-google-antigravity-changelog-models-8753dd1d</guid>
+      <pubDate>Thu, 22 Oct 2026 16:23:31 GMT</pubDate>
+      <description>Google Antigravity changelog: 1 removed model entry</description>
+    </item>
+    <item>
       <title>inclusionAI (Ant Ling/Ring) menambahkan ling-3.0-flash</title>
       <link>https://x.com/i/web/status/2113287021930418598</link>
       <guid isPermaLink="false">1792681878428-official-x-model-posts-3-04fe441c</guid>
@@ -52,49 +89,6 @@ Ditambahkan: minimax/minimax-m3.1-flash</description>
       <guid isPermaLink="false">1792668389805-artificial-analysis-api-free-9211ff95</guid>
       <pubDate>Thu, 22 Oct 2026 11:26:29 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792649895798-artificial-analysis-api-free-d29f27b8</guid>
-      <pubDate>Thu, 22 Oct 2026 06:18:15 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): muse-spark-1.3</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/0.247.0/linux/x64/droid</link>
-      <guid isPermaLink="false">1792636741825-factory-droid-registry-bcf6d7e3</guid>
-      <pubDate>Thu, 22 Oct 2026 02:38:50 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: muse-spark-1.3</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-4-argon</title>
-      <link>https://antigravity.google/docs/changelog</link>
-      <guid isPermaLink="false">1792630846333-google-antigravity-changelog-models-d88e1eb5</guid>
-      <pubDate>Thu, 22 Oct 2026 01:00:45 GMT</pubDate>
-      <description>Google Antigravity changelog: 1 entri model baru
-
-Ditambahkan: gemini-4-argon</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan ling-3.0</title>
-      <link>https://x.com/i/web/status/2113066156508766526</link>
-      <guid isPermaLink="false">1792629217916-official-x-model-posts-3-614889e1</guid>
-      <pubDate>Thu, 22 Oct 2026 00:33:37 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: ling-3.0</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792623468738-openrouter-models-96be7c94</guid>
-      <pubDate>Wed, 21 Oct 2026 22:57:37 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: baseten/elephant-1:free, baseten/mammoth-1:free</description>
     </item>
   </channel>
 </rss>
