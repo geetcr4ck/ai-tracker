@@ -6,6 +6,58 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model dari katalog: nemotron-3.5-bolt-e4b-4gb</title>
+      <link>https://artificialanalysis.ai/models/nemotron-3-5-bolt-e4b-4gb</link>
+      <guid isPermaLink="false">1792770478039-artificial-analysis-model-discovery-50d7a4e5</guid>
+      <pubDate>Fri, 23 Oct 2026 15:47:57 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: nemotron-3.5-bolt-e4b-4gb</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792768849814-artificial-analysis-api-free-8f081b19</guid>
+      <pubDate>Fri, 23 Oct 2026 15:20:49 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan nvidia/nemotron-3.5-bolt-e4b</title>
+      <link>https://huggingface.co/nvidia/nvidia-nemotron-3.5-bolt-e4b-bf16</link>
+      <guid isPermaLink="false">1792768607540-nvidia-official-model-weights-e5614d81</guid>
+      <pubDate>Fri, 23 Oct 2026 15:16:47 GMT</pubDate>
+      <description>NVIDIA Nemotron official model weights: 1 entri model baru
+
+Ditambahkan: nvidia/nemotron-3.5-bolt-e4b</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan 2 models</title>
+      <link>https://build.nvidia.com/nvidia/nemotron-3.5-bolt-e4b</link>
+      <guid isPermaLink="false">1792765768420-nvidia-build-nemotron-sitemap-0cf837ef-model-page</guid>
+      <pubDate>Fri, 23 Oct 2026 14:29:27 GMT</pubDate>
+      <description>NVIDIA Build Nemotron catalog: 2 entri model baru
+
+Ditambahkan: nemotron-3.5, nemotron-3.5-bolt-e4b</description>
+    </item>
+    <item>
+      <title>MiniMax/Hailuo menambahkan minimax-h3-highspeed</title>
+      <link>https://platform.minimax.io/docs/api-reference/api-overview</link>
+      <guid isPermaLink="false">1792763173822-minimax-models-docs-6e597db9</guid>
+      <pubDate>Fri, 23 Oct 2026 13:46:13 GMT</pubDate>
+      <description>MiniMax official API models: 1 entri model baru
+
+Ditambahkan: minimax-h3-highspeed</description>
+    </item>
+    <item>
+      <title>Claude announced claude-mythos-5</title>
+      <link>https://x.com/i/web/status/2113626655902126442</link>
+      <guid isPermaLink="false">1792762851829-official-x-model-posts-fe7d2bc6</guid>
+      <pubDate>Fri, 23 Oct 2026 13:40:51 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 model announced
+
+Ditambahkan: claude-mythos-5</description>
+    </item>
+    <item>
       <title>NVIDIA code reference: model identifiers</title>
       <link>https://github.com/NVIDIA-NeMo/Automodel/blob/ec63d680cc797f0ecd72aad54e3cda4ec3eae863/docs/fern/versions/nightly.yml</link>
       <guid isPermaLink="false">1792749741865-nvidia-nemo-unreleased-checkpoints-fc44ae81</guid>
@@ -43,22 +95,6 @@ Ditambahkan: minicpm5-2b</description>
       <guid isPermaLink="false">1792691641234-anthropic-news-0f2d7865-new-page</guid>
       <pubDate>Thu, 22 Oct 2026 17:54:01 GMT</pubDate>
       <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Gemini menghapus gemini-4-argon</title>
-      <link>https://antigravity.google/docs/changelog</link>
-      <guid isPermaLink="false">1792686212309-google-antigravity-changelog-models-8753dd1d</guid>
-      <pubDate>Thu, 22 Oct 2026 16:23:31 GMT</pubDate>
-      <description>Google Antigravity changelog: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan ling-3.0-flash</title>
-      <link>https://x.com/i/web/status/2113287021930418598</link>
-      <guid isPermaLink="false">1792681878428-official-x-model-posts-3-04fe441c</guid>
-      <pubDate>Thu, 22 Oct 2026 15:11:18 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: ling-3.0-flash</description>
     </item>
   </channel>
 </rss>
