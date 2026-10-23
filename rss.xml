@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>NVIDIA code reference: model identifiers</title>
+      <link>https://github.com/NVIDIA-NeMo/Automodel/blob/ec63d680cc797f0ecd72aad54e3cda4ec3eae863/docs/fern/versions/nightly.yml</link>
+      <guid isPermaLink="false">1792749741865-nvidia-nemo-unreleased-checkpoints-fc44ae81</guid>
+      <pubDate>Fri, 23 Oct 2026 10:02:13 GMT</pubDate>
+      <description>NVIDIA NeMo repos: unreleased Nemotron checkpoints: model references spotted in code/tests; availability and specifications unconfirmed
+
+Ditambahkan: nemotron-3-5-bolt-e4b-4gb, nemotron-3.5-bolt-e4b-4gb</description>
+    </item>
+    <item>
       <title>OpenBMB/MiniCPM menambahkan minicpm5-2b</title>
       <link>https://x.com/i/web/status/2113462832583061872</link>
       <guid isPermaLink="false">1792725423605-official-x-model-posts-3-49133e89</guid>
@@ -50,45 +59,6 @@ Ditambahkan: minicpm5-2b</description>
       <description>Official AI lab posts on X (group 3): 1 entri model baru
 
 Ditambahkan: ling-3.0-flash</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/ling-3.0-flash-sante</title>
-      <link>https://huggingface.co/inclusionai/ling-3.0-flash-sante</link>
-      <guid isPermaLink="false">1792681210583-inclusionai-official-model-weights-5e3abf3b</guid>
-      <pubDate>Thu, 22 Oct 2026 15:00:10 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/ling-3.0-flash-sante</description>
-    </item>
-    <item>
-      <title>Halaman web baru Grok/xAI</title>
-      <link>https://x.ai/news</link>
-      <guid isPermaLink="false">1792680075410-xai-news-sitemap-bf4a7c02-new-page</guid>
-      <pubDate>Thu, 22 Oct 2026 14:41:12 GMT</pubDate>
-      <description>xAI news sitemap: halaman web baru</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792678449320-artificial-analysis-api-free-e7689381</guid>
-      <pubDate>Thu, 22 Oct 2026 14:14:08 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan minimax/minimax-m3.1-flash</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792674814724-openrouter-models-804cd63f</guid>
-      <pubDate>Thu, 22 Oct 2026 13:13:28 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: minimax/minimax-m3.1-flash</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792668389805-artificial-analysis-api-free-9211ff95</guid>
-      <pubDate>Thu, 22 Oct 2026 11:26:29 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
   </channel>
 </rss>
