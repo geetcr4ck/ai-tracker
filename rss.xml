@@ -89,59 +89,5 @@ Ditambahkan: nvidia/internvideo2-clip-anomaly-detection</description>
 
 Ditambahkan: kimi-k3.1</description>
     </item>
-    <item>
-      <title>NVIDIA menambahkan 2 models</title>
-      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
-      <guid isPermaLink="false">1792775448894-nvidia-nim-models-docs-9005ce1f</guid>
-      <pubDate>Fri, 23 Oct 2026 17:10:48 GMT</pubDate>
-      <description>NVIDIA NIM model release notes: 2 entri model baru
-
-Ditambahkan: nemotron-3.5-bolt-e4b, nemotron-3.5-bolt-e4b-4gb</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menambahkan 2 models</title>
-      <link>https://platform.kimi.ai/docs/models.md</link>
-      <guid isPermaLink="false">1792775308413-kimi-platform-models-en-0d6aea33</guid>
-      <pubDate>Fri, 23 Oct 2026 17:08:27 GMT</pubDate>
-      <description>Kimi API model list (English): 2 entri model baru
-
-Ditambahkan: kimi-k3-1, kimi-k3.1</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menambahkan kimi-k3-1</title>
-      <link>https://platform.kimi.ai/docs/sitemap.xml</link>
-      <guid isPermaLink="false">1792775305978-kimi-platform-sitemap-en-8ca365fd</guid>
-      <pubDate>Fri, 23 Oct 2026 17:08:25 GMT</pubDate>
-      <description>Kimi API documentation sitemap (English): 1 entri model baru
-
-Ditambahkan: kimi-k3-1</description>
-    </item>
-    <item>
-      <title>Bocoran model Kimi/Moonshot: kimi-k31</title>
-      <link>https://www.kimi.com/</link>
-      <guid isPermaLink="false">1792773634553-kimi-web-app-models-67507cd6</guid>
-      <pubDate>Fri, 23 Oct 2026 16:40:25 GMT</pubDate>
-      <description>Kimi web app bundle models: 1 bocoran model baru
-
-Ditambahkan: kimi-k31</description>
-    </item>
-    <item>
-      <title>Bocoran model Kimi/Moonshot: kimi-k3.1</title>
-      <link>https://www.kimi.com/</link>
-      <guid isPermaLink="false">1792773587736-kimi-web-app-models-aed1687d</guid>
-      <pubDate>Fri, 23 Oct 2026 16:39:34 GMT</pubDate>
-      <description>Kimi web app bundle models: 1 bocoran model baru
-
-Ditambahkan: kimi-k3.1</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: nemotron-3.5-bolt-e4b-4gb</title>
-      <link>https://artificialanalysis.ai/models/nemotron-3-5-bolt-e4b-4gb</link>
-      <guid isPermaLink="false">1792770478039-artificial-analysis-model-discovery-50d7a4e5</guid>
-      <pubDate>Fri, 23 Oct 2026 15:47:57 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: nemotron-3.5-bolt-e4b-4gb</description>
-    </item>
   </channel>
 </rss>
