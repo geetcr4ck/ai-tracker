@@ -6,6 +6,135 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added nvidia/motionbricks</title>
+      <link>https://huggingface.co/nvidia/motionbricks</link>
+      <guid isPermaLink="false">1792784579428-official-huggingface-new-models-19731cd6</guid>
+      <pubDate>Fri, 23 Oct 2026 19:42:58 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/motionbricks</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan 2 models</title>
+      <link>https://build.nvidia.com/nvidia/nemotron-3.5-parse</link>
+      <guid isPermaLink="false">1792780200154-nvidia-build-nemotron-sitemap-f8fd1115-model-page</guid>
+      <pubDate>Fri, 23 Oct 2026 18:29:59 GMT</pubDate>
+      <description>NVIDIA Build Nemotron catalog: 2 entri model baru
+
+Ditambahkan: nemotron-3.5, nemotron-3.5-parse</description>
+    </item>
+    <item>
+      <title>Social posts announced flux-3-image-klein</title>
+      <link>https://x.com/i/web/status/2113696648572608846</link>
+      <guid isPermaLink="false">1792779539266-official-x-model-posts-2-96dc72fb</guid>
+      <pubDate>Fri, 23 Oct 2026 18:18:59 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 model announced
+
+Ditambahkan: flux-3-image-klein</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan moonshotai/kimi-k3.1-pro</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792779075124-openrouter-models-5ac988f2</guid>
+      <pubDate>Fri, 23 Oct 2026 18:11:01 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: moonshotai/kimi-k3.1-pro</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: kimi-k3.1-pro</title>
+      <link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
+      <guid isPermaLink="false">1792778435556-artificial-analysis-model-discovery-3193d315</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:32 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: kimi-k3.1-pro</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/internvideo2-clip-anomaly-detection</title>
+      <link>https://huggingface.co/nvidia/internvideo2-clip-anomaly-detection</link>
+      <guid isPermaLink="false">1792778291240-official-huggingface-lab-rotation-7f4d1cd9</guid>
+      <pubDate>Fri, 23 Oct 2026 17:58:11 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/internvideo2-clip-anomaly-detection</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1792777376566-artificial-analysis-api-free-ba4f395a</guid>
+      <pubDate>Fri, 23 Oct 2026 17:42:56 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menghapus kimi-k3-1</title>
+      <link>https://platform.kimi.ai/docs/sitemap.xml</link>
+      <guid isPermaLink="false">1792775961390-kimi-platform-sitemap-en-174a5cd2</guid>
+      <pubDate>Fri, 23 Oct 2026 17:19:20 GMT</pubDate>
+      <description>Kimi API documentation sitemap (English): 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menghapus 2 models</title>
+      <link>https://platform.kimi.ai/docs/llms.txt</link>
+      <guid isPermaLink="false">1792775943350-kimi-platform-index-en-43372d79</guid>
+      <pubDate>Fri, 23 Oct 2026 17:19:02 GMT</pubDate>
+      <description>Kimi API documentation index (English): 2 removed model entries</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menambahkan kimi-k3.1</title>
+      <link>https://x.com/i/web/status/2113680701770068067</link>
+      <guid isPermaLink="false">1792775737415-official-x-model-posts-2-27ae8d08</guid>
+      <pubDate>Fri, 23 Oct 2026 17:15:37 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: kimi-k3.1</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan 2 models</title>
+      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
+      <guid isPermaLink="false">1792775448894-nvidia-nim-models-docs-9005ce1f</guid>
+      <pubDate>Fri, 23 Oct 2026 17:10:48 GMT</pubDate>
+      <description>NVIDIA NIM model release notes: 2 entri model baru
+
+Ditambahkan: nemotron-3.5-bolt-e4b, nemotron-3.5-bolt-e4b-4gb</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menambahkan 2 models</title>
+      <link>https://platform.kimi.ai/docs/models.md</link>
+      <guid isPermaLink="false">1792775308413-kimi-platform-models-en-0d6aea33</guid>
+      <pubDate>Fri, 23 Oct 2026 17:08:27 GMT</pubDate>
+      <description>Kimi API model list (English): 2 entri model baru
+
+Ditambahkan: kimi-k3-1, kimi-k3.1</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menambahkan kimi-k3-1</title>
+      <link>https://platform.kimi.ai/docs/sitemap.xml</link>
+      <guid isPermaLink="false">1792775305978-kimi-platform-sitemap-en-8ca365fd</guid>
+      <pubDate>Fri, 23 Oct 2026 17:08:25 GMT</pubDate>
+      <description>Kimi API documentation sitemap (English): 1 entri model baru
+
+Ditambahkan: kimi-k3-1</description>
+    </item>
+    <item>
+      <title>Bocoran model Kimi/Moonshot: kimi-k31</title>
+      <link>https://www.kimi.com/</link>
+      <guid isPermaLink="false">1792773634553-kimi-web-app-models-67507cd6</guid>
+      <pubDate>Fri, 23 Oct 2026 16:40:25 GMT</pubDate>
+      <description>Kimi web app bundle models: 1 bocoran model baru
+
+Ditambahkan: kimi-k31</description>
+    </item>
+    <item>
+      <title>Bocoran model Kimi/Moonshot: kimi-k3.1</title>
+      <link>https://www.kimi.com/</link>
+      <guid isPermaLink="false">1792773587736-kimi-web-app-models-aed1687d</guid>
+      <pubDate>Fri, 23 Oct 2026 16:39:34 GMT</pubDate>
+      <description>Kimi web app bundle models: 1 bocoran model baru
+
+Ditambahkan: kimi-k3.1</description>
+    </item>
+    <item>
       <title>Bocoran model dari katalog: nemotron-3.5-bolt-e4b-4gb</title>
       <link>https://artificialanalysis.ai/models/nemotron-3-5-bolt-e4b-4gb</link>
       <guid isPermaLink="false">1792770478039-artificial-analysis-model-discovery-50d7a4e5</guid>
@@ -13,88 +142,6 @@
       <description>Artificial Analysis new model listings: 1 bocoran model baru
 
 Ditambahkan: nemotron-3.5-bolt-e4b-4gb</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792768849814-artificial-analysis-api-free-8f081b19</guid>
-      <pubDate>Fri, 23 Oct 2026 15:20:49 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan nvidia/nemotron-3.5-bolt-e4b</title>
-      <link>https://huggingface.co/nvidia/nvidia-nemotron-3.5-bolt-e4b-bf16</link>
-      <guid isPermaLink="false">1792768607540-nvidia-official-model-weights-e5614d81</guid>
-      <pubDate>Fri, 23 Oct 2026 15:16:47 GMT</pubDate>
-      <description>NVIDIA Nemotron official model weights: 1 entri model baru
-
-Ditambahkan: nvidia/nemotron-3.5-bolt-e4b</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan 2 models</title>
-      <link>https://build.nvidia.com/nvidia/nemotron-3.5-bolt-e4b</link>
-      <guid isPermaLink="false">1792765768420-nvidia-build-nemotron-sitemap-0cf837ef-model-page</guid>
-      <pubDate>Fri, 23 Oct 2026 14:29:27 GMT</pubDate>
-      <description>NVIDIA Build Nemotron catalog: 2 entri model baru
-
-Ditambahkan: nemotron-3.5, nemotron-3.5-bolt-e4b</description>
-    </item>
-    <item>
-      <title>MiniMax/Hailuo menambahkan minimax-h3-highspeed</title>
-      <link>https://platform.minimax.io/docs/api-reference/api-overview</link>
-      <guid isPermaLink="false">1792763173822-minimax-models-docs-6e597db9</guid>
-      <pubDate>Fri, 23 Oct 2026 13:46:13 GMT</pubDate>
-      <description>MiniMax official API models: 1 entri model baru
-
-Ditambahkan: minimax-h3-highspeed</description>
-    </item>
-    <item>
-      <title>Claude announced claude-mythos-5</title>
-      <link>https://x.com/i/web/status/2113626655902126442</link>
-      <guid isPermaLink="false">1792762851829-official-x-model-posts-fe7d2bc6</guid>
-      <pubDate>Fri, 23 Oct 2026 13:40:51 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 model announced
-
-Ditambahkan: claude-mythos-5</description>
-    </item>
-    <item>
-      <title>NVIDIA code reference: model identifiers</title>
-      <link>https://github.com/NVIDIA-NeMo/Automodel/blob/ec63d680cc797f0ecd72aad54e3cda4ec3eae863/docs/fern/versions/nightly.yml</link>
-      <guid isPermaLink="false">1792749741865-nvidia-nemo-unreleased-checkpoints-fc44ae81</guid>
-      <pubDate>Fri, 23 Oct 2026 10:02:13 GMT</pubDate>
-      <description>NVIDIA NeMo repos: unreleased Nemotron checkpoints: model references spotted in code/tests; availability and specifications unconfirmed
-
-Ditambahkan: nemotron-3-5-bolt-e4b-4gb, nemotron-3.5-bolt-e4b-4gb</description>
-    </item>
-    <item>
-      <title>OpenBMB/MiniCPM menambahkan minicpm5-2b</title>
-      <link>https://x.com/i/web/status/2113462832583061872</link>
-      <guid isPermaLink="false">1792725423605-official-x-model-posts-3-49133e89</guid>
-      <pubDate>Fri, 23 Oct 2026 03:16:58 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: minicpm5-2b</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
-      <guid isPermaLink="false">1792718224935-anthropic-news-39038908-new-page</guid>
-      <pubDate>Fri, 23 Oct 2026 01:17:04 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://microsoft.ai/blog/</link>
-      <guid isPermaLink="false">1792692072121-microsoft-ai-news-sitemap-500e0d00-new-page</guid>
-      <pubDate>Thu, 22 Oct 2026 18:01:11 GMT</pubDate>
-      <description>Microsoft AI newsroom: halaman web baru</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
-      <guid isPermaLink="false">1792691641234-anthropic-news-0f2d7865-new-page</guid>
-      <pubDate>Thu, 22 Oct 2026 17:54:01 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
     </item>
   </channel>
 </rss>
