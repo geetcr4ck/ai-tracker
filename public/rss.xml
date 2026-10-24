@@ -66,28 +66,5 @@ Ditambahkan: nvidia/internvideo2-clip-anomaly-detection</description>
       <pubDate>Fri, 23 Oct 2026 17:42:56 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
-    <item>
-      <title>Kimi/Moonshot menghapus kimi-k3-1</title>
-      <link>https://platform.kimi.ai/docs/sitemap.xml</link>
-      <guid isPermaLink="false">1792775961390-kimi-platform-sitemap-en-174a5cd2</guid>
-      <pubDate>Fri, 23 Oct 2026 17:19:20 GMT</pubDate>
-      <description>Kimi API documentation sitemap (English): 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menghapus 2 models</title>
-      <link>https://platform.kimi.ai/docs/llms.txt</link>
-      <guid isPermaLink="false">1792775943350-kimi-platform-index-en-43372d79</guid>
-      <pubDate>Fri, 23 Oct 2026 17:19:02 GMT</pubDate>
-      <description>Kimi API documentation index (English): 2 removed model entries</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menambahkan kimi-k3.1</title>
-      <link>https://x.com/i/web/status/2113680701770068067</link>
-      <guid isPermaLink="false">1792775737415-official-x-model-posts-2-27ae8d08</guid>
-      <pubDate>Fri, 23 Oct 2026 17:15:37 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: kimi-k3.1</description>
-    </item>
   </channel>
 </rss>
