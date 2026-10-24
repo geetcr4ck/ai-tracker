@@ -6,6 +6,33 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added tencent/hy-nomas-diffusers</title>
+      <link>https://huggingface.co/tencent/hy-nomas-diffusers</link>
+      <guid isPermaLink="false">1792820793513-official-huggingface-new-models-0850067c</guid>
+      <pubDate>Sat, 24 Oct 2026 05:46:32 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: tencent/hy-nomas-diffusers</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan microsoft-decision-1</title>
+      <link>https://commandline.microsoft.com/building-a-fully-autonomous-meeting-invite-capability-for-autopilot</link>
+      <guid isPermaLink="false">1792812134812-microsoft-command-line-sitemap-afcb4280-model-page</guid>
+      <pubDate>Sat, 24 Oct 2026 03:22:13 GMT</pubDate>
+      <description>Microsoft Command Line blog: 1 entri model baru
+
+Ditambahkan: microsoft-decision-1</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): deepseek-v4.1-flash-1017</title>
+      <link>https://downloads.factory.ai/factory-cli/releases/0.249.0/linux/x64/droid</link>
+      <guid isPermaLink="false">1792807354863-factory-droid-registry-9b5c928f</guid>
+      <pubDate>Sat, 24 Oct 2026 02:02:24 GMT</pubDate>
+      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added nvidia/motionbricks</title>
       <link>https://huggingface.co/nvidia/motionbricks</link>
       <guid isPermaLink="false">1792784579428-official-huggingface-new-models-19731cd6</guid>
@@ -13,58 +40,6 @@
       <description>Official vendor Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: nvidia/motionbricks</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan 2 models</title>
-      <link>https://build.nvidia.com/nvidia/nemotron-3.5-parse</link>
-      <guid isPermaLink="false">1792780200154-nvidia-build-nemotron-sitemap-f8fd1115-model-page</guid>
-      <pubDate>Fri, 23 Oct 2026 18:29:59 GMT</pubDate>
-      <description>NVIDIA Build Nemotron catalog: 2 entri model baru
-
-Ditambahkan: nemotron-3.5, nemotron-3.5-parse</description>
-    </item>
-    <item>
-      <title>Social posts announced flux-3-image-klein</title>
-      <link>https://x.com/i/web/status/2113696648572608846</link>
-      <guid isPermaLink="false">1792779539266-official-x-model-posts-2-96dc72fb</guid>
-      <pubDate>Fri, 23 Oct 2026 18:18:59 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 model announced
-
-Ditambahkan: flux-3-image-klein</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan moonshotai/kimi-k3.1-pro</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1792779075124-openrouter-models-5ac988f2</guid>
-      <pubDate>Fri, 23 Oct 2026 18:11:01 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: moonshotai/kimi-k3.1-pro</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: kimi-k3.1-pro</title>
-      <link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
-      <guid isPermaLink="false">1792778435556-artificial-analysis-model-discovery-3193d315</guid>
-      <pubDate>Fri, 23 Oct 2026 18:00:32 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: kimi-k3.1-pro</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/internvideo2-clip-anomaly-detection</title>
-      <link>https://huggingface.co/nvidia/internvideo2-clip-anomaly-detection</link>
-      <guid isPermaLink="false">1792778291240-official-huggingface-lab-rotation-7f4d1cd9</guid>
-      <pubDate>Fri, 23 Oct 2026 17:58:11 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/internvideo2-clip-anomaly-detection</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1792777376566-artificial-analysis-api-free-ba4f395a</guid>
-      <pubDate>Fri, 23 Oct 2026 17:42:56 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
   </channel>
 </rss>
