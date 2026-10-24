@@ -32,14 +32,5 @@ Ditambahkan: microsoft-decision-1</description>
 
 Ditambahkan: deepseek-v4.1-flash-1017</description>
     </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/motionbricks</title>
-      <link>https://huggingface.co/nvidia/motionbricks</link>
-      <guid isPermaLink="false">1792784579428-official-huggingface-new-models-19731cd6</guid>
-      <pubDate>Fri, 23 Oct 2026 19:42:58 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/motionbricks</description>
-    </item>
   </channel>
 </rss>
