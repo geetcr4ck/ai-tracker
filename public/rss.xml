@@ -14,23 +14,5 @@
 
 Ditambahkan: tencent/hy-nomas-diffusers</description>
     </item>
-    <item>
-      <title>Microsoft menambahkan microsoft-decision-1</title>
-      <link>https://commandline.microsoft.com/building-a-fully-autonomous-meeting-invite-capability-for-autopilot</link>
-      <guid isPermaLink="false">1792812134812-microsoft-command-line-sitemap-afcb4280-model-page</guid>
-      <pubDate>Sat, 24 Oct 2026 03:22:13 GMT</pubDate>
-      <description>Microsoft Command Line blog: 1 entri model baru
-
-Ditambahkan: microsoft-decision-1</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): deepseek-v4.1-flash-1017</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/0.249.0/linux/x64/droid</link>
-      <guid isPermaLink="false">1792807354863-factory-droid-registry-9b5c928f</guid>
-      <pubDate>Sat, 24 Oct 2026 02:02:24 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: deepseek-v4.1-flash-1017</description>
-    </item>
   </channel>
 </rss>
