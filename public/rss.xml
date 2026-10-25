@@ -5,6 +5,14 @@
     <link>https://geetcr4ck.github.io/ai-tracker/</link>
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenRouter menambahkan liquid/lfm-2.5-2.6b</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1792878943022-openrouter-models-120a1c55</guid>
+      <pubDate>Sat, 24 Oct 2026 21:55:35 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
 
+Ditambahkan: liquid/lfm-2.5-2.6b</description>
+    </item>
   </channel>
 </rss>
