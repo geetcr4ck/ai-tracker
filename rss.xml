@@ -6,13 +6,13 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Katalog model berubah: added baai/ms-human-700</title>
-      <link>https://huggingface.co/baai/ms-human-700</link>
-      <guid isPermaLink="false">1792936246728-official-huggingface-new-models-2f8954ef</guid>
-      <pubDate>Sun, 25 Oct 2026 13:50:46 GMT</pubDate>
+      <title>Katalog model berubah: added inclusionai/lbs-27b</title>
+      <link>https://huggingface.co/inclusionai/lbs-27b</link>
+      <guid isPermaLink="false">1792985871626-official-huggingface-new-models-179029ba</guid>
+      <pubDate>Mon, 26 Oct 2026 03:37:51 GMT</pubDate>
       <description>Official vendor Hugging Face repositories: 1 entri model baru
 
-Ditambahkan: baai/ms-human-700</description>
+Ditambahkan: inclusionai/lbs-27b</description>
     </item>
   </channel>
 </rss>
