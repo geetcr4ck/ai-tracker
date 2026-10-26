@@ -6,6 +6,83 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan 3 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793046029609-openrouter-models-7fd188ce</guid>
+      <pubDate>Mon, 26 Oct 2026 20:20:15 GMT</pubDate>
+      <description>OpenRouter model catalog: 3 entri model baru
+
+Ditambahkan: amazon/titan-embed-image-v1, amazon/titan-embed-text-v1, amazon/titan-embed-text-v2</description>
+    </item>
+    <item>
+      <title>Claude menghapus 7 models</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <guid isPermaLink="false">1793044077598-anthropic-claude-code-official-code-models-5eb64a34</guid>
+      <pubDate>Mon, 26 Oct 2026 19:47:57 GMT</pubDate>
+      <description>anthropics/claude-code official code model references: 7 removed model entries</description>
+    </item>
+    <item>
+      <title>Codex code reference: gpt-6.1-terra</title>
+      <link>https://unpkg.com/openai@7.45.0/src/resources/shared.ts</link>
+      <guid isPermaLink="false">1793042941806-openai-sdk-package-models-defedc96</guid>
+      <pubDate>Mon, 26 Oct 2026 19:28:59 GMT</pubDate>
+      <description>OpenAI SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-6.1-terra</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.1-terra</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+      <guid isPermaLink="false">1793042111573-openai-news-rss-e0fdb73c-model-page</guid>
+      <pubDate>Mon, 26 Oct 2026 19:15:11 GMT</pubDate>
+      <description>OpenAI News RSS: 1 entri model baru
+
+Ditambahkan: gpt-6.1-terra</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan openai/gpt-6.1-terra</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793038791166-openrouter-models-f91f4e52</guid>
+      <pubDate>Mon, 26 Oct 2026 18:19:39 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: openai/gpt-6.1-terra</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: gpt-6.1-terra</title>
+      <link>https://artificialanalysis.ai/models/gpt-6-1-terra</link>
+      <guid isPermaLink="false">1793038718072-artificial-analysis-model-discovery-025fc730</guid>
+      <pubDate>Mon, 26 Oct 2026 18:18:33 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: gpt-6.1-terra</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793038697203-artificial-analysis-api-free-97c7da13</guid>
+      <pubDate>Mon, 26 Oct 2026 18:18:16 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 6 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.1</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1793037309345-openai-developer-all-models-b35945c3</guid>
+      <pubDate>Mon, 26 Oct 2026 17:55:08 GMT</pubDate>
+      <description>OpenAI developer all models: 1 entri model baru
+
+Ditambahkan: gpt-6.1</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.1-terra</title>
+      <link>https://api.openai.com/v1/models</link>
+      <guid isPermaLink="false">1793037090382-openai-api-models-f86c636b</guid>
+      <pubDate>Mon, 26 Oct 2026 17:51:29 GMT</pubDate>
+      <description>OpenAI API models: 1 entri model baru
+
+Ditambahkan: gpt-6.1-terra</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan heygen/heygen-voice-1-turbo:free</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1793030678166-openrouter-models-0f72ef6b</guid>
