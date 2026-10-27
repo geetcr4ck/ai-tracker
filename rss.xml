@@ -6,6 +6,31 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Microsoft menghapus mai-cyber-1-flash</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1793061084913-microsoft-ai-models-745456bd</guid>
+      <pubDate>Tue, 27 Oct 2026 00:31:24 GMT</pubDate>
+      <description>Microsoft AI models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added baidu/unlimited-ocr-2</title>
+      <link>https://huggingface.co/baidu/unlimited-ocr-2</link>
+      <guid isPermaLink="false">1793059526853-official-huggingface-lab-rotation-812874a8</guid>
+      <pubDate>Tue, 27 Oct 2026 00:05:26 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: baidu/unlimited-ocr-2</description>
+    </item>
+    <item>
+      <title>Bocoran model Codex: gpt-6.1-terra</title>
+      <link>https://github.com/openai/codex/blob/126a0ee92ed2c5e73cd8a8f7e37563e8527552d7/codex-rs/model-provider/src/amazon_bedrock/catalog.rs</link>
+      <guid isPermaLink="false">1793052834599-openai-codex-official-code-models-3579af21</guid>
+      <pubDate>Mon, 26 Oct 2026 22:13:53 GMT</pubDate>
+      <description>openai/codex official code model references: 1 bocoran model baru
+
+Ditambahkan: gpt-6.1-terra</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan 3 models</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1793046029609-openrouter-models-7fd188ce</guid>
@@ -113,15 +138,6 @@ Ditambahkan: microsoft-decision-1</description>
       <guid isPermaLink="false">1793013639251-inclusionai-official-model-weights-cdbdf172</guid>
       <pubDate>Mon, 26 Oct 2026 11:20:38 GMT</pubDate>
       <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/lbs-27b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/lbs-27b</title>
-      <link>https://huggingface.co/inclusionai/lbs-27b</link>
-      <guid isPermaLink="false">1792985871626-official-huggingface-new-models-179029ba</guid>
-      <pubDate>Mon, 26 Oct 2026 03:37:51 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: inclusionai/lbs-27b</description>
     </item>
