@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added 2 models</title>
+      <link>https://huggingface.co/inclusionai/glm-5.3-flash-singprobe</link>
+      <guid isPermaLink="false">1793079528944-official-huggingface-new-models-5328c17a</guid>
+      <pubDate>Tue, 27 Oct 2026 05:38:48 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 2 entri model baru
+
+Ditambahkan: inclusionai/glm-5.3-flash-singprobe, inclusionai/qwen3.8-flash-next-singprobe</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan openai/gpt-6.1-terra-pro</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793063373626-openrouter-models-420062d1</guid>
+      <pubDate>Tue, 27 Oct 2026 01:09:23 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: openai/gpt-6.1-terra-pro</description>
+    </item>
+    <item>
       <title>Microsoft menghapus mai-cyber-1-flash</title>
       <link>https://microsoft.ai/models/</link>
       <guid isPermaLink="false">1793061084913-microsoft-ai-models-745456bd</guid>
@@ -131,15 +149,6 @@ Ditambahkan: microsoft-decision-1</description>
       <guid isPermaLink="false">1793020110701-anthropic-news-44a3dbc1-new-page</guid>
       <pubDate>Mon, 26 Oct 2026 13:08:30 GMT</pubDate>
       <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lbs-27b</title>
-      <link>https://huggingface.co/inclusionai/lbs-27b</link>
-      <guid isPermaLink="false">1793013639251-inclusionai-official-model-weights-cdbdf172</guid>
-      <pubDate>Mon, 26 Oct 2026 11:20:38 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/lbs-27b</description>
     </item>
   </channel>
 </rss>

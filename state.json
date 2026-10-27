@@ -378,6 +378,10 @@
     "1793042941806-openai-sdk-package-models-defedc96",
     "1793044077598-anthropic-claude-code-official-code-models-5eb64a34",
     "1793046029609-openrouter-models-7fd188ce",
-    "1793052834599-openai-codex-official-code-models-3579af21"
+    "1793052834599-openai-codex-official-code-models-3579af21",
+    "1793059526853-official-huggingface-lab-rotation-812874a8",
+    "1793061084913-microsoft-ai-models-745456bd",
+    "1793063373626-openrouter-models-420062d1",
+    "1793079528944-official-huggingface-new-models-5328c17a"
   ]
 }
