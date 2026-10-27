@@ -6,6 +6,182 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/e72a06d3ae1cab82ae03065cf2c108de4be58cb4/src/content/catalog-models/minimax-m3.1-flash.json</link>
+      <guid isPermaLink="false">1793121456114-cloudflare-gateway-catalog-95081232</guid>
+      <pubDate>Tue, 27 Oct 2026 17:17:34 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: minimax/m3.1-flash, openai/decisions</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): klingai/kling-v4</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/0de837dfe2d3abe805ce020df94b371a307ae7f4/src/content/catalog-models/klingai-kling-v4.json</link>
+      <guid isPermaLink="false">1793121266296-cloudflare-gateway-catalog-e712f61a</guid>
+      <pubDate>Tue, 27 Oct 2026 17:14:24 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: klingai/kling-v4</description>
+    </item>
+    <item>
+      <title>Liquid AI/LFM menambahkan lfm3</title>
+      <link>https://www.liquid.ai/news</link>
+      <guid isPermaLink="false">1793121012589-liquid-news-models-9cab35c3</guid>
+      <pubDate>Tue, 27 Oct 2026 17:10:12 GMT</pubDate>
+      <description>Liquid AI model news: 1 entri model baru
+
+Ditambahkan: lfm3</description>
+    </item>
+    <item>
+      <title>Liquid AI/LFM menambahkan lfm3</title>
+      <link>https://x.com/i/web/status/2115128329003303107</link>
+      <guid isPermaLink="false">1793120920322-official-x-model-posts-3-3b31d702</guid>
+      <pubDate>Tue, 27 Oct 2026 17:08:34 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: lfm3</description>
+    </item>
+    <item>
+      <title>Liquid AI/LFM menambahkan 4 models</title>
+      <link>https://huggingface.co/liquidai/lfm3-audio-2b</link>
+      <guid isPermaLink="false">1793120642758-liquid-official-model-weights-27e325ee</guid>
+      <pubDate>Tue, 27 Oct 2026 17:04:02 GMT</pubDate>
+      <description>Liquid AI official model weights: 4 entri model baru
+
+Ditambahkan: liquidai/lfm3-audio-2b, liquidai/lfm3-omni-2b, liquidai/lfm3-vl-2b, liquidai/liquid-codec</description>
+    </item>
+    <item>
+      <title>Liquid AI/LFM menambahkan 2 models</title>
+      <link>https://huggingface.co/liquidai/d1-2b</link>
+      <guid isPermaLink="false">1793120277523-liquid-official-model-weights-774f9408</guid>
+      <pubDate>Tue, 27 Oct 2026 16:57:57 GMT</pubDate>
+      <description>Liquid AI official model weights: 2 entri model baru
+
+Ditambahkan: liquidai/d1-2b, liquidai/d1-omni-2b, liquidai/lfm3-1.7b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added liquidai/lfm3-1.7b-base</title>
+      <link>https://huggingface.co/LiquidAI/LFM3-1.7B-Base</link>
+      <guid isPermaLink="false">1793120265435-open-pr-repository-watch-a4b990a6</guid>
+      <pubDate>Tue, 27 Oct 2026 16:57:45 GMT</pubDate>
+      <description>Hugging Face repository named in an open PR: 1 entri model baru
+
+Ditambahkan: liquidai/lfm3-1.7b-base</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added liquidai/lfm3-audio-2b-gguf</title>
+      <link>https://huggingface.co/liquidai/lfm3-audio-2b-gguf</link>
+      <guid isPermaLink="false">1793120025410-official-huggingface-new-models-36da005b</guid>
+      <pubDate>Tue, 27 Oct 2026 16:53:44 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: liquidai/lfm3-audio-2b-gguf</description>
+    </item>
+    <item>
+      <title>Liquid AI/LFM menambahkan 4 models</title>
+      <link>https://docs.liquid.ai/lfm/models/complete-library</link>
+      <guid isPermaLink="false">1793119874019-liquid-models-docs-a4b90351</guid>
+      <pubDate>Tue, 27 Oct 2026 16:51:13 GMT</pubDate>
+      <description>Liquid AI model library docs: 4 entri model baru
+
+Ditambahkan: d1-2b, d1-omni-2b, lfm3, lfm3-1.7b, lfm3-audio-2b, lfm3-vl-2b</description>
+    </item>
+    <item>
+      <title>OpenBMB/MiniCPM menambahkan 2 models</title>
+      <link>https://huggingface.co/openbmb/minicpm-ocr-1.0</link>
+      <guid isPermaLink="false">1793117941624-openbmb-official-model-weights-3d5b8de6</guid>
+      <pubDate>Tue, 27 Oct 2026 16:19:01 GMT</pubDate>
+      <description>OpenBMB official model weights: 2 entri model baru
+
+Ditambahkan: openbmb/minicpm-ocr-1.0, openbmb/minicpm-ocr-jev</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan 6 models</title>
+      <link>https://microsoft.ai/news/mai-image-2-7-debut</link>
+      <guid isPermaLink="false">1793113807399-microsoft-ai-news-sitemap-ad46ff96-model-page</guid>
+      <pubDate>Tue, 27 Oct 2026 15:10:06 GMT</pubDate>
+      <description>Microsoft AI newsroom: 6 entri model baru
+
+Ditambahkan: mai-image-1, mai-image-2, mai-image-2-7, mai-image-2.5-pro, mai-image-2.7, mai-voice-2-flash</description>
+    </item>
+    <item>
+      <title>Bocoran model LM Arena: goku-pink</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1793113729397-arena-live-model-roster-92506d53</guid>
+      <pubDate>Tue, 27 Oct 2026 15:08:48 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: goku-pink</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan 2 models</title>
+      <link>https://microsoft.ai/news/mai-cyber-1-1-flash</link>
+      <guid isPermaLink="false">1793113401442-microsoft-ai-news-sitemap-bf581e6b-model-page</guid>
+      <pubDate>Tue, 27 Oct 2026 15:03:20 GMT</pubDate>
+      <description>Microsoft AI newsroom: 2 entri model baru
+
+Ditambahkan: mai-cyber-1-1-flash, mai-cyber-1-flash</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-cyber-1-1-flash</title>
+      <link>https://microsoft.ai/news/mai-cyber-1-1-flash-sharper-findings-and-fewer-tokens-inside-mdash</link>
+      <guid isPermaLink="false">1793113384665-microsoft-ai-news-sitemap-d4425442-model-page</guid>
+      <pubDate>Tue, 27 Oct 2026 15:03:04 GMT</pubDate>
+      <description>Microsoft AI newsroom: 1 entri model baru
+
+Ditambahkan: mai-cyber-1-1-flash, mai-cyber-1-flash</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan 2 models</title>
+      <link>https://microsoft.ai/news/mai-cyber-1-1-flashbrsharper-findings-and-fewer-tokens-inside-mdash</link>
+      <guid isPermaLink="false">1793113219098-microsoft-ai-news-sitemap-b89d421f-model-page</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:18 GMT</pubDate>
+      <description>Microsoft AI newsroom: 2 entri model baru
+
+Ditambahkan: mai-cyber-1-1, mai-cyber-1-flash</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-cyber-1.1-flash</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1793113213752-microsoft-ai-models-63927df4</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:12 GMT</pubDate>
+      <description>Microsoft AI models: 1 entri model baru
+
+Ditambahkan: mai-cyber-1.1-flash</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan microsoft-decision-1</title>
+      <link>https://commandline.microsoft.com/new-agentic-software-delivery-primitives</link>
+      <guid isPermaLink="false">1793111863762-microsoft-command-line-sitemap-373aeb20-model-page</guid>
+      <pubDate>Tue, 27 Oct 2026 14:37:41 GMT</pubDate>
+      <description>Microsoft Command Line blog: 1 entri model baru
+
+Ditambahkan: microsoft-decision-1</description>
+    </item>
+    <item>
+      <title>Halaman web baru Grok/xAI</title>
+      <link>https://x.ai/news</link>
+      <guid isPermaLink="false">1793109376620-xai-news-sitemap-7fc98e6c-new-page</guid>
+      <pubDate>Tue, 27 Oct 2026 13:56:10 GMT</pubDate>
+      <description>xAI news sitemap: halaman web baru</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793106726675-artificial-analysis-api-free-15934459</guid>
+      <pubDate>Tue, 27 Oct 2026 13:12:06 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan qwen-audio-3.1-realtime-flash</title>
+      <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
+      <guid isPermaLink="false">1793103081976-alibaba-model-studio-models-099371af</guid>
+      <pubDate>Tue, 27 Oct 2026 12:11:20 GMT</pubDate>
+      <description>Alibaba Model Studio Qwen models: 1 entri model baru
+
+Ditambahkan: qwen-audio-3.1-realtime-flash</description>
+    </item>
+    <item>
       <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zwz2-4b</title>
       <link>https://huggingface.co/inclusionai/zwz2-4b</link>
       <guid isPermaLink="false">1793101857414-inclusionai-official-model-weights-3412ea05</guid>
@@ -22,58 +198,6 @@ Ditambahkan: inclusionai/zwz2-4b</description>
       <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
 
 Ditambahkan: inclusionai/ling-3.1-flash-1019</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added 2 models</title>
-      <link>https://huggingface.co/inclusionai/glm-5.3-flash-singprobe</link>
-      <guid isPermaLink="false">1793079528944-official-huggingface-new-models-5328c17a</guid>
-      <pubDate>Tue, 27 Oct 2026 05:38:48 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 2 entri model baru
-
-Ditambahkan: inclusionai/glm-5.3-flash-singprobe, inclusionai/qwen3.8-flash-next-singprobe</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan openai/gpt-6.1-terra-pro</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793063373626-openrouter-models-420062d1</guid>
-      <pubDate>Tue, 27 Oct 2026 01:09:23 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: openai/gpt-6.1-terra-pro</description>
-    </item>
-    <item>
-      <title>Microsoft menghapus mai-cyber-1-flash</title>
-      <link>https://microsoft.ai/models/</link>
-      <guid isPermaLink="false">1793061084913-microsoft-ai-models-745456bd</guid>
-      <pubDate>Tue, 27 Oct 2026 00:31:24 GMT</pubDate>
-      <description>Microsoft AI models: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added baidu/unlimited-ocr-2</title>
-      <link>https://huggingface.co/baidu/unlimited-ocr-2</link>
-      <guid isPermaLink="false">1793059526853-official-huggingface-lab-rotation-812874a8</guid>
-      <pubDate>Tue, 27 Oct 2026 00:05:26 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: baidu/unlimited-ocr-2</description>
-    </item>
-    <item>
-      <title>Bocoran model Codex: gpt-6.1-terra</title>
-      <link>https://github.com/openai/codex/blob/126a0ee92ed2c5e73cd8a8f7e37563e8527552d7/codex-rs/model-provider/src/amazon_bedrock/catalog.rs</link>
-      <guid isPermaLink="false">1793052834599-openai-codex-official-code-models-3579af21</guid>
-      <pubDate>Mon, 26 Oct 2026 22:13:53 GMT</pubDate>
-      <description>openai/codex official code model references: 1 bocoran model baru
-
-Ditambahkan: gpt-6.1-terra</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 3 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793046029609-openrouter-models-7fd188ce</guid>
-      <pubDate>Mon, 26 Oct 2026 20:20:15 GMT</pubDate>
-      <description>OpenRouter model catalog: 3 entri model baru
-
-Ditambahkan: amazon/titan-embed-image-v1, amazon/titan-embed-text-v1, amazon/titan-embed-text-v2</description>
     </item>
   </channel>
 </rss>
