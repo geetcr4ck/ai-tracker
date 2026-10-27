@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added nvidia/metatron-browser</title>
+      <link>https://huggingface.co/nvidia/metatron-browser</link>
+      <guid isPermaLink="false">1793137855315-official-huggingface-new-models-c152c06a</guid>
+      <pubDate>Tue, 27 Oct 2026 21:50:55 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/metatron-browser</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 3 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793132891087-openrouter-models-82348a98</guid>
+      <pubDate>Tue, 27 Oct 2026 20:27:57 GMT</pubDate>
+      <description>OpenRouter model catalog: 3 entri model baru
+
+Ditambahkan: ~liquid/d1-latest, ~liquid/d1-ultra-latest, liquid/d1.1</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added 2 models</title>
+      <link>https://huggingface.co/liquidai/d1-2b-gguf</link>
+      <guid isPermaLink="false">1793130216434-official-huggingface-new-models-4f7648e8</guid>
+      <pubDate>Tue, 27 Oct 2026 19:42:40 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 2 entri model baru
+
+Ditambahkan: liquidai/d1-2b-gguf, liquidai/d1-omni-2b-gguf</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan prism-ml/ternary-bonsai-2-9b</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793129030502-openrouter-models-b649574f</guid>
+      <pubDate>Tue, 27 Oct 2026 19:23:40 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: prism-ml/ternary-bonsai-2-9b</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): model identifiers</title>
       <link>https://github.com/cloudflare/cloudflare-docs/blob/e72a06d3ae1cab82ae03065cf2c108de4be58cb4/src/content/catalog-models/minimax-m3.1-flash.json</link>
       <guid isPermaLink="false">1793121456114-cloudflare-gateway-catalog-95081232</guid>
@@ -180,24 +216,6 @@ Ditambahkan: microsoft-decision-1</description>
       <description>Alibaba Model Studio Qwen models: 1 entri model baru
 
 Ditambahkan: qwen-audio-3.1-realtime-flash</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zwz2-4b</title>
-      <link>https://huggingface.co/inclusionai/zwz2-4b</link>
-      <guid isPermaLink="false">1793101857414-inclusionai-official-model-weights-3412ea05</guid>
-      <pubDate>Tue, 27 Oct 2026 11:50:57 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-4b</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/ling-3.1-flash-1019</title>
-      <link>https://huggingface.co/inclusionai/ling-3.1-flash-1019</link>
-      <guid isPermaLink="false">1793099645866-inclusionai-official-model-weights-216c7c03</guid>
-      <pubDate>Tue, 27 Oct 2026 11:14:05 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/ling-3.1-flash-1019</description>
     </item>
   </channel>
 </rss>
