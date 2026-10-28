@@ -6,6 +6,22 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793153699932-artificial-analysis-api-free-978abf4f</guid>
+      <pubDate>Wed, 28 Oct 2026 02:14:59 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 703 baris hasil benchmark ditambahkan, 703 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added ibm-granite/llmon-benchmarks</title>
+      <link>https://huggingface.co/ibm-granite/llmon-benchmarks</link>
+      <guid isPermaLink="false">1793150414377-official-huggingface-new-models-777aeec5</guid>
+      <pubDate>Wed, 28 Oct 2026 01:20:14 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: ibm-granite/llmon-benchmarks</description>
+    </item>
+    <item>
       <title>Gemini menambahkan gemini-4-argon</title>
       <link>https://antigravity.google/docs/changelog</link>
       <guid isPermaLink="false">1793147582665-google-antigravity-changelog-models-a775577c</guid>
@@ -173,67 +189,6 @@ Ditambahkan: openbmb/minicpm-ocr-1.0, openbmb/minicpm-ocr-jev</description>
       <description>Microsoft AI newsroom: 6 entri model baru
 
 Ditambahkan: mai-image-1, mai-image-2, mai-image-2-7, mai-image-2.5-pro, mai-image-2.7, mai-voice-2-flash</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: goku-pink</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1793113729397-arena-live-model-roster-92506d53</guid>
-      <pubDate>Tue, 27 Oct 2026 15:08:48 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: goku-pink</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan 2 models</title>
-      <link>https://microsoft.ai/news/mai-cyber-1-1-flash</link>
-      <guid isPermaLink="false">1793113401442-microsoft-ai-news-sitemap-bf581e6b-model-page</guid>
-      <pubDate>Tue, 27 Oct 2026 15:03:20 GMT</pubDate>
-      <description>Microsoft AI newsroom: 2 entri model baru
-
-Ditambahkan: mai-cyber-1-1-flash, mai-cyber-1-flash</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan mai-cyber-1-1-flash</title>
-      <link>https://microsoft.ai/news/mai-cyber-1-1-flash-sharper-findings-and-fewer-tokens-inside-mdash</link>
-      <guid isPermaLink="false">1793113384665-microsoft-ai-news-sitemap-d4425442-model-page</guid>
-      <pubDate>Tue, 27 Oct 2026 15:03:04 GMT</pubDate>
-      <description>Microsoft AI newsroom: 1 entri model baru
-
-Ditambahkan: mai-cyber-1-1-flash, mai-cyber-1-flash</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan 2 models</title>
-      <link>https://microsoft.ai/news/mai-cyber-1-1-flashbrsharper-findings-and-fewer-tokens-inside-mdash</link>
-      <guid isPermaLink="false">1793113219098-microsoft-ai-news-sitemap-b89d421f-model-page</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:18 GMT</pubDate>
-      <description>Microsoft AI newsroom: 2 entri model baru
-
-Ditambahkan: mai-cyber-1-1, mai-cyber-1-flash</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan mai-cyber-1.1-flash</title>
-      <link>https://microsoft.ai/models/</link>
-      <guid isPermaLink="false">1793113213752-microsoft-ai-models-63927df4</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:12 GMT</pubDate>
-      <description>Microsoft AI models: 1 entri model baru
-
-Ditambahkan: mai-cyber-1.1-flash</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan microsoft-decision-1</title>
-      <link>https://commandline.microsoft.com/new-agentic-software-delivery-primitives</link>
-      <guid isPermaLink="false">1793111863762-microsoft-command-line-sitemap-373aeb20-model-page</guid>
-      <pubDate>Tue, 27 Oct 2026 14:37:41 GMT</pubDate>
-      <description>Microsoft Command Line blog: 1 entri model baru
-
-Ditambahkan: microsoft-decision-1</description>
-    </item>
-    <item>
-      <title>Halaman web baru Grok/xAI</title>
-      <link>https://x.ai/news</link>
-      <guid isPermaLink="false">1793109376620-xai-news-sitemap-7fc98e6c-new-page</guid>
-      <pubDate>Tue, 27 Oct 2026 13:56:10 GMT</pubDate>
-      <description>xAI news sitemap: halaman web baru</description>
     </item>
   </channel>
 </rss>
