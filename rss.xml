@@ -6,6 +6,79 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gemini menghapus gemini-embedding-2-preview</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1793225776409-gemini-models-docs-aebfbf89-confirmed-removal</guid>
+      <pubDate>Wed, 28 Oct 2026 22:16:15 GMT</pubDate>
+      <description>Gemini models docs: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-embedding-2</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1793225474956-gemini-models-docs-aebfbf89</guid>
+      <pubDate>Wed, 28 Oct 2026 22:11:14 GMT</pubDate>
+      <description>Gemini models docs: 1 entri model baru
+
+Ditambahkan: gemini-embedding-2</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added ibm-granite/granite-speech-5.0-2b-onnx</title>
+      <link>https://huggingface.co/ibm-granite/granite-speech-5.0-2b-onnx</link>
+      <guid isPermaLink="false">1793224541079-official-huggingface-new-models-14ed10ad</guid>
+      <pubDate>Wed, 28 Oct 2026 21:55:40 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: ibm-granite/granite-speech-5.0-2b-onnx</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1793221731167-microsoft-command-line-sitemap-f8128d70-new-page</guid>
+      <pubDate>Wed, 28 Oct 2026 21:08:50 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan assemblyai/assemblyai-tts-1</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793218570174-openrouter-models-754b34f6</guid>
+      <pubDate>Wed, 28 Oct 2026 20:15:33 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: assemblyai/assemblyai-tts-1</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
+      <guid isPermaLink="false">1793218273985-anthropic-news-ebffe168-new-page</guid>
+      <pubDate>Wed, 28 Oct 2026 20:11:13 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793216083875-openrouter-models-7d444bdc</guid>
+      <pubDate>Wed, 28 Oct 2026 19:34:35 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: baseten/elephant-1, baseten/mammoth-1</description>
+    </item>
+    <item>
+      <title>OpenRouter menghapus baseten/elephant-1:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793216019476-openrouter-models-46602b11-confirmed-removal</guid>
+      <pubDate>Wed, 28 Oct 2026 19:33:24 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan particle-ai/particle-1</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793215617048-openrouter-models-040d0942</guid>
+      <pubDate>Wed, 28 Oct 2026 19:26:46 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: particle-ai/particle-1</description>
+    </item>
+    <item>
       <title>Gemini menambahkan 2 models</title>
       <link>https://antigravity.google/docs/changelog</link>
       <guid isPermaLink="false">1793211074206-google-antigravity-changelog-models-3b4d9238</guid>
@@ -81,67 +154,6 @@ Ditambahkan: klingai/kling-v3-image</description>
       <guid isPermaLink="false">1793153699932-artificial-analysis-api-free-978abf4f</guid>
       <pubDate>Wed, 28 Oct 2026 02:14:59 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 703 baris hasil benchmark ditambahkan, 703 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added ibm-granite/llmon-benchmarks</title>
-      <link>https://huggingface.co/ibm-granite/llmon-benchmarks</link>
-      <guid isPermaLink="false">1793150414377-official-huggingface-new-models-777aeec5</guid>
-      <pubDate>Wed, 28 Oct 2026 01:20:14 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: ibm-granite/llmon-benchmarks</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-4-argon</title>
-      <link>https://antigravity.google/docs/changelog</link>
-      <guid isPermaLink="false">1793147582665-google-antigravity-changelog-models-a775577c</guid>
-      <pubDate>Wed, 28 Oct 2026 00:33:01 GMT</pubDate>
-      <description>Google Antigravity changelog: 1 entri model baru
-
-Ditambahkan: gemini-4-argon</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/metatron-v1</title>
-      <link>https://huggingface.co/nvidia/metatron-v1</link>
-      <guid isPermaLink="false">1793141597475-official-huggingface-lab-rotation-da4c2d9a</guid>
-      <pubDate>Tue, 27 Oct 2026 22:53:17 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/metatron-v1</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/metatron-v1</title>
-      <link>https://huggingface.co/nvidia/metatron-v1</link>
-      <guid isPermaLink="false">1793141428373-official-huggingface-new-models-b59fe85c</guid>
-      <pubDate>Tue, 27 Oct 2026 22:50:28 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/metatron-v1</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
-      <guid isPermaLink="false">1793139863486-anthropic-news-29281a37-new-page</guid>
-      <pubDate>Tue, 27 Oct 2026 22:24:22 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/metatron-browser</title>
-      <link>https://huggingface.co/nvidia/metatron-browser</link>
-      <guid isPermaLink="false">1793137855315-official-huggingface-new-models-c152c06a</guid>
-      <pubDate>Tue, 27 Oct 2026 21:50:55 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/metatron-browser</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 3 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793132891087-openrouter-models-82348a98</guid>
-      <pubDate>Tue, 27 Oct 2026 20:27:57 GMT</pubDate>
-      <description>OpenRouter model catalog: 3 entri model baru
-
-Ditambahkan: ~liquid/d1-latest, ~liquid/d1-ultra-latest, liquid/d1.1</description>
     </item>
   </channel>
 </rss>
