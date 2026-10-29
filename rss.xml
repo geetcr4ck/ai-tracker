@@ -6,6 +6,40 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mistral AI menambahkan mistral-large-4-0-8</title>
+      <link>https://docs.mistral.ai/models</link>
+      <guid isPermaLink="false">1793285337442-mistral-api-models-5a19c0f1</guid>
+      <pubDate>Thu, 29 Oct 2026 14:48:56 GMT</pubDate>
+      <description>Mistral API model catalog: 1 entri model baru
+
+Ditambahkan: mistral-large-4-0-8, mistral-large-4-0-8-fp4</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793283216477-artificial-analysis-api-free-d9384a1e</guid>
+      <pubDate>Thu, 29 Oct 2026 14:13:35 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 2 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan 3 models</title>
+      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
+      <guid isPermaLink="false">1793268635747-qwen-model-pricing-docs-3b02dd27</guid>
+      <pubDate>Thu, 29 Oct 2026 10:10:33 GMT</pubDate>
+      <description>Alibaba Model Studio model catalog: 3 entri model baru
+
+Ditambahkan: qwen-audio-3.x-asr-flash, qwen-audio-3.x-asr-flash-filetrans, qwen-audio-3.x-asr-flash-streaming</description>
+    </item>
+    <item>
+      <title>ByteDance Seed/Doubao menambahkan seedance-2</title>
+      <link>https://www.volcengine.com/docs/82379/1330310</link>
+      <guid isPermaLink="false">1793264079519-volcengine-ark-model-docs-2ee38fb9</guid>
+      <pubDate>Thu, 29 Oct 2026 08:54:37 GMT</pubDate>
+      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
+
+Ditambahkan: seedance-2</description>
+    </item>
+    <item>
       <title>Image, video &amp; audio labs announced ideogram-4.5</title>
       <link>https://x.com/i/web/status/2115652703028138063</link>
       <guid isPermaLink="false">1793247182687-official-x-model-posts-3-a607ea5c</guid>
@@ -161,33 +195,6 @@ Ditambahkan: gemini-4-carbon</description>
       <description>Official AI lab posts on X: 1 model announced
 
 Ditambahkan: gemini-4</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan lightricks/ltx-2-marking</title>
-      <link>https://huggingface.co/lightricks/ltx-2-marking</link>
-      <guid isPermaLink="false">1793199711619-lightricks-official-model-weights-2be397a2</guid>
-      <pubDate>Wed, 28 Oct 2026 15:01:51 GMT</pubDate>
-      <description>Lightricks LTX official model weights: 1 entri model baru
-
-Ditambahkan: lightricks/ltx-2-marking</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan nvidia/nemotron-3.5-transcribe-30b-a4b</title>
-      <link>https://huggingface.co/nvidia/nvidia-nemotron-3.5-transcribe-30b-a4b</link>
-      <guid isPermaLink="false">1793199553763-nvidia-official-model-weights-401eaeba</guid>
-      <pubDate>Wed, 28 Oct 2026 14:59:13 GMT</pubDate>
-      <description>NVIDIA Nemotron official model weights: 1 entri model baru
-
-Ditambahkan: nvidia/nemotron-3.5-transcribe-30b-a4b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): klingai/kling-v3-image</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/9eee7a1859cb80c590ddbd9d24af3f396164bb27/src/content/catalog-models/klingai-kling-v3-image.json</link>
-      <guid isPermaLink="false">1793195747108-cloudflare-gateway-catalog-269aac21</guid>
-      <pubDate>Wed, 28 Oct 2026 13:55:45 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: klingai/kling-v3-image</description>
     </item>
   </channel>
 </rss>
