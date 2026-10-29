@@ -6,6 +6,47 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan baseten/joey-1</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793302731650-openrouter-models-fb8ac713</guid>
+      <pubDate>Thu, 29 Oct 2026 19:37:37 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: baseten/joey-1</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1793298902693-microsoft-command-line-sitemap-c6191cb9-new-page</guid>
+      <pubDate>Thu, 29 Oct 2026 18:34:59 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
+    </item>
+    <item>
+      <title>Bocoran model Gemini: gemini-2</title>
+      <link>https://github.com/google-gemini/gemini-cli/blob/942ffd482dfd39184c2ca90fc4929923f06556f3/packages/core/src/config/models.ts</link>
+      <guid isPermaLink="false">1793296018892-google-gemini-cli-official-code-models-7de2b547</guid>
+      <pubDate>Thu, 29 Oct 2026 17:46:56 GMT</pubDate>
+      <description>google-gemini/gemini-cli official code model references: 1 bocoran model baru
+
+Ditambahkan: gemini-2</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1793290957467-deepswe-benchlm-mirror-9db32680</guid>
+      <pubDate>Thu, 29 Oct 2026 16:22:37 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan sourceful/riverflow-v2.6-pro</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793289797608-openrouter-models-45f8c6a2</guid>
+      <pubDate>Thu, 29 Oct 2026 16:03:06 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: sourceful/riverflow-v2.6-pro</description>
+    </item>
+    <item>
       <title>Mistral AI menambahkan mistral-large-4-0-8</title>
       <link>https://docs.mistral.ai/models</link>
       <guid isPermaLink="false">1793285337442-mistral-api-models-5a19c0f1</guid>
@@ -136,65 +177,6 @@ Ditambahkan: assemblyai/assemblyai-tts-1</description>
       <description>OpenRouter model catalog: 2 entri model baru
 
 Ditambahkan: baseten/elephant-1, baseten/mammoth-1</description>
-    </item>
-    <item>
-      <title>OpenRouter menghapus baseten/elephant-1:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793216019476-openrouter-models-46602b11-confirmed-removal</guid>
-      <pubDate>Wed, 28 Oct 2026 19:33:24 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan particle-ai/particle-1</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793215617048-openrouter-models-040d0942</guid>
-      <pubDate>Wed, 28 Oct 2026 19:26:46 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: particle-ai/particle-1</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan 2 models</title>
-      <link>https://antigravity.google/docs/changelog</link>
-      <guid isPermaLink="false">1793211074206-google-antigravity-changelog-models-3b4d9238</guid>
-      <pubDate>Wed, 28 Oct 2026 18:11:12 GMT</pubDate>
-      <description>Google Antigravity changelog: 2 entri model baru
-
-Ditambahkan: gemini-3.7-flash-high, gemini-3.8-flash-high</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): openai/gpt-6.1-terra</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/947fb203c512f391a2b745db79d91f9ead7e32c4/src/content/catalog-models/openai-gpt-6.1-terra.json</link>
-      <guid isPermaLink="false">1793209080507-cloudflare-gateway-catalog-cc1a7c55</guid>
-      <pubDate>Wed, 28 Oct 2026 17:37:54 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: openai/gpt-6.1-terra</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: gemini-4-carbon</title>
-      <link>https://artificialanalysis.ai/models/gemini-4-carbon</link>
-      <guid isPermaLink="false">1793207685707-artificial-analysis-model-discovery-e6565ec3</guid>
-      <pubDate>Wed, 28 Oct 2026 17:14:45 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: gemini-4-carbon</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793207476927-artificial-analysis-api-free-11da2943</guid>
-      <pubDate>Wed, 28 Oct 2026 17:11:16 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Gemini announced gemini-4</title>
-      <link>https://x.com/i/web/status/2115489593818816591</link>
-      <guid isPermaLink="false">1793207012486-official-x-model-posts-aa9fc48b</guid>
-      <pubDate>Wed, 28 Oct 2026 17:03:32 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 model announced
-
-Ditambahkan: gemini-4</description>
     </item>
   </channel>
 </rss>
