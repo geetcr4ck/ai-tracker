@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Image, video &amp; audio labs announced ideogram-4.5</title>
+      <link>https://x.com/i/web/status/2115652703028138063</link>
+      <guid isPermaLink="false">1793247182687-official-x-model-posts-3-a607ea5c</guid>
+      <pubDate>Thu, 29 Oct 2026 04:13:02 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 model announced
+
+Ditambahkan: ideogram-4.5</description>
+    </item>
+    <item>
+      <title>ByteDance Seed/Doubao menambahkan seed-character-26</title>
+      <link>https://www.volcengine.com/docs/82379/1330310</link>
+      <guid isPermaLink="false">1793245608263-volcengine-ark-model-docs-3d15d295</guid>
+      <pubDate>Thu, 29 Oct 2026 03:46:46 GMT</pubDate>
+      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
+
+Ditambahkan: seed-character-26</description>
+    </item>
+    <item>
       <title>Alibaba Qwen menghapus 3 models</title>
       <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
       <guid isPermaLink="false">1793240709523-qwen-model-pricing-docs-7fef61c2</guid>
@@ -170,13 +188,6 @@ Ditambahkan: nvidia/nemotron-3.5-transcribe-30b-a4b</description>
       <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: klingai/kling-v3-image</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793153699932-artificial-analysis-api-free-978abf4f</guid>
-      <pubDate>Wed, 28 Oct 2026 02:14:59 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 703 baris hasil benchmark ditambahkan, 703 dihapus</description>
     </item>
   </channel>
 </rss>
