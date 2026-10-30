@@ -6,6 +6,67 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added microsoft/mage-vl-cowork</title>
+      <link>https://huggingface.co/microsoft/mage-vl-cowork</link>
+      <guid isPermaLink="false">1793362828611-official-huggingface-lab-rotation-426996d8</guid>
+      <pubDate>Fri, 30 Oct 2026 12:20:28 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: microsoft/mage-vl-cowork</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added microsoft/mage-vl-cowork</title>
+      <link>https://huggingface.co/microsoft/mage-vl-cowork</link>
+      <guid isPermaLink="false">1793362414448-official-huggingface-new-models-1692335e</guid>
+      <pubDate>Fri, 30 Oct 2026 12:13:32 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: microsoft/mage-vl-cowork</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zwz2-27b-gguf</title>
+      <link>https://huggingface.co/inclusionai/zwz2-27b-gguf</link>
+      <guid isPermaLink="false">1793356120373-official-huggingface-new-models-c08bbf76</guid>
+      <pubDate>Fri, 30 Oct 2026 10:28:40 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/zwz2-27b-gguf</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zwz2-9b-gguf</title>
+      <link>https://huggingface.co/inclusionai/zwz2-9b-gguf</link>
+      <guid isPermaLink="false">1793354155563-official-huggingface-new-models-7e38ac5d</guid>
+      <pubDate>Fri, 30 Oct 2026 09:55:55 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/zwz2-9b-gguf</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zwz2-4b-gguf</title>
+      <link>https://huggingface.co/inclusionai/zwz2-4b-gguf</link>
+      <guid isPermaLink="false">1793353559286-official-huggingface-new-models-42169236</guid>
+      <pubDate>Fri, 30 Oct 2026 09:45:59 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/zwz2-4b-gguf</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menghapus 2 models</title>
+      <link>https://www.moonshot.ai/</link>
+      <guid isPermaLink="false">1793349901272-moonshot-home-kimi-k3-2e1d2846-confirmed-removal</guid>
+      <pubDate>Fri, 30 Oct 2026 08:45:00 GMT</pubDate>
+      <description>Moonshot AI homepage: 2 removed model entries</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menambahkan 2 models</title>
+      <link>https://www.moonshot.ai/</link>
+      <guid isPermaLink="false">1793349594308-moonshot-home-kimi-k3-2e1d2846</guid>
+      <pubDate>Fri, 30 Oct 2026 08:39:53 GMT</pubDate>
+      <description>Moonshot AI homepage: 2 entri model baru
+
+Ditambahkan: kimi-k3-1, kimi-k3.1</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan cloudflare/clairic</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1793329276394-openrouter-models-a5b5b25b</guid>
@@ -118,49 +179,6 @@ Ditambahkan: sourceful/riverflow-v2.6-pro</description>
       <description>Mistral API model catalog: 1 entri model baru
 
 Ditambahkan: mistral-large-4-0-8, mistral-large-4-0-8-fp4</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793283216477-artificial-analysis-api-free-d9384a1e</guid>
-      <pubDate>Thu, 29 Oct 2026 14:13:35 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 2 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan 3 models</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1793268635747-qwen-model-pricing-docs-3b02dd27</guid>
-      <pubDate>Thu, 29 Oct 2026 10:10:33 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 3 entri model baru
-
-Ditambahkan: qwen-audio-3.x-asr-flash, qwen-audio-3.x-asr-flash-filetrans, qwen-audio-3.x-asr-flash-streaming</description>
-    </item>
-    <item>
-      <title>ByteDance Seed/Doubao menambahkan seedance-2</title>
-      <link>https://www.volcengine.com/docs/82379/1330310</link>
-      <guid isPermaLink="false">1793264079519-volcengine-ark-model-docs-2ee38fb9</guid>
-      <pubDate>Thu, 29 Oct 2026 08:54:37 GMT</pubDate>
-      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
-
-Ditambahkan: seedance-2</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs announced ideogram-4.5</title>
-      <link>https://x.com/i/web/status/2115652703028138063</link>
-      <guid isPermaLink="false">1793247182687-official-x-model-posts-3-a607ea5c</guid>
-      <pubDate>Thu, 29 Oct 2026 04:13:02 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 model announced
-
-Ditambahkan: ideogram-4.5</description>
-    </item>
-    <item>
-      <title>ByteDance Seed/Doubao menambahkan seed-character-26</title>
-      <link>https://www.volcengine.com/docs/82379/1330310</link>
-      <guid isPermaLink="false">1793245608263-volcengine-ark-model-docs-3d15d295</guid>
-      <pubDate>Thu, 29 Oct 2026 03:46:46 GMT</pubDate>
-      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
-
-Ditambahkan: seed-character-26</description>
     </item>
   </channel>
 </rss>
