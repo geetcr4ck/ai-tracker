@@ -9,7 +9,30 @@ const RSS_PUBLIC = join(ROOT, "public", "rss.xml");
 const RSS_ROOT = join(ROOT, "rss.xml");
 
 const LIMIT = Number.parseInt(process.env.LIMIT ?? "80", 10) || 80;
-const EVENTS_URL = `https://live.aitracker.bot/api/events?limit=${LIMIT}`;
+const DEFAULT_EVENTS_URL = "https://live.aitracker.bot/api/events";
+
+// Base URL bisa di-override lewat env (Actions variable) supaya pindah domain
+// tidak perlu ubah kode. `?limit=` selalu ditempel di sini agar konsisten.
+function resolveEventsUrl() {
+  const raw = String(process.env.EVENTS_URL ?? "").trim() || DEFAULT_EVENTS_URL;
+  try {
+    const u = new URL(raw);
+    u.searchParams.set("limit", String(LIMIT));
+    return u.toString();
+  } catch {
+    return `${raw}${raw.includes("?") ? "&" : "?"}limit=${LIMIT}`;
+  }
+}
+const EVENTS_URL = resolveEventsUrl();
+
+// Sumber ada di balik Cloudflare dan kadang membalas 5xx/530 atau timeout
+// sesaat. Retry singkat + timeout per percobaan; kalau tetap gagal, run
+// dilewati (exit 0) supaya commit RSS + deploy Pages tetap jalan.
+const FETCH_ATTEMPTS = clampInt(process.env.FETCH_ATTEMPTS, 1, 6, 4);
+const FETCH_TIMEOUT_MS = clampInt(process.env.FETCH_TIMEOUT_MS, 5000, 60000, 20000);
+const RETRYABLE_STATUS = new Set([
+  408, 425, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524, 525, 526, 527, 530,
+]);
 const FILTER_CATEGORIES = (process.env.FILTER_CATEGORIES ?? "model-change,new-page")
   .split(",")
   .map((s) => s.trim())
@@ -43,6 +66,40 @@ function escXml(s) {
 
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
+}
+
+function clampInt(raw, min, max, fallback) {
+  const n = Number.parseInt(raw ?? "", 10);
+  if (!Number.isFinite(n)) return fallback;
+  return Math.min(max, Math.max(min, n));
+}
+
+// Ambil daftar event dengan retry + backoff. Error yang tidak bisa dipulihkan
+// (mis. 404 karena URL berubah) tidak diulang, tapi tetap dilaporkan jelas.
+async function fetchEvents() {
+  let lastError = null;
+  for (let attempt = 1; attempt <= FETCH_ATTEMPTS; attempt++) {
+    try {
+      const res = await fetch(EVENTS_URL, {
+        headers: { accept: "application/json" },
+        signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+      });
+      if (res.ok) {
+        const data = await res.json();
+        return Array.isArray(data.events) ? data.events : Array.isArray(data) ? data : [];
+      }
+      lastError = new Error(`fetch events failed: ${res.status}`);
+      if (!RETRYABLE_STATUS.has(res.status)) break;
+    } catch (e) {
+      lastError = new Error(`fetch events failed: ${e?.name === "TimeoutError" ? "timeout" : e?.message ?? e}`);
+    }
+    if (attempt < FETCH_ATTEMPTS) {
+      const waitMs = Math.min(8000, 500 * 2 ** (attempt - 1));
+      console.log(`events fetch attempt ${attempt}/${FETCH_ATTEMPTS} gagal (${lastError.message}), retry in ${waitMs}ms`);
+      await sleep(waitMs);
+    }
+  }
+  throw lastError ?? new Error("fetch events failed: unknown error");
 }
 
 // Kamus pola offline EN->ID (Rp0, deterministik). Nama model, URL, dan
@@ -184,10 +241,22 @@ async function main() {
   const seen = loadSeen();
   const seenSet = new Set(seen);
 
-  const res = await fetch(EVENTS_URL, { headers: { accept: "application/json" } });
-  if (!res.ok) throw new Error(`fetch events failed: ${res.status}`);
-  const data = await res.json();
-  const events = Array.isArray(data.events) ? data.events : Array.isArray(data) ? data : [];
+  let events;
+  try {
+    events = await fetchEvents();
+  } catch (e) {
+    // Sumber sedang down / Cloudflare 5xx: jangan gagalkan seluruh pipeline.
+    // RSS terakhir yang sudah terbit tetap dipakai, Pages tetap ter-deploy,
+    // dan run tetap hijau supaya tidak spam notifikasi kegagalan.
+    console.log(`::warning title=AI tracker tidak bisa diakses::${e.message} — run dilewati, RSS lama dipertahankan.`);
+    // Pastikan artifact Pages tetap ada walau ini run pertama yang gagal.
+    if (!existsSync(RSS_PUBLIC)) {
+      mkdirSync(join(ROOT, "public"), { recursive: true });
+      writeFileSync(RSS_PUBLIC, buildRss([], RSS_PUBLIC_URL));
+    }
+    console.log(`skipped: source unavailable (${e.message})`);
+    return;
+  }
 
   // TODO(v2): pertimbangkan filter lanjutan codeReferenceOnly==true (saat ini biarkan lolos).
   // Lolos jika kategori cocok ATAU topik cocok (mis. benchmark AA/deepswe).
@@ -204,10 +273,16 @@ async function main() {
   const feedEvents = [...filtered]
     .sort((a, b) => new Date(b.detectedAt) - new Date(a.detectedAt))
     .slice(0, 50);
-  const rss = buildRss(feedEvents, RSS_PUBLIC_URL);
-  mkdirSync(join(ROOT, "public"), { recursive: true });
-  writeFileSync(RSS_PUBLIC, rss);
-  writeFileSync(RSS_ROOT, rss);
+  if (feedEvents.length === 0) {
+    // Jangan timpa feed yang sudah terbit dengan channel kosong saat sumber
+    // membalas 200 tapi tanpa event (lebih baik feed lama daripada feed kosong).
+    console.log("::warning title=RSS tidak diperbarui::tidak ada event yang lolos filter pada run ini.");
+  } else {
+    const rss = buildRss(feedEvents, RSS_PUBLIC_URL);
+    mkdirSync(join(ROOT, "public"), { recursive: true });
+    writeFileSync(RSS_PUBLIC, rss);
+    writeFileSync(RSS_ROOT, rss);
+  }
 
   let posted = 0;
   const toPost = fresh.slice(0, MAX_POST_PER_RUN);
