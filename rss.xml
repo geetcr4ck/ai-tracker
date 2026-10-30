@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/3f0d6e179026d336ef43525b2da1d74195b5ad37/src/content/catalog-models/particle-particle-1.json</link>
+      <guid isPermaLink="false">1793386012159-cloudflare-gateway-catalog-772d3fd8</guid>
+      <pubDate>Fri, 30 Oct 2026 18:46:49 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: particle/particle-1, topaz/gigapixel-high-fidelity-3, topaz/gigapixel-standard-2</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): minimax/h3-lite</title>
       <link>https://github.com/cloudflare/cloudflare-docs/blob/b0de4b4c140d491df49edbb6c2477125d446f730/src/content/catalog-models/minimax-h3-lite.json</link>
       <guid isPermaLink="false">1793375422730-cloudflare-gateway-catalog-45d4f7c5</guid>
@@ -152,45 +161,6 @@ Ditambahkan: tbc/mischief-1</description>
       <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: gpt-6.1-terra</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793308175246-artificial-analysis-api-free-cdccd2c7</guid>
-      <pubDate>Thu, 29 Oct 2026 21:09:33 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 3 baris hasil benchmark ditambahkan, 3 dihapus</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan eleven_text_to_sound_v3</title>
-      <link>https://elevenlabs.io/docs/overview/models</link>
-      <guid isPermaLink="false">1793308173642-elevenlabs-models-docs-8223313d</guid>
-      <pubDate>Thu, 29 Oct 2026 21:09:30 GMT</pubDate>
-      <description>ElevenLabs models docs: 1 entri model baru
-
-Ditambahkan: eleven_text_to_sound_v3</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793307206380-artificial-analysis-api-free-a34a0e8d</guid>
-      <pubDate>Thu, 29 Oct 2026 20:53:25 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 2 baris hasil benchmark ditambahkan, 2 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan baseten/joey-1</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793302731650-openrouter-models-fb8ac713</guid>
-      <pubDate>Thu, 29 Oct 2026 19:37:37 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: baseten/joey-1</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://commandline.microsoft.com/</link>
-      <guid isPermaLink="false">1793298902693-microsoft-command-line-sitemap-c6191cb9-new-page</guid>
-      <pubDate>Thu, 29 Oct 2026 18:34:59 GMT</pubDate>
-      <description>Microsoft Command Line blog: halaman web baru</description>
     </item>
   </channel>
 </rss>
