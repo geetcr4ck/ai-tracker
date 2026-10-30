@@ -6,6 +6,31 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan cloudflare/clairic</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793329276394-openrouter-models-a5b5b25b</guid>
+      <pubDate>Fri, 30 Oct 2026 03:00:55 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: cloudflare/clairic</description>
+    </item>
+    <item>
+      <title>Upstage/Solar menghapus 2 models</title>
+      <link>https://console.upstage.ai/docs/models</link>
+      <guid isPermaLink="false">1793322105154-upstage-models-docs-26b5fc6b</guid>
+      <pubDate>Fri, 30 Oct 2026 01:01:44 GMT</pubDate>
+      <description>Upstage official models: 2 removed model entries</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan tbc/mischief-1</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793319751856-openrouter-models-227e8252</guid>
+      <pubDate>Fri, 30 Oct 2026 00:22:16 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: tbc/mischief-1</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1793312636774-artificial-analysis-api-free-b1bf0f27</guid>
@@ -136,45 +161,6 @@ Ditambahkan: ideogram-4.5</description>
       <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
 
 Ditambahkan: seed-character-26</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menghapus 3 models</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1793240709523-qwen-model-pricing-docs-7fef61c2</guid>
-      <pubDate>Thu, 29 Oct 2026 02:25:06 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 3 removed model entries</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan nvidia/nemotron-3.5-transcribe</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793236079156-openrouter-models-3ca400a1</guid>
-      <pubDate>Thu, 29 Oct 2026 01:07:49 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: nvidia/nemotron-3.5-transcribe</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793233723727-artificial-analysis-api-free-03db53c6</guid>
-      <pubDate>Thu, 29 Oct 2026 00:28:42 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 258 baris hasil benchmark ditambahkan, 258 dihapus</description>
-    </item>
-    <item>
-      <title>Gemini menghapus gemini-embedding-2-preview</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1793225776409-gemini-models-docs-aebfbf89-confirmed-removal</guid>
-      <pubDate>Wed, 28 Oct 2026 22:16:15 GMT</pubDate>
-      <description>Gemini models docs: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-embedding-2</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1793225474956-gemini-models-docs-aebfbf89</guid>
-      <pubDate>Wed, 28 Oct 2026 22:11:14 GMT</pubDate>
-      <description>Gemini models docs: 1 entri model baru
-
-Ditambahkan: gemini-embedding-2</description>
     </item>
   </channel>
 </rss>
