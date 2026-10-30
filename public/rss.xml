@@ -6,6 +6,52 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah (referensi kode): minimax/h3-lite</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/b0de4b4c140d491df49edbb6c2477125d446f730/src/content/catalog-models/minimax-h3-lite.json</link>
+      <guid isPermaLink="false">1793375422730-cloudflare-gateway-catalog-45d4f7c5</guid>
+      <pubDate>Fri, 30 Oct 2026 15:50:21 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: minimax/h3-lite</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): minimax/h3-highspeed</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/ac7140a88db8b3d9dd4d85f12a25dfcd1251ee2f/src/content/catalog-models/minimax-h3-highspeed.json</link>
+      <guid isPermaLink="false">1793375359044-cloudflare-gateway-catalog-98d69f6d</guid>
+      <pubDate>Fri, 30 Oct 2026 15:49:17 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: minimax/h3-highspeed</description>
+    </item>
+    <item>
+      <title>OpenRouter menghapus cloudflare/clairic</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793374743327-openrouter-models-52492e1a</guid>
+      <pubDate>Fri, 30 Oct 2026 15:38:49 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793371486120-artificial-analysis-api-free-20337286</guid>
+      <pubDate>Fri, 30 Oct 2026 14:44:45 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793368995082-artificial-analysis-api-free-0c2a71a7</guid>
+      <pubDate>Fri, 30 Oct 2026 14:03:14 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793366375064-artificial-analysis-api-free-090356f8</guid>
+      <pubDate>Fri, 30 Oct 2026 13:19:34 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added microsoft/mage-vl-cowork</title>
       <link>https://huggingface.co/microsoft/mage-vl-cowork</link>
       <guid isPermaLink="false">1793362828611-official-huggingface-lab-rotation-426996d8</guid>
@@ -145,40 +191,6 @@ Ditambahkan: baseten/joey-1</description>
       <guid isPermaLink="false">1793298902693-microsoft-command-line-sitemap-c6191cb9-new-page</guid>
       <pubDate>Thu, 29 Oct 2026 18:34:59 GMT</pubDate>
       <description>Microsoft Command Line blog: halaman web baru</description>
-    </item>
-    <item>
-      <title>Bocoran model Gemini: gemini-2</title>
-      <link>https://github.com/google-gemini/gemini-cli/blob/942ffd482dfd39184c2ca90fc4929923f06556f3/packages/core/src/config/models.ts</link>
-      <guid isPermaLink="false">1793296018892-google-gemini-cli-official-code-models-7de2b547</guid>
-      <pubDate>Thu, 29 Oct 2026 17:46:56 GMT</pubDate>
-      <description>google-gemini/gemini-cli official code model references: 1 bocoran model baru
-
-Ditambahkan: gemini-2</description>
-    </item>
-    <item>
-      <title>Hasil benchmark DeepSWE berubah</title>
-      <link>https://benchlm.ai/benchmarks/deepSwe</link>
-      <guid isPermaLink="false">1793290957467-deepswe-benchlm-mirror-9db32680</guid>
-      <pubDate>Thu, 29 Oct 2026 16:22:37 GMT</pubDate>
-      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan sourceful/riverflow-v2.6-pro</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793289797608-openrouter-models-45f8c6a2</guid>
-      <pubDate>Thu, 29 Oct 2026 16:03:06 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: sourceful/riverflow-v2.6-pro</description>
-    </item>
-    <item>
-      <title>Mistral AI menambahkan mistral-large-4-0-8</title>
-      <link>https://docs.mistral.ai/models</link>
-      <guid isPermaLink="false">1793285337442-mistral-api-models-5a19c0f1</guid>
-      <pubDate>Thu, 29 Oct 2026 14:48:56 GMT</pubDate>
-      <description>Mistral API model catalog: 1 entri model baru
-
-Ditambahkan: mistral-large-4-0-8, mistral-large-4-0-8-fp4</description>
     </item>
   </channel>
 </rss>
