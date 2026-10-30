@@ -17,13 +17,14 @@ permissions:
 jobs:
   poll:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
       - name: Poll tracker and notify
         run: node scripts/radar.mjs
         env:
@@ -31,6 +32,9 @@ jobs:
           FILTER_CATEGORIES: ${{ vars.FILTER_CATEGORIES || 'model-change,new-page' }}
           FILTER_TOPICS: ${{ vars.FILTER_TOPICS || 'artificial-analysis,deepswe' }}
           RSS_PUBLIC_URL: ${{ vars.RSS_PUBLIC_URL || 'https://geetcr4ck.github.io/ai-tracker/' }}
+          EVENTS_URL: ${{ vars.EVENTS_URL || 'https://live.aitracker.bot/api/events' }}
+          FETCH_ATTEMPTS: "4"
+          FETCH_TIMEOUT_MS: "20000"
       - name: Commit state + rss
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
