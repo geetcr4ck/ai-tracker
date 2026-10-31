@@ -139,14 +139,5 @@ Ditambahkan: inclusionai/zwz2-4b-gguf</description>
 
 Ditambahkan: kimi-k3-1, kimi-k3.1</description>
     </item>
-    <item>
-      <title>OpenRouter menambahkan cloudflare/clairic</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793329276394-openrouter-models-a5b5b25b</guid>
-      <pubDate>Fri, 30 Oct 2026 03:00:55 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: cloudflare/clairic</description>
-    </item>
   </channel>
 </rss>
