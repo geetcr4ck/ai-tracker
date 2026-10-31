@@ -7,6 +7,15 @@
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.106-0.tgz</link>
+      <guid isPermaLink="false">1793417428491-github-copilot-native-models-0b83ad58</guid>
+      <pubDate>Sat, 31 Oct 2026 03:29:46 GMT</pubDate>
+      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: claude-sonnet-4-6-pro, gpt-5-6</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
       <link>https://github.com/cloudflare/cloudflare-docs/blob/3f0d6e179026d336ef43525b2da1d74195b5ad37/src/content/catalog-models/particle-particle-1.json</link>
       <guid isPermaLink="false">1793386012159-cloudflare-gateway-catalog-772d3fd8</guid>
       <pubDate>Fri, 30 Oct 2026 18:46:49 GMT</pubDate>
@@ -136,22 +145,6 @@ Ditambahkan: cloudflare/clairic</description>
       <guid isPermaLink="false">1793322105154-upstage-models-docs-26b5fc6b</guid>
       <pubDate>Fri, 30 Oct 2026 01:01:44 GMT</pubDate>
       <description>Upstage official models: 2 removed model entries</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan tbc/mischief-1</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793319751856-openrouter-models-227e8252</guid>
-      <pubDate>Fri, 30 Oct 2026 00:22:16 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: tbc/mischief-1</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793312636774-artificial-analysis-api-free-b1bf0f27</guid>
-      <pubDate>Thu, 29 Oct 2026 22:23:55 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
