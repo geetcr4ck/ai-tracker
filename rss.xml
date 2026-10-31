@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model ChatGPT/OpenAI: gpt-6-astra-law</title>
+      <link>https://developers.openai.com/api/docs/pricing</link>
+      <guid isPermaLink="false">1793433700332-openai-api-pricing-1cc93d7a</guid>
+      <pubDate>Sat, 31 Oct 2026 08:01:39 GMT</pubDate>
+      <description>OpenAI API pricing page: 1 bocoran model baru
+
+Ditambahkan: gpt-6-astra-law</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): model identifiers</title>
       <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.106-0.tgz</link>
       <guid isPermaLink="false">1793417428491-github-copilot-native-models-0b83ad58</guid>
@@ -138,13 +147,6 @@ Ditambahkan: kimi-k3-1, kimi-k3.1</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: cloudflare/clairic</description>
-    </item>
-    <item>
-      <title>Upstage/Solar menghapus 2 models</title>
-      <link>https://console.upstage.ai/docs/models</link>
-      <guid isPermaLink="false">1793322105154-upstage-models-docs-26b5fc6b</guid>
-      <pubDate>Fri, 30 Oct 2026 01:01:44 GMT</pubDate>
-      <description>Upstage official models: 2 removed model entries</description>
     </item>
   </channel>
 </rss>
