@@ -153,14 +153,5 @@ Ditambahkan: tbc/mischief-1</description>
       <pubDate>Thu, 29 Oct 2026 22:23:55 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): gpt-6.1-terra</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/1.0.0/linux/x64/droid</link>
-      <guid isPermaLink="false">1793312350363-factory-droid-registry-487c92cc</guid>
-      <pubDate>Thu, 29 Oct 2026 22:17:54 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6.1-terra</description>
-    </item>
   </channel>
 </rss>
