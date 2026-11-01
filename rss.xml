@@ -23,14 +23,5 @@ Ditambahkan: kimi-k2-7</description>
 
 Ditambahkan: gpt-6-astra-law</description>
     </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.106-0.tgz</link>
-      <guid isPermaLink="false">1793417428491-github-copilot-native-models-0b83ad58</guid>
-      <pubDate>Sat, 31 Oct 2026 03:29:46 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-sonnet-4-6-pro, gpt-5-6</description>
-    </item>
   </channel>
 </rss>
