@@ -32,39 +32,5 @@ Ditambahkan: gpt-6-astra-law</description>
 
 Ditambahkan: claude-sonnet-4-6-pro, gpt-5-6</description>
     </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/3f0d6e179026d336ef43525b2da1d74195b5ad37/src/content/catalog-models/particle-particle-1.json</link>
-      <guid isPermaLink="false">1793386012159-cloudflare-gateway-catalog-772d3fd8</guid>
-      <pubDate>Fri, 30 Oct 2026 18:46:49 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: particle/particle-1, topaz/gigapixel-high-fidelity-3, topaz/gigapixel-standard-2</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): minimax/h3-lite</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/b0de4b4c140d491df49edbb6c2477125d446f730/src/content/catalog-models/minimax-h3-lite.json</link>
-      <guid isPermaLink="false">1793375422730-cloudflare-gateway-catalog-45d4f7c5</guid>
-      <pubDate>Fri, 30 Oct 2026 15:50:21 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: minimax/h3-lite</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): minimax/h3-highspeed</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/ac7140a88db8b3d9dd4d85f12a25dfcd1251ee2f/src/content/catalog-models/minimax-h3-highspeed.json</link>
-      <guid isPermaLink="false">1793375359044-cloudflare-gateway-catalog-98d69f6d</guid>
-      <pubDate>Fri, 30 Oct 2026 15:49:17 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: minimax/h3-highspeed</description>
-    </item>
-    <item>
-      <title>OpenRouter menghapus cloudflare/clairic</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793374743327-openrouter-models-52492e1a</guid>
-      <pubDate>Fri, 30 Oct 2026 15:38:49 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 removed model entry</description>
-    </item>
   </channel>
 </rss>
