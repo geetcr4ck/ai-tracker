@@ -87,48 +87,5 @@ Ditambahkan: minimax/h3-highspeed</description>
 
 Ditambahkan: microsoft/mage-vl-cowork</description>
     </item>
-    <item>
-      <title>Katalog model berubah: added microsoft/mage-vl-cowork</title>
-      <link>https://huggingface.co/microsoft/mage-vl-cowork</link>
-      <guid isPermaLink="false">1793362414448-official-huggingface-new-models-1692335e</guid>
-      <pubDate>Fri, 30 Oct 2026 12:13:32 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: microsoft/mage-vl-cowork</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zwz2-27b-gguf</title>
-      <link>https://huggingface.co/inclusionai/zwz2-27b-gguf</link>
-      <guid isPermaLink="false">1793356120373-official-huggingface-new-models-c08bbf76</guid>
-      <pubDate>Fri, 30 Oct 2026 10:28:40 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-27b-gguf</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zwz2-9b-gguf</title>
-      <link>https://huggingface.co/inclusionai/zwz2-9b-gguf</link>
-      <guid isPermaLink="false">1793354155563-official-huggingface-new-models-7e38ac5d</guid>
-      <pubDate>Fri, 30 Oct 2026 09:55:55 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-9b-gguf</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zwz2-4b-gguf</title>
-      <link>https://huggingface.co/inclusionai/zwz2-4b-gguf</link>
-      <guid isPermaLink="false">1793353559286-official-huggingface-new-models-42169236</guid>
-      <pubDate>Fri, 30 Oct 2026 09:45:59 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/zwz2-4b-gguf</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menghapus 2 models</title>
-      <link>https://www.moonshot.ai/</link>
-      <guid isPermaLink="false">1793349901272-moonshot-home-kimi-k3-2e1d2846-confirmed-removal</guid>
-      <pubDate>Fri, 30 Oct 2026 08:45:00 GMT</pubDate>
-      <description>Moonshot AI homepage: 2 removed model entries</description>
-    </item>
   </channel>
 </rss>
