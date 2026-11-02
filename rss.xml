@@ -6,6 +6,88 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gemini menambahkan 3 models</title>
+      <link>https://aistudio.google.com/docs/models</link>
+      <guid isPermaLink="false">1793644522948-gemini-models-docs-b56b9c33</guid>
+      <pubDate>Mon, 02 Nov 2026 18:35:21 GMT</pubDate>
+      <description>Gemini models docs: 3 entri model baru
+
+Ditambahkan: gemini-3-5-flash-lite, gemini-3-8-flash, gemini-3.6</description>
+    </item>
+    <item>
+      <title>Gemini menghapus 4 models</title>
+      <link>https://ai.google.dev/api/models</link>
+      <guid isPermaLink="false">1793639352037-gemini-api-model-reference-cc502e12</guid>
+      <pubDate>Mon, 02 Nov 2026 17:09:11 GMT</pubDate>
+      <description>Gemini model API reference: 4 removed model entries</description>
+    </item>
+    <item>
+      <title>Gemini menghapus 46 models</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1793639351901-gemini-models-docs-cc502e12</guid>
+      <pubDate>Mon, 02 Nov 2026 17:09:11 GMT</pubDate>
+      <description>Gemini models docs: 46 removed model entries</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan microsoft-decision-1</title>
+      <link>https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration</link>
+      <guid isPermaLink="false">1793632438598-microsoft-command-line-sitemap-9d982915-model-page</guid>
+      <pubDate>Mon, 02 Nov 2026 15:13:57 GMT</pubDate>
+      <description>Microsoft Command Line blog: 1 entri model baru
+
+Ditambahkan: microsoft-decision-1</description>
+    </item>
+    <item>
+      <title>Meituan LongCat menambahkan longcat-2.5</title>
+      <link>https://x.com/i/web/status/2117264311714537633</link>
+      <guid isPermaLink="false">1793630136179-official-x-model-posts-3-1110ba4c</guid>
+      <pubDate>Mon, 02 Nov 2026 14:35:35 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: longcat-2.5</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793627994278-artificial-analysis-api-free-93c02d8b</guid>
+      <pubDate>Mon, 02 Nov 2026 13:59:53 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan z-ai/glm-5.3-flashx-legal</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793627204216-openrouter-models-350cdb9c</guid>
+      <pubDate>Mon, 02 Nov 2026 13:46:34 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: z-ai/glm-5.3-flashx-legal</description>
+    </item>
+    <item>
+      <title>OpenBMB/MiniCPM announced minicpm-v4.7</title>
+      <link>https://x.com/i/web/status/2117247900845769084</link>
+      <guid isPermaLink="false">1793626225148-official-x-model-posts-3-5742fbb5</guid>
+      <pubDate>Mon, 02 Nov 2026 13:30:24 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 model announced
+
+Ditambahkan: minicpm-v4.7</description>
+    </item>
+    <item>
+      <title>Z.ai menambahkan glm-5.3-flashx-legal</title>
+      <link>https://api.z.ai/api/paas/v4/models</link>
+      <guid isPermaLink="false">1793624009288-zai-api-models-4502b037</guid>
+      <pubDate>Mon, 02 Nov 2026 12:53:28 GMT</pubDate>
+      <description>Z.ai API models: 1 entri model baru
+
+Ditambahkan: glm-5.3-flashx-legal</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793611618030-artificial-analysis-api-free-9f0efda4</guid>
+      <pubDate>Mon, 02 Nov 2026 09:26:57 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1793603738590-artificial-analysis-api-free-0ff67886</guid>
