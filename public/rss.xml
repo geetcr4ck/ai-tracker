@@ -6,6 +6,29 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793603738590-artificial-analysis-api-free-0ff67886</guid>
+      <pubDate>Mon, 02 Nov 2026 07:15:37 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793590988894-artificial-analysis-api-free-83613eaa</guid>
+      <pubDate>Mon, 02 Nov 2026 03:43:08 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) announced ming-3.0</title>
+      <link>https://x.com/i/web/status/2117095432526700766</link>
+      <guid isPermaLink="false">1793589873519-official-x-model-posts-3-61cd1b93</guid>
+      <pubDate>Mon, 02 Nov 2026 03:24:33 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 model announced
+
+Ditambahkan: ming-3.0</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): kimi-k2-7</title>
       <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.106-1.tgz</link>
       <guid isPermaLink="false">1793494566301-github-copilot-native-models-9b0fa85f</guid>
