@@ -6,6 +6,77 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793740220963-artificial-analysis-api-free-86e430ea</guid>
+      <pubDate>Tue, 03 Nov 2026 21:10:19 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 54 baris hasil benchmark ditambahkan, 54 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793739933485-artificial-analysis-api-free-1fcc128e</guid>
+      <pubDate>Tue, 03 Nov 2026 21:05:32 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793738916555-artificial-analysis-api-free-54c02381</guid>
+      <pubDate>Tue, 03 Nov 2026 20:48:35 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 4 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793738227569-openrouter-models-20a2e943</guid>
+      <pubDate>Tue, 03 Nov 2026 20:36:43 GMT</pubDate>
+      <description>OpenRouter model catalog: 4 entri model baru
+
+Ditambahkan: cohere/embed-5-fast, cohere/embed-5-pro, cohere/rerank-5-fast, cohere/rerank-5-pro</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan moondream/parakeet-ultra</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793737160055-openrouter-models-64460ef5</guid>
+      <pubDate>Tue, 03 Nov 2026 20:19:06 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: moondream/parakeet-ultra</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan stealth/crouton-alpha</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793737027105-openrouter-models-2b9fcf35</guid>
+      <pubDate>Tue, 03 Nov 2026 20:16:48 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: stealth/crouton-alpha</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793734982908-artificial-analysis-api-free-c372da56</guid>
+      <pubDate>Tue, 03 Nov 2026 19:43:02 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan cloudflare/clairic</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793734364962-openrouter-models-44ed5634</guid>
+      <pubDate>Tue, 03 Nov 2026 19:32:30 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: cloudflare/clairic</description>
+    </item>
+    <item>
+      <title>Hasil benchmark DeepSWE berubah</title>
+      <link>https://benchlm.ai/benchmarks/deepSwe</link>
+      <guid isPermaLink="false">1793726254703-deepswe-benchlm-mirror-324dc79e</guid>
+      <pubDate>Tue, 03 Nov 2026 17:17:34 GMT</pubDate>
+      <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added bytedance-seed/genfirst</title>
       <link>https://huggingface.co/bytedance-seed/genfirst</link>
       <guid isPermaLink="false">1793696433867-official-huggingface-lab-rotation-de562a6d</guid>
@@ -89,79 +160,6 @@ Ditambahkan: kimi-k3.1-pro-max</description>
       <guid isPermaLink="false">1793654366838-openai-models-docs-48d61299</guid>
       <pubDate>Mon, 02 Nov 2026 21:19:26 GMT</pubDate>
       <description>OpenAI model docs: 3 removed model entries</description>
-    </item>
-    <item>
-      <title>Halaman web baru Grok/xAI</title>
-      <link>https://x.ai/news</link>
-      <guid isPermaLink="false">1793648874513-xai-news-sitemap-27ef22d2-new-page</guid>
-      <pubDate>Mon, 02 Nov 2026 19:47:42 GMT</pubDate>
-      <description>xAI news sitemap: halaman web baru</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan 3 models</title>
-      <link>https://aistudio.google.com/docs/models</link>
-      <guid isPermaLink="false">1793644522948-gemini-models-docs-b56b9c33</guid>
-      <pubDate>Mon, 02 Nov 2026 18:35:21 GMT</pubDate>
-      <description>Gemini models docs: 3 entri model baru
-
-Ditambahkan: gemini-3-5-flash-lite, gemini-3-8-flash, gemini-3.6</description>
-    </item>
-    <item>
-      <title>Gemini menghapus 4 models</title>
-      <link>https://ai.google.dev/api/models</link>
-      <guid isPermaLink="false">1793639352037-gemini-api-model-reference-cc502e12</guid>
-      <pubDate>Mon, 02 Nov 2026 17:09:11 GMT</pubDate>
-      <description>Gemini model API reference: 4 removed model entries</description>
-    </item>
-    <item>
-      <title>Gemini menghapus 46 models</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1793639351901-gemini-models-docs-cc502e12</guid>
-      <pubDate>Mon, 02 Nov 2026 17:09:11 GMT</pubDate>
-      <description>Gemini models docs: 46 removed model entries</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan microsoft-decision-1</title>
-      <link>https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration</link>
-      <guid isPermaLink="false">1793632438598-microsoft-command-line-sitemap-9d982915-model-page</guid>
-      <pubDate>Mon, 02 Nov 2026 15:13:57 GMT</pubDate>
-      <description>Microsoft Command Line blog: 1 entri model baru
-
-Ditambahkan: microsoft-decision-1</description>
-    </item>
-    <item>
-      <title>Meituan LongCat menambahkan longcat-2.5</title>
-      <link>https://x.com/i/web/status/2117264311714537633</link>
-      <guid isPermaLink="false">1793630136179-official-x-model-posts-3-1110ba4c</guid>
-      <pubDate>Mon, 02 Nov 2026 14:35:35 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: longcat-2.5</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793627994278-artificial-analysis-api-free-93c02d8b</guid>
-      <pubDate>Mon, 02 Nov 2026 13:59:53 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan z-ai/glm-5.3-flashx-legal</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793627204216-openrouter-models-350cdb9c</guid>
-      <pubDate>Mon, 02 Nov 2026 13:46:34 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: z-ai/glm-5.3-flashx-legal</description>
-    </item>
-    <item>
-      <title>OpenBMB/MiniCPM announced minicpm-v4.7</title>
-      <link>https://x.com/i/web/status/2117247900845769084</link>
-      <guid isPermaLink="false">1793626225148-official-x-model-posts-3-5742fbb5</guid>
-      <pubDate>Mon, 02 Nov 2026 13:30:24 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 model announced
-
-Ditambahkan: minicpm-v4.7</description>
     </item>
   </channel>
 </rss>
