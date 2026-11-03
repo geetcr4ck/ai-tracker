@@ -6,6 +6,43 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Grok/xAI menghapus grok-imagine-image-quality</title>
+      <link>https://docs.x.ai/docs/overview</link>
+      <guid isPermaLink="false">1793660690055-xai-docs-overview-9bacdf78</guid>
+      <pubDate>Mon, 02 Nov 2026 23:04:48 GMT</pubDate>
+      <description>xAI docs overview: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793660296136-artificial-analysis-api-free-eb69c113</guid>
+      <pubDate>Mon, 02 Nov 2026 22:58:15 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Bocoran model LM Arena: kimi-k3.1-pro-max</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1793658771741-arena-live-model-roster-bf21b73d</guid>
+      <pubDate>Mon, 02 Nov 2026 22:32:51 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: kimi-k3.1-pro-max</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menghapus 3 models</title>
+      <link>https://platform.openai.com/docs/models</link>
+      <guid isPermaLink="false">1793654366838-openai-models-docs-48d61299</guid>
+      <pubDate>Mon, 02 Nov 2026 21:19:26 GMT</pubDate>
+      <description>OpenAI model docs: 3 removed model entries</description>
+    </item>
+    <item>
+      <title>Halaman web baru Grok/xAI</title>
+      <link>https://x.ai/news</link>
+      <guid isPermaLink="false">1793648874513-xai-news-sitemap-27ef22d2-new-page</guid>
+      <pubDate>Mon, 02 Nov 2026 19:47:42 GMT</pubDate>
+      <description>xAI news sitemap: halaman web baru</description>
+    </item>
+    <item>
       <title>Gemini menambahkan 3 models</title>
       <link>https://aistudio.google.com/docs/models</link>
       <guid isPermaLink="false">1793644522948-gemini-models-docs-b56b9c33</guid>
@@ -109,15 +146,6 @@ Ditambahkan: glm-5.3-flashx-legal</description>
       <description>Official AI lab posts on X (group 3): 1 model announced
 
 Ditambahkan: ming-3.0</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): kimi-k2-7</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.106-1.tgz</link>
-      <guid isPermaLink="false">1793494566301-github-copilot-native-models-9b0fa85f</guid>
-      <pubDate>Sun, 01 Nov 2026 00:55:38 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: kimi-k2-7</description>
     </item>
   </channel>
 </rss>
