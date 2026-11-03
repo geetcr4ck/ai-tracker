@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added bytedance-seed/genfirst</title>
+      <link>https://huggingface.co/bytedance-seed/genfirst</link>
+      <guid isPermaLink="false">1793696433867-official-huggingface-lab-rotation-de562a6d</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:33 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: bytedance-seed/genfirst</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): model identifiers</title>
       <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.106-6.tgz</link>
       <guid isPermaLink="false">1793689086410-github-copilot-native-models-5cb96791</guid>
@@ -153,45 +162,6 @@ Ditambahkan: z-ai/glm-5.3-flashx-legal</description>
       <description>Official AI lab posts on X (group 3): 1 model announced
 
 Ditambahkan: minicpm-v4.7</description>
-    </item>
-    <item>
-      <title>Z.ai menambahkan glm-5.3-flashx-legal</title>
-      <link>https://api.z.ai/api/paas/v4/models</link>
-      <guid isPermaLink="false">1793624009288-zai-api-models-4502b037</guid>
-      <pubDate>Mon, 02 Nov 2026 12:53:28 GMT</pubDate>
-      <description>Z.ai API models: 1 entri model baru
-
-Ditambahkan: glm-5.3-flashx-legal</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793611618030-artificial-analysis-api-free-9f0efda4</guid>
-      <pubDate>Mon, 02 Nov 2026 09:26:57 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793603738590-artificial-analysis-api-free-0ff67886</guid>
-      <pubDate>Mon, 02 Nov 2026 07:15:37 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793590988894-artificial-analysis-api-free-83613eaa</guid>
-      <pubDate>Mon, 02 Nov 2026 03:43:08 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) announced ming-3.0</title>
-      <link>https://x.com/i/web/status/2117095432526700766</link>
-      <guid isPermaLink="false">1793589873519-official-x-model-posts-3-61cd1b93</guid>
-      <pubDate>Mon, 02 Nov 2026 03:24:33 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 model announced
-
-Ditambahkan: ming-3.0</description>
     </item>
   </channel>
 </rss>
