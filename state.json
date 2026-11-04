@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790841924699-anthropic-news-7763da97-new-page",
-    "1790841859160-anthropic-news-4d69a5b5-new-page",
-    "1790841798688-anthropic-news-7763da97-new-page",
-    "1790838116300-artificial-analysis-llm-leaderboard-811d58a5",
-    "1790838040962-artificial-analysis-api-free-5219f706",
     "1790823181128-artificial-analysis-llm-leaderboard-abfea565",
     "1790822572601-artificial-analysis-api-free-173f8ca9",
     "1790814240247-artificial-analysis-llm-leaderboard-72816e45",
@@ -499,6 +494,11 @@
     "1793743925683-gemini-cli-github-model-configs-d1d7a3d4",
     "1793748910202-google-antigravity-desktop-models-6b53daa3",
     "1793749409884-openrouter-models-c80a3b62",
-    "1793755882891-artificial-analysis-api-free-1558bf55"
+    "1793755882891-artificial-analysis-api-free-1558bf55",
+    "1793758919790-artificial-analysis-api-free-3f7925cd",
+    "1793763588002-openai-sdk-models-6b1d3ddc",
+    "1793765494280-tencent-hy-models-docs-87f31f25",
+    "1793766620413-openrouter-models-02fabc76",
+    "1793767741079-openai-openapi-spec-models-804f04bc"
   ]
 }
