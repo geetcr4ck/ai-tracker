@@ -6,6 +6,65 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Grok/xAI menambahkan 2 models</title>
+      <link>https://docs.x.ai/developers/release-notes</link>
+      <guid isPermaLink="false">1793777191530-xai-release-notes-6c25f032</guid>
+      <pubDate>Wed, 04 Nov 2026 07:26:31 GMT</pubDate>
+      <description>xAI API release notes: 2 entri model baru
+
+Ditambahkan: grok-imagine-image-2.0-low, grok-imagine-image-pro</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793775335621-artificial-analysis-api-free-85b79983</guid>
+      <pubDate>Wed, 04 Nov 2026 06:55:33 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Bocoran model ChatGPT/OpenAI: gpt-6-rosalind</title>
+      <link>https://github.com/openai/openai-openapi/commit/b4cad10d7cff7fc286f2dbf1992569989522c6f0</link>
+      <guid isPermaLink="false">1793767741079-openai-openapi-spec-models-804f04bc</guid>
+      <pubDate>Wed, 04 Nov 2026 04:48:58 GMT</pubDate>
+      <description>OpenAI API spec: 1 bocoran model baru
+
+Ditambahkan: gpt-6-rosalind</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan tencent/hy4</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793766620413-openrouter-models-02fabc76</guid>
+      <pubDate>Wed, 04 Nov 2026 04:30:08 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: tencent/hy4</description>
+    </item>
+    <item>
+      <title>Tencent Hunyuan/Hy menambahkan hy4</title>
+      <link>https://intl.cloud.tencent.com/zh/document/product/1300/80695</link>
+      <guid isPermaLink="false">1793765494280-tencent-hy-models-docs-87f31f25</guid>
+      <pubDate>Wed, 04 Nov 2026 04:11:29 GMT</pubDate>
+      <description>Tencent Hunyuan / Hy official model guide: 1 entri model baru
+
+Ditambahkan: hy4</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): gpt-6-rosalind</title>
+      <link>https://github.com/openai/openai-python/blob/0f8e5f382861120809b1d149a18c744f725746a0/src/openai/types/responses/response_compact_params.py</link>
+      <guid isPermaLink="false">1793763588002-openai-sdk-models-6b1d3ddc</guid>
+      <pubDate>Wed, 04 Nov 2026 03:39:46 GMT</pubDate>
+      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-6-rosalind</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793758919790-artificial-analysis-api-free-3f7925cd</guid>
+      <pubDate>Wed, 04 Nov 2026 02:21:58 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1793755882891-artificial-analysis-api-free-1558bf55</guid>
@@ -107,40 +166,6 @@ Ditambahkan: cloudflare/clairic</description>
       <guid isPermaLink="false">1793726254703-deepswe-benchlm-mirror-324dc79e</guid>
       <pubDate>Tue, 03 Nov 2026 17:17:34 GMT</pubDate>
       <description>DeepSWE BenchLM mirror: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added bytedance-seed/genfirst</title>
-      <link>https://huggingface.co/bytedance-seed/genfirst</link>
-      <guid isPermaLink="false">1793696433867-official-huggingface-lab-rotation-de562a6d</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:33 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: bytedance-seed/genfirst</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.106-6.tgz</link>
-      <guid isPermaLink="false">1793689086410-github-copilot-native-models-5cb96791</guid>
-      <pubDate>Tue, 03 Nov 2026 06:57:46 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-mythos-5-1, opus5</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added baai/pingpongrealworldrl</title>
-      <link>https://huggingface.co/baai/pingpongrealworldrl</link>
-      <guid isPermaLink="false">1793689058847-official-huggingface-new-models-2cf89c53</guid>
-      <pubDate>Tue, 03 Nov 2026 06:57:38 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: baai/pingpongrealworldrl</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793672272976-artificial-analysis-api-free-0d56af90</guid>
-      <pubDate>Tue, 03 Nov 2026 02:17:52 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>

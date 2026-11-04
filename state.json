@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790870413566-microsoft-ai-news-sitemap-6b90d975-model-page",
-    "1790870378219-microsoft-ai-models-e5e93e0c",
-    "1790863966732-openrouter-models-c09e6268",
-    "1790863368369-artificial-analysis-llm-leaderboard-811d58a5",
-    "1790860775831-artificial-analysis-llm-leaderboard-4f729dcf",
     "1790841924699-anthropic-news-7763da97-new-page",
     "1790841859160-anthropic-news-4d69a5b5-new-page",
     "1790841798688-anthropic-news-7763da97-new-page",
@@ -499,6 +494,11 @@
     "1793737160055-openrouter-models-64460ef5",
     "1793738227569-openrouter-models-20a2e943",
     "1793738916555-artificial-analysis-api-free-54c02381",
-    "1793739933485-artificial-analysis-api-free-1fcc128e"
+    "1793739933485-artificial-analysis-api-free-1fcc128e",
+    "1793740220963-artificial-analysis-api-free-86e430ea",
+    "1793743925683-gemini-cli-github-model-configs-d1d7a3d4",
+    "1793748910202-google-antigravity-desktop-models-6b53daa3",
+    "1793749409884-openrouter-models-c80a3b62",
+    "1793755882891-artificial-analysis-api-free-1558bf55"
   ]
 }
