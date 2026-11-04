@@ -6,6 +6,70 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cognition SWE menambahkan swe-2-flash</title>
+      <link>https://x.com/i/web/status/2118069614521241739</link>
+      <guid isPermaLink="false">1793822136402-official-x-model-posts-b798d6f9</guid>
+      <pubDate>Wed, 04 Nov 2026 19:55:36 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: swe-2-flash</description>
+    </item>
+    <item>
+      <title>Cognition SWE menambahkan 2 models</title>
+      <link>https://cognition.com/blog/swe-2-flash</link>
+      <guid isPermaLink="false">1793822084037-cognition-swe-announcements-6728478d-model-page</guid>
+      <pubDate>Wed, 04 Nov 2026 19:54:43 GMT</pubDate>
+      <description>Cognition SWE model announcements: 2 entri model baru
+
+Ditambahkan: swe-2, swe-2-flash</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793820370131-artificial-analysis-api-free-380535c9</guid>
+      <pubDate>Wed, 04 Nov 2026 19:26:09 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menghapus gmicloud/ripple-65b-preview</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793819985699-openrouter-models-5f27b3bc-confirmed-removal</guid>
+      <pubDate>Wed, 04 Nov 2026 19:19:26 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan ricursiveai/ripple-65b-preview</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793819361702-openrouter-models-9f12c030</guid>
+      <pubDate>Wed, 04 Nov 2026 19:09:08 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: ricursiveai/ripple-65b-preview</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan gmicloud/ripple-65b-preview</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793818193574-openrouter-models-9b90f8a3</guid>
+      <pubDate>Wed, 04 Nov 2026 18:49:41 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: gmicloud/ripple-65b-preview</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793813479201-artificial-analysis-api-free-f2442701</guid>
+      <pubDate>Wed, 04 Nov 2026 17:31:18 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793809175492-artificial-analysis-api-free-e667cc6d</guid>
+      <pubDate>Wed, 04 Nov 2026 16:19:34 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1793808040351-artificial-analysis-api-free-698f71fe</guid>
@@ -126,52 +190,6 @@ Ditambahkan: gpt-6-rosalind</description>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1793755882891-artificial-analysis-api-free-1558bf55</guid>
       <pubDate>Wed, 04 Nov 2026 01:31:21 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan morph/reflex</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793749409884-openrouter-models-c80a3b62</guid>
-      <pubDate>Tue, 03 Nov 2026 23:43:13 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: morph/reflex</description>
-    </item>
-    <item>
-      <title>Gemini code reference: gemini-3</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.29.0-5723181030440960/linux-arm/Antigravity.tar.gz</link>
-      <guid isPermaLink="false">1793748910202-google-antigravity-desktop-models-6b53daa3</guid>
-      <pubDate>Tue, 03 Nov 2026 23:34:42 GMT</pubDate>
-      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-3</description>
-    </item>
-    <item>
-      <title>Gemini menghapus gemini-3-flash</title>
-      <link>https://raw.githubusercontent.com/google-gemini/gemini-cli/main/packages/core/src/config/defaultModelConfigs.ts</link>
-      <guid isPermaLink="false">1793743925683-gemini-cli-github-model-configs-d1d7a3d4</guid>
-      <pubDate>Tue, 03 Nov 2026 22:12:05 GMT</pubDate>
-      <description>google-gemini/gemini-cli model configs: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793740220963-artificial-analysis-api-free-86e430ea</guid>
-      <pubDate>Tue, 03 Nov 2026 21:10:19 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 54 baris hasil benchmark ditambahkan, 54 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793739933485-artificial-analysis-api-free-1fcc128e</guid>
-      <pubDate>Tue, 03 Nov 2026 21:05:32 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793738916555-artificial-analysis-api-free-54c02381</guid>
-      <pubDate>Tue, 03 Nov 2026 20:48:35 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>

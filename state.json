@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790823181128-artificial-analysis-llm-leaderboard-abfea565",
-    "1790822572601-artificial-analysis-api-free-173f8ca9",
-    "1790814240247-artificial-analysis-llm-leaderboard-72816e45",
-    "1790814118371-deepswe-benchlm-mirror-5dbbe5d8",
-    "1790875524487-openrouter-models-346893fe",
     "1790877547361-artificial-analysis-api-free-4212c4b7",
     "1790877912292-artificial-analysis-llm-leaderboard-4a26a913",
     "1790878071829-opencode-zen-catalog-c0bcfa97",
@@ -499,6 +494,11 @@
     "1793763588002-openai-sdk-models-6b1d3ddc",
     "1793765494280-tencent-hy-models-docs-87f31f25",
     "1793766620413-openrouter-models-02fabc76",
-    "1793767741079-openai-openapi-spec-models-804f04bc"
+    "1793767741079-openai-openapi-spec-models-804f04bc",
+    "1793775335621-artificial-analysis-api-free-85b79983",
+    "1793777191530-xai-release-notes-6c25f032",
+    "1793782614443-kimi-platform-models-en-3095a719",
+    "1793787873894-official-x-model-posts-057c12ca",
+    "1793794815032-cohere-release-notes-fdc816ae"
   ]
 }
