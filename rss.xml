@@ -8,6 +8,38 @@
     <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
+      <guid isPermaLink="false">1793755882891-artificial-analysis-api-free-1558bf55</guid>
+      <pubDate>Wed, 04 Nov 2026 01:31:21 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan morph/reflex</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793749409884-openrouter-models-c80a3b62</guid>
+      <pubDate>Tue, 03 Nov 2026 23:43:13 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: morph/reflex</description>
+    </item>
+    <item>
+      <title>Gemini code reference: gemini-3</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.29.0-5723181030440960/linux-arm/Antigravity.tar.gz</link>
+      <guid isPermaLink="false">1793748910202-google-antigravity-desktop-models-6b53daa3</guid>
+      <pubDate>Tue, 03 Nov 2026 23:34:42 GMT</pubDate>
+      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-3</description>
+    </item>
+    <item>
+      <title>Gemini menghapus gemini-3-flash</title>
+      <link>https://raw.githubusercontent.com/google-gemini/gemini-cli/main/packages/core/src/config/defaultModelConfigs.ts</link>
+      <guid isPermaLink="false">1793743925683-gemini-cli-github-model-configs-d1d7a3d4</guid>
+      <pubDate>Tue, 03 Nov 2026 22:12:05 GMT</pubDate>
+      <description>google-gemini/gemini-cli model configs: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1793740220963-artificial-analysis-api-free-86e430ea</guid>
       <pubDate>Tue, 03 Nov 2026 21:10:19 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 54 baris hasil benchmark ditambahkan, 54 dihapus</description>
@@ -109,57 +141,6 @@ Ditambahkan: baai/pingpongrealworldrl</description>
       <guid isPermaLink="false">1793672272976-artificial-analysis-api-free-0d56af90</guid>
       <pubDate>Tue, 03 Nov 2026 02:17:52 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793671400965-artificial-analysis-api-free-f3cedd23</guid>
-      <pubDate>Tue, 03 Nov 2026 02:03:20 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793670129923-artificial-analysis-api-free-34b8c4e6</guid>
-      <pubDate>Tue, 03 Nov 2026 01:42:09 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793669121251-artificial-analysis-api-free-5e31c09a</guid>
-      <pubDate>Tue, 03 Nov 2026 01:25:19 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Grok/xAI menghapus grok-imagine-image-quality</title>
-      <link>https://docs.x.ai/docs/overview</link>
-      <guid isPermaLink="false">1793660690055-xai-docs-overview-9bacdf78</guid>
-      <pubDate>Mon, 02 Nov 2026 23:04:48 GMT</pubDate>
-      <description>xAI docs overview: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793660296136-artificial-analysis-api-free-eb69c113</guid>
-      <pubDate>Mon, 02 Nov 2026 22:58:15 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: kimi-k3.1-pro-max</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1793658771741-arena-live-model-roster-bf21b73d</guid>
-      <pubDate>Mon, 02 Nov 2026 22:32:51 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: kimi-k3.1-pro-max</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menghapus 3 models</title>
-      <link>https://platform.openai.com/docs/models</link>
-      <guid isPermaLink="false">1793654366838-openai-models-docs-48d61299</guid>
-      <pubDate>Mon, 02 Nov 2026 21:19:26 GMT</pubDate>
-      <description>OpenAI model docs: 3 removed model entries</description>
     </item>
   </channel>
 </rss>
