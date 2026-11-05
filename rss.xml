@@ -6,6 +6,87 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model ChatGPT/OpenAI: gpt-6-cyber</title>
+      <link>https://github.com/openai/openai-openapi/commit/17153c32dc8d03d917ea34615c3b180362e8d0d5</link>
+      <guid isPermaLink="false">1793899908172-openai-openapi-spec-models-bc61a236</guid>
+      <pubDate>Thu, 05 Nov 2026 17:31:44 GMT</pubDate>
+      <description>OpenAI API spec: 1 bocoran model baru
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
+      <link>https://x.com/i/web/status/2118390190246879554</link>
+      <guid isPermaLink="false">1793898836976-official-x-model-posts-304d55f2</guid>
+      <pubDate>Thu, 05 Nov 2026 17:11:51 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
+      <link>https://platform.openai.com/docs/models</link>
+      <guid isPermaLink="false">1793898643140-openai-models-docs-1a13f08b</guid>
+      <pubDate>Thu, 05 Nov 2026 17:10:42 GMT</pubDate>
+      <description>OpenAI model docs: 1 entri model baru
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
+      <link>https://developers.openai.com/api/docs/changelog</link>
+      <guid isPermaLink="false">1793898637531-openai-api-changelog-9c577fe3</guid>
+      <pubDate>Thu, 05 Nov 2026 17:10:37 GMT</pubDate>
+      <description>OpenAI API changelog: 1 entri model baru
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1793898562709-openai-developer-all-models-59439903</guid>
+      <pubDate>Thu, 05 Nov 2026 17:09:20 GMT</pubDate>
+      <description>OpenAI developer all models: 1 entri model baru
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-omni-1.2-flash</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1793894759863-gemini-api-models-5ffc505a</guid>
+      <pubDate>Thu, 05 Nov 2026 16:03:05 GMT</pubDate>
+      <description>Gemini API models: 1 entri model baru
+
+Ditambahkan: gemini-omni-1.2-flash</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added kimi-k3</title>
+      <link>https://api.cerebras.ai/v1/models</link>
+      <guid isPermaLink="false">1793887757459-cerebras-api-models-17555861</guid>
+      <pubDate>Thu, 05 Nov 2026 14:09:17 GMT</pubDate>
+      <description>Cerebras hosted models: 1 entri model baru
+
+Ditambahkan: kimi-k3</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added bytedance-seed/qwen3-30b-a3b-moe-sae</title>
+      <link>https://huggingface.co/bytedance-seed/qwen3-30b-a3b-moe-sae</link>
+      <guid isPermaLink="false">1793885944150-official-huggingface-new-models-3f07a724</guid>
+      <pubDate>Thu, 05 Nov 2026 13:39:03 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: bytedance-seed/qwen3-30b-a3b-moe-sae</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan openrouter/auto-code</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793884894463-openrouter-models-33fdae3d</guid>
+      <pubDate>Thu, 05 Nov 2026 13:21:23 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: openrouter/auto-code</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): kimi-k3.1-pro</title>
       <link>https://downloads.factory.ai/factory-cli/releases/1.4.1/linux/x64/droid</link>
       <guid isPermaLink="false">1793870191926-factory-droid-registry-7a87bd34</guid>
@@ -230,63 +311,6 @@ Ditambahkan: gmicloud/ripple-65b-preview</description>
       <guid isPermaLink="false">1793813479201-artificial-analysis-api-free-f2442701</guid>
       <pubDate>Wed, 04 Nov 2026 17:31:18 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793809175492-artificial-analysis-api-free-e667cc6d</guid>
-      <pubDate>Wed, 04 Nov 2026 16:19:34 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793808040351-artificial-analysis-api-free-698f71fe</guid>
-      <pubDate>Wed, 04 Nov 2026 16:00:39 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793806774067-artificial-analysis-api-free-16108e3e</guid>
-      <pubDate>Wed, 04 Nov 2026 15:39:33 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot: 2 new model leaks</title>
-      <link>https://huggingface.co/api/models</link>
-      <guid isPermaLink="false">1793806207232-kimi-huggingface-models-6d1d8568</guid>
-      <pubDate>Wed, 04 Nov 2026 15:30:07 GMT</pubDate>
-      <description>Moonshot AI Hugging Face models: 2 new model leaks
-
-Ditambahkan: kimi_k31, kimi-k3.1</description>
-    </item>
-    <item>
-      <title>Cohere menambahkan 6 models</title>
-      <link>https://docs.cohere.com/v1/docs/models</link>
-      <guid isPermaLink="false">1793794816613-cohere-models-docs-272fd77c</guid>
-      <pubDate>Wed, 04 Nov 2026 12:20:15 GMT</pubDate>
-      <description>Cohere model docs: 6 entri model baru
-
-Ditambahkan: embed-5-fast, embed-5-pro, rerank-4-fast, rerank-4-pro, rerank-5-fast, rerank-5-pro</description>
-    </item>
-    <item>
-      <title>Cohere menambahkan 4 models</title>
-      <link>https://docs.cohere.com/changelog</link>
-      <guid isPermaLink="false">1793794815032-cohere-release-notes-fdc816ae</guid>
-      <pubDate>Wed, 04 Nov 2026 12:20:13 GMT</pubDate>
-      <description>Cohere official release notes: 4 entri model baru
-
-Ditambahkan: embed-5-fast, embed-5-pro, rerank-5-fast, rerank-5-pro</description>
-    </item>
-    <item>
-      <title>Mistral AI announced mistral-large-4</title>
-      <link>https://x.com/i/web/status/2117925908572991748</link>
-      <guid isPermaLink="false">1793787873894-official-x-model-posts-057c12ca</guid>
-      <pubDate>Wed, 04 Nov 2026 10:24:33 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 model announced
-
-Ditambahkan: mistral-large-4</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790889004663-artificial-analysis-llm-leaderboard-4f729dcf",
-    "1790890503158-openrouter-models-4a89e62c",
-    "1790890884702-official-huggingface-new-models-ec97d2f4",
-    "1790892309216-vercel-gateway-catalog-dcea873e",
-    "1790904720431-deepswe-benchlm-mirror-9c8bec66",
     "1790907214185-artificial-analysis-api-free-b6c2f0f3",
     "1790924164795-artificial-analysis-api-free-f18215cc",
     "1790926022808-artificial-analysis-llm-leaderboard-562e2d03",
@@ -499,6 +494,11 @@
     "1793818193574-openrouter-models-9b90f8a3",
     "1793819361702-openrouter-models-9f12c030",
     "1793819985699-openrouter-models-5f27b3bc-confirmed-removal",
-    "1793820370131-artificial-analysis-api-free-380535c9"
+    "1793820370131-artificial-analysis-api-free-380535c9",
+    "1793822084037-cognition-swe-announcements-6728478d-model-page",
+    "1793822136402-official-x-model-posts-b798d6f9",
+    "1793834565457-openai-developer-all-models-eba6f2bd",
+    "1793834566366-openai-models-docs-734fe650",
+    "1793834572247-openai-api-changelog-4f06f4a3"
   ]
 }
