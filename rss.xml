@@ -6,6 +6,78 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah (referensi kode): kimi-k3.1-pro</title>
+      <link>https://downloads.factory.ai/factory-cli/releases/1.4.1/linux/x64/droid</link>
+      <guid isPermaLink="false">1793870191926-factory-droid-registry-7a87bd34</guid>
+      <pubDate>Thu, 05 Nov 2026 09:15:53 GMT</pubDate>
+      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: kimi-k3.1-pro</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added nvidia/metrictrail</title>
+      <link>https://huggingface.co/nvidia/metrictrail</link>
+      <guid isPermaLink="false">1793863797438-official-huggingface-new-models-46cb146f</guid>
+      <pubDate>Thu, 05 Nov 2026 07:28:48 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/metrictrail</description>
+    </item>
+    <item>
+      <title>Bocoran model Codex: gpt-6-astra</title>
+      <link>https://github.com/openai/codex/blob/695961ee88a2c84c0919814a4345b94a2d10f3ca/codex-rs/model-provider/src/amazon_bedrock/catalog.rs</link>
+      <guid isPermaLink="false">1793862602014-openai-codex-official-code-models-c3390eeb</guid>
+      <pubDate>Thu, 05 Nov 2026 07:10:00 GMT</pubDate>
+      <description>openai/codex official code model references: 1 bocoran model baru
+
+Ditambahkan: gpt-6-astra</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added bytedance-seed/cross-layer-topk-clt</title>
+      <link>https://huggingface.co/bytedance-seed/cross-layer-topk-clt</link>
+      <guid isPermaLink="false">1793861943437-official-huggingface-new-models-2d72fd04</guid>
+      <pubDate>Thu, 05 Nov 2026 06:58:59 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: bytedance-seed/cross-layer-topk-clt</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added baidu/ernie-5.5-flash-base-bf16</title>
+      <link>https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16</link>
+      <guid isPermaLink="false">1793859698371-huggingface-observed-publish-09a8f421</guid>
+      <pubDate>Thu, 05 Nov 2026 06:21:38 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: baidu/ernie-5.5-flash-base-bf16</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added baidu/ernie-5.5-flash-base</title>
+      <link>https://huggingface.co/baidu/ERNIE-5.5-Flash-Base</link>
+      <guid isPermaLink="false">1793859698297-huggingface-observed-publish-d37136e6</guid>
+      <pubDate>Thu, 05 Nov 2026 06:21:38 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: baidu/ernie-5.5-flash-base</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan inclusionai/ling-3.0-tiny</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793858885872-openrouter-models-540f090d</guid>
+      <pubDate>Thu, 05 Nov 2026 06:07:54 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: inclusionai/ling-3.0-tiny</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: hy4</title>
+      <link>https://artificialanalysis.ai/models/hunyuan-dev1030-aa</link>
+      <guid isPermaLink="false">1793847355056-artificial-analysis-model-discovery-4c8f23ab</guid>
+      <pubDate>Thu, 05 Nov 2026 02:55:54 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: hy4</description>
+    </item>
+    <item>
       <title>ChatGPT/OpenAI: 2 new model leaks</title>
       <link>https://github.com/openai/openai-openapi/commit/5882fdd96af8dcf9374e18d6f2c25f363b564d7c</link>
       <guid isPermaLink="false">1793842401427-openai-openapi-spec-models-724240c0</guid>
@@ -215,29 +287,6 @@ Ditambahkan: embed-5-fast, embed-5-pro, rerank-5-fast, rerank-5-pro</description
       <description>Official AI lab posts on X: 1 model announced
 
 Ditambahkan: mistral-large-4</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menghapus 2 models</title>
-      <link>https://platform.kimi.ai/docs/models.md</link>
-      <guid isPermaLink="false">1793782614443-kimi-platform-models-en-3095a719</guid>
-      <pubDate>Wed, 04 Nov 2026 08:56:53 GMT</pubDate>
-      <description>Kimi API model list (English): 2 removed model entries</description>
-    </item>
-    <item>
-      <title>Grok/xAI menambahkan 2 models</title>
-      <link>https://docs.x.ai/developers/release-notes</link>
-      <guid isPermaLink="false">1793777191530-xai-release-notes-6c25f032</guid>
-      <pubDate>Wed, 04 Nov 2026 07:26:31 GMT</pubDate>
-      <description>xAI API release notes: 2 entri model baru
-
-Ditambahkan: grok-imagine-image-2.0-low, grok-imagine-image-pro</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793775335621-artificial-analysis-api-free-85b79983</guid>
-      <pubDate>Wed, 04 Nov 2026 06:55:33 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
