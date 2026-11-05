@@ -6,6 +6,78 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Thinking Machines code reference: inkling-2-small</title>
+      <link>https://github.com/thinking-machines-lab/tinker-cookbook/blob/7aca914feb309150e2b88b2401b7099cc4b09071/tinker_cookbook/model_info.py</link>
+      <guid isPermaLink="false">1793918970185-thinking-machines-official-code-models-0a0ee161</guid>
+      <pubDate>Thu, 05 Nov 2026 22:49:29 GMT</pubDate>
+      <description>Thinking Machines Tinker cookbook model references: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: inkling-2-small</description>
+    </item>
+    <item>
+      <title>Thinking Machines menambahkan thinkingmachines/inkling-2-small</title>
+      <link>https://tinker-docs.thinkingmachines.ai/tinker/serverless.json</link>
+      <guid isPermaLink="false">1793918922552-thinking-machines-serverless-catalog-0c4839fd</guid>
+      <pubDate>Thu, 05 Nov 2026 22:48:42 GMT</pubDate>
+      <description>Thinking Machines inference model catalog: 1 entri model baru
+
+Ditambahkan: thinkingmachines/inkling-2-small</description>
+    </item>
+    <item>
+      <title>Thinking Machines menambahkan thinkingmachines/inkling-2-small</title>
+      <link>https://tinker-docs.thinkingmachines.ai/tinker/models.json</link>
+      <guid isPermaLink="false">1793918920719-thinking-machines-models-catalog-0c4839fd</guid>
+      <pubDate>Thu, 05 Nov 2026 22:48:40 GMT</pubDate>
+      <description>Thinking Machines training model catalog: 1 entri model baru
+
+Ditambahkan: thinkingmachines/inkling-2-small</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan ling-3.2-flash</title>
+      <link>https://x.com/i/web/status/2118428246664761379</link>
+      <guid isPermaLink="false">1793907640718-official-x-model-posts-3-45f1f506</guid>
+      <pubDate>Thu, 05 Nov 2026 19:40:40 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: ling-3.2-flash</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
+      <link>https://openai.com/index/introducing-gpt-6-cyber</link>
+      <guid isPermaLink="false">1793904432370-openai-news-rss-43696593-model-page</guid>
+      <pubDate>Thu, 05 Nov 2026 18:47:11 GMT</pubDate>
+      <description>OpenAI News RSS: 1 entri model baru
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>Codex code reference: gpt-6-cyber</title>
+      <link>https://unpkg.com/openai@7.52.0/src/resources/shared.ts</link>
+      <guid isPermaLink="false">1793902620481-openai-sdk-package-models-cb938847</guid>
+      <pubDate>Thu, 05 Nov 2026 18:16:59 GMT</pubDate>
+      <description>OpenAI SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): gpt-6-cyber</title>
+      <link>https://github.com/openai/openai-python/blob/090098fd3f00fd46c529c4fd19edc2c762ce7a34/src/openai/types/beta/beta_response.py</link>
+      <guid isPermaLink="false">1793900692205-openai-sdk-models-b6ff6a0e</guid>
+      <pubDate>Thu, 05 Nov 2026 17:44:50 GMT</pubDate>
+      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-6-cyber</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793900436232-openrouter-models-64bb5db0</guid>
+      <pubDate>Thu, 05 Nov 2026 17:40:16 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: google/gemini-omni-1.1-flash, google/gemini-omni-1.2-flash</description>
+    </item>
+    <item>
       <title>Bocoran model ChatGPT/OpenAI: gpt-6-cyber</title>
       <link>https://github.com/openai/openai-openapi/commit/17153c32dc8d03d917ea34615c3b180362e8d0d5</link>
       <guid isPermaLink="false">1793899908172-openai-openapi-spec-models-bc61a236</guid>
@@ -239,78 +311,12 @@ Ditambahkan: gpt-image-2.6, gpt-image-2.6-flare, gpt-image-2.6-sunburst, gpt-ima
     </item>
     <item>
       <title>ChatGPT/OpenAI menambahkan gpt-image-2.6</title>
-      <link>https://platform.openai.com/docs/models</link>
-      <guid isPermaLink="false">1793834566366-openai-models-docs-734fe650</guid>
-      <pubDate>Wed, 04 Nov 2026 23:22:45 GMT</pubDate>
-      <description>OpenAI model docs: 1 entri model baru
-
-Ditambahkan: gpt-image-2.6</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-image-2.6</title>
       <link>https://developers.openai.com/api/docs/models/all</link>
       <guid isPermaLink="false">1793834565457-openai-developer-all-models-eba6f2bd</guid>
       <pubDate>Wed, 04 Nov 2026 23:22:44 GMT</pubDate>
       <description>OpenAI developer all models: 1 entri model baru
 
 Ditambahkan: gpt-image-2.6</description>
-    </item>
-    <item>
-      <title>Cognition SWE menambahkan swe-2-flash</title>
-      <link>https://x.com/i/web/status/2118069614521241739</link>
-      <guid isPermaLink="false">1793822136402-official-x-model-posts-b798d6f9</guid>
-      <pubDate>Wed, 04 Nov 2026 19:55:36 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: swe-2-flash</description>
-    </item>
-    <item>
-      <title>Cognition SWE menambahkan 2 models</title>
-      <link>https://cognition.com/blog/swe-2-flash</link>
-      <guid isPermaLink="false">1793822084037-cognition-swe-announcements-6728478d-model-page</guid>
-      <pubDate>Wed, 04 Nov 2026 19:54:43 GMT</pubDate>
-      <description>Cognition SWE model announcements: 2 entri model baru
-
-Ditambahkan: swe-2, swe-2-flash</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793820370131-artificial-analysis-api-free-380535c9</guid>
-      <pubDate>Wed, 04 Nov 2026 19:26:09 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menghapus gmicloud/ripple-65b-preview</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793819985699-openrouter-models-5f27b3bc-confirmed-removal</guid>
-      <pubDate>Wed, 04 Nov 2026 19:19:26 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan ricursiveai/ripple-65b-preview</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793819361702-openrouter-models-9f12c030</guid>
-      <pubDate>Wed, 04 Nov 2026 19:09:08 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: ricursiveai/ripple-65b-preview</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan gmicloud/ripple-65b-preview</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793818193574-openrouter-models-9b90f8a3</guid>
-      <pubDate>Wed, 04 Nov 2026 18:49:41 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: gmicloud/ripple-65b-preview</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793813479201-artificial-analysis-api-free-f2442701</guid>
-      <pubDate>Wed, 04 Nov 2026 17:31:18 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
