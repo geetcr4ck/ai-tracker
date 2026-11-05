@@ -6,6 +6,103 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ChatGPT/OpenAI: 2 new model leaks</title>
+      <link>https://github.com/openai/openai-openapi/commit/5882fdd96af8dcf9374e18d6f2c25f363b564d7c</link>
+      <guid isPermaLink="false">1793842401427-openai-openapi-spec-models-724240c0</guid>
+      <pubDate>Thu, 05 Nov 2026 01:33:20 GMT</pubDate>
+      <description>OpenAI API spec: 2 new model leaks
+
+Ditambahkan: gpt-image-2.6-flare, gpt-image-2.6-sunburst</description>
+    </item>
+    <item>
+      <title>Codex code reference: model identifiers</title>
+      <link>https://unpkg.com/openai@7.51.0/src/resources/shared.ts</link>
+      <guid isPermaLink="false">1793840769227-openai-sdk-package-models-296599a2</guid>
+      <pubDate>Thu, 05 Nov 2026 01:06:08 GMT</pubDate>
+      <description>OpenAI SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-6-rosalind, gpt-image-2.6-flare, gpt-image-2.6-sunburst</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/openai/openai-python/blob/0152e3ada40e7580921aec71de2770ff02e69b05/src/openai/types/image_model.py</link>
+      <guid isPermaLink="false">1793838906573-openai-sdk-models-19de4dad</guid>
+      <pubDate>Thu, 05 Nov 2026 00:35:04 GMT</pubDate>
+      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-image-2.6-flare, gpt-image-2.6-sunburst</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan openai/gpt-image-2.6-sunburst</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793838684790-openrouter-models-32951d74</guid>
+      <pubDate>Thu, 05 Nov 2026 00:31:11 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: openai/gpt-image-2.6-sunburst</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan openai/gpt-image-2.6-flare</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793838407081-openrouter-models-f88553f2</guid>
+      <pubDate>Thu, 05 Nov 2026 00:26:33 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: openai/gpt-image-2.6-flare</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menghapus 41 models</title>
+      <link>https://api.openai.com/v1/models</link>
+      <guid isPermaLink="false">1793836736293-openai-api-models-b6ea4464</guid>
+      <pubDate>Wed, 04 Nov 2026 23:58:55 GMT</pubDate>
+      <description>OpenAI API models: 41 removed model entries</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan nemotron-3.5-lightning-30b-a3b</title>
+      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
+      <guid isPermaLink="false">1793836398215-nvidia-nim-models-docs-367dcee4</guid>
+      <pubDate>Wed, 04 Nov 2026 23:52:46 GMT</pubDate>
+      <description>NVIDIA NIM model release notes: 1 entri model baru
+
+Ditambahkan: nemotron-3.5-lightning-30b-a3b</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-image-2.6-flare</title>
+      <link>https://api.openai.com/v1/models</link>
+      <guid isPermaLink="false">1793834732219-openai-api-models-cb843fa9</guid>
+      <pubDate>Wed, 04 Nov 2026 23:25:31 GMT</pubDate>
+      <description>OpenAI API models: 1 entri model baru
+
+Ditambahkan: gpt-image-2.6-flare, gpt-image-2.6-sunburst</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan 4 models</title>
+      <link>https://developers.openai.com/api/docs/changelog</link>
+      <guid isPermaLink="false">1793834572247-openai-api-changelog-4f06f4a3</guid>
+      <pubDate>Wed, 04 Nov 2026 23:22:51 GMT</pubDate>
+      <description>OpenAI API changelog: 4 entri model baru
+
+Ditambahkan: gpt-image-2.6, gpt-image-2.6-flare, gpt-image-2.6-sunburst, gpt-image-26</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-image-2.6</title>
+      <link>https://platform.openai.com/docs/models</link>
+      <guid isPermaLink="false">1793834566366-openai-models-docs-734fe650</guid>
+      <pubDate>Wed, 04 Nov 2026 23:22:45 GMT</pubDate>
+      <description>OpenAI model docs: 1 entri model baru
+
+Ditambahkan: gpt-image-2.6</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-image-2.6</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1793834565457-openai-developer-all-models-eba6f2bd</guid>
+      <pubDate>Wed, 04 Nov 2026 23:22:44 GMT</pubDate>
+      <description>OpenAI developer all models: 1 entri model baru
+
+Ditambahkan: gpt-image-2.6</description>
+    </item>
+    <item>
       <title>Cognition SWE menambahkan swe-2-flash</title>
       <link>https://x.com/i/web/status/2118069614521241739</link>
       <guid isPermaLink="false">1793822136402-official-x-model-posts-b798d6f9</guid>
@@ -140,56 +237,6 @@ Ditambahkan: grok-imagine-image-2.0-low, grok-imagine-image-pro</description>
       <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
       <guid isPermaLink="false">1793775335621-artificial-analysis-api-free-85b79983</guid>
       <pubDate>Wed, 04 Nov 2026 06:55:33 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Bocoran model ChatGPT/OpenAI: gpt-6-rosalind</title>
-      <link>https://github.com/openai/openai-openapi/commit/b4cad10d7cff7fc286f2dbf1992569989522c6f0</link>
-      <guid isPermaLink="false">1793767741079-openai-openapi-spec-models-804f04bc</guid>
-      <pubDate>Wed, 04 Nov 2026 04:48:58 GMT</pubDate>
-      <description>OpenAI API spec: 1 bocoran model baru
-
-Ditambahkan: gpt-6-rosalind</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan tencent/hy4</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793766620413-openrouter-models-02fabc76</guid>
-      <pubDate>Wed, 04 Nov 2026 04:30:08 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: tencent/hy4</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan hy4</title>
-      <link>https://intl.cloud.tencent.com/zh/document/product/1300/80695</link>
-      <guid isPermaLink="false">1793765494280-tencent-hy-models-docs-87f31f25</guid>
-      <pubDate>Wed, 04 Nov 2026 04:11:29 GMT</pubDate>
-      <description>Tencent Hunyuan / Hy official model guide: 1 entri model baru
-
-Ditambahkan: hy4</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): gpt-6-rosalind</title>
-      <link>https://github.com/openai/openai-python/blob/0f8e5f382861120809b1d149a18c744f725746a0/src/openai/types/responses/response_compact_params.py</link>
-      <guid isPermaLink="false">1793763588002-openai-sdk-models-6b1d3ddc</guid>
-      <pubDate>Wed, 04 Nov 2026 03:39:46 GMT</pubDate>
-      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6-rosalind</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793758919790-artificial-analysis-api-free-3f7925cd</guid>
-      <pubDate>Wed, 04 Nov 2026 02:21:58 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/data/llms/models</link>
-      <guid isPermaLink="false">1793755882891-artificial-analysis-api-free-1558bf55</guid>
-      <pubDate>Wed, 04 Nov 2026 01:31:21 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>

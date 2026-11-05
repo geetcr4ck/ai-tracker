@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790877547361-artificial-analysis-api-free-4212c4b7",
-    "1790877912292-artificial-analysis-llm-leaderboard-4a26a913",
-    "1790878071829-opencode-zen-catalog-c0bcfa97",
-    "1790878162126-artificial-analysis-llm-leaderboard-4f729dcf",
-    "1790879171014-openrouter-models-e8060c38",
     "1790881017732-vercel-gateway-catalog-5bb655a9",
     "1790881081709-xai-all-models-1392b7bf",
     "1790886168339-openrouter-models-d4425757",
@@ -499,6 +494,11 @@
     "1793777191530-xai-release-notes-6c25f032",
     "1793782614443-kimi-platform-models-en-3095a719",
     "1793787873894-official-x-model-posts-057c12ca",
-    "1793794815032-cohere-release-notes-fdc816ae"
+    "1793794815032-cohere-release-notes-fdc816ae",
+    "1793794816613-cohere-models-docs-272fd77c",
+    "1793806207232-kimi-huggingface-models-6d1d8568",
+    "1793806774067-artificial-analysis-api-free-16108e3e",
+    "1793808040351-artificial-analysis-api-free-698f71fe",
+    "1793809175492-artificial-analysis-api-free-e667cc6d"
   ]
 }
