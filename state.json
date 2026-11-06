@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790996304804-artificial-analysis-llm-leaderboard-59c6db3c",
-    "1790997040912-artificial-analysis-llm-leaderboard-562e2d03",
-    "1791007042049-qwen-model-pricing-docs-07d7b906",
-    "1791023079483-artificial-analysis-api-free-d60f56ff",
-    "1791024481485-artificial-analysis-llm-leaderboard-783f878b",
     "1791025709043-artificial-analysis-llm-leaderboard-562e2d03",
     "1791031940425-deepswe-benchlm-mirror-4076d2f8",
     "1791063593325-openrouter-models-5ce1720a",
@@ -499,6 +494,11 @@
     "1793861943437-official-huggingface-new-models-2d72fd04",
     "1793862602014-openai-codex-official-code-models-c3390eeb",
     "1793863797438-official-huggingface-new-models-46cb146f",
-    "1793870191926-factory-droid-registry-7a87bd34"
+    "1793870191926-factory-droid-registry-7a87bd34",
+    "1793884894463-openrouter-models-33fdae3d",
+    "1793885944150-official-huggingface-new-models-3f07a724",
+    "1793887757459-cerebras-api-models-17555861",
+    "1793894759863-gemini-api-models-5ffc505a",
+    "1793898562709-openai-developer-all-models-59439903"
   ]
 }

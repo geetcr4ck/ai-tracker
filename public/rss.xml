@@ -6,6 +6,22 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1793983900047-microsoft-command-line-sitemap-2fbc9f66-new-page</guid>
+      <pubDate>Fri, 06 Nov 2026 16:51:37 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan parallel/decisions-fast</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793981074547-openrouter-models-6b05527b</guid>
+      <pubDate>Fri, 06 Nov 2026 16:04:22 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: parallel/decisions-fast</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added bytedance-seed/cola2</title>
       <link>https://huggingface.co/bytedance-seed/cola2</link>
       <guid isPermaLink="false">1793959278610-official-huggingface-lab-rotation-b3a62e26</guid>
@@ -247,42 +263,6 @@ Ditambahkan: openrouter/auto-code</description>
       <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: kimi-k3.1-pro</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added nvidia/metrictrail</title>
-      <link>https://huggingface.co/nvidia/metrictrail</link>
-      <guid isPermaLink="false">1793863797438-official-huggingface-new-models-46cb146f</guid>
-      <pubDate>Thu, 05 Nov 2026 07:28:48 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: nvidia/metrictrail</description>
-    </item>
-    <item>
-      <title>Bocoran model Codex: gpt-6-astra</title>
-      <link>https://github.com/openai/codex/blob/695961ee88a2c84c0919814a4345b94a2d10f3ca/codex-rs/model-provider/src/amazon_bedrock/catalog.rs</link>
-      <guid isPermaLink="false">1793862602014-openai-codex-official-code-models-c3390eeb</guid>
-      <pubDate>Thu, 05 Nov 2026 07:10:00 GMT</pubDate>
-      <description>openai/codex official code model references: 1 bocoran model baru
-
-Ditambahkan: gpt-6-astra</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added bytedance-seed/cross-layer-topk-clt</title>
-      <link>https://huggingface.co/bytedance-seed/cross-layer-topk-clt</link>
-      <guid isPermaLink="false">1793861943437-official-huggingface-new-models-2d72fd04</guid>
-      <pubDate>Thu, 05 Nov 2026 06:58:59 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: bytedance-seed/cross-layer-topk-clt</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added baidu/ernie-5.5-flash-base-bf16</title>
-      <link>https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16</link>
-      <guid isPermaLink="false">1793859698371-huggingface-observed-publish-09a8f421</guid>
-      <pubDate>Thu, 05 Nov 2026 06:21:38 GMT</pubDate>
-      <description>Hugging Face: 1 entri model baru
-
-Ditambahkan: baidu/ernie-5.5-flash-base-bf16</description>
     </item>
   </channel>
 </rss>
