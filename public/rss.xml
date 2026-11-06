@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added bytedance-seed/cola2</title>
+      <link>https://huggingface.co/bytedance-seed/cola2</link>
+      <guid isPermaLink="false">1793959278610-official-huggingface-lab-rotation-b3a62e26</guid>
+      <pubDate>Fri, 06 Nov 2026 10:01:18 GMT</pubDate>
+      <description>Official lab Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: bytedance-seed/cola2</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan 2 models</title>
+      <link>https://help.aliyun.com/zh/model-studio/newly-released-models</link>
+      <guid isPermaLink="false">1793956273003-qwen-cn-newly-released-models-28761df1</guid>
+      <pubDate>Fri, 06 Nov 2026 09:11:09 GMT</pubDate>
+      <description>Alibaba Model Studio (CN) newly released models: 2 entri model baru
+
+Ditambahkan: qwen3.8-livetranslate-flash, qwen3.8-livetranslate-flash-realtime</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan qwen3.8-max-prime</title>
+      <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
+      <guid isPermaLink="false">1793951958142-alibaba-model-studio-models-e858fe1a</guid>
+      <pubDate>Fri, 06 Nov 2026 07:59:17 GMT</pubDate>
+      <description>Alibaba Model Studio Qwen models: 1 entri model baru
+
+Ditambahkan: qwen3.8-max-prime</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added sensenova/sensenova-u1.5-8b-mot-tailsteer</title>
+      <link>https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT-TailSteer</link>
+      <guid isPermaLink="false">1793939554584-huggingface-observed-publish-18ff77be</guid>
+      <pubDate>Fri, 06 Nov 2026 04:32:34 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: sensenova/sensenova-u1.5-8b-mot-tailsteer</description>
+    </item>
+    <item>
       <title>Kimi/Moonshot menambahkan 2 models</title>
       <link>https://api.moonshot.ai/v1/models</link>
       <guid isPermaLink="false">1793930961080-moonshot-api-models-c40e53a5</guid>
@@ -247,69 +283,6 @@ Ditambahkan: bytedance-seed/cross-layer-topk-clt</description>
       <description>Hugging Face: 1 entri model baru
 
 Ditambahkan: baidu/ernie-5.5-flash-base-bf16</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added baidu/ernie-5.5-flash-base</title>
-      <link>https://huggingface.co/baidu/ERNIE-5.5-Flash-Base</link>
-      <guid isPermaLink="false">1793859698297-huggingface-observed-publish-d37136e6</guid>
-      <pubDate>Thu, 05 Nov 2026 06:21:38 GMT</pubDate>
-      <description>Hugging Face: 1 entri model baru
-
-Ditambahkan: baidu/ernie-5.5-flash-base</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan inclusionai/ling-3.0-tiny</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793858885872-openrouter-models-540f090d</guid>
-      <pubDate>Thu, 05 Nov 2026 06:07:54 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: inclusionai/ling-3.0-tiny</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: hy4</title>
-      <link>https://artificialanalysis.ai/models/hunyuan-dev1030-aa</link>
-      <guid isPermaLink="false">1793847355056-artificial-analysis-model-discovery-4c8f23ab</guid>
-      <pubDate>Thu, 05 Nov 2026 02:55:54 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: hy4</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI: 2 new model leaks</title>
-      <link>https://github.com/openai/openai-openapi/commit/5882fdd96af8dcf9374e18d6f2c25f363b564d7c</link>
-      <guid isPermaLink="false">1793842401427-openai-openapi-spec-models-724240c0</guid>
-      <pubDate>Thu, 05 Nov 2026 01:33:20 GMT</pubDate>
-      <description>OpenAI API spec: 2 new model leaks
-
-Ditambahkan: gpt-image-2.6-flare, gpt-image-2.6-sunburst</description>
-    </item>
-    <item>
-      <title>Codex code reference: model identifiers</title>
-      <link>https://unpkg.com/openai@7.51.0/src/resources/shared.ts</link>
-      <guid isPermaLink="false">1793840769227-openai-sdk-package-models-296599a2</guid>
-      <pubDate>Thu, 05 Nov 2026 01:06:08 GMT</pubDate>
-      <description>OpenAI SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6-rosalind, gpt-image-2.6-flare, gpt-image-2.6-sunburst</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/openai/openai-python/blob/0152e3ada40e7580921aec71de2770ff02e69b05/src/openai/types/image_model.py</link>
-      <guid isPermaLink="false">1793838906573-openai-sdk-models-19de4dad</guid>
-      <pubDate>Thu, 05 Nov 2026 00:35:04 GMT</pubDate>
-      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-image-2.6-flare, gpt-image-2.6-sunburst</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan openai/gpt-image-2.6-sunburst</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793838684790-openrouter-models-32951d74</guid>
-      <pubDate>Thu, 05 Nov 2026 00:31:11 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: openai/gpt-image-2.6-sunburst</description>
     </item>
   </channel>
 </rss>

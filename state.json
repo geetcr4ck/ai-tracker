@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790968097765-artificial-analysis-api-free-656d5208",
-    "1790973279738-artificial-analysis-llm-leaderboard-70f28a53",
-    "1790973901335-artificial-analysis-llm-leaderboard-562e2d03",
-    "1790977066199-openrouter-models-1dbea942",
-    "1790996270948-artificial-analysis-api-free-2ad0af1e",
     "1790996304804-artificial-analysis-llm-leaderboard-59c6db3c",
     "1790997040912-artificial-analysis-llm-leaderboard-562e2d03",
     "1791007042049-qwen-model-pricing-docs-07d7b906",
@@ -499,6 +494,11 @@
     "1793840769227-openai-sdk-package-models-296599a2",
     "1793842401427-openai-openapi-spec-models-724240c0",
     "1793847355056-artificial-analysis-model-discovery-4c8f23ab",
-    "1793858885872-openrouter-models-540f090d"
+    "1793858885872-openrouter-models-540f090d",
+    "1793859698371-huggingface-observed-publish-09a8f421",
+    "1793861943437-official-huggingface-new-models-2d72fd04",
+    "1793862602014-openai-codex-official-code-models-c3390eeb",
+    "1793863797438-official-huggingface-new-models-46cb146f",
+    "1793870191926-factory-droid-registry-7a87bd34"
   ]
 }
