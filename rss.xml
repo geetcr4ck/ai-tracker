@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model LM Arena: gemini-omni-1.2-flash</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1793995462054-arena-live-model-roster-746ac160</guid>
+      <pubDate>Fri, 06 Nov 2026 20:04:21 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: gemini-omni-1.2-flash</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan parallel/decisions-fast:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1793989902771-openrouter-models-da199f3f</guid>
+      <pubDate>Fri, 06 Nov 2026 18:31:17 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: parallel/decisions-fast:free</description>
+    </item>
+    <item>
       <title>Halaman web baru Microsoft</title>
       <link>https://commandline.microsoft.com/</link>
       <guid isPermaLink="false">1793983900047-microsoft-command-line-sitemap-2fbc9f66-new-page</guid>
@@ -245,24 +263,6 @@ Ditambahkan: kimi-k3</description>
       <description>Official vendor Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: bytedance-seed/qwen3-30b-a3b-moe-sae</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan openrouter/auto-code</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793884894463-openrouter-models-33fdae3d</guid>
-      <pubDate>Thu, 05 Nov 2026 13:21:23 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: openrouter/auto-code</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): kimi-k3.1-pro</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/1.4.1/linux/x64/droid</link>
-      <guid isPermaLink="false">1793870191926-factory-droid-registry-7a87bd34</guid>
-      <pubDate>Thu, 05 Nov 2026 09:15:53 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: kimi-k3.1-pro</description>
     </item>
   </channel>
 </rss>
