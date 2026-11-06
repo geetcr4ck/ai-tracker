@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1790955543413-openrouter-models-e561c130",
-    "1790957089437-opencode-zen-catalog-e7204282",
-    "1790960595930-anthropic-news-703b92ea-new-page",
-    "1790960658918-anthropic-news-7763da97-new-page",
-    "1790960722644-anthropic-news-703b92ea-new-page",
     "1790968097765-artificial-analysis-api-free-656d5208",
     "1790973279738-artificial-analysis-llm-leaderboard-70f28a53",
     "1790973901335-artificial-analysis-llm-leaderboard-562e2d03",
@@ -499,6 +494,11 @@
     "1793836398215-nvidia-nim-models-docs-367dcee4",
     "1793836736293-openai-api-models-b6ea4464",
     "1793838407081-openrouter-models-f88553f2",
-    "1793838684790-openrouter-models-32951d74"
+    "1793838684790-openrouter-models-32951d74",
+    "1793838906573-openai-sdk-models-19de4dad",
+    "1793840769227-openai-sdk-package-models-296599a2",
+    "1793842401427-openai-openapi-spec-models-724240c0",
+    "1793847355056-artificial-analysis-model-discovery-4c8f23ab",
+    "1793858885872-openrouter-models-540f090d"
   ]
 }
