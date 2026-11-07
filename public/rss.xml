@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794011685445-openrouter-models-85ec43ea</guid>
+      <pubDate>Sat, 07 Nov 2026 00:34:22 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: liquid/lfm-3-1.7b, liquid/lfm-3-1.7b:free</description>
+    </item>
+    <item>
       <title>Bocoran model LM Arena: gemini-omni-1.2-flash</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1793995462054-arena-live-model-roster-746ac160</guid>
@@ -173,96 +182,6 @@ Ditambahkan: gpt-6-cyber</description>
       <description>OpenAI SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): gpt-6-cyber</title>
-      <link>https://github.com/openai/openai-python/blob/090098fd3f00fd46c529c4fd19edc2c762ce7a34/src/openai/types/beta/beta_response.py</link>
-      <guid isPermaLink="false">1793900692205-openai-sdk-models-b6ff6a0e</guid>
-      <pubDate>Thu, 05 Nov 2026 17:44:50 GMT</pubDate>
-      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793900436232-openrouter-models-64bb5db0</guid>
-      <pubDate>Thu, 05 Nov 2026 17:40:16 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: google/gemini-omni-1.1-flash, google/gemini-omni-1.2-flash</description>
-    </item>
-    <item>
-      <title>Bocoran model ChatGPT/OpenAI: gpt-6-cyber</title>
-      <link>https://github.com/openai/openai-openapi/commit/17153c32dc8d03d917ea34615c3b180362e8d0d5</link>
-      <guid isPermaLink="false">1793899908172-openai-openapi-spec-models-bc61a236</guid>
-      <pubDate>Thu, 05 Nov 2026 17:31:44 GMT</pubDate>
-      <description>OpenAI API spec: 1 bocoran model baru
-
-Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
-      <link>https://x.com/i/web/status/2118390190246879554</link>
-      <guid isPermaLink="false">1793898836976-official-x-model-posts-304d55f2</guid>
-      <pubDate>Thu, 05 Nov 2026 17:11:51 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
-      <link>https://platform.openai.com/docs/models</link>
-      <guid isPermaLink="false">1793898643140-openai-models-docs-1a13f08b</guid>
-      <pubDate>Thu, 05 Nov 2026 17:10:42 GMT</pubDate>
-      <description>OpenAI model docs: 1 entri model baru
-
-Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
-      <link>https://developers.openai.com/api/docs/changelog</link>
-      <guid isPermaLink="false">1793898637531-openai-api-changelog-9c577fe3</guid>
-      <pubDate>Thu, 05 Nov 2026 17:10:37 GMT</pubDate>
-      <description>OpenAI API changelog: 1 entri model baru
-
-Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
-      <link>https://developers.openai.com/api/docs/models/all</link>
-      <guid isPermaLink="false">1793898562709-openai-developer-all-models-59439903</guid>
-      <pubDate>Thu, 05 Nov 2026 17:09:20 GMT</pubDate>
-      <description>OpenAI developer all models: 1 entri model baru
-
-Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-omni-1.2-flash</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1793894759863-gemini-api-models-5ffc505a</guid>
-      <pubDate>Thu, 05 Nov 2026 16:03:05 GMT</pubDate>
-      <description>Gemini API models: 1 entri model baru
-
-Ditambahkan: gemini-omni-1.2-flash</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added kimi-k3</title>
-      <link>https://api.cerebras.ai/v1/models</link>
-      <guid isPermaLink="false">1793887757459-cerebras-api-models-17555861</guid>
-      <pubDate>Thu, 05 Nov 2026 14:09:17 GMT</pubDate>
-      <description>Cerebras hosted models: 1 entri model baru
-
-Ditambahkan: kimi-k3</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added bytedance-seed/qwen3-30b-a3b-moe-sae</title>
-      <link>https://huggingface.co/bytedance-seed/qwen3-30b-a3b-moe-sae</link>
-      <guid isPermaLink="false">1793885944150-official-huggingface-new-models-3f07a724</guid>
-      <pubDate>Thu, 05 Nov 2026 13:39:03 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: bytedance-seed/qwen3-30b-a3b-moe-sae</description>
     </item>
   </channel>
 </rss>

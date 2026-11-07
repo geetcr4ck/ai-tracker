@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791144257329-deepswe-benchlm-mirror-9f7bb110",
-    "1791209704796-artificial-analysis-api-free-72449e38",
-    "1791219828349-claude-models-docs-00e59f1d",
-    "1791220088407-claude-console-app-models-117ac974",
-    "1791227972417-vercel-gateway-catalog-05fb2b3d",
     "1791228623100-artificial-analysis-llm-leaderboard-3efe3d0f",
     "1791230297657-deepswe-benchlm-mirror-c16b1e5d",
     "1791231408706-artificial-analysis-llm-leaderboard-562e2d03",
@@ -499,6 +494,11 @@
     "1793898643140-openai-models-docs-1a13f08b",
     "1793898836976-official-x-model-posts-304d55f2",
     "1793899908172-openai-openapi-spec-models-bc61a236",
-    "1793900436232-openrouter-models-64bb5db0"
+    "1793900436232-openrouter-models-64bb5db0",
+    "1793902620481-openai-sdk-package-models-cb938847",
+    "1793904432370-openai-news-rss-43696593-model-page",
+    "1793907640718-official-x-model-posts-3-45f1f506",
+    "1793918920719-thinking-machines-models-catalog-0c4839fd",
+    "1793918922552-thinking-machines-serverless-catalog-0c4839fd"
   ]
 }
