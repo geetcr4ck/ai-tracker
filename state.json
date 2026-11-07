@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791294822387-openrouter-models-4c698015",
-    "1791295734187-arena-live-model-roster-e136a518",
-    "1791298815030-gemini-api-models-6329146b",
-    "1791305912025-openrouter-models-5c31cd64",
-    "1791307163095-deepswe-benchlm-mirror-087fd439",
     "1791310367960-openrouter-models-30c22344",
     "1791311094845-arena-live-model-roster-ce03f8a3",
     "1791313097548-anthropic-news-80a238f2-new-page",
@@ -499,6 +494,11 @@
     "1793956273003-qwen-cn-newly-released-models-28761df1",
     "1793959278610-official-huggingface-lab-rotation-b3a62e26",
     "1793981074547-openrouter-models-6b05527b",
-    "1793983900047-microsoft-command-line-sitemap-2fbc9f66-new-page"
+    "1793983900047-microsoft-command-line-sitemap-2fbc9f66-new-page",
+    "1793989902771-openrouter-models-da199f3f",
+    "1793995462054-arena-live-model-roster-746ac160",
+    "1794011685445-openrouter-models-85ec43ea",
+    "1794021709535-official-x-model-posts-3-d8bec509",
+    "1794061286201-official-huggingface-new-models-54d4d733"
   ]
 }
