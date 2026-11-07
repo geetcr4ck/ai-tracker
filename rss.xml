@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added tencent/qwen3.8-27b-dspine-b16</title>
+      <link>https://huggingface.co/tencent/qwen3.8-27b-dspine-b16</link>
+      <guid isPermaLink="false">1794061286201-official-huggingface-new-models-54d4d733</guid>
+      <pubDate>Sat, 07 Nov 2026 14:21:25 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: tencent/qwen3.8-27b-dspine-b16</description>
+    </item>
+    <item>
       <title>Meituan LongCat announced longcat-2.5</title>
       <link>https://x.com/i/web/status/2118906679316336968</link>
       <guid isPermaLink="false">1794021709535-official-x-model-posts-3-d8bec509</guid>
@@ -83,87 +92,6 @@ Ditambahkan: qwen3.8-livetranslate-flash, qwen3.8-livetranslate-flash-realtime</
       <description>Alibaba Model Studio Qwen models: 1 entri model baru
 
 Ditambahkan: qwen3.8-max-prime</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added sensenova/sensenova-u1.5-8b-mot-tailsteer</title>
-      <link>https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT-TailSteer</link>
-      <guid isPermaLink="false">1793939554584-huggingface-observed-publish-18ff77be</guid>
-      <pubDate>Fri, 06 Nov 2026 04:32:34 GMT</pubDate>
-      <description>Hugging Face: 1 entri model baru
-
-Ditambahkan: sensenova/sensenova-u1.5-8b-mot-tailsteer</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menambahkan 2 models</title>
-      <link>https://api.moonshot.ai/v1/models</link>
-      <guid isPermaLink="false">1793930961080-moonshot-api-models-c40e53a5</guid>
-      <pubDate>Fri, 06 Nov 2026 02:09:20 GMT</pubDate>
-      <description>Moonshot (Kimi) API models: 2 entri model baru
-
-Ditambahkan: kimi-k3, kimi-k3.1</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: inkling-2-small</title>
-      <link>https://artificialanalysis.ai/models/inkling-2-small</link>
-      <guid isPermaLink="false">1793923378943-artificial-analysis-model-discovery-15d969d2</guid>
-      <pubDate>Fri, 06 Nov 2026 00:02:58 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: inkling-2-small</description>
-    </item>
-    <item>
-      <title>Thinking Machines menambahkan inkling-2</title>
-      <link>https://x.com/i/web/status/2118489527362912566</link>
-      <guid isPermaLink="false">1793922251901-official-x-model-posts-1c152b18</guid>
-      <pubDate>Thu, 05 Nov 2026 23:44:11 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 entri model baru
-
-Ditambahkan: inkling-2</description>
-    </item>
-    <item>
-      <title>Thinking Machines menambahkan inkling-2</title>
-      <link>https://thinkingmachines.ai/news/inkling-2-small</link>
-      <guid isPermaLink="false">1793922183866-thinking-machines-model-announcements-43a057f4-model-page-release</guid>
-      <pubDate>Thu, 05 Nov 2026 23:43:03 GMT</pubDate>
-      <description>Thinking Machines official model announcements: 1 entri model baru
-
-Ditambahkan: inkling-2</description>
-    </item>
-    <item>
-      <title>Cognition SWE menambahkan 5 models</title>
-      <link>https://docs.devin.ai/desktop/models</link>
-      <guid isPermaLink="false">1793920817919-devin-desktop-models-docs-e83c5530</guid>
-      <pubDate>Thu, 05 Nov 2026 23:20:16 GMT</pubDate>
-      <description>Devin desktop models docs: 5 entri model baru
-
-Ditambahkan: claude-haiku-5.5, gpt-6.1-terra, kimi-k3.1-pro, nemotron-3.5-super, swe-2-flash</description>
-    </item>
-    <item>
-      <title>Thinking Machines code reference: inkling-2-small</title>
-      <link>https://github.com/thinking-machines-lab/tinker-cookbook/blob/7aca914feb309150e2b88b2401b7099cc4b09071/tinker_cookbook/model_info.py</link>
-      <guid isPermaLink="false">1793918970185-thinking-machines-official-code-models-0a0ee161</guid>
-      <pubDate>Thu, 05 Nov 2026 22:49:29 GMT</pubDate>
-      <description>Thinking Machines Tinker cookbook model references: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: inkling-2-small</description>
-    </item>
-    <item>
-      <title>Thinking Machines menambahkan thinkingmachines/inkling-2-small</title>
-      <link>https://tinker-docs.thinkingmachines.ai/tinker/serverless.json</link>
-      <guid isPermaLink="false">1793918922552-thinking-machines-serverless-catalog-0c4839fd</guid>
-      <pubDate>Thu, 05 Nov 2026 22:48:42 GMT</pubDate>
-      <description>Thinking Machines inference model catalog: 1 entri model baru
-
-Ditambahkan: thinkingmachines/inkling-2-small</description>
-    </item>
-    <item>
-      <title>Thinking Machines menambahkan thinkingmachines/inkling-2-small</title>
-      <link>https://tinker-docs.thinkingmachines.ai/tinker/models.json</link>
-      <guid isPermaLink="false">1793918920719-thinking-machines-models-catalog-0c4839fd</guid>
-      <pubDate>Thu, 05 Nov 2026 22:48:40 GMT</pubDate>
-      <description>Thinking Machines training model catalog: 1 entri model baru
-
-Ditambahkan: thinkingmachines/inkling-2-small</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791288730028-deepswe-benchlm-mirror-4de94e03",
-    "1791292181103-mistral-models-docs-200a8a93",
-    "1791292882312-artificial-analysis-api-free-f69f1a0b",
-    "1791293585056-artificial-analysis-model-discovery-3d14c48d",
-    "1791293809545-artificial-analysis-llm-leaderboard-054e2137",
     "1791294822387-openrouter-models-4c698015",
     "1791295734187-arena-live-model-roster-e136a518",
     "1791298815030-gemini-api-models-6329146b",
@@ -499,6 +494,11 @@
     "1793920817919-devin-desktop-models-docs-e83c5530",
     "1793922183866-thinking-machines-model-announcements-43a057f4-model-page-release",
     "1793922251901-official-x-model-posts-1c152b18",
-    "1793923378943-artificial-analysis-model-discovery-15d969d2"
+    "1793923378943-artificial-analysis-model-discovery-15d969d2",
+    "1793951958142-alibaba-model-studio-models-e858fe1a",
+    "1793956273003-qwen-cn-newly-released-models-28761df1",
+    "1793959278610-official-huggingface-lab-rotation-b3a62e26",
+    "1793981074547-openrouter-models-6b05527b",
+    "1793983900047-microsoft-command-line-sitemap-2fbc9f66-new-page"
   ]
 }
