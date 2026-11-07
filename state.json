@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791228623100-artificial-analysis-llm-leaderboard-3efe3d0f",
-    "1791230297657-deepswe-benchlm-mirror-c16b1e5d",
-    "1791231408706-artificial-analysis-llm-leaderboard-562e2d03",
-    "1791232997525-openrouter-models-2434e4f6",
-    "1791236170147-vercel-gateway-catalog-ef06bb05",
     "1791288730028-deepswe-benchlm-mirror-4de94e03",
     "1791292181103-mistral-models-docs-200a8a93",
     "1791292882312-artificial-analysis-api-free-f69f1a0b",
@@ -499,6 +494,11 @@
     "1793904432370-openai-news-rss-43696593-model-page",
     "1793907640718-official-x-model-posts-3-45f1f506",
     "1793918920719-thinking-machines-models-catalog-0c4839fd",
-    "1793918922552-thinking-machines-serverless-catalog-0c4839fd"
+    "1793918922552-thinking-machines-serverless-catalog-0c4839fd",
+    "1793918970185-thinking-machines-official-code-models-0a0ee161",
+    "1793920817919-devin-desktop-models-docs-e83c5530",
+    "1793922183866-thinking-machines-model-announcements-43a057f4-model-page-release",
+    "1793922251901-official-x-model-posts-1c152b18",
+    "1793923378943-artificial-analysis-model-discovery-15d969d2"
   ]
 }

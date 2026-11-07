@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Meituan LongCat announced longcat-2.5</title>
+      <link>https://x.com/i/web/status/2118906679316336968</link>
+      <guid isPermaLink="false">1794021709535-official-x-model-posts-3-d8bec509</guid>
+      <pubDate>Sat, 07 Nov 2026 03:21:49 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 model announced
+
+Ditambahkan: longcat-2.5</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan 2 models</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1794011685445-openrouter-models-85ec43ea</guid>
@@ -155,33 +164,6 @@ Ditambahkan: thinkingmachines/inkling-2-small</description>
       <description>Thinking Machines training model catalog: 1 entri model baru
 
 Ditambahkan: thinkingmachines/inkling-2-small</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan ling-3.2-flash</title>
-      <link>https://x.com/i/web/status/2118428246664761379</link>
-      <guid isPermaLink="false">1793907640718-official-x-model-posts-3-45f1f506</guid>
-      <pubDate>Thu, 05 Nov 2026 19:40:40 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: ling-3.2-flash</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-6-cyber</title>
-      <link>https://openai.com/index/introducing-gpt-6-cyber</link>
-      <guid isPermaLink="false">1793904432370-openai-news-rss-43696593-model-page</guid>
-      <pubDate>Thu, 05 Nov 2026 18:47:11 GMT</pubDate>
-      <description>OpenAI News RSS: 1 entri model baru
-
-Ditambahkan: gpt-6-cyber</description>
-    </item>
-    <item>
-      <title>Codex code reference: gpt-6-cyber</title>
-      <link>https://unpkg.com/openai@7.52.0/src/resources/shared.ts</link>
-      <guid isPermaLink="false">1793902620481-openai-sdk-package-models-cb938847</guid>
-      <pubDate>Thu, 05 Nov 2026 18:16:59 GMT</pubDate>
-      <description>OpenAI SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6-cyber</description>
     </item>
   </channel>
 </rss>
