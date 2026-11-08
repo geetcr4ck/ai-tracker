@@ -66,23 +66,5 @@ Ditambahkan: parallel/decisions-fast:free</description>
 
 Ditambahkan: parallel/decisions-fast</description>
     </item>
-    <item>
-      <title>Katalog model berubah: added bytedance-seed/cola2</title>
-      <link>https://huggingface.co/bytedance-seed/cola2</link>
-      <guid isPermaLink="false">1793959278610-official-huggingface-lab-rotation-b3a62e26</guid>
-      <pubDate>Fri, 06 Nov 2026 10:01:18 GMT</pubDate>
-      <description>Official lab Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: bytedance-seed/cola2</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan 2 models</title>
-      <link>https://help.aliyun.com/zh/model-studio/newly-released-models</link>
-      <guid isPermaLink="false">1793956273003-qwen-cn-newly-released-models-28761df1</guid>
-      <pubDate>Fri, 06 Nov 2026 09:11:09 GMT</pubDate>
-      <description>Alibaba Model Studio (CN) newly released models: 2 entri model baru
-
-Ditambahkan: qwen3.8-livetranslate-flash, qwen3.8-livetranslate-flash-realtime</description>
-    </item>
   </channel>
 </rss>
