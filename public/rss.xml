@@ -6,6 +6,15 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah (referensi kode): frantic-ferret</title>
+      <link>https://opencode.ai/zen/v1/models</link>
+      <guid isPermaLink="false">1794164239296-opencode-zen-catalog-2208ba91</guid>
+      <pubDate>Sun, 08 Nov 2026 18:57:19 GMT</pubDate>
+      <description>OpenCode Zen model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: frantic-ferret</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): grok-4-20</title>
       <link>https://windsurf-stable.codeiumdata.com/linux-x64/next/91c3aec41579d2c1795b64f82fa6a8a202ea4c69/Devin-linux-x64-3.12.1028+next.91c3aec415.tar.gz</link>
       <guid isPermaLink="false">1794113598182-devin-next-build-models-f4c63f02</guid>
@@ -22,15 +31,6 @@ Ditambahkan: grok-4-20</description>
       <description>Official vendor Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: tencent/qwen3.8-27b-dspine-b16</description>
-    </item>
-    <item>
-      <title>Meituan LongCat announced longcat-2.5</title>
-      <link>https://x.com/i/web/status/2118906679316336968</link>
-      <guid isPermaLink="false">1794021709535-official-x-model-posts-3-d8bec509</guid>
-      <pubDate>Sat, 07 Nov 2026 03:21:49 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 model announced
-
-Ditambahkan: longcat-2.5</description>
     </item>
   </channel>
 </rss>
