@@ -32,32 +32,5 @@ Ditambahkan: tencent/qwen3.8-27b-dspine-b16</description>
 
 Ditambahkan: longcat-2.5</description>
     </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794011685445-openrouter-models-85ec43ea</guid>
-      <pubDate>Sat, 07 Nov 2026 00:34:22 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: liquid/lfm-3-1.7b, liquid/lfm-3-1.7b:free</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: gemini-omni-1.2-flash</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1793995462054-arena-live-model-roster-746ac160</guid>
-      <pubDate>Fri, 06 Nov 2026 20:04:21 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: gemini-omni-1.2-flash</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan parallel/decisions-fast:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1793989902771-openrouter-models-da199f3f</guid>
-      <pubDate>Fri, 06 Nov 2026 18:31:17 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: parallel/decisions-fast:free</description>
-    </item>
   </channel>
 </rss>
