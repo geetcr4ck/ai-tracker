@@ -23,14 +23,5 @@ Ditambahkan: frantic-ferret</description>
 
 Ditambahkan: grok-4-20</description>
     </item>
-    <item>
-      <title>Katalog model berubah: added tencent/qwen3.8-27b-dspine-b16</title>
-      <link>https://huggingface.co/tencent/qwen3.8-27b-dspine-b16</link>
-      <guid isPermaLink="false">1794061286201-official-huggingface-new-models-54d4d733</guid>
-      <pubDate>Sat, 07 Nov 2026 14:21:25 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: tencent/qwen3.8-27b-dspine-b16</description>
-    </item>
   </channel>
 </rss>
