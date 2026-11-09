@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791321967728-openrouter-models-0ae2f7e0",
-    "1791323475222-vercel-gateway-catalog-adafcdbb",
-    "1791330891842-cloudflare-gateway-catalog-5c782ec0",
-    "1791342014302-official-x-model-posts-3-873177ff",
-    "1791349155075-factory-droid-registry-041c5637",
     "1791385226181-official-x-model-posts-4-9ab78b17",
     "1791385270002-openrouter-models-f563c197",
     "1791385370093-openrouter-models-2532a823",
@@ -499,6 +494,11 @@
     "1794205095318-ernie-blog-announcements-2be3f29b-new-page",
     "1794207103798-artificial-analysis-llm-leaderboard-45cccedb",
     "1794212556215-bytedance-seed-models-61d9840e",
-    "1794230903662-longcat-official-model-weights-d2defbdf"
+    "1794230903662-longcat-official-model-weights-d2defbdf",
+    "1794231628283-ernie-blog-announcements-c1b45b4a-model-page",
+    "1794236441745-google-ai-studio-app-models-6643113f",
+    "1794246382456-meta-model-api-live-models-cd90669e",
+    "1794248650085-artificial-analysis-model-discovery-5f91de89",
+    "1794249237332-openrouter-models-c9509f73"
   ]
 }
