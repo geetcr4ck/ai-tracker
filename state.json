@@ -1,9 +1,5 @@
 {
   "seenIds": [
-    "1791313097548-anthropic-news-80a238f2-new-page",
-    "1791313246953-official-x-model-posts-aa673ec7",
-    "1791317933351-arena-live-model-roster-4bbfff3b",
-    "1791319640000-official-x-model-posts-2-bbf73948",
     "1791321967728-openrouter-models-0ae2f7e0",
     "1791323475222-vercel-gateway-catalog-adafcdbb",
     "1791330891842-cloudflare-gateway-catalog-5c782ec0",
@@ -499,6 +495,10 @@
     "1794021709535-official-x-model-posts-3-d8bec509",
     "1794061286201-official-huggingface-new-models-54d4d733",
     "1794113598182-devin-next-build-models-f4c63f02",
-    "1794164239296-opencode-zen-catalog-2208ba91"
+    "1794164239296-opencode-zen-catalog-2208ba91",
+    "1794205095318-ernie-blog-announcements-2be3f29b-new-page",
+    "1794207103798-artificial-analysis-llm-leaderboard-45cccedb",
+    "1794212556215-bytedance-seed-models-61d9840e",
+    "1794230903662-longcat-official-model-weights-d2defbdf"
   ]
 }

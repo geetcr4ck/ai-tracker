@@ -6,6 +6,38 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Meituan LongCat menambahkan meituan-longcat/longcat-2.5</title>
+      <link>https://huggingface.co/meituan-longcat/longcat-2.5</link>
+      <guid isPermaLink="false">1794230903662-longcat-official-model-weights-d2defbdf</guid>
+      <pubDate>Mon, 09 Nov 2026 13:28:23 GMT</pubDate>
+      <description>Meituan LongCat official model weights: 1 entri model baru
+
+Ditambahkan: meituan-longcat/longcat-2.5</description>
+    </item>
+    <item>
+      <title>ByteDance Seed/Doubao menambahkan seedream-5.5</title>
+      <link>https://seed.bytedance.com/en/models</link>
+      <guid isPermaLink="false">1794212556215-bytedance-seed-models-61d9840e</guid>
+      <pubDate>Mon, 09 Nov 2026 08:22:35 GMT</pubDate>
+      <description>ByteDance Seed official models: 1 entri model baru
+
+Ditambahkan: seedream-5.5</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794207103798-artificial-analysis-llm-leaderboard-45cccedb</guid>
+      <pubDate>Mon, 09 Nov 2026 06:51:42 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 37 baris hasil benchmark ditambahkan, 36 dihapus</description>
+    </item>
+    <item>
+      <title>Halaman web baru Baidu ERNIE</title>
+      <link>https://ernie.baidu.com/research/posts/ernie-evolve</link>
+      <guid isPermaLink="false">1794205095318-ernie-blog-announcements-2be3f29b-new-page</guid>
+      <pubDate>Mon, 09 Nov 2026 06:18:13 GMT</pubDate>
+      <description>Baidu ERNIE blog: halaman web baru</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): frantic-ferret</title>
       <link>https://opencode.ai/zen/v1/models</link>
       <guid isPermaLink="false">1794164239296-opencode-zen-catalog-2208ba91</guid>
@@ -13,15 +45,6 @@
       <description>OpenCode Zen model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: frantic-ferret</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): grok-4-20</title>
-      <link>https://windsurf-stable.codeiumdata.com/linux-x64/next/91c3aec41579d2c1795b64f82fa6a8a202ea4c69/Devin-linux-x64-3.12.1028+next.91c3aec415.tar.gz</link>
-      <guid isPermaLink="false">1794113598182-devin-next-build-models-f4c63f02</guid>
-      <pubDate>Sun, 08 Nov 2026 04:47:54 GMT</pubDate>
-      <description>Devin Desktop Next build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: grok-4-20</description>
     </item>
   </channel>
 </rss>
