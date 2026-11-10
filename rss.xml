@@ -6,6 +6,33 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794282032935-openrouter-models-5b41fbea</guid>
+      <pubDate>Tue, 10 Nov 2026 03:40:10 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: nex-agi/nex-n2.6, qwen/qwen3-reranker-0.6b</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan nace-ai/drex-max-finance</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794276440569-openrouter-models-d152dc42</guid>
+      <pubDate>Tue, 10 Nov 2026 02:06:51 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: nace-ai/drex-max-finance</description>
+    </item>
+    <item>
+      <title>Bocoran model Gemini: gemini-4-carbon</title>
+      <link>https://gemini.google.com/app</link>
+      <guid isPermaLink="false">1794268581571-gemini-web-app-models-ed447714</guid>
+      <pubDate>Mon, 09 Nov 2026 23:56:16 GMT</pubDate>
+      <description>Gemini web app bundle models: 1 bocoran model baru
+
+Ditambahkan: gemini-4-carbon</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1794262452040-artificial-analysis-llm-leaderboard-6254c1ca</guid>
@@ -149,51 +176,6 @@ Ditambahkan: meta/muse-ember</description>
       <description>Artificial Analysis new model listings: 1 bocoran model baru
 
 Ditambahkan: muse-ember</description>
-    </item>
-    <item>
-      <title>Meta menambahkan muse-ember-1.0</title>
-      <link>https://api.meta.ai/v1/models</link>
-      <guid isPermaLink="false">1794246382456-meta-model-api-live-models-cd90669e</guid>
-      <pubDate>Mon, 09 Nov 2026 17:46:22 GMT</pubDate>
-      <description>Meta Model API live models: 1 entri model baru
-
-Ditambahkan: muse-ember-1.0</description>
-    </item>
-    <item>
-      <title>Bocoran model Gemini: gemini-3.7-flash</title>
-      <link>https://aistudio.google.com/</link>
-      <guid isPermaLink="false">1794236441745-google-ai-studio-app-models-6643113f</guid>
-      <pubDate>Mon, 09 Nov 2026 15:00:38 GMT</pubDate>
-      <description>Google AI Studio bundle models: 1 bocoran model baru
-
-Ditambahkan: gemini-3.7-flash</description>
-    </item>
-    <item>
-      <title>Baidu ERNIE menambahkan ernie-4.5</title>
-      <link>https://ernie.baidu.com/research/posts/ernie4.5</link>
-      <guid isPermaLink="false">1794231628283-ernie-blog-announcements-c1b45b4a-model-page</guid>
-      <pubDate>Mon, 09 Nov 2026 13:40:27 GMT</pubDate>
-      <description>Baidu ERNIE blog: 1 entri model baru
-
-Ditambahkan: ernie-4.5</description>
-    </item>
-    <item>
-      <title>Meituan LongCat menambahkan meituan-longcat/longcat-2.5</title>
-      <link>https://huggingface.co/meituan-longcat/longcat-2.5</link>
-      <guid isPermaLink="false">1794230903662-longcat-official-model-weights-d2defbdf</guid>
-      <pubDate>Mon, 09 Nov 2026 13:28:23 GMT</pubDate>
-      <description>Meituan LongCat official model weights: 1 entri model baru
-
-Ditambahkan: meituan-longcat/longcat-2.5</description>
-    </item>
-    <item>
-      <title>ByteDance Seed/Doubao menambahkan seedream-5.5</title>
-      <link>https://seed.bytedance.com/en/models</link>
-      <guid isPermaLink="false">1794212556215-bytedance-seed-models-61d9840e</guid>
-      <pubDate>Mon, 09 Nov 2026 08:22:35 GMT</pubDate>
-      <description>ByteDance Seed official models: 1 entri model baru
-
-Ditambahkan: seedream-5.5</description>
     </item>
   </channel>
 </rss>

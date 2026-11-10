@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791385226181-official-x-model-posts-4-9ab78b17",
-    "1791385270002-openrouter-models-f563c197",
-    "1791385370093-openrouter-models-2532a823",
-    "1791385785445-openrouter-models-b6301400",
-    "1791386082342-openrouter-models-ed872b22",
     "1791387113878-official-x-model-posts-4-38b0c23f",
     "1791387351632-official-x-model-posts-4-688ece37",
     "1791387997766-openrouter-models-23e9869c",
@@ -499,6 +494,11 @@
     "1794236441745-google-ai-studio-app-models-6643113f",
     "1794246382456-meta-model-api-live-models-cd90669e",
     "1794248650085-artificial-analysis-model-discovery-5f91de89",
-    "1794249237332-openrouter-models-c9509f73"
+    "1794249237332-openrouter-models-c9509f73",
+    "1794249696832-artificial-analysis-llm-leaderboard-a629dccf",
+    "1794250298206-anthropic-api-models-3c8e4a70",
+    "1794250781788-claude-models-docs-98d76835",
+    "1794250995953-anthropic-sdk-package-models-3e802186",
+    "1794251314389-claude-models-docs-98d76835-confirmed-removal"
   ]
 }
