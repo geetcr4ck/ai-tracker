@@ -6,6 +6,67 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah (referensi kode): gemini-4-carbon</title>
+      <link>https://downloads.factory.ai/factory-cli/releases/1.7.1/linux/x64/droid</link>
+      <guid isPermaLink="false">1794313847350-factory-droid-registry-25f5045a</guid>
+      <pubDate>Tue, 10 Nov 2026 12:30:42 GMT</pubDate>
+      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zoomgain-9b</title>
+      <link>https://huggingface.co/inclusionai/zoomgain-9b</link>
+      <guid isPermaLink="false">1794311222553-inclusionai-official-model-weights-2bf70d77</guid>
+      <pubDate>Tue, 10 Nov 2026 11:47:02 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/zoomgain-9b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zoomgain-9b</title>
+      <link>https://huggingface.co/inclusionAI/ZoomGain-9B</link>
+      <guid isPermaLink="false">1794311221195-huggingface-observed-publish-1a347f8d</guid>
+      <pubDate>Tue, 10 Nov 2026 11:47:00 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: inclusionai/zoomgain-9b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zoomgain-9b</title>
+      <link>https://huggingface.co/inclusionai/zoomgain-9b</link>
+      <guid isPermaLink="false">1794310994621-official-huggingface-new-models-e2d7a7c9</guid>
+      <pubDate>Tue, 10 Nov 2026 11:43:14 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/zoomgain-9b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/zoomgain-4b</title>
+      <link>https://huggingface.co/inclusionai/zoomgain-4b</link>
+      <guid isPermaLink="false">1794310738288-official-huggingface-new-models-0bf99c88</guid>
+      <pubDate>Tue, 10 Nov 2026 11:38:58 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/zoomgain-4b</description>
+    </item>
+    <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/roadshow-launch</link>
+      <guid isPermaLink="false">1794310431478-anthropic-news-ce96c5ed-new-page</guid>
+      <pubDate>Tue, 10 Nov 2026 11:33:51 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): claude-fable-5-2</title>
+      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.109-1.tgz</link>
+      <guid isPermaLink="false">1794290062195-github-copilot-native-models-5ed03b90</guid>
+      <pubDate>Tue, 10 Nov 2026 05:48:31 GMT</pubDate>
+      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: claude-fable-5-2</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan 2 models</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1794282032935-openrouter-models-5b41fbea</guid>
@@ -56,126 +117,6 @@ Ditambahkan: claude-fable-5.2</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: thinkingmachines/inkling-2-small:free</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): meta/muse-ember-1.0</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/0f871bfbcca09691df3fadedc334514c73fd74bc/src/content/catalog-models/meta-muse-ember-1.0.json</link>
-      <guid isPermaLink="false">1794254373138-cloudflare-gateway-catalog-a90d8a90</guid>
-      <pubDate>Mon, 09 Nov 2026 19:59:30 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: meta/muse-ember-1.0</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794253052148-artificial-analysis-llm-leaderboard-bea0a22f</guid>
-      <pubDate>Mon, 09 Nov 2026 19:37:30 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 32 baris hasil benchmark ditambahkan, 32 dihapus</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: claude-fable-5.2</title>
-      <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
-      <guid isPermaLink="false">1794252985433-artificial-analysis-model-discovery-fedfdbb7</guid>
-      <pubDate>Mon, 09 Nov 2026 19:35:47 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: claude-fable-5.2</description>
-    </item>
-    <item>
-      <title>Claude: 2 new model leaks</title>
-      <link>https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md</link>
-      <guid isPermaLink="false">1794252243948-claude-code-github-changelog-models-a2cd7794</guid>
-      <pubDate>Mon, 09 Nov 2026 19:24:03 GMT</pubDate>
-      <description>anthropics/claude-code changelog: 2 new model leaks
-
-Ditambahkan: claude-fable-5-2, claude-fable-5.2</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan anthropic/claude-fable-5.2</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794251818301-openrouter-models-478978ac</guid>
-      <pubDate>Mon, 09 Nov 2026 19:16:42 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: anthropic/claude-fable-5.2</description>
-    </item>
-    <item>
-      <title>Bocoran model Claude: claude-fable-5-2</title>
-      <link>https://downloads.claude.ai/model-catalog/v1/catalog.json</link>
-      <guid isPermaLink="false">1794251478211-anthropic-claude-model-catalog-bf8b5ebb</guid>
-      <pubDate>Mon, 09 Nov 2026 19:11:17 GMT</pubDate>
-      <description>Claude model catalog (Claude Code, claude.ai, Cowork pickers): 1 bocoran model baru
-
-Ditambahkan: claude-fable-5-2</description>
-    </item>
-    <item>
-      <title>Claude menambahkan 2 models</title>
-      <link>https://x.com/i/web/status/2119867707546071125</link>
-      <guid isPermaLink="false">1794251503202-official-x-model-posts-9ed2cc38</guid>
-      <pubDate>Mon, 09 Nov 2026 19:09:15 GMT</pubDate>
-      <description>Official AI lab posts on X: 2 entri model baru
-
-Ditambahkan: claude-fable-5.2, claude-mythos-5.2</description>
-    </item>
-    <item>
-      <title>Claude menghapus 2 models</title>
-      <link>https://platform.claude.com/docs/en/about-claude/models</link>
-      <guid isPermaLink="false">1794251314389-claude-models-docs-98d76835-confirmed-removal</guid>
-      <pubDate>Mon, 09 Nov 2026 19:08:32 GMT</pubDate>
-      <description>Claude models docs: 2 removed model entries</description>
-    </item>
-    <item>
-      <title>Claude code reference: model identifiers</title>
-      <link>https://unpkg.com/@anthropic-ai/sdk@1.7.0/src/resources/messages/messages.ts</link>
-      <guid isPermaLink="false">1794250995953-anthropic-sdk-package-models-3e802186</guid>
-      <pubDate>Mon, 09 Nov 2026 19:03:12 GMT</pubDate>
-      <description>Anthropic SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-fable-5-2, claude-mythos-5-2</description>
-    </item>
-    <item>
-      <title>Claude menambahkan 2 models</title>
-      <link>https://platform.claude.com/docs/en/about-claude/models</link>
-      <guid isPermaLink="false">1794250781788-claude-models-docs-98d76835</guid>
-      <pubDate>Mon, 09 Nov 2026 18:59:39 GMT</pubDate>
-      <description>Claude models docs: 2 entri model baru
-
-Ditambahkan: claude-fable-5-2, claude-fable-5.2</description>
-    </item>
-    <item>
-      <title>Claude menambahkan claude-fable-5-2</title>
-      <link>https://api.anthropic.com/v1/models</link>
-      <guid isPermaLink="false">1794250298206-anthropic-api-models-3c8e4a70</guid>
-      <pubDate>Mon, 09 Nov 2026 18:51:38 GMT</pubDate>
-      <description>Anthropic API models: 1 entri model baru
-
-Ditambahkan: claude-fable-5-2</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794249696832-artificial-analysis-llm-leaderboard-a629dccf</guid>
-      <pubDate>Mon, 09 Nov 2026 18:41:36 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 68 baris hasil benchmark ditambahkan, 66 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan meta/muse-ember</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794249237332-openrouter-models-c9509f73</guid>
-      <pubDate>Mon, 09 Nov 2026 18:33:42 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: meta/muse-ember</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: muse-ember</title>
-      <link>https://artificialanalysis.ai/models/muse-ember</link>
-      <guid isPermaLink="false">1794248650085-artificial-analysis-model-discovery-5f91de89</guid>
-      <pubDate>Mon, 09 Nov 2026 18:24:01 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: muse-ember</description>
     </item>
   </channel>
 </rss>

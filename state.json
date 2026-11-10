@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791387113878-official-x-model-posts-4-38b0c23f",
-    "1791387351632-official-x-model-posts-4-688ece37",
-    "1791387997766-openrouter-models-23e9869c",
-    "1791395168260-vercel-gateway-catalog-f97f8799",
-    "1791395481014-anthropic-api-models-b622abdd",
     "1791395669987-anthropic-sdk-models-a41353fa",
     "1791395908258-claude-models-docs-114f077a-confirmed-removal",
     "1791396054877-claude-models-docs-6eba7d98",
@@ -499,6 +494,11 @@
     "1794250298206-anthropic-api-models-3c8e4a70",
     "1794250781788-claude-models-docs-98d76835",
     "1794250995953-anthropic-sdk-package-models-3e802186",
-    "1794251314389-claude-models-docs-98d76835-confirmed-removal"
+    "1794251314389-claude-models-docs-98d76835-confirmed-removal",
+    "1794262099386-openrouter-models-d7484dad",
+    "1794262370829-devin-desktop-models-docs-5b28a178",
+    "1794262452040-artificial-analysis-llm-leaderboard-6254c1ca",
+    "1794268581571-gemini-web-app-models-ed447714",
+    "1794276440569-openrouter-models-d152dc42"
   ]
 }
