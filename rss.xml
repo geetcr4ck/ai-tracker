@@ -6,6 +6,166 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan baidu/ernie-light-dt-1.0-intl</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794338702490-openrouter-models-ffe6d45b</guid>
+      <pubDate>Tue, 10 Nov 2026 19:24:51 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: baidu/ernie-light-dt-1.0-intl</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan baidu/ernie-5.5-flash-preview</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794338437895-openrouter-models-0043df62</guid>
+      <pubDate>Tue, 10 Nov 2026 19:20:13 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: baidu/ernie-5.5-flash-preview</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): klingai/kling-v4-flash</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/a6a3a9f8791081597d9cdb4c19299e65458c861e/src/content/catalog-models/klingai-kling-v4-flash.json</link>
+      <guid isPermaLink="false">1794338211081-cloudflare-gateway-catalog-0fc662bd</guid>
+      <pubDate>Tue, 10 Nov 2026 19:16:48 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: klingai/kling-v4-flash</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794337924496-artificial-analysis-llm-leaderboard-f55349a1</guid>
+      <pubDate>Tue, 10 Nov 2026 19:12:03 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 22 baris hasil benchmark ditambahkan, 21 dihapus</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-image-2.5</title>
+      <link>https://developers.openai.com/api/docs/changelog</link>
+      <guid isPermaLink="false">1794334708120-openai-api-changelog-b3911e2b</guid>
+      <pubDate>Tue, 10 Nov 2026 18:18:27 GMT</pubDate>
+      <description>OpenAI API changelog: 1 entri model baru
+
+Ditambahkan: gpt-image-2.5</description>
+    </item>
+    <item>
+      <title>Bocoran model LM Arena: u2-flash</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1794330430737-arena-live-model-roster-6bfa2780</guid>
+      <pubDate>Tue, 10 Nov 2026 17:07:10 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: u2-flash</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan x-ai/grok-stt-2.0</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794329944176-openrouter-models-1a6e6247</guid>
+      <pubDate>Tue, 10 Nov 2026 16:58:45 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: x-ai/grok-stt-2.0</description>
+    </item>
+    <item>
+      <title>Gemini code reference: model identifiers</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-cli/1.5.5-6740358537805824/linux-arm/cli_linux_arm64.tar.gz</link>
+      <guid isPermaLink="false">1794328757204-google-antigravity-cli-models-eda924f6</guid>
+      <pubDate>Tue, 10 Nov 2026 16:39:11 GMT</pubDate>
+      <description>Google Antigravity CLI model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-4, gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan 2 models</title>
+      <link>https://x.com/i/web/status/2120187753329791341</link>
+      <guid isPermaLink="false">1794327149797-official-x-model-posts-ff070fc9</guid>
+      <pubDate>Tue, 10 Nov 2026 16:12:29 GMT</pubDate>
+      <description>Official AI lab posts on X: 2 entri model baru
+
+Ditambahkan: gemini-4-argon, gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan google/gemini-4-carbon</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794327182361-openrouter-models-e2871b7f</guid>
+      <pubDate>Tue, 10 Nov 2026 16:12:28 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: google/gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-4-carbon</title>
+      <link>https://antigravity.google/docs/changelog</link>
+      <guid isPermaLink="false">1794326983526-google-antigravity-changelog-models-e45c03c6</guid>
+      <pubDate>Tue, 10 Nov 2026 16:09:42 GMT</pubDate>
+      <description>Google Antigravity changelog: 1 entri model baru
+
+Ditambahkan: gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-4-carbon</title>
+      <link>https://x.com/i/web/status/2120186450927038900</link>
+      <guid isPermaLink="false">1794326827612-official-x-model-posts-2-7c88781c</guid>
+      <pubDate>Tue, 10 Nov 2026 16:07:07 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>Gemini public API access: gemini-4-carbon</title>
+      <link>https://ai.google.dev/gemini-api/docs/models</link>
+      <guid isPermaLink="false">1794325501894-gemini-api-models-f87a9d60</guid>
+      <pubDate>Tue, 10 Nov 2026 15:45:01 GMT</pubDate>
+      <description>Gemini API models: public API access now available for gemini-4-carbon
+
+Ditambahkan: gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-4-carbon</title>
+      <link>https://aistudio.google.com/docs/models</link>
+      <guid isPermaLink="false">1794324765974-gemini-models-docs-344e5599</guid>
+      <pubDate>Tue, 10 Nov 2026 15:32:45 GMT</pubDate>
+      <description>Gemini models docs: 1 entri model baru
+
+Ditambahkan: gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan 2 models</title>
+      <link>https://aistudio.google.com/docs/pricing</link>
+      <guid isPermaLink="false">1794324741351-gemini-aistudio-pricing-56cd5e9e</guid>
+      <pubDate>Tue, 10 Nov 2026 15:32:20 GMT</pubDate>
+      <description>Gemini API pricing: 2 entri model baru
+
+Ditambahkan: gemini-4, gemini-4-carbon</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added minimaxai/minimax-h3-image</title>
+      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</link>
+      <guid isPermaLink="false">1794322738039-huggingface-observed-publish-1a7063ed</guid>
+      <pubDate>Tue, 10 Nov 2026 14:58:58 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: minimaxai/minimax-h3-image</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan 2 models</title>
+      <link>https://elevenlabs.io/docs/overview/models</link>
+      <guid isPermaLink="false">1794322428324-elevenlabs-models-docs-febaab62</guid>
+      <pubDate>Tue, 10 Nov 2026 14:53:47 GMT</pubDate>
+      <description>ElevenLabs models docs: 2 entri model baru
+
+Ditambahkan: scribe_v3, scribe_v3_live</description>
+    </item>
+    <item>
+      <title>Bocoran model Gemini: gemini-4-carbon</title>
+      <link>https://aistudio.google.com/</link>
+      <guid isPermaLink="false">1794318269836-google-ai-studio-app-models-ca1e5f76</guid>
+      <pubDate>Tue, 10 Nov 2026 13:44:29 GMT</pubDate>
+      <description>Google AI Studio bundle models: 1 bocoran model baru
+
+Ditambahkan: gemini-4-carbon</description>
+    </item>
+    <item>
       <title>Katalog model berubah (referensi kode): gemini-4-carbon</title>
       <link>https://downloads.factory.ai/factory-cli/releases/1.7.1/linux/x64/droid</link>
       <guid isPermaLink="false">1794313847350-factory-droid-registry-25f5045a</guid>
@@ -49,74 +209,6 @@ Ditambahkan: inclusionai/zoomgain-9b</description>
       <description>Official vendor Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: inclusionai/zoomgain-4b</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/roadshow-launch</link>
-      <guid isPermaLink="false">1794310431478-anthropic-news-ce96c5ed-new-page</guid>
-      <pubDate>Tue, 10 Nov 2026 11:33:51 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): claude-fable-5-2</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.109-1.tgz</link>
-      <guid isPermaLink="false">1794290062195-github-copilot-native-models-5ed03b90</guid>
-      <pubDate>Tue, 10 Nov 2026 05:48:31 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-fable-5-2</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794282032935-openrouter-models-5b41fbea</guid>
-      <pubDate>Tue, 10 Nov 2026 03:40:10 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: nex-agi/nex-n2.6, qwen/qwen3-reranker-0.6b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan nace-ai/drex-max-finance</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794276440569-openrouter-models-d152dc42</guid>
-      <pubDate>Tue, 10 Nov 2026 02:06:51 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: nace-ai/drex-max-finance</description>
-    </item>
-    <item>
-      <title>Bocoran model Gemini: gemini-4-carbon</title>
-      <link>https://gemini.google.com/app</link>
-      <guid isPermaLink="false">1794268581571-gemini-web-app-models-ed447714</guid>
-      <pubDate>Mon, 09 Nov 2026 23:56:16 GMT</pubDate>
-      <description>Gemini web app bundle models: 1 bocoran model baru
-
-Ditambahkan: gemini-4-carbon</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794262452040-artificial-analysis-llm-leaderboard-6254c1ca</guid>
-      <pubDate>Mon, 09 Nov 2026 22:14:11 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 3 baris hasil benchmark ditambahkan, 2 dihapus</description>
-    </item>
-    <item>
-      <title>Cognition SWE menambahkan claude-fable-5.2</title>
-      <link>https://docs.devin.ai/desktop/models</link>
-      <guid isPermaLink="false">1794262370829-devin-desktop-models-docs-5b28a178</guid>
-      <pubDate>Mon, 09 Nov 2026 22:12:50 GMT</pubDate>
-      <description>Devin desktop models docs: 1 entri model baru
-
-Ditambahkan: claude-fable-5.2</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan thinkingmachines/inkling-2-small:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794262099386-openrouter-models-d7484dad</guid>
-      <pubDate>Mon, 09 Nov 2026 22:08:01 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: thinkingmachines/inkling-2-small:free</description>
     </item>
   </channel>
 </rss>
