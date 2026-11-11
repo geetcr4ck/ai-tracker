@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791443503573-artificial-analysis-api-free-dd7e52b3",
-    "1791444974545-artificial-analysis-llm-leaderboard-0722a225",
-    "1791446827573-artificial-analysis-llm-leaderboard-a25cb4d8",
-    "1791454544482-vidu-api-model-map-269651a7",
-    "1791463368275-openrouter-models-8cd77e98",
     "1791464926949-official-x-model-posts-a5f31cda",
     "1791470040505-deepswe-benchlm-mirror-c75987d2",
     "1791471639718-anthropic-news-4c28189f-new-page",
@@ -499,6 +494,11 @@
     "1794337924496-artificial-analysis-llm-leaderboard-f55349a1",
     "1794338211081-cloudflare-gateway-catalog-0fc662bd",
     "1794338437895-openrouter-models-0043df62",
-    "1794338702490-openrouter-models-ffe6d45b"
+    "1794338702490-openrouter-models-ffe6d45b",
+    "1794344891303-artificial-analysis-api-free-4e2ddff2",
+    "1794350987121-openrouter-models-f6e02a54",
+    "1794355615751-openrouter-models-f2a90592",
+    "1794363002489-qwen-chat-models-478c0c17",
+    "1794363768468-official-x-model-posts-ef126d91"
   ]
 }

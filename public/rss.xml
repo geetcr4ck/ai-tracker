@@ -6,6 +6,45 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://microsoft.ai/blog/</link>
+      <guid isPermaLink="false">1794410457411-microsoft-ai-news-sitemap-02da0397-new-page</guid>
+      <pubDate>Wed, 11 Nov 2026 15:20:56 GMT</pubDate>
+      <description>Microsoft AI newsroom: halaman web baru</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://microsoft.ai/blog/</link>
+      <guid isPermaLink="false">1794410418236-microsoft-ai-news-sitemap-1abad983-new-page</guid>
+      <pubDate>Wed, 11 Nov 2026 15:20:16 GMT</pubDate>
+      <description>Microsoft AI newsroom: halaman web baru</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1794409641976-microsoft-command-line-sitemap-34c552e2-new-page</guid>
+      <pubDate>Wed, 11 Nov 2026 15:07:19 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zoomgain-4b</title>
+      <link>https://huggingface.co/inclusionai/zoomgain-4b</link>
+      <guid isPermaLink="false">1794384340558-inclusionai-official-model-weights-dec1f200</guid>
+      <pubDate>Wed, 11 Nov 2026 08:05:40 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/zoomgain-4b</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan baidu/ernie-5.5-flash-preview:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794383011507-openrouter-models-29750488</guid>
+      <pubDate>Wed, 11 Nov 2026 07:43:10 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: baidu/ernie-5.5-flash-preview:free</description>
+    </item>
+    <item>
       <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/singvl_s1_4b</title>
       <link>https://huggingface.co/inclusionai/singvl_s1_4b</link>
       <guid isPermaLink="false">1794375943640-inclusionai-official-model-weights-617cf493</guid>
@@ -137,49 +176,6 @@ Ditambahkan: minimax/minimax-h3-image</description>
       <guid isPermaLink="false">1794344891303-artificial-analysis-api-free-4e2ddff2</guid>
       <pubDate>Tue, 10 Nov 2026 21:08:08 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan baidu/ernie-light-dt-1.0-intl</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794338702490-openrouter-models-ffe6d45b</guid>
-      <pubDate>Tue, 10 Nov 2026 19:24:51 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: baidu/ernie-light-dt-1.0-intl</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan baidu/ernie-5.5-flash-preview</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794338437895-openrouter-models-0043df62</guid>
-      <pubDate>Tue, 10 Nov 2026 19:20:13 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: baidu/ernie-5.5-flash-preview</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): klingai/kling-v4-flash</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/a6a3a9f8791081597d9cdb4c19299e65458c861e/src/content/catalog-models/klingai-kling-v4-flash.json</link>
-      <guid isPermaLink="false">1794338211081-cloudflare-gateway-catalog-0fc662bd</guid>
-      <pubDate>Tue, 10 Nov 2026 19:16:48 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: klingai/kling-v4-flash</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794337924496-artificial-analysis-llm-leaderboard-f55349a1</guid>
-      <pubDate>Tue, 10 Nov 2026 19:12:03 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 22 baris hasil benchmark ditambahkan, 21 dihapus</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-image-2.5</title>
-      <link>https://developers.openai.com/api/docs/changelog</link>
-      <guid isPermaLink="false">1794334708120-openai-api-changelog-b3911e2b</guid>
-      <pubDate>Tue, 10 Nov 2026 18:18:27 GMT</pubDate>
-      <description>OpenAI API changelog: 1 entri model baru
-
-Ditambahkan: gpt-image-2.5</description>
     </item>
   </channel>
 </rss>
