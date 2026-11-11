@@ -6,6 +6,31 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794355615751-openrouter-models-f2a90592</guid>
+      <pubDate>Wed, 11 Nov 2026 00:06:41 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: kt/midm-k-3.0-pro, motif-technologies/motif-3</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan minimax/minimax-h3-image</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794350987121-openrouter-models-f6e02a54</guid>
+      <pubDate>Tue, 10 Nov 2026 22:49:36 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: minimax/minimax-h3-image</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794344891303-artificial-analysis-api-free-4e2ddff2</guid>
+      <pubDate>Tue, 10 Nov 2026 21:08:08 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan baidu/ernie-light-dt-1.0-intl</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1794338702490-openrouter-models-ffe6d45b</guid>
@@ -173,42 +198,6 @@ Ditambahkan: gemini-4-carbon</description>
       <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: gemini-4-carbon</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zoomgain-9b</title>
-      <link>https://huggingface.co/inclusionai/zoomgain-9b</link>
-      <guid isPermaLink="false">1794311222553-inclusionai-official-model-weights-2bf70d77</guid>
-      <pubDate>Tue, 10 Nov 2026 11:47:02 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/zoomgain-9b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zoomgain-9b</title>
-      <link>https://huggingface.co/inclusionAI/ZoomGain-9B</link>
-      <guid isPermaLink="false">1794311221195-huggingface-observed-publish-1a347f8d</guid>
-      <pubDate>Tue, 10 Nov 2026 11:47:00 GMT</pubDate>
-      <description>Hugging Face: 1 entri model baru
-
-Ditambahkan: inclusionai/zoomgain-9b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zoomgain-9b</title>
-      <link>https://huggingface.co/inclusionai/zoomgain-9b</link>
-      <guid isPermaLink="false">1794310994621-official-huggingface-new-models-e2d7a7c9</guid>
-      <pubDate>Tue, 10 Nov 2026 11:43:14 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/zoomgain-9b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/zoomgain-4b</title>
-      <link>https://huggingface.co/inclusionai/zoomgain-4b</link>
-      <guid isPermaLink="false">1794310738288-official-huggingface-new-models-0bf99c88</guid>
-      <pubDate>Tue, 10 Nov 2026 11:38:58 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/zoomgain-4b</description>
     </item>
   </channel>
 </rss>

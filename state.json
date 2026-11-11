@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791398917592-openrouter-models-8490de08",
-    "1791399923136-artificial-analysis-model-discovery-2c7275c5",
-    "1791400050178-artificial-analysis-api-free-aa9894c8",
-    "1791400339385-kimi-artificial-analysis-e6985e39",
-    "1791400556450-deepswe-benchlm-mirror-381feaae",
     "1791420300125-artificial-analysis-llm-leaderboard-a25cb4d8",
     "1791420435874-openrouter-models-08dbc8ab",
     "1791422105467-deepswe-benchlm-mirror-20f1c5bd",
@@ -499,6 +494,11 @@
     "1794310994621-official-huggingface-new-models-e2d7a7c9",
     "1794311221195-huggingface-observed-publish-1a347f8d",
     "1794311222553-inclusionai-official-model-weights-2bf70d77",
-    "1794313847350-factory-droid-registry-25f5045a"
+    "1794313847350-factory-droid-registry-25f5045a",
+    "1794318269836-google-ai-studio-app-models-ca1e5f76",
+    "1794322428324-elevenlabs-models-docs-febaab62",
+    "1794322738039-huggingface-observed-publish-1a7063ed",
+    "1794324741351-gemini-aistudio-pricing-56cd5e9e",
+    "1794324765974-gemini-models-docs-344e5599"
   ]
 }
