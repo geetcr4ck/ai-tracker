@@ -6,6 +6,157 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794508127040-openrouter-models-42e689df</guid>
+      <pubDate>Thu, 12 Nov 2026 18:28:14 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: perplexity/pplx-decider-flash-v1.3:free, perplexity/pplx-decider-v1.3:free</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794508011361-artificial-analysis-llm-leaderboard-50d2ccc6</guid>
+      <pubDate>Thu, 12 Nov 2026 18:26:50 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 96 baris hasil benchmark ditambahkan, 92 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan google/gemini-4-hydrogen</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794507295319-openrouter-models-7b65352c</guid>
+      <pubDate>Thu, 12 Nov 2026 18:14:46 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: google/gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-4-hydrogen</title>
+      <link>https://antigravity.google/docs/changelog</link>
+      <guid isPermaLink="false">1794507162206-google-antigravity-changelog-models-1e08910b</guid>
+      <pubDate>Thu, 12 Nov 2026 18:12:41 GMT</pubDate>
+      <description>Google Antigravity changelog: 1 entri model baru
+
+Ditambahkan: gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: gemini-4-hydrogen</title>
+      <link>https://artificialanalysis.ai/models/gemini-4-hydrogen</link>
+      <guid isPermaLink="false">1794506738583-artificial-analysis-model-discovery-9cf6fd0a</guid>
+      <pubDate>Thu, 12 Nov 2026 18:05:37 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>IBM Granite menambahkan 2 models</title>
+      <link>https://huggingface.co/ibm-granite/granite-4.1-3b-llmon-preview</link>
+      <guid isPermaLink="false">1794506697286-ibm-official-model-weights-5caa5f24</guid>
+      <pubDate>Thu, 12 Nov 2026 18:04:57 GMT</pubDate>
+      <description>IBM Granite official model weights: 2 entri model baru
+
+Ditambahkan: ibm-granite/granite-4.1-3b-llmon-preview, ibm-granite/granite-4.1-8b-llmon-preview</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan 2 models</title>
+      <link>https://x.com/i/web/status/2120940683233984862</link>
+      <guid isPermaLink="false">1794506652007-official-x-model-posts-b050a684</guid>
+      <pubDate>Thu, 12 Nov 2026 18:04:11 GMT</pubDate>
+      <description>Official AI lab posts on X: 2 entri model baru
+
+Ditambahkan: gemini-3.8-flash, gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added perplexity-ai/pplx-decider-flash-v1.3</title>
+      <link>https://huggingface.co/perplexity-ai/pplx-decider-flash-v1.3</link>
+      <guid isPermaLink="false">1794506647248-huggingface-observed-publish-72810cda</guid>
+      <pubDate>Thu, 12 Nov 2026 18:04:05 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: perplexity-ai/pplx-decider-flash-v1.3</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added perplexity-ai/pplx-decider-v1.3</title>
+      <link>https://huggingface.co/perplexity-ai/pplx-decider-v1.3</link>
+      <guid isPermaLink="false">1794506646168-huggingface-observed-publish-3b43185e</guid>
+      <pubDate>Thu, 12 Nov 2026 18:04:05 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: perplexity-ai/pplx-decider-v1.3</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-4-hydrogen</title>
+      <link>https://x.com/i/web/status/2120940338869055788</link>
+      <guid isPermaLink="false">1794506573772-official-x-model-posts-2-4b23b77e</guid>
+      <pubDate>Thu, 12 Nov 2026 18:02:53 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>Liquid AI/LFM menambahkan lfm3-audio-2b</title>
+      <link>https://x.com/i/web/status/2120939835355779509</link>
+      <guid isPermaLink="false">1794506456685-official-x-model-posts-3-cc87b0e9</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:55 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: lfm3-audio-2b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added 2 models</title>
+      <link>https://huggingface.co/perplexity-ai/pplx-decider-flash-v1.3</link>
+      <guid isPermaLink="false">1794506202858-perplexity-official-model-weights-462442c9</guid>
+      <pubDate>Thu, 12 Nov 2026 17:56:42 GMT</pubDate>
+      <description>Perplexity official model weights: 2 entri model baru
+
+Ditambahkan: perplexity-ai/pplx-decider-flash-v1.3, perplexity-ai/pplx-decider-v1.3</description>
+    </item>
+    <item>
+      <title>Bocoran model Gemini: gemini-4-hydrogen</title>
+      <link>https://aistudio.google.com/</link>
+      <guid isPermaLink="false">1794505955697-google-ai-studio-app-models-d197ad0d</guid>
+      <pubDate>Thu, 12 Nov 2026 17:52:34 GMT</pubDate>
+      <description>Google AI Studio bundle models: 1 bocoran model baru
+
+Ditambahkan: gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan gemini-4-hydrogen</title>
+      <link>https://aistudio.google.com/docs/models</link>
+      <guid isPermaLink="false">1794504816618-gemini-models-docs-c77edc3f</guid>
+      <pubDate>Thu, 12 Nov 2026 17:33:36 GMT</pubDate>
+      <description>Gemini models docs: 1 entri model baru
+
+Ditambahkan: gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>Claude menambahkan claude-fable-5.2</title>
+      <link>https://www.anthropic.com/system-cards</link>
+      <guid isPermaLink="false">1794502248789-anthropic-system-cards-a03045bc</guid>
+      <pubDate>Thu, 12 Nov 2026 16:50:48 GMT</pubDate>
+      <description>Anthropic system cards: 1 entri model baru
+
+Ditambahkan: claude-fable-5.2</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan 3 models</title>
+      <link>https://elevenlabs.io/docs/changelog</link>
+      <guid isPermaLink="false">1794500203996-elevenlabs-changelog-models-74c172c2</guid>
+      <pubDate>Thu, 12 Nov 2026 16:16:41 GMT</pubDate>
+      <description>ElevenLabs changelog: 3 entri model baru
+
+Ditambahkan: eleven_turbo_v2, scribe_v3, scribe_v3_live</description>
+    </item>
+    <item>
+      <title>ByteDance Seed/Doubao menambahkan seedream-5-5</title>
+      <link>https://www.volcengine.com/docs/82379/1330310</link>
+      <guid isPermaLink="false">1794492068585-volcengine-ark-model-docs-c17b4f14</guid>
+      <pubDate>Thu, 12 Nov 2026 14:01:06 GMT</pubDate>
+      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
+
+Ditambahkan: seedream-5-5</description>
+    </item>
+    <item>
       <title>Bocoran model LM Arena: gemini-4-carbon-high</title>
       <link>https://arena.ai/</link>
       <guid isPermaLink="false">1794463007903-arena-live-model-roster-72ba8804</guid>
@@ -50,113 +201,6 @@ Ditambahkan: gemini-4-carbon-high</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: unbiased/pareto-26.10-preview</description>
-    </item>
-    <item>
-      <title>Gemini code reference: model identifiers</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.31.2-6470801290035200/linux-arm/Antigravity.tar.gz</link>
-      <guid isPermaLink="false">1794434800608-google-antigravity-desktop-models-58712024</guid>
-      <pubDate>Wed, 11 Nov 2026 22:05:45 GMT</pubDate>
-      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4, gemini-4-carbon</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan speechify/simba-3.5</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794432257145-openrouter-models-c2b77565</guid>
-      <pubDate>Wed, 11 Nov 2026 21:24:03 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: speechify/simba-3.5</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794432060198-artificial-analysis-llm-leaderboard-68ebe390</guid>
-      <pubDate>Wed, 11 Nov 2026 21:20:59 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 49 baris hasil benchmark ditambahkan, 48 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794424580460-artificial-analysis-llm-leaderboard-284bd810</guid>
-      <pubDate>Wed, 11 Nov 2026 19:16:20 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 23 baris hasil benchmark ditambahkan, 22 dihapus</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://microsoft.ai/blog/</link>
-      <guid isPermaLink="false">1794423142790-microsoft-ai-news-sitemap-c784652c-new-page</guid>
-      <pubDate>Wed, 11 Nov 2026 18:52:21 GMT</pubDate>
-      <description>Microsoft AI newsroom: halaman web baru</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://microsoft.ai/blog/</link>
-      <guid isPermaLink="false">1794422594780-microsoft-ai-news-sitemap-d37a0a9a-new-page</guid>
-      <pubDate>Wed, 11 Nov 2026 18:43:12 GMT</pubDate>
-      <description>Microsoft AI newsroom: halaman web baru</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan 5 models</title>
-      <link>https://microsoft.ai/news/mai-image-2-7-debut</link>
-      <guid isPermaLink="false">1794422290558-microsoft-ai-news-sitemap-357927f6-model-page</guid>
-      <pubDate>Wed, 11 Nov 2026 18:38:09 GMT</pubDate>
-      <description>Microsoft AI newsroom: 5 entri model baru
-
-Ditambahkan: mai-image-1, mai-image-2, mai-image-2-7, mai-image-2.5-pro, mai-voice-2-flash</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): google/gemini-4-carbon</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/3bbc073458295348d4814a9354eb2b5d1da5073c/src/content/catalog-models/google-gemini-4-carbon.json</link>
-      <guid isPermaLink="false">1794421554113-cloudflare-gateway-catalog-7141b977</guid>
-      <pubDate>Wed, 11 Nov 2026 18:25:52 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: google/gemini-4-carbon</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan google/gemini-decision-1</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794421537624-openrouter-models-fd4b0d87</guid>
-      <pubDate>Wed, 11 Nov 2026 18:25:26 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: google/gemini-decision-1</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/13949011b09a01d29f1cb11740b7287e39722e80/src/content/catalog-models/anthropic-claude-fable-5.2.json</link>
-      <guid isPermaLink="false">1794421205768-cloudflare-gateway-catalog-f4c96d39</guid>
-      <pubDate>Wed, 11 Nov 2026 18:20:02 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: anthropic/claude-fable-5.2, klingai/kling-v3, klingai/kling-v3-omni, veed/fabric-1.0-fast</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): veed/fabric-1.0</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/83508ed2882b6d1ecf80f4c4f9dec61156dc81a5/src/content/catalog-models/veed-fabric-1.0.json</link>
-      <guid isPermaLink="false">1794421066815-cloudflare-gateway-catalog-42a26708</guid>
-      <pubDate>Wed, 11 Nov 2026 18:17:44 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: veed/fabric-1.0</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: ernie-5.5-flash-preview</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1794420636373-arena-live-model-roster-60828f0e</guid>
-      <pubDate>Wed, 11 Nov 2026 18:10:36 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: ernie-5.5-flash-preview</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1794419515618-artificial-analysis-api-free-269a6e41</guid>
-      <pubDate>Wed, 11 Nov 2026 17:51:53 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>

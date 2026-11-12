@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791505943415-deepswe-benchlm-mirror-381feaae",
-    "1791510773636-artificial-analysis-llm-leaderboard-0b1c21cf",
-    "1791511208837-artificial-analysis-api-free-fbdbb998",
-    "1791511709679-artificial-analysis-llm-leaderboard-0722a225",
-    "1791517176167-factory-droid-registry-7f0c5742",
     "1791532480337-official-huggingface-new-models-e0f43120",
     "1791534509043-official-huggingface-new-models-8099e37d",
     "1791534535515-official-huggingface-new-models-f7856d85",
@@ -499,6 +494,11 @@
     "1794421537624-openrouter-models-fd4b0d87",
     "1794421554113-cloudflare-gateway-catalog-7141b977",
     "1794422290558-microsoft-ai-news-sitemap-357927f6-model-page",
-    "1794422594780-microsoft-ai-news-sitemap-d37a0a9a-new-page"
+    "1794422594780-microsoft-ai-news-sitemap-d37a0a9a-new-page",
+    "1794438010141-openrouter-models-6a642dec",
+    "1794438718606-artificial-analysis-api-free-34e675b0",
+    "1794443962651-artificial-analysis-llm-leaderboard-305d214e",
+    "1794453131281-artificial-analysis-api-free-70fc40bf",
+    "1794462830882-kimi-platform-sitemap-en-f8e8d7c3"
   ]
 }
