@@ -6,6 +6,29 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794443962651-artificial-analysis-llm-leaderboard-305d214e</guid>
+      <pubDate>Thu, 12 Nov 2026 00:39:21 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 32 baris hasil benchmark ditambahkan, 31 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794438718606-artificial-analysis-api-free-34e675b0</guid>
+      <pubDate>Wed, 11 Nov 2026 23:11:49 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan unbiased/pareto-26.10-preview</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794438010141-openrouter-models-6a642dec</guid>
+      <pubDate>Wed, 11 Nov 2026 22:59:56 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: unbiased/pareto-26.10-preview</description>
+    </item>
+    <item>
       <title>Gemini code reference: model identifiers</title>
       <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.31.2-6470801290035200/linux-arm/Antigravity.tar.gz</link>
       <guid isPermaLink="false">1794434800608-google-antigravity-desktop-models-58712024</guid>
@@ -150,24 +173,6 @@ Ditambahkan: gemini-decision-1</description>
       <guid isPermaLink="false">1794409641976-microsoft-command-line-sitemap-34c552e2-new-page</guid>
       <pubDate>Wed, 11 Nov 2026 15:07:19 GMT</pubDate>
       <description>Microsoft Command Line blog: halaman web baru</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/zoomgain-4b</title>
-      <link>https://huggingface.co/inclusionai/zoomgain-4b</link>
-      <guid isPermaLink="false">1794384340558-inclusionai-official-model-weights-dec1f200</guid>
-      <pubDate>Wed, 11 Nov 2026 08:05:40 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/zoomgain-4b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan baidu/ernie-5.5-flash-preview:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794383011507-openrouter-models-29750488</guid>
-      <pubDate>Wed, 11 Nov 2026 07:43:10 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: baidu/ernie-5.5-flash-preview:free</description>
     </item>
   </channel>
 </rss>
