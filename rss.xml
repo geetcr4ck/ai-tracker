@@ -6,6 +6,29 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bocoran model LM Arena: gemini-4-carbon-high</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1794463007903-arena-live-model-roster-72ba8804</guid>
+      <pubDate>Thu, 12 Nov 2026 05:56:47 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: gemini-4-carbon-high</description>
+    </item>
+    <item>
+      <title>Kimi/Moonshot menghapus 2 models</title>
+      <link>https://platform.kimi.ai/docs/sitemap.xml</link>
+      <guid isPermaLink="false">1794462830882-kimi-platform-sitemap-en-f8e8d7c3</guid>
+      <pubDate>Thu, 12 Nov 2026 05:53:50 GMT</pubDate>
+      <description>Kimi API documentation sitemap (English): 2 removed model entries</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794453131281-artificial-analysis-api-free-70fc40bf</guid>
+      <pubDate>Thu, 12 Nov 2026 03:12:10 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 3 baris hasil benchmark ditambahkan, 2 dihapus</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1794443962651-artificial-analysis-llm-leaderboard-305d214e</guid>
@@ -134,45 +157,6 @@ Ditambahkan: ernie-5.5-flash-preview</description>
       <guid isPermaLink="false">1794419515618-artificial-analysis-api-free-269a6e41</guid>
       <pubDate>Wed, 11 Nov 2026 17:51:53 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan eleven-v4</title>
-      <link>https://x.com/i/web/status/2120562023792869574</link>
-      <guid isPermaLink="false">1794416372503-official-x-model-posts-3-2142072a</guid>
-      <pubDate>Wed, 11 Nov 2026 16:59:32 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: eleven-v4</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-decision-1</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1794415501384-gemini-api-models-e73499c9</guid>
-      <pubDate>Wed, 11 Nov 2026 16:45:00 GMT</pubDate>
-      <description>Gemini API models: 1 entri model baru
-
-Ditambahkan: gemini-decision-1</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://microsoft.ai/blog/</link>
-      <guid isPermaLink="false">1794410457411-microsoft-ai-news-sitemap-02da0397-new-page</guid>
-      <pubDate>Wed, 11 Nov 2026 15:20:56 GMT</pubDate>
-      <description>Microsoft AI newsroom: halaman web baru</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://microsoft.ai/blog/</link>
-      <guid isPermaLink="false">1794410418236-microsoft-ai-news-sitemap-1abad983-new-page</guid>
-      <pubDate>Wed, 11 Nov 2026 15:20:16 GMT</pubDate>
-      <description>Microsoft AI newsroom: halaman web baru</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://commandline.microsoft.com/</link>
-      <guid isPermaLink="false">1794409641976-microsoft-command-line-sitemap-34c552e2-new-page</guid>
-      <pubDate>Wed, 11 Nov 2026 15:07:19 GMT</pubDate>
-      <description>Microsoft Command Line blog: halaman web baru</description>
     </item>
   </channel>
 </rss>

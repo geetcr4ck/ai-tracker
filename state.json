@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791497472376-microsoft-models-docs-dd501b05",
-    "1791500296811-artificial-analysis-api-free-522227c2",
-    "1791500656712-artificial-analysis-llm-leaderboard-b290628d",
-    "1791500904627-artificial-analysis-llm-leaderboard-0722a225",
-    "1791503741349-grok-web-app-models-0c805917",
     "1791505943415-deepswe-benchlm-mirror-381feaae",
     "1791510773636-artificial-analysis-llm-leaderboard-0b1c21cf",
     "1791511208837-artificial-analysis-api-free-fbdbb998",
@@ -499,6 +494,11 @@
     "1794416372503-official-x-model-posts-3-2142072a",
     "1794419515618-artificial-analysis-api-free-269a6e41",
     "1794420636373-arena-live-model-roster-60828f0e",
-    "1794421066815-cloudflare-gateway-catalog-42a26708"
+    "1794421066815-cloudflare-gateway-catalog-42a26708",
+    "1794421205768-cloudflare-gateway-catalog-f4c96d39",
+    "1794421537624-openrouter-models-fd4b0d87",
+    "1794421554113-cloudflare-gateway-catalog-7141b977",
+    "1794422290558-microsoft-ai-news-sitemap-357927f6-model-page",
+    "1794422594780-microsoft-ai-news-sitemap-d37a0a9a-new-page"
   ]
 }
