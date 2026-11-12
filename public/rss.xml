@@ -6,6 +6,92 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ChatGPT/OpenAI menghapus 2 models</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1794522673097-openai-developer-all-models-fa0eac3d-confirmed-removal</guid>
+      <pubDate>Thu, 12 Nov 2026 22:31:12 GMT</pubDate>
+      <description>OpenAI developer all models: 2 removed model entries</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan o1-preview</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1794522367633-openai-developer-all-models-fa0eac3d</guid>
+      <pubDate>Thu, 12 Nov 2026 22:26:07 GMT</pubDate>
+      <description>OpenAI developer all models: 1 entri model baru
+
+Ditambahkan: o1-preview</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan particle-ai/particle-1:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794520126206-openrouter-models-2dd8c778</guid>
+      <pubDate>Thu, 12 Nov 2026 21:48:37 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: particle-ai/particle-1:free</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan thinkingmachines/inkling-2-small</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794519518592-openrouter-models-4f254ab8</guid>
+      <pubDate>Thu, 12 Nov 2026 21:38:23 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: thinkingmachines/inkling-2-small</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan bytedance-seed/seedream-5-5</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794518230698-openrouter-models-a8f6bde9</guid>
+      <pubDate>Thu, 12 Nov 2026 21:16:46 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: bytedance-seed/seedream-5-5</description>
+    </item>
+    <item>
+      <title>Thinking Machines menambahkan inkling</title>
+      <link>https://x.com/i/web/status/2120982625582195011</link>
+      <guid isPermaLink="false">1794516652665-official-x-model-posts-5deb55cc</guid>
+      <pubDate>Thu, 12 Nov 2026 20:50:52 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: inkling</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794516376267-artificial-analysis-api-free-21ebad09</guid>
+      <pubDate>Thu, 12 Nov 2026 20:46:14 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 4 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Thinking Machines menambahkan thinkingmachines/inkling-2-small</title>
+      <link>https://huggingface.co/thinkingmachines/inkling-2-small</link>
+      <guid isPermaLink="false">1794516251522-thinking-machines-official-model-weights-0c4839fd</guid>
+      <pubDate>Thu, 12 Nov 2026 20:44:11 GMT</pubDate>
+      <description>Thinking Machines official model weights: 1 entri model baru
+
+Ditambahkan: thinkingmachines/inkling-2-small</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan apodex/apodex-1.1-mini:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794509449309-openrouter-models-a21a78b5</guid>
+      <pubDate>Thu, 12 Nov 2026 18:50:32 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: apodex/apodex-1.1-mini:free</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794509158526-openrouter-models-efc32eda</guid>
+      <pubDate>Thu, 12 Nov 2026 18:45:44 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: inclusionai/ling-3.0-flash-fin, inclusionai/ling-3.0-flash-sante</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan 2 models</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1794508127040-openrouter-models-42e689df</guid>
@@ -155,52 +241,6 @@ Ditambahkan: eleven_turbo_v2, scribe_v3, scribe_v3_live</description>
       <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
 
 Ditambahkan: seedream-5-5</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: gemini-4-carbon-high</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1794463007903-arena-live-model-roster-72ba8804</guid>
-      <pubDate>Thu, 12 Nov 2026 05:56:47 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: gemini-4-carbon-high</description>
-    </item>
-    <item>
-      <title>Kimi/Moonshot menghapus 2 models</title>
-      <link>https://platform.kimi.ai/docs/sitemap.xml</link>
-      <guid isPermaLink="false">1794462830882-kimi-platform-sitemap-en-f8e8d7c3</guid>
-      <pubDate>Thu, 12 Nov 2026 05:53:50 GMT</pubDate>
-      <description>Kimi API documentation sitemap (English): 2 removed model entries</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1794453131281-artificial-analysis-api-free-70fc40bf</guid>
-      <pubDate>Thu, 12 Nov 2026 03:12:10 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 3 baris hasil benchmark ditambahkan, 2 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794443962651-artificial-analysis-llm-leaderboard-305d214e</guid>
-      <pubDate>Thu, 12 Nov 2026 00:39:21 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 32 baris hasil benchmark ditambahkan, 31 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1794438718606-artificial-analysis-api-free-34e675b0</guid>
-      <pubDate>Wed, 11 Nov 2026 23:11:49 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan unbiased/pareto-26.10-preview</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794438010141-openrouter-models-6a642dec</guid>
-      <pubDate>Wed, 11 Nov 2026 22:59:56 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: unbiased/pareto-26.10-preview</description>
     </item>
   </channel>
 </rss>
