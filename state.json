@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791591631271-official-huggingface-new-models-2f51ce1f",
-    "1791595969786-deepswe-benchlm-mirror-074ba68d",
-    "1791616476104-qwen-model-pricing-docs-c3de261a",
-    "1791624776248-qwen-model-pricing-docs-f0393e05",
-    "1791627772983-zai-models-docs-8656f97f",
     "1791688490488-qwen-model-pricing-docs-13cdc355",
     "1791743112449-chatgpt-codex-pricing-285bb9b8",
     "1791778573189-official-huggingface-new-models-c321891e",
@@ -499,6 +494,11 @@
     "1794516376267-artificial-analysis-api-free-21ebad09",
     "1794516652665-official-x-model-posts-5deb55cc",
     "1794518230698-openrouter-models-a8f6bde9",
-    "1794519518592-openrouter-models-4f254ab8"
+    "1794519518592-openrouter-models-4f254ab8",
+    "1794546096446-google-antigravity-cli-models-d1ff39d2",
+    "1794552559525-openrouter-models-a69a20ec",
+    "1794556529748-github-copilot-native-models-592d767d",
+    "1794559206519-arena-live-model-roster-b6253558",
+    "1794561757769-inclusionai-official-model-weights-15e42e96"
   ]
 }
