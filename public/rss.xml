@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gemini code reference: gemini-4-hydrogen</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-cli/1.5.8-4602374149505024/linux-arm/cli_linux_arm64.tar.gz</link>
+      <guid isPermaLink="false">1794546096446-google-antigravity-cli-models-d1ff39d2</guid>
+      <pubDate>Fri, 13 Nov 2026 05:01:11 GMT</pubDate>
+      <description>Google Antigravity CLI model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: kimi-k3.1</title>
+      <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
+      <guid isPermaLink="false">1794538253248-alibaba-model-studio-partner-models-ce272bfc</guid>
+      <pubDate>Fri, 13 Nov 2026 02:50:52 GMT</pubDate>
+      <description>Alibaba Model Studio partner models: 1 bocoran model baru
+
+Ditambahkan: kimi-k3.1</description>
+    </item>
+    <item>
+      <title>Bocoran model LM Arena: krea-3-high</title>
+      <link>https://arena.ai/</link>
+      <guid isPermaLink="false">1794533659242-arena-live-model-roster-1e64a2bd</guid>
+      <pubDate>Fri, 13 Nov 2026 01:34:18 GMT</pubDate>
+      <description>Arena live selectable-model roster: 1 bocoran model baru
+
+Ditambahkan: krea-3-high</description>
+    </item>
+    <item>
+      <title>Gemini code reference: gemini-3.5</title>
+      <link>https://antigravity.google/docs/ide/extensions</link>
+      <guid isPermaLink="false">1794529734066-google-antigravity-acp-models-e645b61a</guid>
+      <pubDate>Fri, 13 Nov 2026 00:28:26 GMT</pubDate>
+      <description>Google Antigravity ACP server model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-3.5</description>
+    </item>
+    <item>
       <title>ChatGPT/OpenAI menghapus 2 models</title>
       <link>https://developers.openai.com/api/docs/models/all</link>
       <guid isPermaLink="false">1794522673097-openai-developer-all-models-fa0eac3d-confirmed-removal</guid>
@@ -205,42 +241,6 @@ Ditambahkan: perplexity-ai/pplx-decider-flash-v1.3, perplexity-ai/pplx-decider-v
       <description>Google AI Studio bundle models: 1 bocoran model baru
 
 Ditambahkan: gemini-4-hydrogen</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-4-hydrogen</title>
-      <link>https://aistudio.google.com/docs/models</link>
-      <guid isPermaLink="false">1794504816618-gemini-models-docs-c77edc3f</guid>
-      <pubDate>Thu, 12 Nov 2026 17:33:36 GMT</pubDate>
-      <description>Gemini models docs: 1 entri model baru
-
-Ditambahkan: gemini-4-hydrogen</description>
-    </item>
-    <item>
-      <title>Claude menambahkan claude-fable-5.2</title>
-      <link>https://www.anthropic.com/system-cards</link>
-      <guid isPermaLink="false">1794502248789-anthropic-system-cards-a03045bc</guid>
-      <pubDate>Thu, 12 Nov 2026 16:50:48 GMT</pubDate>
-      <description>Anthropic system cards: 1 entri model baru
-
-Ditambahkan: claude-fable-5.2</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan 3 models</title>
-      <link>https://elevenlabs.io/docs/changelog</link>
-      <guid isPermaLink="false">1794500203996-elevenlabs-changelog-models-74c172c2</guid>
-      <pubDate>Thu, 12 Nov 2026 16:16:41 GMT</pubDate>
-      <description>ElevenLabs changelog: 3 entri model baru
-
-Ditambahkan: eleven_turbo_v2, scribe_v3, scribe_v3_live</description>
-    </item>
-    <item>
-      <title>ByteDance Seed/Doubao menambahkan seedream-5-5</title>
-      <link>https://www.volcengine.com/docs/82379/1330310</link>
-      <guid isPermaLink="false">1794492068585-volcengine-ark-model-docs-c17b4f14</guid>
-      <pubDate>Thu, 12 Nov 2026 14:01:06 GMT</pubDate>
-      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
-
-Ditambahkan: seedream-5-5</description>
     </item>
   </channel>
 </rss>

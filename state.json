@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791551998073-qwen-official-model-weights-2889c34d",
-    "1791577097361-gemini-models-docs-c1801ca9",
-    "1791577764200-openrouter-models-7937fca6",
-    "1791583566582-microsoft-models-docs-9e473272",
-    "1791583867024-microsoft-models-docs-9e473272-confirmed-removal",
     "1791584212685-openrouter-models-e579d048",
     "1791584218719-gemini-models-docs-9ea76cb1",
     "1791585308693-openrouter-models-1f8d8b97",
@@ -499,6 +494,11 @@
     "1794500203996-elevenlabs-changelog-models-74c172c2",
     "1794502248789-anthropic-system-cards-a03045bc",
     "1794504816618-gemini-models-docs-c77edc3f",
-    "1794505955697-google-ai-studio-app-models-d197ad0d"
+    "1794505955697-google-ai-studio-app-models-d197ad0d",
+    "1794506202858-perplexity-official-model-weights-462442c9",
+    "1794506456685-official-x-model-posts-3-cc87b0e9",
+    "1794506573772-official-x-model-posts-2-4b23b77e",
+    "1794506647248-huggingface-observed-publish-72810cda",
+    "1794506646168-huggingface-observed-publish-3b43185e"
   ]
 }
