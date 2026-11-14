@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1791824523831-meta-model-api-live-models-dd98970c-baseline-alert",
-    "1791824568618-official-x-model-posts-2-05aed471",
-    "1791824907300-artificial-analysis-api-free-1cf015f5",
-    "1791824966424-openbmb-official-model-weights-f53758bf",
-    "1791844869748-xai-news-sitemap-592af71a-new-page",
     "1791848302940-cloudflare-gateway-catalog-dbc4f542",
     "1791858952421-google-antigravity-desktop-models-e96fb0d0",
     "1791893676033-openrouter-models-fc980f66",
@@ -499,6 +494,11 @@
     "1794593795705-cloudflare-gateway-catalog-b80813b2",
     "1794594601498-google-antigravity-changelog-models-7603660e",
     "1794595630014-anthropic-claude-agent-sdk-models-338be861",
-    "1794597433753-openrouter-models-090ff56a"
+    "1794597433753-openrouter-models-090ff56a",
+    "1794603241482-artificial-analysis-llm-leaderboard-1449e4a8",
+    "1794605296712-artificial-analysis-api-free-91d1b1ab",
+    "1794605784039-openrouter-models-6c0754a1",
+    "1794608736967-openrouter-models-5caef3fa",
+    "1794611355585-google-antigravity-desktop-models-12aeea76"
   ]
 }
