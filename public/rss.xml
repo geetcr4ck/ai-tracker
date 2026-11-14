@@ -73,41 +73,5 @@ Ditambahkan: tencent/hy-world-2.1-panorama</description>
 
 Ditambahkan: inclusionai/ling-3.2-flash:free</description>
     </item>
-    <item>
-      <title>Claude code reference: model identifiers</title>
-      <link>https://www.npmjs.com/package/@anthropic-ai/claude-agent-sdk/v/0.3.324</link>
-      <guid isPermaLink="false">1794595630014-anthropic-claude-agent-sdk-models-338be861</guid>
-      <pubDate>Fri, 13 Nov 2026 18:47:08 GMT</pubDate>
-      <description>Claude Agent SDK model list: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-opus-4, claude-sonnet-4</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-3.8-flash.-pro-flash</title>
-      <link>https://antigravity.google/docs/changelog</link>
-      <guid isPermaLink="false">1794594601498-google-antigravity-changelog-models-7603660e</guid>
-      <pubDate>Fri, 13 Nov 2026 18:29:59 GMT</pubDate>
-      <description>Google Antigravity changelog: 1 entri model baru
-
-Ditambahkan: gemini-3.8-flash.-pro-flash</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): google/gemini-omni-1.2-flash</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/c678d0b539c2b837628b7a71c44177fbc2e1a658/src/content/catalog-models/google-gemini-omni-1.2-flash.json</link>
-      <guid isPermaLink="false">1794593795705-cloudflare-gateway-catalog-b80813b2</guid>
-      <pubDate>Fri, 13 Nov 2026 18:16:33 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: google/gemini-omni-1.2-flash</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): moonshotai/kimi-k3.1-pro</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/fb4906a04dcfc3f311c5eb9ff53b3af32e123156/src/content/catalog-models/moonshotai-kimi-k3.1-pro.json</link>
-      <guid isPermaLink="false">1794593188328-cloudflare-gateway-catalog-d149b1d2</guid>
-      <pubDate>Fri, 13 Nov 2026 18:06:25 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: moonshotai/kimi-k3.1-pro</description>
-    </item>
   </channel>
 </rss>

@@ -1,7 +1,5 @@
 {
   "seenIds": [
-    "1791848302940-cloudflare-gateway-catalog-dbc4f542",
-    "1791858952421-google-antigravity-desktop-models-e96fb0d0",
     "1791893676033-openrouter-models-fc980f66",
     "1791893811106-openrouter-models-f8037892",
     "1791906305649-gemini-api-models-f9d811f0",
@@ -499,6 +497,8 @@
     "1794605296712-artificial-analysis-api-free-91d1b1ab",
     "1794605784039-openrouter-models-6c0754a1",
     "1794608736967-openrouter-models-5caef3fa",
-    "1794611355585-google-antigravity-desktop-models-12aeea76"
+    "1794611355585-google-antigravity-desktop-models-12aeea76",
+    "1794613056919-nvidia-nim-models-docs-6818f37a",
+    "1794616517185-openrouter-models-0b94ea30"
   ]
 }
