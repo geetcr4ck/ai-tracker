@@ -6,6 +6,65 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan parallel/decisions-fast</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794616517185-openrouter-models-0b94ea30</guid>
+      <pubDate>Sat, 14 Nov 2026 00:35:02 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: parallel/decisions-fast</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan 5 models</title>
+      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
+      <guid isPermaLink="false">1794613056919-nvidia-nim-models-docs-6818f37a</guid>
+      <pubDate>Fri, 13 Nov 2026 23:37:36 GMT</pubDate>
+      <description>NVIDIA NIM model release notes: 5 entri model baru
+
+Ditambahkan: nemotron-3.5-ligh, nemotron-3.5-lightning-30b, nemotron-3.5-lightning-30b-a, nvidia-nemotron-3.5-lightning-30b-a3b, nvidia-nemotron-3.5-lightning-30b-a3b-nvfp4-dspark</description>
+    </item>
+    <item>
+      <title>Gemini code reference: model identifiers</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.32.1-6001966350991360/linux-arm/Antigravity.tar.gz</link>
+      <guid isPermaLink="false">1794611355585-google-antigravity-desktop-models-12aeea76</guid>
+      <pubDate>Fri, 13 Nov 2026 23:08:50 GMT</pubDate>
+      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-3.5, gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794608736967-openrouter-models-5caef3fa</guid>
+      <pubDate>Fri, 13 Nov 2026 22:25:20 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: recraft/recraft-v4.1-flash-v2, recraft/recraft-v4.1-flash-v2:free</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan tencent/hy-world-2.1-panorama</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794605784039-openrouter-models-6c0754a1</guid>
+      <pubDate>Fri, 13 Nov 2026 21:36:07 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: tencent/hy-world-2.1-panorama</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794605296712-artificial-analysis-api-free-91d1b1ab</guid>
+      <pubDate>Fri, 13 Nov 2026 21:28:14 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 2 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794603241482-artificial-analysis-llm-leaderboard-1449e4a8</guid>
+      <pubDate>Fri, 13 Nov 2026 20:53:59 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 87 baris hasil benchmark ditambahkan, 85 dihapus</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan inclusionai/ling-3.2-flash:free</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1794597433753-openrouter-models-090ff56a</guid>
@@ -49,69 +108,6 @@ Ditambahkan: google/gemini-omni-1.2-flash</description>
       <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
 
 Ditambahkan: moonshotai/kimi-k3.1-pro</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: open weights: inclusionai/duo-1.0-distill-quant</title>
-      <link>https://huggingface.co/inclusionAI/Duo-1.0-distill-quant</link>
-      <guid isPermaLink="false">1794564134947-huggingface-observed-publish-94f4d74b</guid>
-      <pubDate>Fri, 13 Nov 2026 10:02:10 GMT</pubDate>
-      <description>Hugging Face: open weights available for 1 model
-
-Ditambahkan: inclusionai/duo-1.0-distill-quant</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/duo-1.0-distill-quant</title>
-      <link>https://huggingface.co/inclusionai/duo-1.0-distill-quant</link>
-      <guid isPermaLink="false">1794561791338-official-huggingface-new-models-993d41a3</guid>
-      <pubDate>Fri, 13 Nov 2026 09:23:11 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/duo-1.0-distill-quant</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/duo-1.0-distill-quant</title>
-      <link>https://huggingface.co/inclusionai/duo-1.0-distill-quant</link>
-      <guid isPermaLink="false">1794561757769-inclusionai-official-model-weights-15e42e96</guid>
-      <pubDate>Fri, 13 Nov 2026 09:22:37 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/duo-1.0-distill-quant</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: muse-ember-max</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1794559206519-arena-live-model-roster-b6253558</guid>
-      <pubDate>Fri, 13 Nov 2026 08:40:05 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: muse-ember-max</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.111-0.tgz</link>
-      <guid isPermaLink="false">1794556529748-github-copilot-native-models-592d767d</guid>
-      <pubDate>Fri, 13 Nov 2026 07:50:55 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: claude-opus-4-0, gemini-3-5-flash-lite, gpt-4-0125-preview, gpt-4-1106-preview, qwen3-code</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794552559525-openrouter-models-a69a20ec</guid>
-      <pubDate>Fri, 13 Nov 2026 06:49:09 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: heygen/heygen-decision-1, heygen/heygen-decision-1-turbo</description>
-    </item>
-    <item>
-      <title>Gemini code reference: gemini-4-hydrogen</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-cli/1.5.8-4602374149505024/linux-arm/cli_linux_arm64.tar.gz</link>
-      <guid isPermaLink="false">1794546096446-google-antigravity-cli-models-d1ff39d2</guid>
-      <pubDate>Fri, 13 Nov 2026 05:01:11 GMT</pubDate>
-      <description>Google Antigravity CLI model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4-hydrogen</description>
     </item>
   </channel>
 </rss>
