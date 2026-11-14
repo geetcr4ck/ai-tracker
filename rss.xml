@@ -64,14 +64,5 @@ Ditambahkan: tencent/hy-world-2.1-panorama</description>
       <pubDate>Fri, 13 Nov 2026 20:53:59 GMT</pubDate>
       <description>Artificial Analysis LLM leaderboard: 87 baris hasil benchmark ditambahkan, 85 dihapus</description>
     </item>
-    <item>
-      <title>OpenRouter menambahkan inclusionai/ling-3.2-flash:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794597433753-openrouter-models-090ff56a</guid>
-      <pubDate>Fri, 13 Nov 2026 19:16:48 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: inclusionai/ling-3.2-flash:free</description>
-    </item>
   </channel>
 </rss>
