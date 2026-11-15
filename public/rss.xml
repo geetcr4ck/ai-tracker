@@ -23,23 +23,5 @@ Ditambahkan: parallel/decisions-fast</description>
 
 Ditambahkan: nemotron-3.5-ligh, nemotron-3.5-lightning-30b, nemotron-3.5-lightning-30b-a, nvidia-nemotron-3.5-lightning-30b-a3b, nvidia-nemotron-3.5-lightning-30b-a3b-nvfp4-dspark</description>
     </item>
-    <item>
-      <title>Gemini code reference: model identifiers</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.32.1-6001966350991360/linux-arm/Antigravity.tar.gz</link>
-      <guid isPermaLink="false">1794611355585-google-antigravity-desktop-models-12aeea76</guid>
-      <pubDate>Fri, 13 Nov 2026 23:08:50 GMT</pubDate>
-      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-3.5, gemini-4-hydrogen</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794608736967-openrouter-models-5caef3fa</guid>
-      <pubDate>Fri, 13 Nov 2026 22:25:20 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: recraft/recraft-v4.1-flash-v2, recraft/recraft-v4.1-flash-v2:free</description>
-    </item>
   </channel>
 </rss>
