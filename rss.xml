@@ -6,22 +6,22 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenRouter menambahkan parallel/decisions-fast</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794616517185-openrouter-models-0b94ea30</guid>
-      <pubDate>Sat, 14 Nov 2026 00:35:02 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
+      <title>ByteDance Seed/Doubao menambahkan seedance-2-5-flash</title>
+      <link>https://www.volcengine.com/docs/82379/1330310</link>
+      <guid isPermaLink="false">1794722254526-volcengine-ark-model-docs-eca4f349</guid>
+      <pubDate>Sun, 15 Nov 2026 05:57:32 GMT</pubDate>
+      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
 
-Ditambahkan: parallel/decisions-fast</description>
+Ditambahkan: seedance-2-5-flash</description>
     </item>
     <item>
-      <title>NVIDIA menambahkan 5 models</title>
-      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
-      <guid isPermaLink="false">1794613056919-nvidia-nim-models-docs-6818f37a</guid>
-      <pubDate>Fri, 13 Nov 2026 23:37:36 GMT</pubDate>
-      <description>NVIDIA NIM model release notes: 5 entri model baru
+      <title>Meituan LongCat menambahkan meituan-longcat/longcat-video-avatar-1.6</title>
+      <link>https://huggingface.co/meituan-longcat/longcat-video-avatar-1.6</link>
+      <guid isPermaLink="false">1794711563500-longcat-official-model-weights-65b13939</guid>
+      <pubDate>Sun, 15 Nov 2026 02:59:23 GMT</pubDate>
+      <description>Meituan LongCat official model weights: 1 entri model baru
 
-Ditambahkan: nemotron-3.5-ligh, nemotron-3.5-lightning-30b, nemotron-3.5-lightning-30b-a, nvidia-nemotron-3.5-lightning-30b-a3b, nvidia-nemotron-3.5-lightning-30b-a3b-nvfp4-dspark</description>
+Ditambahkan: meituan-longcat/longcat-video-avatar-1.6</description>
     </item>
   </channel>
 </rss>
