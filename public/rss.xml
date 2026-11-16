@@ -6,22 +6,81 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ByteDance Seed/Doubao menambahkan seedance-2-5-flash</title>
-      <link>https://www.volcengine.com/docs/82379/1330310</link>
-      <guid isPermaLink="false">1794722254526-volcengine-ark-model-docs-eca4f349</guid>
-      <pubDate>Sun, 15 Nov 2026 05:57:32 GMT</pubDate>
-      <description>Volcengine Ark model list docs (Doubao / Seed): 1 entri model baru
+      <title>Social posts menambahkan hy4-flash</title>
+      <link>https://x.com/i/web/status/2122214580210503926</link>
+      <guid isPermaLink="false">1794810576932-official-x-model-posts-2-81d6f02b</guid>
+      <pubDate>Mon, 16 Nov 2026 06:28:49 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
 
-Ditambahkan: seedance-2-5-flash</description>
+Ditambahkan: hy4-flash</description>
     </item>
     <item>
-      <title>Meituan LongCat menambahkan meituan-longcat/longcat-video-avatar-1.6</title>
-      <link>https://huggingface.co/meituan-longcat/longcat-video-avatar-1.6</link>
-      <guid isPermaLink="false">1794711563500-longcat-official-model-weights-65b13939</guid>
-      <pubDate>Sun, 15 Nov 2026 02:59:23 GMT</pubDate>
-      <description>Meituan LongCat official model weights: 1 entri model baru
+      <title>Tencent Hunyuan/Hy menambahkan hy4-flash</title>
+      <link>https://intl.cloud.tencent.com/zh/document/product/1300/80695</link>
+      <guid isPermaLink="false">1794810343669-tencent-hy-models-docs-ccbbebdc</guid>
+      <pubDate>Mon, 16 Nov 2026 06:25:32 GMT</pubDate>
+      <description>Tencent Hunyuan / Hy official model guide: 1 entri model baru
 
-Ditambahkan: meituan-longcat/longcat-video-avatar-1.6</description>
+Ditambahkan: hy4-flash</description>
+    </item>
+    <item>
+      <title>Social posts menambahkan hy4</title>
+      <link>https://x.com/i/web/status/2122210037921988925</link>
+      <guid isPermaLink="false">1794809292698-official-x-model-posts-2-707f520a</guid>
+      <pubDate>Mon, 16 Nov 2026 06:08:12 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: hy4</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794806872445-artificial-analysis-api-free-fb68996c</guid>
+      <pubDate>Mon, 16 Nov 2026 05:27:43 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan qwen/qwen4-max</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794797033493-openrouter-models-9b9e4970</guid>
+      <pubDate>Mon, 16 Nov 2026 02:43:42 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: qwen/qwen4-max</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794796358366-artificial-analysis-llm-leaderboard-cb8cb212</guid>
+      <pubDate>Mon, 16 Nov 2026 02:32:38 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 15 baris hasil benchmark ditambahkan, 15 dihapus</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan 3 models</title>
+      <link>https://x.com/i/web/status/2122148127520289151</link>
+      <guid isPermaLink="false">1794794570587-official-x-model-posts-7c823a92</guid>
+      <pubDate>Mon, 16 Nov 2026 02:02:50 GMT</pubDate>
+      <description>Official AI lab posts on X: 3 entri model baru
+
+Ditambahkan: qwen3.8-max, qwen4, qwen4-max</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan qwen4-max</title>
+      <link>https://chat.qwen.ai/</link>
+      <guid isPermaLink="false">1794794464892-qwen-chat-models-6c8af199</guid>
+      <pubDate>Mon, 16 Nov 2026 02:01:04 GMT</pubDate>
+      <description>Qwen Chat model list: 1 entri model baru
+
+Ditambahkan: qwen4-max</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan qwen4-max</title>
+      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
+      <guid isPermaLink="false">1794792967214-qwen-model-pricing-docs-699f3fdf</guid>
+      <pubDate>Mon, 16 Nov 2026 01:36:05 GMT</pubDate>
+      <description>Alibaba Model Studio model catalog: 1 entri model baru
+
+Ditambahkan: qwen4-max</description>
     </item>
   </channel>
 </rss>
