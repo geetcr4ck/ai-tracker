@@ -6,6 +6,58 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Social posts announced nemotron-3.5</title>
+      <link>https://x.com/i/web/status/2122392904115327213</link>
+      <guid isPermaLink="false">1794852886305-official-x-model-posts-2-3cd94396</guid>
+      <pubDate>Mon, 16 Nov 2026 18:14:46 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 model announced
+
+Ditambahkan: nemotron-3.5</description>
+    </item>
+    <item>
+      <title>Bocoran model Alibaba Qwen: qwen4-max</title>
+      <link>https://chat.qwen.ai/</link>
+      <guid isPermaLink="false">1794848220729-qwen-web-app-models-d895beb2</guid>
+      <pubDate>Mon, 16 Nov 2026 16:56:53 GMT</pubDate>
+      <description>Qwen web app bundle models: 1 bocoran model baru
+
+Ditambahkan: qwen4-max</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1794841527359-microsoft-command-line-sitemap-0afe87a4-new-page</guid>
+      <pubDate>Mon, 16 Nov 2026 15:05:25 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan tencent/hy4-flash</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794839290048-openrouter-models-3cee3746</guid>
+      <pubDate>Mon, 16 Nov 2026 14:28:00 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: tencent/hy4-flash</description>
+    </item>
+    <item>
+      <title>Tencent Hunyuan/Hy menambahkan hy4-flash</title>
+      <link>https://www.tencent.com/newsroom/all-news/</link>
+      <guid isPermaLink="false">1794839229775-tencent-model-announcements-ccbbebdc</guid>
+      <pubDate>Mon, 16 Nov 2026 14:27:05 GMT</pubDate>
+      <description>Tencent official model announcements: 1 entri model baru
+
+Ditambahkan: hy4-flash</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): opus-4-1</title>
+      <link>https://windsurf-stable.codeiumdata.com/linux-x64/next/632d56d3abf9004b17cb106a276b1fcd23f329a0/Devin-linux-x64-3.13.1003+next.632d56d3ab.tar.gz</link>
+      <guid isPermaLink="false">1794817341055-devin-next-build-models-515c08bf</guid>
+      <pubDate>Mon, 16 Nov 2026 08:19:54 GMT</pubDate>
+      <description>Devin Desktop Next build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: opus-4-1</description>
+    </item>
+    <item>
       <title>Social posts menambahkan hy4-flash</title>
       <link>https://x.com/i/web/status/2122214580210503926</link>
       <guid isPermaLink="false">1794810576932-official-x-model-posts-2-81d6f02b</guid>
