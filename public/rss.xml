@@ -6,6 +6,382 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794941153980-openrouter-models-33a09737</guid>
+      <pubDate>Tue, 17 Nov 2026 18:45:30 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: heygen/heygen-avatar-6, heygen/heygen-avatar-6-turbo</description>
+    </item>
+    <item>
+      <title>Microsoft menghapus 2 models</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1794940406479-microsoft-ai-models-bcdef811-confirmed-removal</guid>
+      <pubDate>Tue, 17 Nov 2026 18:33:26 GMT</pubDate>
+      <description>Microsoft AI models: 2 removed model entries</description>
+    </item>
+    <item>
+      <title>Microsoft menghapus mai-image-2.6</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1794940335278-microsoft-ai-models-bcdef811-confirmed-removal</guid>
+      <pubDate>Tue, 17 Nov 2026 18:32:14 GMT</pubDate>
+      <description>Microsoft AI models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Codex code reference: model identifiers</title>
+      <link>https://unpkg.com/openai@7.58.0/src/resources/shared.ts</link>
+      <guid isPermaLink="false">1794940282304-openai-sdk-package-models-3a7fcdb4</guid>
+      <pubDate>Tue, 17 Nov 2026 18:31:21 GMT</pubDate>
+      <description>OpenAI SDK release/prerelease artifacts: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-6.2-astra, gpt-6.2-astra-law, gpt-6.2-sol</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan microsoft-decision-1.1</title>
+      <link>https://commandline.microsoft.com/microsoft-copilot-sdk-2-0-github</link>
+      <guid isPermaLink="false">1794940167407-microsoft-command-line-sitemap-67786249-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:29:26 GMT</pubDate>
+      <description>Microsoft Command Line blog: 1 entri model baru
+
+Ditambahkan: microsoft-decision-1.1</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan 4 models</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1794940110554-microsoft-ai-models-2df57704</guid>
+      <pubDate>Tue, 17 Nov 2026 18:28:25 GMT</pubDate>
+      <description>Microsoft AI models: 4 entri model baru
+
+Ditambahkan: mai-code-2, mai-code-2-flash, mai-cyber-1-flash, mai-cyber-2-flash</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-realtime-1</title>
+      <link>https://microsoft.ai/models/</link>
+      <guid isPermaLink="false">1794939862400-microsoft-ai-models-d033aa4c</guid>
+      <pubDate>Tue, 17 Nov 2026 18:24:18 GMT</pubDate>
+      <description>Microsoft AI models: 1 entri model baru
+
+Ditambahkan: mai-realtime-1</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794939485424-artificial-analysis-llm-leaderboard-50ce80b6</guid>
+      <pubDate>Tue, 17 Nov 2026 18:18:05 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 37 baris hasil benchmark ditambahkan, 37 dihapus</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://microsoft.ai/blog/</link>
+      <guid isPermaLink="false">1794939460367-microsoft-ai-news-sitemap-af1914f2-new-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:17:39 GMT</pubDate>
+      <description>Microsoft AI newsroom: halaman web baru</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-realtime-1</title>
+      <link>https://microsoft.ai/news/introducing-mai-image-2-7</link>
+      <guid isPermaLink="false">1794939410801-microsoft-ai-news-sitemap-69a9e2b7-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:16:47 GMT</pubDate>
+      <description>Microsoft AI newsroom: 1 entri model baru
+
+Ditambahkan: mai-image-2-7, mai-image-2.7, mai-realtime-1</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-transcribe-2</title>
+      <link>https://microsoft.ai/news/microsoft-ignite-2026</link>
+      <guid isPermaLink="false">1794939377670-microsoft-ai-news-sitemap-d2eb3d3b-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:16:16 GMT</pubDate>
+      <description>Microsoft AI newsroom: 1 entri model baru
+
+Ditambahkan: mai-transcribe-2</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-cyber-2-flash</title>
+      <link>https://microsoft.ai/news/introducing-mai-cyber-2-flash</link>
+      <guid isPermaLink="false">1794939345217-microsoft-ai-news-sitemap-558f8fd8-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:15:43 GMT</pubDate>
+      <description>Microsoft AI newsroom: 1 entri model baru
+
+Ditambahkan: mai-cyber-2-flash</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan 2 models</title>
+      <link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash</link>
+      <guid isPermaLink="false">1794939318223-microsoft-ai-news-sitemap-7776e256-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:15:17 GMT</pubDate>
+      <description>Microsoft AI newsroom: 2 entri model baru
+
+Ditambahkan: mai-code-2, mai-code-2-flash</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan mai-image-2.7</title>
+      <link>https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote</link>
+      <guid isPermaLink="false">1794939301520-microsoft-ai-news-sitemap-e68e54d8-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:15:00 GMT</pubDate>
+      <description>Microsoft AI newsroom: 1 entri model baru
+
+Ditambahkan: mai-image-2.7</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menghapus gpt-6.2</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1794939118347-openai-developer-all-models-93470642-confirmed-removal</guid>
+      <pubDate>Tue, 17 Nov 2026 18:11:57 GMT</pubDate>
+      <description>OpenAI developer all models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menghapus gpt-6.2</title>
+      <link>https://platform.openai.com/docs/models</link>
+      <guid isPermaLink="false">1794939099037-openai-models-docs-808263b0</guid>
+      <pubDate>Tue, 17 Nov 2026 18:11:38 GMT</pubDate>
+      <description>OpenAI model docs: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 3 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794939062616-openrouter-models-499b7d0d</guid>
+      <pubDate>Tue, 17 Nov 2026 18:10:47 GMT</pubDate>
+      <description>OpenRouter model catalog: 3 entri model baru
+
+Ditambahkan: microsoft/mai-image-2.7, microsoft/mai-image-2.7-flash, microsoft/microsoft-decision-1.1</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan 2 models</title>
+      <link>https://commandline.microsoft.com/microsoft-decision-model-ga</link>
+      <guid isPermaLink="false">1794939022778-microsoft-command-line-sitemap-b5e30d71-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:10:19 GMT</pubDate>
+      <description>Microsoft Command Line blog: 2 entri model baru
+
+Ditambahkan: microsoft-decision-1, microsoft-decision-1.1</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/openai/openai-python/blob/720bcb501dff693e1a57af7ffddd1820e6f2075c/src/openai/types/beta/beta_response.py</link>
+      <guid isPermaLink="false">1794938782121-openai-sdk-models-c0b1fa14</guid>
+      <pubDate>Tue, 17 Nov 2026 18:06:20 GMT</pubDate>
+      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-6.2-astra, gpt-6.2-astra-law, gpt-6.2-sol</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 3 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794938788716-openrouter-models-960e0c0b</guid>
+      <pubDate>Tue, 17 Nov 2026 18:06:00 GMT</pubDate>
+      <description>OpenRouter model catalog: 3 entri model baru
+
+Ditambahkan: openai/gpt-6.2-astra-pro, openai/gpt-6.2-sol, openai/gpt-6.2-sol-pro</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.2-astra</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+      <guid isPermaLink="false">1794938733740-openai-news-rss-a15e9e5b-model-page</guid>
+      <pubDate>Tue, 17 Nov 2026 18:05:32 GMT</pubDate>
+      <description>OpenAI News RSS: 1 entri model baru
+
+Ditambahkan: gpt-6.2-astra</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan openai/gpt-6.2-astra</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794938333686-openrouter-models-b842fec6</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:34 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: openai/gpt-6.2-astra</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.2-astra</title>
+      <link>https://x.com/i/web/status/2122750124543926515</link>
+      <guid isPermaLink="false">1794938063017-official-x-model-posts-635a1667</guid>
+      <pubDate>Tue, 17 Nov 2026 17:54:21 GMT</pubDate>
+      <description>Official AI lab posts on X: 1 entri model baru
+
+Ditambahkan: gpt-6.2-astra</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menghapus 2 models</title>
+      <link>https://platform.openai.com/docs/models</link>
+      <guid isPermaLink="false">1794937897902-openai-models-docs-8833adb9-confirmed-removal</guid>
+      <pubDate>Tue, 17 Nov 2026 17:51:37 GMT</pubDate>
+      <description>OpenAI model docs: 2 removed model entries</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menghapus gpt-6-astra</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1794937897437-openai-developer-all-models-b7508507-confirmed-removal</guid>
+      <pubDate>Tue, 17 Nov 2026 17:51:37 GMT</pubDate>
+      <description>OpenAI developer all models: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>Bocoran model Mistral AI: mistral-large-4-0</title>
+      <link>https://github.com/mistralai/mistral-vibe/blob/63dab302305c80131ea1e5b1c3cb18c2a4fd96d3/vibe/core/config/vibe_schema.py</link>
+      <guid isPermaLink="false">1794937751860-mistral-vibe-official-code-models-c84631ab</guid>
+      <pubDate>Tue, 17 Nov 2026 17:49:05 GMT</pubDate>
+      <description>mistralai/mistral-vibe model references: 1 bocoran model baru
+
+Ditambahkan: mistral-large-4-0</description>
+    </item>
+    <item>
+      <title>Bocoran model ChatGPT/OpenAI: gpt-6.2-astra-law</title>
+      <link>https://developers.openai.com/api/docs/pricing</link>
+      <guid isPermaLink="false">1794937589659-openai-api-pricing-0b491171</guid>
+      <pubDate>Tue, 17 Nov 2026 17:46:28 GMT</pubDate>
+      <description>OpenAI API pricing page: 1 bocoran model baru
+
+Ditambahkan: gpt-6.2-astra, gpt-6.2-astra-law, gpt-6.2-sol</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan 3 models</title>
+      <link>https://platform.openai.com/docs/models</link>
+      <guid isPermaLink="false">1794937581910-openai-models-docs-8833adb9</guid>
+      <pubDate>Tue, 17 Nov 2026 17:46:20 GMT</pubDate>
+      <description>OpenAI model docs: 3 entri model baru
+
+Ditambahkan: gpt-6.2, gpt-6.2-astra, gpt-6.2-sol</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan 2 models</title>
+      <link>https://developers.openai.com/api/docs/models/all</link>
+      <guid isPermaLink="false">1794937577666-openai-developer-all-models-b7508507</guid>
+      <pubDate>Tue, 17 Nov 2026 17:46:16 GMT</pubDate>
+      <description>OpenAI developer all models: 2 entri model baru
+
+Ditambahkan: gpt-6, gpt-6.2</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.2</title>
+      <link>https://developers.openai.com/api/docs/changelog</link>
+      <guid isPermaLink="false">1794937559611-openai-api-changelog-68ff3ae0</guid>
+      <pubDate>Tue, 17 Nov 2026 17:45:58 GMT</pubDate>
+      <description>OpenAI API changelog: 1 entri model baru
+
+Ditambahkan: gpt-6.2, gpt-6.2-astra, gpt-6.2-sol</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan 2 models</title>
+      <link>https://api.openai.com/v1/models</link>
+      <guid isPermaLink="false">1794937290500-openai-api-models-54f65f5e</guid>
+      <pubDate>Tue, 17 Nov 2026 17:41:29 GMT</pubDate>
+      <description>OpenAI API models: 2 entri model baru
+
+Ditambahkan: gpt-6.2-astra, gpt-6.2-sol</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794935733064-artificial-analysis-api-free-d8d94260</guid>
+      <pubDate>Tue, 17 Nov 2026 17:15:28 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): klingai/kling-v4-image</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/84b3af8676de07442b3d91379ada8417cd1c01bd/src/content/catalog-models/klingai-kling-v4-image.json</link>
+      <guid isPermaLink="false">1794932460465-cloudflare-gateway-catalog-caaffc06</guid>
+      <pubDate>Tue, 17 Nov 2026 16:20:58 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: klingai/kling-v4-image</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794931483369-artificial-analysis-llm-leaderboard-a9536144</guid>
+      <pubDate>Tue, 17 Nov 2026 16:04:42 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 14 baris hasil benchmark ditambahkan, 13 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/0c205927c7321196a79f97c55a6def7bc8429c2b/src/content/catalog-models/openai-gpt-image-2.6-flare.json</link>
+      <guid isPermaLink="false">1794929082260-cloudflare-gateway-catalog-5e995b43</guid>
+      <pubDate>Tue, 17 Nov 2026 15:24:40 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: openai/gpt-image-2.6-flare, openai/gpt-image-2.6-sunburst</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): lightricks/ltx-2-3-pro</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/1fda2c0c9cdead767a2f1470515aa13a9ec07c1a/src/content/catalog-models/lightricks-ltx-2-3-pro.json</link>
+      <guid isPermaLink="false">1794929011683-cloudflare-gateway-catalog-0f2bf5ca</guid>
+      <pubDate>Tue, 17 Nov 2026 15:23:30 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: lightricks/ltx-2-3-pro</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan kling-v4</title>
+      <link>https://api.fal.ai/v1/models</link>
+      <guid isPermaLink="false">1794929064813-fal-media-models-97bb39cf</guid>
+      <pubDate>Tue, 17 Nov 2026 15:23:00 GMT</pubDate>
+      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
+
+Ditambahkan: kling-v4</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): minimax/speech-02-hd</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/57a0622325109d232f291799723c2cfc35899cfa/src/content/catalog-models/minimax-speech-02-hd.json</link>
+      <guid isPermaLink="false">1794928804276-cloudflare-gateway-catalog-750b8044</guid>
+      <pubDate>Tue, 17 Nov 2026 15:20:02 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: minimax/speech-02-hd</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/416529f4523a43b48cfe060c2be123830d3293c2/src/content/catalog-models/minimax-speech-02-turbo.json</link>
+      <guid isPermaLink="false">1794928585888-cloudflare-gateway-catalog-ba2d74f4</guid>
+      <pubDate>Tue, 17 Nov 2026 15:16:24 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: minimax/speech-02-turbo, minimax/speech-2.6-hd, minimax/speech-2.6-turbo</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): xiaomi/mimo-v2.6-pro</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/e059868dee67bba9bab7a301c0b0e000c20c1c3e/src/content/catalog-models/xiaomi-mimo-v2.6-pro.json</link>
+      <guid isPermaLink="false">1794928520902-cloudflare-gateway-catalog-53f7f808</guid>
+      <pubDate>Tue, 17 Nov 2026 15:15:19 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: xiaomi/mimo-v2.6-pro</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): lightricks/ltx-2-3-fast</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/d2f98ef254e7bc73db8e48835a2c0d76b34fc4a7/src/content/catalog-models/lightricks-ltx-2-3-fast.json</link>
+      <guid isPermaLink="false">1794928446666-cloudflare-gateway-catalog-0a37effc</guid>
+      <pubDate>Tue, 17 Nov 2026 15:14:04 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: lightricks/ltx-2-3-fast</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added sensenova/sensenova-loop-9b</title>
+      <link>https://huggingface.co/sensenova/SenseNova-Loop-9B</link>
+      <guid isPermaLink="false">1794919600013-huggingface-observed-publish-ca51a8d0</guid>
+      <pubDate>Tue, 17 Nov 2026 12:46:35 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: sensenova/sensenova-loop-9b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added sensenova/sensenova-loop-9b</title>
+      <link>https://huggingface.co/sensenova/sensenova-loop-9b</link>
+      <guid isPermaLink="false">1794919557344-official-huggingface-new-models-f51f6633</guid>
+      <pubDate>Tue, 17 Nov 2026 12:45:56 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: sensenova/sensenova-loop-9b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added sensenova-loop-9b-preview</title>
+      <link>https://www.sensetime.com/cn/news</link>
+      <guid isPermaLink="false">1794917444595-sensetime-news-models-f4ce41e3</guid>
+      <pubDate>Tue, 17 Nov 2026 12:10:42 GMT</pubDate>
+      <description>SenseTime news (SenseNova releases): 1 entri model baru
+
+Ditambahkan: sensenova-loop-9b-preview</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added nvidia/qwen3.8-flash-next-nvfp4-qad</title>
       <link>https://huggingface.co/nvidia/qwen3.8-flash-next-nvfp4-qad</link>
       <guid isPermaLink="false">1794912044642-official-huggingface-new-models-9b362dc9</guid>
@@ -38,140 +414,6 @@ Ditambahkan: qwen4-max</description>
       <description>Google Gemma models docs: 5 entri model baru
 
 Ditambahkan: gemma-4-e2b, gemma-4-e2b-it, gemma-4-e2b-it-qat-4bit, gemma-4-e2b-it-qat-q4_0-gguf, gemma4</description>
-    </item>
-    <item>
-      <title>Gemini code reference: gemini-3.5</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-cli/1.5.10-5253791805734912/linux-arm/cli_linux_arm64.tar.gz</link>
-      <guid isPermaLink="false">1794894213455-google-antigravity-cli-models-2865173d</guid>
-      <pubDate>Tue, 17 Nov 2026 05:42:45 GMT</pubDate>
-      <description>Google Antigravity CLI model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-3.5</description>
-    </item>
-    <item>
-      <title>Bocoran model Gemini: gemini-4-hydrogen-sonar</title>
-      <link>https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels</link>
-      <guid isPermaLink="false">1794890616731-google-antigravity-authenticated-model-catalog-39a1077b</guid>
-      <pubDate>Tue, 17 Nov 2026 04:43:35 GMT</pubDate>
-      <description>Google Antigravity official model metadata: 1 bocoran model baru
-
-Ditambahkan: gemini-4-hydrogen-sonar</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1794886613108-artificial-analysis-api-free-a0bca8f3</guid>
-      <pubDate>Tue, 17 Nov 2026 03:36:50 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794882893832-openrouter-models-397cc7cb</guid>
-      <pubDate>Tue, 17 Nov 2026 02:34:30 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: liquid/d1.2, liquid/d1.2-ultra</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794879600850-artificial-analysis-llm-leaderboard-6b662c7c</guid>
-      <pubDate>Tue, 17 Nov 2026 01:39:59 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 8 baris hasil benchmark ditambahkan, 7 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): elevenlabs/eleven-text-to-sound-v3</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/39a00b0ffb01edc3860c4ca5a52fa5db9d6eac34/src/content/catalog-models/elevenlabs-eleven-text-to-sound-v3.json</link>
-      <guid isPermaLink="false">1794878150536-cloudflare-gateway-catalog-791e31d2</guid>
-      <pubDate>Tue, 17 Nov 2026 01:15:48 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: elevenlabs/eleven-text-to-sound-v3</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): google/gemini-4-hydrogen</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/c73f5171da593e737f944a22ac43395148bf536c/src/content/catalog-models/google-gemini-4-hydrogen.json</link>
-      <guid isPermaLink="false">1794875465077-cloudflare-gateway-catalog-6af2aa14</guid>
-      <pubDate>Tue, 17 Nov 2026 00:31:03 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: google/gemini-4-hydrogen</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan bytedance/seedance-2.5-flash</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794875206363-openrouter-models-468e081d</guid>
-      <pubDate>Tue, 17 Nov 2026 00:26:27 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: bytedance/seedance-2.5-flash</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794873712175-artificial-analysis-llm-leaderboard-f581a24e</guid>
-      <pubDate>Tue, 17 Nov 2026 00:01:52 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 19 baris hasil benchmark ditambahkan, 20 dihapus</description>
-    </item>
-    <item>
-      <title>Mistral AI menambahkan voxtral-mini-tts-3-1</title>
-      <link>https://docs.mistral.ai/models</link>
-      <guid isPermaLink="false">1794871932181-mistral-api-models-a5e64935</guid>
-      <pubDate>Mon, 16 Nov 2026 23:32:11 GMT</pubDate>
-      <description>Mistral API model catalog: 1 entri model baru
-
-Ditambahkan: voxtral-mini-tts-3-1</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794871613031-artificial-analysis-llm-leaderboard-5113bbaa</guid>
-      <pubDate>Mon, 16 Nov 2026 23:26:52 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 60 baris hasil benchmark ditambahkan, 63 dihapus</description>
-    </item>
-    <item>
-      <title>Social posts announced ripple-65b-preview</title>
-      <link>https://x.com/i/web/status/2122432162624684287</link>
-      <guid isPermaLink="false">1794862253519-official-x-model-posts-4-070472f8</guid>
-      <pubDate>Mon, 16 Nov 2026 20:50:52 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 model announced
-
-Ditambahkan: ripple-65b-preview</description>
-    </item>
-    <item>
-      <title>Bocoran model Gemini: gemini-4-neon</title>
-      <link>https://gemini.google.com/app</link>
-      <guid isPermaLink="false">1794859590301-gemini-web-app-models-ecd836b7</guid>
-      <pubDate>Mon, 16 Nov 2026 20:06:29 GMT</pubDate>
-      <description>Gemini web app bundle models: 1 bocoran model baru
-
-Ditambahkan: gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Social posts announced nemotron-3.5</title>
-      <link>https://x.com/i/web/status/2122392904115327213</link>
-      <guid isPermaLink="false">1794852886305-official-x-model-posts-2-3cd94396</guid>
-      <pubDate>Mon, 16 Nov 2026 18:14:46 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 model announced
-
-Ditambahkan: nemotron-3.5</description>
-    </item>
-    <item>
-      <title>Bocoran model Alibaba Qwen: qwen4-max</title>
-      <link>https://chat.qwen.ai/</link>
-      <guid isPermaLink="false">1794848220729-qwen-web-app-models-d895beb2</guid>
-      <pubDate>Mon, 16 Nov 2026 16:56:53 GMT</pubDate>
-      <description>Qwen web app bundle models: 1 bocoran model baru
-
-Ditambahkan: qwen4-max</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://commandline.microsoft.com/</link>
-      <guid isPermaLink="false">1794841527359-microsoft-command-line-sitemap-0afe87a4-new-page</guid>
-      <pubDate>Mon, 16 Nov 2026 15:05:25 GMT</pubDate>
-      <description>Microsoft Command Line blog: halaman web baru</description>
     </item>
   </channel>
 </rss>
