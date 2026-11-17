@@ -6,6 +6,74 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added nvidia/qwen3.8-flash-next-nvfp4-qad</title>
+      <link>https://huggingface.co/nvidia/qwen3.8-flash-next-nvfp4-qad</link>
+      <guid isPermaLink="false">1794912044642-official-huggingface-new-models-9b362dc9</guid>
+      <pubDate>Tue, 17 Nov 2026 10:40:43 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: nvidia/qwen3.8-flash-next-nvfp4-qad</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen code reference: qwen4-max</title>
+      <link>https://github.com/QwenLM/qwen-code/commit/8fab857da58094e9d8ac03f7ca4a185d6ec05513</link>
+      <guid isPermaLink="false">1794907506421-qwen-code-model-presets-ec6f45ab</guid>
+      <pubDate>Tue, 17 Nov 2026 09:25:05 GMT</pubDate>
+      <description>Qwen Code model presets (GitHub): referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: qwen4-max</description>
+    </item>
+    <item>
+      <title>Gemini menghapus 3 models</title>
+      <link>https://ai.google.dev/gemma/docs/get_started</link>
+      <guid isPermaLink="false">1794901041878-google-gemma-models-docs-35e70562-confirmed-removal</guid>
+      <pubDate>Tue, 17 Nov 2026 07:37:21 GMT</pubDate>
+      <description>Google Gemma models docs: 3 removed model entries</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan 5 models</title>
+      <link>https://ai.google.dev/gemma/docs/get_started</link>
+      <guid isPermaLink="false">1794900728859-google-gemma-models-docs-35e70562</guid>
+      <pubDate>Tue, 17 Nov 2026 07:32:08 GMT</pubDate>
+      <description>Google Gemma models docs: 5 entri model baru
+
+Ditambahkan: gemma-4-e2b, gemma-4-e2b-it, gemma-4-e2b-it-qat-4bit, gemma-4-e2b-it-qat-q4_0-gguf, gemma4</description>
+    </item>
+    <item>
+      <title>Gemini code reference: gemini-3.5</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-cli/1.5.10-5253791805734912/linux-arm/cli_linux_arm64.tar.gz</link>
+      <guid isPermaLink="false">1794894213455-google-antigravity-cli-models-2865173d</guid>
+      <pubDate>Tue, 17 Nov 2026 05:42:45 GMT</pubDate>
+      <description>Google Antigravity CLI model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-3.5</description>
+    </item>
+    <item>
+      <title>Bocoran model Gemini: gemini-4-hydrogen-sonar</title>
+      <link>https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels</link>
+      <guid isPermaLink="false">1794890616731-google-antigravity-authenticated-model-catalog-39a1077b</guid>
+      <pubDate>Tue, 17 Nov 2026 04:43:35 GMT</pubDate>
+      <description>Google Antigravity official model metadata: 1 bocoran model baru
+
+Ditambahkan: gemini-4-hydrogen-sonar</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794886613108-artificial-analysis-api-free-a0bca8f3</guid>
+      <pubDate>Tue, 17 Nov 2026 03:36:50 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794882893832-openrouter-models-397cc7cb</guid>
+      <pubDate>Tue, 17 Nov 2026 02:34:30 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: liquid/d1.2, liquid/d1.2-ultra</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1794879600850-artificial-analysis-llm-leaderboard-6b662c7c</guid>
@@ -104,67 +172,6 @@ Ditambahkan: qwen4-max</description>
       <guid isPermaLink="false">1794841527359-microsoft-command-line-sitemap-0afe87a4-new-page</guid>
       <pubDate>Mon, 16 Nov 2026 15:05:25 GMT</pubDate>
       <description>Microsoft Command Line blog: halaman web baru</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan tencent/hy4-flash</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794839290048-openrouter-models-3cee3746</guid>
-      <pubDate>Mon, 16 Nov 2026 14:28:00 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: tencent/hy4-flash</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan hy4-flash</title>
-      <link>https://www.tencent.com/newsroom/all-news/</link>
-      <guid isPermaLink="false">1794839229775-tencent-model-announcements-ccbbebdc</guid>
-      <pubDate>Mon, 16 Nov 2026 14:27:05 GMT</pubDate>
-      <description>Tencent official model announcements: 1 entri model baru
-
-Ditambahkan: hy4-flash</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): opus-4-1</title>
-      <link>https://windsurf-stable.codeiumdata.com/linux-x64/next/632d56d3abf9004b17cb106a276b1fcd23f329a0/Devin-linux-x64-3.13.1003+next.632d56d3ab.tar.gz</link>
-      <guid isPermaLink="false">1794817341055-devin-next-build-models-515c08bf</guid>
-      <pubDate>Mon, 16 Nov 2026 08:19:54 GMT</pubDate>
-      <description>Devin Desktop Next build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: opus-4-1</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan hy4-flash</title>
-      <link>https://x.com/i/web/status/2122214580210503926</link>
-      <guid isPermaLink="false">1794810576932-official-x-model-posts-2-81d6f02b</guid>
-      <pubDate>Mon, 16 Nov 2026 06:28:49 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: hy4-flash</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan hy4-flash</title>
-      <link>https://intl.cloud.tencent.com/zh/document/product/1300/80695</link>
-      <guid isPermaLink="false">1794810343669-tencent-hy-models-docs-ccbbebdc</guid>
-      <pubDate>Mon, 16 Nov 2026 06:25:32 GMT</pubDate>
-      <description>Tencent Hunyuan / Hy official model guide: 1 entri model baru
-
-Ditambahkan: hy4-flash</description>
-    </item>
-    <item>
-      <title>Social posts menambahkan hy4</title>
-      <link>https://x.com/i/web/status/2122210037921988925</link>
-      <guid isPermaLink="false">1794809292698-official-x-model-posts-2-707f520a</guid>
-      <pubDate>Mon, 16 Nov 2026 06:08:12 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: hy4</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1794806872445-artificial-analysis-api-free-fb68996c</guid>
-      <pubDate>Mon, 16 Nov 2026 05:27:43 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
     </item>
   </channel>
 </rss>
