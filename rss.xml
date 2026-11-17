@@ -6,6 +6,81 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794879600850-artificial-analysis-llm-leaderboard-6b662c7c</guid>
+      <pubDate>Tue, 17 Nov 2026 01:39:59 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 8 baris hasil benchmark ditambahkan, 7 dihapus</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): elevenlabs/eleven-text-to-sound-v3</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/39a00b0ffb01edc3860c4ca5a52fa5db9d6eac34/src/content/catalog-models/elevenlabs-eleven-text-to-sound-v3.json</link>
+      <guid isPermaLink="false">1794878150536-cloudflare-gateway-catalog-791e31d2</guid>
+      <pubDate>Tue, 17 Nov 2026 01:15:48 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: elevenlabs/eleven-text-to-sound-v3</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): google/gemini-4-hydrogen</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/c73f5171da593e737f944a22ac43395148bf536c/src/content/catalog-models/google-gemini-4-hydrogen.json</link>
+      <guid isPermaLink="false">1794875465077-cloudflare-gateway-catalog-6af2aa14</guid>
+      <pubDate>Tue, 17 Nov 2026 00:31:03 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: google/gemini-4-hydrogen</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan bytedance/seedance-2.5-flash</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1794875206363-openrouter-models-468e081d</guid>
+      <pubDate>Tue, 17 Nov 2026 00:26:27 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: bytedance/seedance-2.5-flash</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794873712175-artificial-analysis-llm-leaderboard-f581a24e</guid>
+      <pubDate>Tue, 17 Nov 2026 00:01:52 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 19 baris hasil benchmark ditambahkan, 20 dihapus</description>
+    </item>
+    <item>
+      <title>Mistral AI menambahkan voxtral-mini-tts-3-1</title>
+      <link>https://docs.mistral.ai/models</link>
+      <guid isPermaLink="false">1794871932181-mistral-api-models-a5e64935</guid>
+      <pubDate>Mon, 16 Nov 2026 23:32:11 GMT</pubDate>
+      <description>Mistral API model catalog: 1 entri model baru
+
+Ditambahkan: voxtral-mini-tts-3-1</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794871613031-artificial-analysis-llm-leaderboard-5113bbaa</guid>
+      <pubDate>Mon, 16 Nov 2026 23:26:52 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 60 baris hasil benchmark ditambahkan, 63 dihapus</description>
+    </item>
+    <item>
+      <title>Social posts announced ripple-65b-preview</title>
+      <link>https://x.com/i/web/status/2122432162624684287</link>
+      <guid isPermaLink="false">1794862253519-official-x-model-posts-4-070472f8</guid>
+      <pubDate>Mon, 16 Nov 2026 20:50:52 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 model announced
+
+Ditambahkan: ripple-65b-preview</description>
+    </item>
+    <item>
+      <title>Bocoran model Gemini: gemini-4-neon</title>
+      <link>https://gemini.google.com/app</link>
+      <guid isPermaLink="false">1794859590301-gemini-web-app-models-ecd836b7</guid>
+      <pubDate>Mon, 16 Nov 2026 20:06:29 GMT</pubDate>
+      <description>Gemini web app bundle models: 1 bocoran model baru
+
+Ditambahkan: gemini-4-neon</description>
+    </item>
+    <item>
       <title>Social posts announced nemotron-3.5</title>
       <link>https://x.com/i/web/status/2122392904115327213</link>
       <guid isPermaLink="false">1794852886305-official-x-model-posts-2-3cd94396</guid>
@@ -90,49 +165,6 @@ Ditambahkan: hy4</description>
       <guid isPermaLink="false">1794806872445-artificial-analysis-api-free-fb68996c</guid>
       <pubDate>Mon, 16 Nov 2026 05:27:43 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan qwen/qwen4-max</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794797033493-openrouter-models-9b9e4970</guid>
-      <pubDate>Mon, 16 Nov 2026 02:43:42 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: qwen/qwen4-max</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794796358366-artificial-analysis-llm-leaderboard-cb8cb212</guid>
-      <pubDate>Mon, 16 Nov 2026 02:32:38 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 15 baris hasil benchmark ditambahkan, 15 dihapus</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan 3 models</title>
-      <link>https://x.com/i/web/status/2122148127520289151</link>
-      <guid isPermaLink="false">1794794570587-official-x-model-posts-7c823a92</guid>
-      <pubDate>Mon, 16 Nov 2026 02:02:50 GMT</pubDate>
-      <description>Official AI lab posts on X: 3 entri model baru
-
-Ditambahkan: qwen3.8-max, qwen4, qwen4-max</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan qwen4-max</title>
-      <link>https://chat.qwen.ai/</link>
-      <guid isPermaLink="false">1794794464892-qwen-chat-models-6c8af199</guid>
-      <pubDate>Mon, 16 Nov 2026 02:01:04 GMT</pubDate>
-      <description>Qwen Chat model list: 1 entri model baru
-
-Ditambahkan: qwen4-max</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan qwen4-max</title>
-      <link>https://help.aliyun.com/en/model-studio/model-pricing</link>
-      <guid isPermaLink="false">1794792967214-qwen-model-pricing-docs-699f3fdf</guid>
-      <pubDate>Mon, 16 Nov 2026 01:36:05 GMT</pubDate>
-      <description>Alibaba Model Studio model catalog: 1 entri model baru
-
-Ditambahkan: qwen4-max</description>
     </item>
   </channel>
 </rss>
