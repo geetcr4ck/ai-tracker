@@ -6,6 +6,47 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added microsoft/aion-1.0-instruct-2.3b-onnx-webgpu</title>
+      <link>https://huggingface.co/microsoft/aion-1.0-instruct-2.3b-onnx-webgpu</link>
+      <guid isPermaLink="false">1795022301135-official-huggingface-new-models-94de9bdd</guid>
+      <pubDate>Wed, 18 Nov 2026 17:18:20 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: microsoft/aion-1.0-instruct-2.3b-onnx-webgpu</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added microsoft/aion-1.0-instruct-2.3b</title>
+      <link>https://huggingface.co/microsoft/aion-1.0-instruct-2.3b</link>
+      <guid isPermaLink="false">1795022214270-official-huggingface-new-models-42552f3b</guid>
+      <pubDate>Wed, 18 Nov 2026 17:16:54 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: microsoft/aion-1.0-instruct-2.3b</description>
+    </item>
+    <item>
+      <title>Microsoft menambahkan microsoft-decision-1.1</title>
+      <link>https://commandline.microsoft.com/introducing-agent-controls-an-enterprise-control-plane-for-agent-behavior</link>
+      <guid isPermaLink="false">1795020354573-microsoft-command-line-sitemap-0260c96e-model-page</guid>
+      <pubDate>Wed, 18 Nov 2026 16:45:53 GMT</pubDate>
+      <description>Microsoft Command Line blog: 1 entri model baru
+
+Ditambahkan: microsoft-decision-1.1</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1795011656997-artificial-analysis-api-free-08e9d2db</guid>
+      <pubDate>Wed, 18 Nov 2026 14:20:55 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 5 baris hasil benchmark ditambahkan, 4 dihapus</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794999089621-artificial-analysis-llm-leaderboard-3e518970</guid>
+      <pubDate>Wed, 18 Nov 2026 10:51:27 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 31 baris hasil benchmark ditambahkan, 26 dihapus</description>
+    </item>
+    <item>
       <title>Alibaba Qwen menambahkan qwen4-max</title>
       <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
       <guid isPermaLink="false">1794986641915-alibaba-model-studio-models-78ac8294</guid>
@@ -86,49 +127,6 @@ Ditambahkan: kling-image-4.0</description>
       <description>Arena live selectable-model roster: 1 bocoran model baru
 
 Ditambahkan: mai-image-2.7-preview</description>
-    </item>
-    <item>
-      <title>Bocoran model LM Arena: mai-image-2.7</title>
-      <link>https://arena.ai/</link>
-      <guid isPermaLink="false">1794963114707-arena-live-model-roster-a38f1b57</guid>
-      <pubDate>Wed, 18 Nov 2026 00:51:52 GMT</pubDate>
-      <description>Arena live selectable-model roster: 1 bocoran model baru
-
-Ditambahkan: mai-image-2.7</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.114-0.tgz</link>
-      <guid isPermaLink="false">1794960160274-github-copilot-native-models-8822bacf</guid>
-      <pubDate>Wed, 18 Nov 2026 00:02:14 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6-2-astra, gpt-6-2-sol</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794959010750-artificial-analysis-llm-leaderboard-3dae0ed2</guid>
-      <pubDate>Tue, 17 Nov 2026 23:43:29 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 12 baris hasil benchmark ditambahkan, 10 dihapus</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/1.13.1/linux/x64/droid</link>
-      <guid isPermaLink="false">1794952669765-factory-droid-registry-5e85b333</guid>
-      <pubDate>Tue, 17 Nov 2026 21:57:24 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-6.2-astra, gpt-6.2-astra-fast, gpt-6.2-astra-ultrafast, gpt-6.2-sol, gpt-6.2-sol-fast, gpt-6.2-sol-ultrafast</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan 4 models</title>
-      <link>https://klingai.com/global/dev/model/video</link>
-      <guid isPermaLink="false">1794951485385-kling-video-model-docs-ebf6b70d</guid>
-      <pubDate>Tue, 17 Nov 2026 21:38:03 GMT</pubDate>
-      <description>Kling AI video model docs: 4 entri model baru
-
-Ditambahkan: kling-image-2.1, kling-image-3.0, kling-image-3.0-omni, kling-image-o1</description>
     </item>
   </channel>
 </rss>
