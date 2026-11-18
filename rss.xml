@@ -6,6 +6,72 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alibaba Qwen menambahkan qwen4-max</title>
+      <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
+      <guid isPermaLink="false">1794986641915-alibaba-model-studio-models-78ac8294</guid>
+      <pubDate>Wed, 18 Nov 2026 07:24:01 GMT</pubDate>
+      <description>Alibaba Model Studio Qwen models: 1 entri model baru
+
+Ditambahkan: qwen4-max</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1794982805268-artificial-analysis-api-free-3aff729a</guid>
+      <pubDate>Wed, 18 Nov 2026 06:20:02 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 5 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794974618273-artificial-analysis-llm-leaderboard-47919886</guid>
+      <pubDate>Wed, 18 Nov 2026 04:03:35 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Tencent Hunyuan/Hy menambahkan tencent/hy4-flash</title>
+      <link>https://huggingface.co/tencent/hy4-flash</link>
+      <guid isPermaLink="false">1794974320450-tencent-official-model-weights-779ae490</guid>
+      <pubDate>Wed, 18 Nov 2026 03:58:40 GMT</pubDate>
+      <description>Tencent Hy official model weights: 1 entri model baru
+
+Ditambahkan: tencent/hy4-flash</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added sensenova-loop-9b</title>
+      <link>https://www.sensetime.com/cn/news</link>
+      <guid isPermaLink="false">1794972960789-sensetime-news-models-d233291b</guid>
+      <pubDate>Wed, 18 Nov 2026 03:35:58 GMT</pubDate>
+      <description>SenseTime news (SenseNova releases): 1 entri model baru
+
+Ditambahkan: sensenova-loop-9b</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1794972615154-artificial-analysis-llm-leaderboard-70b0ca1e</guid>
+      <pubDate>Wed, 18 Nov 2026 03:30:14 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 54 baris hasil benchmark ditambahkan, 53 dihapus</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/invoker-render-1.0</title>
+      <link>https://huggingface.co/inclusionai/invoker-render-1.0</link>
+      <guid isPermaLink="false">1794971762202-inclusionai-official-model-weights-4455d333</guid>
+      <pubDate>Wed, 18 Nov 2026 03:16:01 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/invoker-render-1.0</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan kling-image-4.0</title>
+      <link>https://x.com/i/web/status/2122872423699914837</link>
+      <guid isPermaLink="false">1794967307892-official-x-model-posts-3-5038a920</guid>
+      <pubDate>Wed, 18 Nov 2026 02:01:46 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: kling-image-4.0</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1794965200619-artificial-analysis-llm-leaderboard-3bbec251</guid>
@@ -63,65 +129,6 @@ Ditambahkan: gpt-6.2-astra, gpt-6.2-astra-fast, gpt-6.2-astra-ultrafast, gpt-6.2
       <description>Kling AI video model docs: 4 entri model baru
 
 Ditambahkan: kling-image-2.1, kling-image-3.0, kling-image-3.0-omni, kling-image-o1</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1794950151156-artificial-analysis-api-free-7d6f2358</guid>
-      <pubDate>Tue, 17 Nov 2026 21:15:50 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 11 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Codex: 2 new model leaks</title>
-      <link>https://github.com/openai/codex/blob/main/codex-rs/models-manager/models.json</link>
-      <guid isPermaLink="false">1794945999560-codex-models-json-44fbb350</guid>
-      <pubDate>Tue, 17 Nov 2026 20:06:39 GMT</pubDate>
-      <description>Codex models.json: 2 new model leaks
-
-Ditambahkan: gpt-6.2-astra, gpt-6.2-sol</description>
-    </item>
-    <item>
-      <title>Codex: 2 new model leaks</title>
-      <link>https://github.com/openai/codex/blob/6c0cee502d215e5df2dd9a303cf2e252229c9e12/codex-rs/model-provider/src/amazon_bedrock/catalog.rs</link>
-      <guid isPermaLink="false">1794945913142-openai-codex-official-code-models-6d728e99</guid>
-      <pubDate>Tue, 17 Nov 2026 20:05:11 GMT</pubDate>
-      <description>openai/codex official code model references: 2 new model leaks
-
-Ditambahkan: gpt-6.2-astra, gpt-6.2-sol</description>
-    </item>
-    <item>
-      <title>Microsoft menghapus microsoft-decision-1</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
-      <guid isPermaLink="false">1794945692399-microsoft-models-docs-123ea21b-confirmed-removal</guid>
-      <pubDate>Tue, 17 Nov 2026 20:01:31 GMT</pubDate>
-      <description>Microsoft Foundry model docs: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan microsoft-decision-1.1</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models</link>
-      <guid isPermaLink="false">1794945380494-microsoft-models-docs-123ea21b</guid>
-      <pubDate>Tue, 17 Nov 2026 19:56:19 GMT</pubDate>
-      <description>Microsoft Foundry model docs: 1 entri model baru
-
-Ditambahkan: microsoft-decision-1.1</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan mai-image-2.7</title>
-      <link>https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote</link>
-      <guid isPermaLink="false">1794944858281-microsoft-ai-news-sitemap-31247606-model-page</guid>
-      <pubDate>Tue, 17 Nov 2026 19:47:37 GMT</pubDate>
-      <description>Microsoft AI newsroom: 1 entri model baru
-
-Ditambahkan: mai-image-2.7</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1794941153980-openrouter-models-33a09737</guid>
-      <pubDate>Tue, 17 Nov 2026 18:45:30 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: heygen/heygen-avatar-6, heygen/heygen-avatar-6-turbo</description>
     </item>
   </channel>
 </rss>

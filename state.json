@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792024547285-artificial-analysis-llm-leaderboard-562cdfca",
-    "1792026432552-artificial-analysis-llm-leaderboard-2611ad2c",
-    "1792027841935-deepswe-benchlm-mirror-8294aa3b",
-    "1792029632511-stepfun-official-model-weights-70c73bda",
-    "1792036081580-factory-droid-registry-ae076362",
     "1792061710782-volcengine-ark-model-docs-f5f61389",
     "1792062479013-fal-media-models-3a3db375",
     "1792076427526-microsoft-command-line-sitemap-e3f8ceed-new-page",
@@ -499,6 +494,11 @@
     "1794944858281-microsoft-ai-news-sitemap-31247606-model-page",
     "1794945380494-microsoft-models-docs-123ea21b",
     "1794945692399-microsoft-models-docs-123ea21b-confirmed-removal",
-    "1794945913142-openai-codex-official-code-models-6d728e99"
+    "1794945913142-openai-codex-official-code-models-6d728e99",
+    "1794951485385-kling-video-model-docs-ebf6b70d",
+    "1794952669765-factory-droid-registry-5e85b333",
+    "1794959010750-artificial-analysis-llm-leaderboard-3dae0ed2",
+    "1794960160274-github-copilot-native-models-8822bacf",
+    "1794963114707-arena-live-model-roster-a38f1b57"
   ]
 }
