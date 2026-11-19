@@ -6,6 +6,101 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cognition SWE menambahkan gemini-4-neon</title>
+      <link>https://docs.devin.ai/desktop/models</link>
+      <guid isPermaLink="false">1795129496760-devin-desktop-models-docs-db247d88</guid>
+      <pubDate>Thu, 19 Nov 2026 23:04:56 GMT</pubDate>
+      <description>Devin desktop models docs: 1 entri model baru
+
+Ditambahkan: gemini-4-neon</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): elevenlabs/scribe-v3</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/1554ff7eee46961608094c05e3d6bc2105eb6805/src/content/catalog-models/elevenlabs-scribe-v3.json</link>
+      <guid isPermaLink="false">1795126600113-cloudflare-gateway-catalog-a217e06e</guid>
+      <pubDate>Thu, 19 Nov 2026 22:16:38 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: elevenlabs/scribe-v3</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): gpt-live-1.1</title>
+      <link>https://github.com/openai/openai-python/blob/a51f13999c3546b1dd9a29d57ddde7f95ae389d6/src/openai/types/live/media_session_config_param.py</link>
+      <guid isPermaLink="false">1795120357405-openai-sdk-models-0a51e83b</guid>
+      <pubDate>Thu, 19 Nov 2026 20:32:36 GMT</pubDate>
+      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gpt-live-1.1</description>
+    </item>
+    <item>
+      <title>Bocoran model ChatGPT/OpenAI: gpt-live-1.1</title>
+      <link>https://github.com/openai/openai-openapi/commit/bebf437cb004aafaab80f26f458d6e43674fc354</link>
+      <guid isPermaLink="false">1795119435434-openai-openapi-spec-models-8490e8b6</guid>
+      <pubDate>Thu, 19 Nov 2026 20:17:10 GMT</pubDate>
+      <description>OpenAI API spec: 1 bocoran model baru
+
+Ditambahkan: gpt-live-1.1</description>
+    </item>
+    <item>
+      <title>Grok/xAI menghapus grok-build-0.1</title>
+      <link>https://docs.x.ai/docs/overview</link>
+      <guid isPermaLink="false">1795119226926-xai-docs-overview-14c7c91f</guid>
+      <pubDate>Thu, 19 Nov 2026 20:13:44 GMT</pubDate>
+      <description>xAI docs overview: 1 removed model entry</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-live-1.1</title>
+      <link>https://x.com/i/web/status/2123506733524136446</link>
+      <guid isPermaLink="false">1795118450403-official-x-model-posts-2-a36fb902</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:50 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 entri model baru
+
+Ditambahkan: gpt-live-1.1</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menghapus 3 models</title>
+      <link>https://platform.openai.com/docs/models</link>
+      <guid isPermaLink="false">1795118428744-openai-models-docs-50af339e-confirmed-removal</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:27 GMT</pubDate>
+      <description>OpenAI model docs: 3 removed model entries</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-live-1.1</title>
+      <link>https://developers.openai.com/api/docs/changelog</link>
+      <guid isPermaLink="false">1795118124158-openai-api-changelog-cdb997fd</guid>
+      <pubDate>Thu, 19 Nov 2026 19:55:23 GMT</pubDate>
+      <description>OpenAI API changelog: 1 entri model baru
+
+Ditambahkan: gpt-live-1.1</description>
+    </item>
+    <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-live-1.1</title>
+      <link>https://api.openai.com/v1/models</link>
+      <guid isPermaLink="false">1795117990718-openai-api-models-fecffe84</guid>
+      <pubDate>Thu, 19 Nov 2026 19:53:09 GMT</pubDate>
+      <description>OpenAI API models: 1 entri model baru
+
+Ditambahkan: gpt-live-1.1</description>
+    </item>
+    <item>
+      <title>Social posts announced muse-wonder</title>
+      <link>https://x.com/i/web/status/2123484005089558692</link>
+      <guid isPermaLink="false">1795113127514-official-x-model-posts-2-215f4d5d</guid>
+      <pubDate>Thu, 19 Nov 2026 18:32:06 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 model announced
+
+Ditambahkan: muse-wonder</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan ideogram-4.6</title>
+      <link>https://api.fal.ai/v1/models</link>
+      <guid isPermaLink="false">1795108531060-fal-media-models-9bcaabc1</guid>
+      <pubDate>Thu, 19 Nov 2026 17:13:56 GMT</pubDate>
+      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
+
+Ditambahkan: ideogram-4.6</description>
+    </item>
+    <item>
       <title>Image, video &amp; audio labs menambahkan ideogram-4.6</title>
       <link>https://x.com/i/web/status/2123461101224624402</link>
       <guid isPermaLink="false">1795107576304-official-x-model-posts-3-85a53db7</guid>
@@ -99,97 +194,6 @@ Ditambahkan: kimi-k3</description>
       <description>Official AI lab posts on X (group 3): 1 model announced
 
 Ditambahkan: kling-image-4.0</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1795052936437-artificial-analysis-llm-leaderboard-476a5b58</guid>
-      <pubDate>Thu, 19 Nov 2026 01:48:55 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 13 baris hasil benchmark ditambahkan, 12 dihapus</description>
-    </item>
-    <item>
-      <title>Gemini code reference: gemini-4-neon</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-cli/1.5.12-5281398513336320/linux-arm/cli_linux_arm64.tar.gz</link>
-      <guid isPermaLink="false">1795048078187-google-antigravity-cli-models-e0b373a8</guid>
-      <pubDate>Thu, 19 Nov 2026 00:27:21 GMT</pubDate>
-      <description>Google Antigravity CLI model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1795047758398-artificial-analysis-api-free-669f5f07</guid>
-      <pubDate>Thu, 19 Nov 2026 00:22:36 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 4 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/anthropic-prices-initial-public-offering</link>
-      <guid isPermaLink="false">1795044601435-anthropic-news-29fe7aa3-new-page</guid>
-      <pubDate>Wed, 18 Nov 2026 23:30:00 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI: 2 models announced</title>
-      <link>https://x.com/i/web/status/2123188195202617408</link>
-      <guid isPermaLink="false">1795042506460-official-x-model-posts-2-2ba2a6cf</guid>
-      <pubDate>Wed, 18 Nov 2026 22:55:04 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 2 models announced
-
-Ditambahkan: gpt-6.2-astra, gpt-6.2-sol</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1795038640713-artificial-analysis-llm-leaderboard-5e019da8</guid>
-      <pubDate>Wed, 18 Nov 2026 21:50:40 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 119 baris hasil benchmark ditambahkan, 115 dihapus</description>
-    </item>
-    <item>
-      <title>Cloudflare/Clef menambahkan 2 models</title>
-      <link>https://huggingface.co/cloudflare/clairic</link>
-      <guid isPermaLink="false">1795038327366-cloudflare-official-model-weights-fe70bd4a</guid>
-      <pubDate>Wed, 18 Nov 2026 21:45:27 GMT</pubDate>
-      <description>Cloudflare official model weights: 2 entri model baru
-
-Ditambahkan: cloudflare/clairic, cloudflare/clairic-flash</description>
-    </item>
-    <item>
-      <title>Gemini announced gemini-4-neon</title>
-      <link>https://x.com/i/web/status/2123168242797809944</link>
-      <guid isPermaLink="false">1795037744482-official-x-model-posts-f0d30e37</guid>
-      <pubDate>Wed, 18 Nov 2026 21:35:44 GMT</pubDate>
-      <description>Official AI lab posts on X: 1 model announced
-
-Ditambahkan: gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-4-neon</title>
-      <link>https://x.com/i/web/status/2123167884411077030</link>
-      <guid isPermaLink="false">1795037666436-official-x-model-posts-2-391ca30b</guid>
-      <pubDate>Wed, 18 Nov 2026 21:34:25 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: gemini-4-neon</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan google/gemini-4-neon</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795036200273-openrouter-models-a06f6e5e</guid>
-      <pubDate>Wed, 18 Nov 2026 21:09:43 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: google/gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan gemini-4-neon</title>
-      <link>https://ai.google.dev/gemini-api/docs/models</link>
-      <guid isPermaLink="false">1795034710709-gemini-api-models-332eb2e3</guid>
-      <pubDate>Wed, 18 Nov 2026 20:45:10 GMT</pubDate>
-      <description>Gemini API models: 1 entri model baru
-
-Ditambahkan: gemini-4-neon</description>
     </item>
   </channel>
 </rss>
