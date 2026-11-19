@@ -6,6 +6,65 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>NVIDIA menambahkan 2 models</title>
+      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
+      <guid isPermaLink="false">1795070752870-nvidia-nim-models-docs-ed337260</guid>
+      <pubDate>Thu, 19 Nov 2026 06:43:02 GMT</pubDate>
+      <description>NVIDIA NIM model release notes: 2 entri model baru
+
+Ditambahkan: nemotron-3-ultra-550b-a55b-vr, nemotron-3-ultra-550b-a55b-vr-nvl72</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added sensenova-u1-pro</title>
+      <link>https://www.sensetime.com/cn/news</link>
+      <guid isPermaLink="false">1795069931901-sensetime-news-models-5e8393f5</guid>
+      <pubDate>Thu, 19 Nov 2026 06:32:09 GMT</pubDate>
+      <description>SenseTime news (SenseNova releases): 1 entri model baru
+
+Ditambahkan: sensenova-u1-pro</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): gemini-4-neon</title>
+      <link>https://downloads.factory.ai/factory-cli/releases/1.15.0/linux/x64/droid</link>
+      <guid isPermaLink="false">1795066512307-factory-droid-registry-f4823450</guid>
+      <pubDate>Thu, 19 Nov 2026 05:35:05 GMT</pubDate>
+      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-4-neon</description>
+    </item>
+    <item>
+      <title>Bocoran model Kimi/Moonshot: kimi-k3</title>
+      <link>https://github.com/MoonshotAI/kimi-code/blob/5db75e0c20dd74fa92225f26c95116fcc4594cb1/packages/app-i18n/src/locales/en/providers.ts</link>
+      <guid isPermaLink="false">1795064410012-moonshot-kimi-code-official-code-models-ddadb618</guid>
+      <pubDate>Thu, 19 Nov 2026 05:00:08 GMT</pubDate>
+      <description>MoonshotAI/kimi-code official code model references: 1 bocoran model baru
+
+Ditambahkan: kimi-k3</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1795063461654-artificial-analysis-api-free-ab5f2f8e</guid>
+      <pubDate>Thu, 19 Nov 2026 04:44:19 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs announced kling-image-4.0</title>
+      <link>https://x.com/i/web/status/2123265036810649680</link>
+      <guid isPermaLink="false">1795060818849-official-x-model-posts-3-736a27e9</guid>
+      <pubDate>Thu, 19 Nov 2026 04:00:18 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 model announced
+
+Ditambahkan: kling-image-4.0</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1795052936437-artificial-analysis-llm-leaderboard-476a5b58</guid>
+      <pubDate>Thu, 19 Nov 2026 01:48:55 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 13 baris hasil benchmark ditambahkan, 12 dihapus</description>
+    </item>
+    <item>
       <title>Gemini code reference: gemini-4-neon</title>
       <link>https://storage.googleapis.com/antigravity-public/antigravity-cli/1.5.12-5281398513336320/linux-arm/cli_linux_arm64.tar.gz</link>
       <guid isPermaLink="false">1795048078187-google-antigravity-cli-models-e0b373a8</guid>
@@ -203,22 +262,6 @@ Ditambahkan: microsoft-decision-1.1</description>
       <guid isPermaLink="false">1795011656997-artificial-analysis-api-free-08e9d2db</guid>
       <pubDate>Wed, 18 Nov 2026 14:20:55 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 5 baris hasil benchmark ditambahkan, 4 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1794999089621-artificial-analysis-llm-leaderboard-3e518970</guid>
-      <pubDate>Wed, 18 Nov 2026 10:51:27 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 31 baris hasil benchmark ditambahkan, 26 dihapus</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan qwen4-max</title>
-      <link>https://dashscope-intl.aliyuncs.com/compatible-mode/v1/models</link>
-      <guid isPermaLink="false">1794986641915-alibaba-model-studio-models-78ac8294</guid>
-      <pubDate>Wed, 18 Nov 2026 07:24:01 GMT</pubDate>
-      <description>Alibaba Model Studio Qwen models: 1 entri model baru
-
-Ditambahkan: qwen4-max</description>
     </item>
   </channel>
 </rss>
