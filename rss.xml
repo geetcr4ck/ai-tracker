@@ -6,6 +6,119 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1795206905816-artificial-analysis-llm-leaderboard-19155c33</guid>
+      <pubDate>Fri, 20 Nov 2026 20:35:05 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 44 baris hasil benchmark ditambahkan, 43 dihapus</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: inkling-2-mini</title>
+      <link>https://artificialanalysis.ai/models/inkling-2-mini</link>
+      <guid isPermaLink="false">1795205665425-artificial-analysis-model-discovery-55fccb3c</guid>
+      <pubDate>Fri, 20 Nov 2026 20:14:25 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: inkling-2-mini</description>
+    </item>
+    <item>
+      <title>Thinking Machines menambahkan thinkingmachines/inkling-2-mini</title>
+      <link>https://tinker-docs.thinkingmachines.ai/tinker/models.json</link>
+      <guid isPermaLink="false">1795205119830-thinking-machines-models-catalog-94d8e615</guid>
+      <pubDate>Fri, 20 Nov 2026 20:05:19 GMT</pubDate>
+      <description>Thinking Machines training model catalog: 1 entri model baru
+
+Ditambahkan: thinkingmachines/inkling-2-mini</description>
+    </item>
+    <item>
+      <title>Thinking Machines code reference: inkling-2-mini</title>
+      <link>https://github.com/thinking-machines-lab/tinker-cookbook/blob/37261cae3d3ff11f08573b2a84a4d44c809c38f3/tinker_cookbook/model_info.py</link>
+      <guid isPermaLink="false">1795205112798-thinking-machines-official-code-models-288a4c10</guid>
+      <pubDate>Fri, 20 Nov 2026 20:05:10 GMT</pubDate>
+      <description>Thinking Machines Tinker cookbook model references: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: inkling-2-mini</description>
+    </item>
+    <item>
+      <title>Thinking Machines menambahkan 2 models</title>
+      <link>https://huggingface.co/thinkingmachines/inkling-2-mini</link>
+      <guid isPermaLink="false">1795205038992-thinking-machines-official-model-weights-c31f8980</guid>
+      <pubDate>Fri, 20 Nov 2026 20:03:58 GMT</pubDate>
+      <description>Thinking Machines official model weights: 2 entri model baru
+
+Ditambahkan: thinkingmachines/inkling-2-mini, thinkingmachines/tml-d24-varloop-research</description>
+    </item>
+    <item>
+      <title>Thinking Machines menambahkan inkling-2</title>
+      <link>https://thinkingmachines.ai/news/inkling-2-mini</link>
+      <guid isPermaLink="false">1795205032201-thinking-machines-model-announcements-065a9eec-model-page-release</guid>
+      <pubDate>Fri, 20 Nov 2026 20:03:51 GMT</pubDate>
+      <description>Thinking Machines official model announcements: 1 entri model baru
+
+Ditambahkan: inkling-2</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://github.com/cloudflare/cloudflare-docs/blob/36c2afbfb0b8a8381cb2c3fb8ff3de0f70a315b2/src/content/catalog-models/bytedance-seedream-5.5.json</link>
+      <guid isPermaLink="false">1795198620815-cloudflare-gateway-catalog-681a6712</guid>
+      <pubDate>Fri, 20 Nov 2026 18:16:59 GMT</pubDate>
+      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: bytedance/seedream-5.5, deepseek-ai/deepseek-v4.1-flash-1017</description>
+    </item>
+    <item>
+      <title>Gemini code reference: gemini-4-neon</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.33.1-5402359824777216/linux-arm/Antigravity.tar.gz</link>
+      <guid isPermaLink="false">1795198571220-google-antigravity-desktop-models-01c8d5da</guid>
+      <pubDate>Fri, 20 Nov 2026 18:15:03 GMT</pubDate>
+      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-4-neon</description>
+    </item>
+    <item>
+      <title>Gemini menambahkan 2 models</title>
+      <link>https://x.com/i/web/status/2123828467124851025</link>
+      <guid isPermaLink="false">1795195165724-official-x-model-posts-dc91957d</guid>
+      <pubDate>Fri, 20 Nov 2026 17:19:25 GMT</pubDate>
+      <description>Official AI lab posts on X: 2 entri model baru
+
+Ditambahkan: gemini-3.5-transcribe, gemini-4-neon</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://commandline.microsoft.com/</link>
+      <guid isPermaLink="false">1795195129256-microsoft-command-line-sitemap-0a403362-new-page</guid>
+      <pubDate>Fri, 20 Nov 2026 17:18:47 GMT</pubDate>
+      <description>Microsoft Command Line blog: halaman web baru</description>
+    </item>
+    <item>
+      <title>Grok/xAI menambahkan grok-build-0.1</title>
+      <link>https://docs.x.ai/developers/models</link>
+      <guid isPermaLink="false">1795187815914-xai-models-docs-f55518f3</guid>
+      <pubDate>Fri, 20 Nov 2026 15:16:55 GMT</pubDate>
+      <description>xAI Grok models docs: 1 entri model baru
+
+Ditambahkan: grok-build-0.1</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): model identifiers</title>
+      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.115-2.tgz</link>
+      <guid isPermaLink="false">1795185850123-github-copilot-native-models-690aefd3</guid>
+      <pubDate>Fri, 20 Nov 2026 14:42:42 GMT</pubDate>
+      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-4, opus-4-0, sonnet55</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: gemini-4-neon</title>
+      <link>https://artificialanalysis.ai/models/gemini-4-neon</link>
+      <guid isPermaLink="false">1795182183437-artificial-analysis-model-discovery-9f6bc9d8</guid>
+      <pubDate>Fri, 20 Nov 2026 13:42:59 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: gemini-4-neon</description>
+    </item>
+    <item>
       <title>Halaman web baru Claude</title>
       <link>https://www.anthropic.com/news/ipo-close</link>
       <guid isPermaLink="false">1795178671309-anthropic-news-075ecff4-new-page</guid>
@@ -160,33 +273,6 @@ Ditambahkan: gpt-live-1.1</description>
       <description>OpenAI API models: 1 entri model baru
 
 Ditambahkan: gpt-live-1.1</description>
-    </item>
-    <item>
-      <title>Social posts announced muse-wonder</title>
-      <link>https://x.com/i/web/status/2123484005089558692</link>
-      <guid isPermaLink="false">1795113127514-official-x-model-posts-2-215f4d5d</guid>
-      <pubDate>Thu, 19 Nov 2026 18:32:06 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 model announced
-
-Ditambahkan: muse-wonder</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan ideogram-4.6</title>
-      <link>https://api.fal.ai/v1/models</link>
-      <guid isPermaLink="false">1795108531060-fal-media-models-9bcaabc1</guid>
-      <pubDate>Thu, 19 Nov 2026 17:13:56 GMT</pubDate>
-      <description>fal.ai model list (image, video and audio labs): 1 entri model baru
-
-Ditambahkan: ideogram-4.6</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan ideogram-4.6</title>
-      <link>https://x.com/i/web/status/2123461101224624402</link>
-      <guid isPermaLink="false">1795107576304-official-x-model-posts-3-85a53db7</guid>
-      <pubDate>Thu, 19 Nov 2026 16:59:36 GMT</pubDate>
-      <description>Official AI lab posts on X (group 3): 1 entri model baru
-
-Ditambahkan: ideogram-4.6</description>
     </item>
   </channel>
 </rss>
