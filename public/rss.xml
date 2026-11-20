@@ -6,6 +6,58 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Halaman web baru Claude</title>
+      <link>https://www.anthropic.com/news/ipo-close</link>
+      <guid isPermaLink="false">1795178671309-anthropic-news-075ecff4-new-page</guid>
+      <pubDate>Fri, 20 Nov 2026 12:44:30 GMT</pubDate>
+      <description>Anthropic news: halaman web baru</description>
+    </item>
+    <item>
+      <title>Social posts announced hy4</title>
+      <link>https://x.com/i/web/status/2123710690968191111</link>
+      <guid isPermaLink="false">1795167072485-official-x-model-posts-2-f267388a</guid>
+      <pubDate>Fri, 20 Nov 2026 09:31:11 GMT</pubDate>
+      <description>Official AI lab posts on X (group 2): 1 model announced
+
+Ditambahkan: hy4</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lingsante-pulse-1.0</title>
+      <link>https://huggingface.co/inclusionai/lingsante-pulse-1.0</link>
+      <guid isPermaLink="false">1795166342537-inclusionai-official-model-weights-384a7617</guid>
+      <pubDate>Fri, 20 Nov 2026 09:19:01 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/lingsante-pulse-1.0</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/lingsante-pulse-1.0</title>
+      <link>https://huggingface.co/inclusionai/lingsante-pulse-1.0</link>
+      <guid isPermaLink="false">1795166301134-official-huggingface-new-models-eae6bb9e</guid>
+      <pubDate>Fri, 20 Nov 2026 09:18:15 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: inclusionai/lingsante-pulse-1.0</description>
+    </item>
+    <item>
+      <title>Tencent Hunyuan/Hy menambahkan tencent/wemm-video-9b</title>
+      <link>https://huggingface.co/tencent/wemm-video-9b</link>
+      <guid isPermaLink="false">1795152291597-tencent-official-model-weights-9bdfe798</guid>
+      <pubDate>Fri, 20 Nov 2026 05:24:48 GMT</pubDate>
+      <description>Tencent Hy official model weights: 1 entri model baru
+
+Ditambahkan: tencent/wemm-video-9b</description>
+    </item>
+    <item>
+      <title>Tencent Hunyuan/Hy menambahkan 3 models</title>
+      <link>https://huggingface.co/tencent/wemm-video-2b</link>
+      <guid isPermaLink="false">1795151798693-tencent-official-model-weights-fc50dbbd</guid>
+      <pubDate>Fri, 20 Nov 2026 05:16:36 GMT</pubDate>
+      <description>Tencent Hy official model weights: 3 entri model baru
+
+Ditambahkan: tencent/wemm-video-2b, tencent/wemm-video-35ba3b, tencent/wemm-video-4b</description>
+    </item>
+    <item>
       <title>Tencent Hunyuan/Hy menambahkan tencent/hy4</title>
       <link>https://huggingface.co/tencent/hy4</link>
       <guid isPermaLink="false">1795143118799-tencent-official-model-weights-9144d216</guid>
@@ -135,67 +187,6 @@ Ditambahkan: ideogram-4.6</description>
       <description>Official AI lab posts on X (group 3): 1 entri model baru
 
 Ditambahkan: ideogram-4.6</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added 2 models</title>
-      <link>https://huggingface.co/inclusionAI/DeepSeek-V4.1-Flash-1017-singprobe</link>
-      <guid isPermaLink="false">1795088895179-huggingface-observed-publish-6ece6e66</guid>
-      <pubDate>Thu, 19 Nov 2026 11:48:09 GMT</pubDate>
-      <description>Hugging Face: 2 entri model baru
-
-Ditambahkan: inclusionai/deepseek-v4.1-flash-1017-singprobe, inclusionai/ling-3.1-flash-1019-singprobe</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added 2 models</title>
-      <link>https://huggingface.co/inclusionai/deepseek-v4.1-flash-1017-singprobe</link>
-      <guid isPermaLink="false">1795088247720-official-huggingface-new-models-cfe9e9ad</guid>
-      <pubDate>Thu, 19 Nov 2026 11:37:26 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 2 entri model baru
-
-Ditambahkan: inclusionai/deepseek-v4.1-flash-1017-singprobe, inclusionai/ling-3.1-flash-1019-singprobe</description>
-    </item>
-    <item>
-      <title>OpenRouter menghapus 4 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795081613552-openrouter-models-98cb55d0-confirmed-removal</guid>
-      <pubDate>Thu, 19 Nov 2026 09:46:27 GMT</pubDate>
-      <description>OpenRouter model catalog: 4 removed model entries</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan tencent/wevisforensics</title>
-      <link>https://huggingface.co/tencent/wevisforensics</link>
-      <guid isPermaLink="false">1795076070424-tencent-official-model-weights-06bbde01</guid>
-      <pubDate>Thu, 19 Nov 2026 08:14:29 GMT</pubDate>
-      <description>Tencent Hy official model weights: 1 entri model baru
-
-Ditambahkan: tencent/wevisforensics</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan 2 models</title>
-      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
-      <guid isPermaLink="false">1795070752870-nvidia-nim-models-docs-ed337260</guid>
-      <pubDate>Thu, 19 Nov 2026 06:43:02 GMT</pubDate>
-      <description>NVIDIA NIM model release notes: 2 entri model baru
-
-Ditambahkan: nemotron-3-ultra-550b-a55b-vr, nemotron-3-ultra-550b-a55b-vr-nvl72</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added sensenova-u1-pro</title>
-      <link>https://www.sensetime.com/cn/news</link>
-      <guid isPermaLink="false">1795069931901-sensetime-news-models-5e8393f5</guid>
-      <pubDate>Thu, 19 Nov 2026 06:32:09 GMT</pubDate>
-      <description>SenseTime news (SenseNova releases): 1 entri model baru
-
-Ditambahkan: sensenova-u1-pro</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): gemini-4-neon</title>
-      <link>https://downloads.factory.ai/factory-cli/releases/1.15.0/linux/x64/droid</link>
-      <guid isPermaLink="false">1795066512307-factory-droid-registry-f4823450</guid>
-      <pubDate>Thu, 19 Nov 2026 05:35:05 GMT</pubDate>
-      <description>Factory Droid packaged model registry: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4-neon</description>
     </item>
   </channel>
 </rss>
