@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792127999967-official-huggingface-new-models-60492139",
-    "1792129372194-official-huggingface-new-models-851c52da",
-    "1792156480004-artificial-analysis-api-free-00f14685",
-    "1792156964562-artificial-analysis-llm-leaderboard-73c2a760",
-    "1792159437862-artificial-analysis-api-free-4908fa61",
     "1792160163476-artificial-analysis-llm-leaderboard-8e2c2da8",
     "1792160332034-official-huggingface-new-models-2136834b",
     "1792161377595-official-huggingface-new-models-51fb8ca2",
@@ -499,6 +494,11 @@
     "1795063461654-artificial-analysis-api-free-ab5f2f8e",
     "1795064410012-moonshot-kimi-code-official-code-models-ddadb618",
     "1795066512307-factory-droid-registry-f4823450",
-    "1795069931901-sensetime-news-models-5e8393f5"
+    "1795069931901-sensetime-news-models-5e8393f5",
+    "1795070752870-nvidia-nim-models-docs-ed337260",
+    "1795076070424-tencent-official-model-weights-06bbde01",
+    "1795081613552-openrouter-models-98cb55d0-confirmed-removal",
+    "1795088247720-official-huggingface-new-models-cfe9e9ad",
+    "1795088895179-huggingface-observed-publish-6ece6e66"
   ]
 }
