@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792248186733-official-x-model-posts-2-f65b9a3f",
-    "1792258302375-arena-live-model-roster-6a13e141",
-    "1792263070815-alibaba-model-studio-partner-models-3e8802e1",
-    "1792271891107-openrouter-models-1ea281b0",
-    "1792281549482-arena-live-model-roster-d4501255",
     "1792292199330-nvidia-official-model-weights-6f7c1153",
     "1792326141011-volcengine-ark-model-docs-683f768e",
     "1792346863728-anthropic-news-f98f84d3-new-page",
@@ -499,6 +494,11 @@
     "1795195129256-microsoft-command-line-sitemap-0a403362-new-page",
     "1795195165724-official-x-model-posts-dc91957d",
     "1795198571220-google-antigravity-desktop-models-01c8d5da",
-    "1795198620815-cloudflare-gateway-catalog-681a6712"
+    "1795198620815-cloudflare-gateway-catalog-681a6712",
+    "1795205032201-thinking-machines-model-announcements-065a9eec-model-page-release",
+    "1795205038992-thinking-machines-official-model-weights-c31f8980",
+    "1795205112798-thinking-machines-official-code-models-288a4c10",
+    "1795205119830-thinking-machines-models-catalog-94d8e615",
+    "1795205665425-artificial-analysis-model-discovery-55fccb3c"
   ]
 }

@@ -161,14 +161,5 @@ Ditambahkan: gemini-3.5-transcribe, gemini-4-neon</description>
       <pubDate>Fri, 20 Nov 2026 17:18:47 GMT</pubDate>
       <description>Microsoft Command Line blog: halaman web baru</description>
     </item>
-    <item>
-      <title>Grok/xAI menambahkan grok-build-0.1</title>
-      <link>https://docs.x.ai/developers/models</link>
-      <guid isPermaLink="false">1795187815914-xai-models-docs-f55518f3</guid>
-      <pubDate>Fri, 20 Nov 2026 15:16:55 GMT</pubDate>
-      <description>xAI Grok models docs: 1 entri model baru
-
-Ditambahkan: grok-build-0.1</description>
-    </item>
   </channel>
 </rss>
