@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan thinkingmachines/inkling-2-mini</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795230396604-openrouter-models-cdaf5e76</guid>
+      <pubDate>Sat, 21 Nov 2026 03:06:35 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: thinkingmachines/inkling-2-mini</description>
+    </item>
+    <item>
+      <title>Gemini code reference: model identifiers</title>
+      <link>https://antigravity.google/docs/ide/extensions</link>
+      <guid isPermaLink="false">1795227652865-google-antigravity-acp-models-e36b7a3c</guid>
+      <pubDate>Sat, 21 Nov 2026 02:18:20 GMT</pubDate>
+      <description>Google Antigravity ACP server model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-4-hydrogen, gemini-4-neon</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan radixark/daisyrose-27b</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1795222053416-openrouter-models-6a0186be</guid>
@@ -194,60 +212,6 @@ Ditambahkan: hy4</description>
       <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
 
 Ditambahkan: inclusionai/lingsante-pulse-1.0</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added inclusionai/lingsante-pulse-1.0</title>
-      <link>https://huggingface.co/inclusionai/lingsante-pulse-1.0</link>
-      <guid isPermaLink="false">1795166301134-official-huggingface-new-models-eae6bb9e</guid>
-      <pubDate>Fri, 20 Nov 2026 09:18:15 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: inclusionai/lingsante-pulse-1.0</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan tencent/wemm-video-9b</title>
-      <link>https://huggingface.co/tencent/wemm-video-9b</link>
-      <guid isPermaLink="false">1795152291597-tencent-official-model-weights-9bdfe798</guid>
-      <pubDate>Fri, 20 Nov 2026 05:24:48 GMT</pubDate>
-      <description>Tencent Hy official model weights: 1 entri model baru
-
-Ditambahkan: tencent/wemm-video-9b</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan 3 models</title>
-      <link>https://huggingface.co/tencent/wemm-video-2b</link>
-      <guid isPermaLink="false">1795151798693-tencent-official-model-weights-fc50dbbd</guid>
-      <pubDate>Fri, 20 Nov 2026 05:16:36 GMT</pubDate>
-      <description>Tencent Hy official model weights: 3 entri model baru
-
-Ditambahkan: tencent/wemm-video-2b, tencent/wemm-video-35ba3b, tencent/wemm-video-4b</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan tencent/hy4</title>
-      <link>https://huggingface.co/tencent/hy4</link>
-      <guid isPermaLink="false">1795143118799-tencent-official-model-weights-9144d216</guid>
-      <pubDate>Fri, 20 Nov 2026 02:51:56 GMT</pubDate>
-      <description>Tencent Hy official model weights: 1 entri model baru
-
-Ditambahkan: tencent/hy4</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: open weights: tencent/hy4</title>
-      <link>https://huggingface.co/tencent/Hy4</link>
-      <guid isPermaLink="false">1795142953155-huggingface-observed-publish-ba1dccea</guid>
-      <pubDate>Fri, 20 Nov 2026 02:49:04 GMT</pubDate>
-      <description>Hugging Face: open weights available for 1 model
-
-Ditambahkan: tencent/hy4</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 3 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795142836941-openrouter-models-6ba6e535</guid>
-      <pubDate>Fri, 20 Nov 2026 02:47:10 GMT</pubDate>
-      <description>OpenRouter model catalog: 3 entri model baru
-
-Ditambahkan: google/gemini-2.5-flash-tts, google/gemini-2.5-pro-tts, mistralai/pixtral-large-2502</description>
     </item>
   </channel>
 </rss>
