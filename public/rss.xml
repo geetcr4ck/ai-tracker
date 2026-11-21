@@ -6,6 +6,58 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan radixark/daisyrose-27b</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795222053416-openrouter-models-6a0186be</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:31 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: radixark/daisyrose-27b</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1795215754958-artificial-analysis-api-free-7011fdda</guid>
+      <pubDate>Fri, 20 Nov 2026 23:02:32 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795214374440-openrouter-models-0342fb70</guid>
+      <pubDate>Fri, 20 Nov 2026 22:39:33 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: perplexity/pplx-embed-v2-context-0.6b, perplexity/pplx-embed-v2-context-9b</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/api/v1/models</link>
+      <guid isPermaLink="false">1795211056738-openrouter-decision-models-e8f56293</guid>
+      <pubDate>Fri, 20 Nov 2026 21:44:16 GMT</pubDate>
+      <description>OpenRouter decision models: 2 entri model baru
+
+Ditambahkan: baseten/bison-1, baseten/groundhog-1</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan qwen/qwen3-tts-1.7b</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795211060668-openrouter-models-a0bd36cb</guid>
+      <pubDate>Fri, 20 Nov 2026 21:44:15 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: qwen/qwen3-tts-1.7b</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795210908847-openrouter-models-44f11373</guid>
+      <pubDate>Fri, 20 Nov 2026 21:41:48 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: baseten/bison-1, baseten/groundhog-1</description>
+    </item>
+    <item>
       <title>Hasil benchmark Artificial Analysis berubah</title>
       <link>https://artificialanalysis.ai/leaderboards/models</link>
       <guid isPermaLink="false">1795206905816-artificial-analysis-llm-leaderboard-19155c33</guid>
@@ -196,83 +248,6 @@ Ditambahkan: tencent/hy4</description>
       <description>OpenRouter model catalog: 3 entri model baru
 
 Ditambahkan: google/gemini-2.5-flash-tts, google/gemini-2.5-pro-tts, mistralai/pixtral-large-2502</description>
-    </item>
-    <item>
-      <title>Cognition SWE menambahkan gemini-4-neon</title>
-      <link>https://docs.devin.ai/desktop/models</link>
-      <guid isPermaLink="false">1795129496760-devin-desktop-models-docs-db247d88</guid>
-      <pubDate>Thu, 19 Nov 2026 23:04:56 GMT</pubDate>
-      <description>Devin desktop models docs: 1 entri model baru
-
-Ditambahkan: gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): elevenlabs/scribe-v3</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/1554ff7eee46961608094c05e3d6bc2105eb6805/src/content/catalog-models/elevenlabs-scribe-v3.json</link>
-      <guid isPermaLink="false">1795126600113-cloudflare-gateway-catalog-a217e06e</guid>
-      <pubDate>Thu, 19 Nov 2026 22:16:38 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: elevenlabs/scribe-v3</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): gpt-live-1.1</title>
-      <link>https://github.com/openai/openai-python/blob/a51f13999c3546b1dd9a29d57ddde7f95ae389d6/src/openai/types/live/media_session_config_param.py</link>
-      <guid isPermaLink="false">1795120357405-openai-sdk-models-0a51e83b</guid>
-      <pubDate>Thu, 19 Nov 2026 20:32:36 GMT</pubDate>
-      <description>OpenAI Python SDK model types: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gpt-live-1.1</description>
-    </item>
-    <item>
-      <title>Bocoran model ChatGPT/OpenAI: gpt-live-1.1</title>
-      <link>https://github.com/openai/openai-openapi/commit/bebf437cb004aafaab80f26f458d6e43674fc354</link>
-      <guid isPermaLink="false">1795119435434-openai-openapi-spec-models-8490e8b6</guid>
-      <pubDate>Thu, 19 Nov 2026 20:17:10 GMT</pubDate>
-      <description>OpenAI API spec: 1 bocoran model baru
-
-Ditambahkan: gpt-live-1.1</description>
-    </item>
-    <item>
-      <title>Grok/xAI menghapus grok-build-0.1</title>
-      <link>https://docs.x.ai/docs/overview</link>
-      <guid isPermaLink="false">1795119226926-xai-docs-overview-14c7c91f</guid>
-      <pubDate>Thu, 19 Nov 2026 20:13:44 GMT</pubDate>
-      <description>xAI docs overview: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-live-1.1</title>
-      <link>https://x.com/i/web/status/2123506733524136446</link>
-      <guid isPermaLink="false">1795118450403-official-x-model-posts-2-a36fb902</guid>
-      <pubDate>Thu, 19 Nov 2026 20:00:50 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 entri model baru
-
-Ditambahkan: gpt-live-1.1</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menghapus 3 models</title>
-      <link>https://platform.openai.com/docs/models</link>
-      <guid isPermaLink="false">1795118428744-openai-models-docs-50af339e-confirmed-removal</guid>
-      <pubDate>Thu, 19 Nov 2026 20:00:27 GMT</pubDate>
-      <description>OpenAI model docs: 3 removed model entries</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-live-1.1</title>
-      <link>https://developers.openai.com/api/docs/changelog</link>
-      <guid isPermaLink="false">1795118124158-openai-api-changelog-cdb997fd</guid>
-      <pubDate>Thu, 19 Nov 2026 19:55:23 GMT</pubDate>
-      <description>OpenAI API changelog: 1 entri model baru
-
-Ditambahkan: gpt-live-1.1</description>
-    </item>
-    <item>
-      <title>ChatGPT/OpenAI menambahkan gpt-live-1.1</title>
-      <link>https://api.openai.com/v1/models</link>
-      <guid isPermaLink="false">1795117990718-openai-api-models-fecffe84</guid>
-      <pubDate>Thu, 19 Nov 2026 19:53:09 GMT</pubDate>
-      <description>OpenAI API models: 1 entri model baru
-
-Ditambahkan: gpt-live-1.1</description>
     </item>
   </channel>
 </rss>

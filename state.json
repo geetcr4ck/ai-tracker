@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792180835810-official-x-model-posts-cf0ce6b3",
-    "1792182328429-openrouter-models-b022fee6",
-    "1792182446236-official-x-model-posts-d60e96ef",
-    "1792184661733-openrouter-models-1fdbe16b",
-    "1792185732222-arena-live-model-roster-42b20350",
     "1792192809887-factory-droid-registry-125307be",
     "1792194498021-openrouter-models-e666205d",
     "1792194772278-openrouter-models-7597ddc0",
@@ -499,6 +494,11 @@
     "1795118450403-official-x-model-posts-2-a36fb902",
     "1795119226926-xai-docs-overview-14c7c91f",
     "1795119435434-openai-openapi-spec-models-8490e8b6",
-    "1795120357405-openai-sdk-models-0a51e83b"
+    "1795120357405-openai-sdk-models-0a51e83b",
+    "1795142836941-openrouter-models-6ba6e535",
+    "1795142953155-huggingface-observed-publish-ba1dccea",
+    "1795143118799-tencent-official-model-weights-9144d216",
+    "1795151798693-tencent-official-model-weights-fc50dbbd",
+    "1795152291597-tencent-official-model-weights-9bdfe798"
   ]
 }
