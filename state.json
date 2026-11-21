@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792206785938-openrouter-models-b767f3c3",
-    "1792224391209-deepseek-official-model-weights-5236036f",
-    "1792225758685-openrouter-models-cd39672d",
-    "1792226168579-official-x-model-posts-2-2626d5c9",
-    "1792228911211-volcengine-ark-model-docs-bd1f2978",
     "1792248186733-official-x-model-posts-2-f65b9a3f",
     "1792258302375-arena-live-model-roster-6a13e141",
     "1792263070815-alibaba-model-studio-partner-models-3e8802e1",
@@ -499,6 +494,11 @@
     "1795167072485-official-x-model-posts-2-f267388a",
     "1795178671309-anthropic-news-075ecff4-new-page",
     "1795182183437-artificial-analysis-model-discovery-9f6bc9d8",
-    "1795185850123-github-copilot-native-models-690aefd3"
+    "1795185850123-github-copilot-native-models-690aefd3",
+    "1795187815914-xai-models-docs-f55518f3",
+    "1795195129256-microsoft-command-line-sitemap-0a403362-new-page",
+    "1795195165724-official-x-model-posts-dc91957d",
+    "1795198571220-google-antigravity-desktop-models-01c8d5da",
+    "1795198620815-cloudflare-gateway-catalog-681a6712"
   ]
 }

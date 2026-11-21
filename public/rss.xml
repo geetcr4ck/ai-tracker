@@ -170,48 +170,5 @@ Ditambahkan: gemini-3.5-transcribe, gemini-4-neon</description>
 
 Ditambahkan: grok-build-0.1</description>
     </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://registry.npmjs.org/@github/copilot-linux-x64/-/copilot-linux-x64-1.0.115-2.tgz</link>
-      <guid isPermaLink="false">1795185850123-github-copilot-native-models-690aefd3</guid>
-      <pubDate>Fri, 20 Nov 2026 14:42:42 GMT</pubDate>
-      <description>GitHub Copilot CLI build diffs: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4, opus-4-0, sonnet55</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: gemini-4-neon</title>
-      <link>https://artificialanalysis.ai/models/gemini-4-neon</link>
-      <guid isPermaLink="false">1795182183437-artificial-analysis-model-discovery-9f6bc9d8</guid>
-      <pubDate>Fri, 20 Nov 2026 13:42:59 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Halaman web baru Claude</title>
-      <link>https://www.anthropic.com/news/ipo-close</link>
-      <guid isPermaLink="false">1795178671309-anthropic-news-075ecff4-new-page</guid>
-      <pubDate>Fri, 20 Nov 2026 12:44:30 GMT</pubDate>
-      <description>Anthropic news: halaman web baru</description>
-    </item>
-    <item>
-      <title>Social posts announced hy4</title>
-      <link>https://x.com/i/web/status/2123710690968191111</link>
-      <guid isPermaLink="false">1795167072485-official-x-model-posts-2-f267388a</guid>
-      <pubDate>Fri, 20 Nov 2026 09:31:11 GMT</pubDate>
-      <description>Official AI lab posts on X (group 2): 1 model announced
-
-Ditambahkan: hy4</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lingsante-pulse-1.0</title>
-      <link>https://huggingface.co/inclusionai/lingsante-pulse-1.0</link>
-      <guid isPermaLink="false">1795166342537-inclusionai-official-model-weights-384a7617</guid>
-      <pubDate>Fri, 20 Nov 2026 09:19:01 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/lingsante-pulse-1.0</description>
-    </item>
   </channel>
 </rss>
