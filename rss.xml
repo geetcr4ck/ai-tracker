@@ -6,6 +6,31 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lingsante-3.1-air-vl</title>
+      <link>https://huggingface.co/inclusionai/lingsante-3.1-air-vl</link>
+      <guid isPermaLink="false">1795367959427-inclusionai-official-model-weights-30c34a3b</guid>
+      <pubDate>Sun, 22 Nov 2026 17:19:19 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/lingsante-3.1-air-vl</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1795367596813-artificial-analysis-api-free-5349100e</guid>
+      <pubDate>Sun, 22 Nov 2026 17:13:11 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lingsante-3.1-flash</title>
+      <link>https://huggingface.co/inclusionai/lingsante-3.1-flash</link>
+      <guid isPermaLink="false">1795357758251-inclusionai-official-model-weights-9bdb5bf2</guid>
+      <pubDate>Sun, 22 Nov 2026 14:29:18 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/lingsante-3.1-flash</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added xingchen-agi/xing4.1-preview</title>
       <link>https://huggingface.co/xingchen-agi/xing4.1-preview</link>
       <guid isPermaLink="false">1795333692812-official-huggingface-new-models-0ba0d2be</guid>
@@ -22,49 +47,6 @@ Ditambahkan: xingchen-agi/xing4.1-preview</description>
       <description>Official vendor Hugging Face repositories: 1 entri model baru
 
 Ditambahkan: xingchen-agi/xing41-quotaprobe</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan thinkingmachines/inkling-2-mini</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795230396604-openrouter-models-cdaf5e76</guid>
-      <pubDate>Sat, 21 Nov 2026 03:06:35 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: thinkingmachines/inkling-2-mini</description>
-    </item>
-    <item>
-      <title>Gemini code reference: model identifiers</title>
-      <link>https://antigravity.google/docs/ide/extensions</link>
-      <guid isPermaLink="false">1795227652865-google-antigravity-acp-models-e36b7a3c</guid>
-      <pubDate>Sat, 21 Nov 2026 02:18:20 GMT</pubDate>
-      <description>Google Antigravity ACP server model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4-hydrogen, gemini-4-neon</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan radixark/daisyrose-27b</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795222053416-openrouter-models-6a0186be</guid>
-      <pubDate>Sat, 21 Nov 2026 00:47:31 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: radixark/daisyrose-27b</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1795215754958-artificial-analysis-api-free-7011fdda</guid>
-      <pubDate>Fri, 20 Nov 2026 23:02:32 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795214374440-openrouter-models-0342fb70</guid>
-      <pubDate>Fri, 20 Nov 2026 22:39:33 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: perplexity/pplx-embed-v2-context-0.6b, perplexity/pplx-embed-v2-context-9b</description>
     </item>
   </channel>
 </rss>
