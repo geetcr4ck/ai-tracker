@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added xingchen-agi/xing4.1-preview</title>
+      <link>https://huggingface.co/xingchen-agi/xing4.1-preview</link>
+      <guid isPermaLink="false">1795333692812-official-huggingface-new-models-0ba0d2be</guid>
+      <pubDate>Sun, 22 Nov 2026 07:48:11 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: xingchen-agi/xing4.1-preview</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added xingchen-agi/xing41-quotaprobe</title>
+      <link>https://huggingface.co/xingchen-agi/xing41-quotaprobe</link>
+      <guid isPermaLink="false">1795333418289-official-huggingface-new-models-f7e1fc95</guid>
+      <pubDate>Sun, 22 Nov 2026 07:43:37 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: xingchen-agi/xing41-quotaprobe</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan thinkingmachines/inkling-2-mini</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1795230396604-openrouter-models-cdaf5e76</guid>
@@ -47,119 +65,6 @@ Ditambahkan: radixark/daisyrose-27b</description>
       <description>OpenRouter model catalog: 2 entri model baru
 
 Ditambahkan: perplexity/pplx-embed-v2-context-0.6b, perplexity/pplx-embed-v2-context-9b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/api/v1/models</link>
-      <guid isPermaLink="false">1795211056738-openrouter-decision-models-e8f56293</guid>
-      <pubDate>Fri, 20 Nov 2026 21:44:16 GMT</pubDate>
-      <description>OpenRouter decision models: 2 entri model baru
-
-Ditambahkan: baseten/bison-1, baseten/groundhog-1</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan qwen/qwen3-tts-1.7b</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795211060668-openrouter-models-a0bd36cb</guid>
-      <pubDate>Fri, 20 Nov 2026 21:44:15 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: qwen/qwen3-tts-1.7b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan 2 models</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795210908847-openrouter-models-44f11373</guid>
-      <pubDate>Fri, 20 Nov 2026 21:41:48 GMT</pubDate>
-      <description>OpenRouter model catalog: 2 entri model baru
-
-Ditambahkan: baseten/bison-1, baseten/groundhog-1</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1795206905816-artificial-analysis-llm-leaderboard-19155c33</guid>
-      <pubDate>Fri, 20 Nov 2026 20:35:05 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 44 baris hasil benchmark ditambahkan, 43 dihapus</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: inkling-2-mini</title>
-      <link>https://artificialanalysis.ai/models/inkling-2-mini</link>
-      <guid isPermaLink="false">1795205665425-artificial-analysis-model-discovery-55fccb3c</guid>
-      <pubDate>Fri, 20 Nov 2026 20:14:25 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: inkling-2-mini</description>
-    </item>
-    <item>
-      <title>Thinking Machines menambahkan thinkingmachines/inkling-2-mini</title>
-      <link>https://tinker-docs.thinkingmachines.ai/tinker/models.json</link>
-      <guid isPermaLink="false">1795205119830-thinking-machines-models-catalog-94d8e615</guid>
-      <pubDate>Fri, 20 Nov 2026 20:05:19 GMT</pubDate>
-      <description>Thinking Machines training model catalog: 1 entri model baru
-
-Ditambahkan: thinkingmachines/inkling-2-mini</description>
-    </item>
-    <item>
-      <title>Thinking Machines code reference: inkling-2-mini</title>
-      <link>https://github.com/thinking-machines-lab/tinker-cookbook/blob/37261cae3d3ff11f08573b2a84a4d44c809c38f3/tinker_cookbook/model_info.py</link>
-      <guid isPermaLink="false">1795205112798-thinking-machines-official-code-models-288a4c10</guid>
-      <pubDate>Fri, 20 Nov 2026 20:05:10 GMT</pubDate>
-      <description>Thinking Machines Tinker cookbook model references: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: inkling-2-mini</description>
-    </item>
-    <item>
-      <title>Thinking Machines menambahkan 2 models</title>
-      <link>https://huggingface.co/thinkingmachines/inkling-2-mini</link>
-      <guid isPermaLink="false">1795205038992-thinking-machines-official-model-weights-c31f8980</guid>
-      <pubDate>Fri, 20 Nov 2026 20:03:58 GMT</pubDate>
-      <description>Thinking Machines official model weights: 2 entri model baru
-
-Ditambahkan: thinkingmachines/inkling-2-mini, thinkingmachines/tml-d24-varloop-research</description>
-    </item>
-    <item>
-      <title>Thinking Machines menambahkan inkling-2</title>
-      <link>https://thinkingmachines.ai/news/inkling-2-mini</link>
-      <guid isPermaLink="false">1795205032201-thinking-machines-model-announcements-065a9eec-model-page-release</guid>
-      <pubDate>Fri, 20 Nov 2026 20:03:51 GMT</pubDate>
-      <description>Thinking Machines official model announcements: 1 entri model baru
-
-Ditambahkan: inkling-2</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/36c2afbfb0b8a8381cb2c3fb8ff3de0f70a315b2/src/content/catalog-models/bytedance-seedream-5.5.json</link>
-      <guid isPermaLink="false">1795198620815-cloudflare-gateway-catalog-681a6712</guid>
-      <pubDate>Fri, 20 Nov 2026 18:16:59 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: bytedance/seedream-5.5, deepseek-ai/deepseek-v4.1-flash-1017</description>
-    </item>
-    <item>
-      <title>Gemini code reference: gemini-4-neon</title>
-      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.33.1-5402359824777216/linux-arm/Antigravity.tar.gz</link>
-      <guid isPermaLink="false">1795198571220-google-antigravity-desktop-models-01c8d5da</guid>
-      <pubDate>Fri, 20 Nov 2026 18:15:03 GMT</pubDate>
-      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Gemini menambahkan 2 models</title>
-      <link>https://x.com/i/web/status/2123828467124851025</link>
-      <guid isPermaLink="false">1795195165724-official-x-model-posts-dc91957d</guid>
-      <pubDate>Fri, 20 Nov 2026 17:19:25 GMT</pubDate>
-      <description>Official AI lab posts on X: 2 entri model baru
-
-Ditambahkan: gemini-3.5-transcribe, gemini-4-neon</description>
-    </item>
-    <item>
-      <title>Halaman web baru Microsoft</title>
-      <link>https://commandline.microsoft.com/</link>
-      <guid isPermaLink="false">1795195129256-microsoft-command-line-sitemap-0a403362-new-page</guid>
-      <pubDate>Fri, 20 Nov 2026 17:18:47 GMT</pubDate>
-      <description>Microsoft Command Line blog: halaman web baru</description>
     </item>
   </channel>
 </rss>
