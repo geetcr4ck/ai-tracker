@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792292199330-nvidia-official-model-weights-6f7c1153",
-    "1792326141011-volcengine-ark-model-docs-683f768e",
-    "1792346863728-anthropic-news-f98f84d3-new-page",
-    "1792378640663-arena-live-model-roster-16171587",
-    "1792383303701-artificial-analysis-api-free-7306d41e",
     "1792384436528-artificial-analysis-model-discovery-dc53a729",
     "1792384564926-minimax-models-docs-09aac062",
     "1792384867502-minimax-models-docs-09aac062-confirmed-removal",
@@ -499,6 +494,11 @@
     "1795205038992-thinking-machines-official-model-weights-c31f8980",
     "1795205112798-thinking-machines-official-code-models-288a4c10",
     "1795205119830-thinking-machines-models-catalog-94d8e615",
-    "1795205665425-artificial-analysis-model-discovery-55fccb3c"
+    "1795205665425-artificial-analysis-model-discovery-55fccb3c",
+    "1795206905816-artificial-analysis-llm-leaderboard-19155c33",
+    "1795210908847-openrouter-models-44f11373",
+    "1795211060668-openrouter-models-a0bd36cb",
+    "1795211056738-openrouter-decision-models-e8f56293",
+    "1795214374440-openrouter-models-0342fb70"
   ]
 }
