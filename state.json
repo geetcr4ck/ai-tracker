@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792423591064-volcengine-ark-model-docs-ec050010",
-    "1792439596946-bfl-models-catalog-5686d3a1",
-    "1792439618605-openrouter-models-b946dc14",
-    "1792440001395-official-x-model-posts-2-717f746b",
-    "1792440335875-official-x-model-posts-4-ecd3097b",
     "1792448748805-official-huggingface-lab-rotation-96452656",
     "1792452854676-artificial-analysis-api-free-4b7b0bef",
     "1792457955488-official-huggingface-lab-rotation-6e89b3a7",
@@ -499,6 +494,11 @@
     "1795367959427-inclusionai-official-model-weights-30c34a3b",
     "1795400661046-official-huggingface-new-models-e09e1556",
     "1795401021760-tencent-official-model-weights-d919b281",
-    "1795401999610-official-huggingface-new-models-951d4ec4"
+    "1795401999610-official-huggingface-new-models-951d4ec4",
+    "1795406067815-zai-api-models-1b17a7fa",
+    "1795408999910-zai-chat-models-c42e45be",
+    "1795410483745-upstage-models-docs-b0f50387",
+    "1795415548022-official-huggingface-lab-rotation-2a4ede78",
+    "1795416776046-huggingface-observed-publish-392d923e"
   ]
 }
