@@ -1,8 +1,5 @@
 {
   "seenIds": [
-    "1792413995404-artificial-analysis-model-discovery-42e2051a",
-    "1792419730986-inclusionai-official-model-weights-87af9006",
-    "1792420094608-inclusionai-official-model-weights-f82f9420",
     "1792423591064-volcengine-ark-model-docs-ec050010",
     "1792439596946-bfl-models-catalog-5686d3a1",
     "1792439618605-openrouter-models-b946dc14",
@@ -499,6 +496,9 @@
     "1795333692812-official-huggingface-new-models-0ba0d2be",
     "1795357758251-inclusionai-official-model-weights-9bdb5bf2",
     "1795367596813-artificial-analysis-api-free-5349100e",
-    "1795367959427-inclusionai-official-model-weights-30c34a3b"
+    "1795367959427-inclusionai-official-model-weights-30c34a3b",
+    "1795400661046-official-huggingface-new-models-e09e1556",
+    "1795401021760-tencent-official-model-weights-d919b281",
+    "1795401999610-official-huggingface-new-models-951d4ec4"
   ]
 }

@@ -6,6 +6,33 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Katalog model berubah: added xingchen-agi/xing4.1-preview-nvfp4</title>
+      <link>https://huggingface.co/xingchen-agi/xing4.1-preview-nvfp4</link>
+      <guid isPermaLink="false">1795401999610-official-huggingface-new-models-951d4ec4</guid>
+      <pubDate>Mon, 23 Nov 2026 02:46:36 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: xingchen-agi/xing4.1-preview-nvfp4</description>
+    </item>
+    <item>
+      <title>Tencent Hunyuan/Hy menambahkan 2 models</title>
+      <link>https://huggingface.co/tencent/wepocketmodel1.0-2b</link>
+      <guid isPermaLink="false">1795401021760-tencent-official-model-weights-d919b281</guid>
+      <pubDate>Mon, 23 Nov 2026 02:30:21 GMT</pubDate>
+      <description>Tencent Hy official model weights: 2 entri model baru
+
+Ditambahkan: tencent/wepocketmodel1.0-2b, tencent/wepocketmodel1.0-4b</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added xingchen-agi/xing4.1-preview-fp8</title>
+      <link>https://huggingface.co/xingchen-agi/xing4.1-preview-fp8</link>
+      <guid isPermaLink="false">1795400661046-official-huggingface-new-models-e09e1556</guid>
+      <pubDate>Mon, 23 Nov 2026 02:24:18 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: xingchen-agi/xing4.1-preview-fp8</description>
+    </item>
+    <item>
       <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lingsante-3.1-air-vl</title>
       <link>https://huggingface.co/inclusionai/lingsante-3.1-air-vl</link>
       <guid isPermaLink="false">1795367959427-inclusionai-official-model-weights-30c34a3b</guid>
