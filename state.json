@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792448748805-official-huggingface-lab-rotation-96452656",
-    "1792452854676-artificial-analysis-api-free-4b7b0bef",
-    "1792457955488-official-huggingface-lab-rotation-6e89b3a7",
-    "1792487218913-official-huggingface-lab-rotation-b2c1efa0",
-    "1792488632900-official-x-model-posts-2-730e4782",
     "1792499301615-elevenlabs-models-docs-e53f5159",
     "1792503084654-mistral-api-models-9be3e5fb",
     "1792508002265-microsoft-command-line-sitemap-68a677c0-new-page",
@@ -499,6 +494,11 @@
     "1795408999910-zai-chat-models-c42e45be",
     "1795410483745-upstage-models-docs-b0f50387",
     "1795415548022-official-huggingface-lab-rotation-2a4ede78",
-    "1795416776046-huggingface-observed-publish-392d923e"
+    "1795416776046-huggingface-observed-publish-392d923e",
+    "1795417453126-qwen-model-pricing-docs-8deb1e9a",
+    "1795417469889-qwen-cn-newly-released-models-d0999625",
+    "1795421639990-official-huggingface-new-models-ef84f619",
+    "1795422209423-qwen-model-pricing-docs-a1fe5032",
+    "1795422221665-qwen-cn-newly-released-models-fce417b8"
   ]
 }

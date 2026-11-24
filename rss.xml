@@ -6,6 +6,90 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ChatGPT/OpenAI menambahkan gpt-6.2</title>
+      <link>https://chatgpt.com/pricing</link>
+      <guid isPermaLink="false">1795460569941-chatgpt-pricing-67e0574f</guid>
+      <pubDate>Mon, 23 Nov 2026 19:02:48 GMT</pubDate>
+      <description>ChatGPT pricing: 1 entri model baru
+
+Ditambahkan: gpt-6.2</description>
+    </item>
+    <item>
+      <title>Halaman web baru Microsoft</title>
+      <link>https://microsoft.ai/blog/</link>
+      <guid isPermaLink="false">1795454691630-microsoft-ai-news-sitemap-0a526dd6-new-page</guid>
+      <pubDate>Mon, 23 Nov 2026 17:24:49 GMT</pubDate>
+      <description>Microsoft AI newsroom: halaman web baru</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1795454177591-artificial-analysis-api-free-449a354d</guid>
+      <pubDate>Mon, 23 Nov 2026 17:16:15 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
+    </item>
+    <item>
+      <title>Bocoran model Codex: gpt-5.4-nano</title>
+      <link>https://github.com/openai/codex/blob/ed02716c0911098c45d61e38634dad02dc15a548/codex-rs/core/src/compact_remote_v2_attempt.rs</link>
+      <guid isPermaLink="false">1795453954649-openai-codex-official-code-models-c44f3768</guid>
+      <pubDate>Mon, 23 Nov 2026 17:12:33 GMT</pubDate>
+      <description>openai/codex official code model references: 1 bocoran model baru
+
+Ditambahkan: gpt-5.4-nano</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): hungerg</title>
+      <link>https://opencode.ai/zen/go/v1/models</link>
+      <guid isPermaLink="false">1795450995026-opencode-go-catalog-95a322a6</guid>
+      <pubDate>Mon, 23 Nov 2026 16:23:14 GMT</pubDate>
+      <description>OpenCode Go model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: hungerg</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan ling-3.2</title>
+      <link>https://x.com/i/web/status/2124891223597240338</link>
+      <guid isPermaLink="false">1795448534141-official-x-model-posts-3-19b8cce2</guid>
+      <pubDate>Mon, 23 Nov 2026 15:42:13 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: ling-3.2</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/ling-3.2-air</title>
+      <link>https://huggingface.co/inclusionai/ling-3.2-air</link>
+      <guid isPermaLink="false">1795447762642-inclusionai-official-model-weights-6478b7c4</guid>
+      <pubDate>Mon, 23 Nov 2026 15:29:22 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/ling-3.2-air</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added inclusionai/ling-3.2-air</title>
+      <link>https://huggingface.co/inclusionAI/Ling-3.2-air</link>
+      <guid isPermaLink="false">1795447756470-huggingface-observed-publish-c1d781b3</guid>
+      <pubDate>Mon, 23 Nov 2026 15:29:12 GMT</pubDate>
+      <description>Hugging Face: 1 entri model baru
+
+Ditambahkan: inclusionai/ling-3.2-air</description>
+    </item>
+    <item>
+      <title>Z.ai menambahkan glm-5.4</title>
+      <link>https://docs.z.ai/guides/overview/overview</link>
+      <guid isPermaLink="false">1795445745504-zai-models-docs-8e8689f4</guid>
+      <pubDate>Mon, 23 Nov 2026 14:55:45 GMT</pubDate>
+      <description>Z.ai model docs: 1 entri model baru
+
+Ditambahkan: glm-5.4</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1795443350429-artificial-analysis-llm-leaderboard-b6927864</guid>
+      <pubDate>Mon, 23 Nov 2026 14:15:49 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 51 baris hasil benchmark ditambahkan, 50 dihapus</description>
+    </item>
+    <item>
       <title>Katalog model berubah: added sensenova/sensenova-u-showcases</title>
       <link>https://huggingface.co/sensenova/sensenova-u-showcases</link>
       <guid isPermaLink="false">1795435907935-official-huggingface-new-models-452b998d</guid>
@@ -148,58 +232,6 @@ Ditambahkan: glm-5.4</description>
       <description>Z.ai API models: 1 entri model baru
 
 Ditambahkan: glm-5.4</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added xingchen-agi/xing4.1-preview-nvfp4</title>
-      <link>https://huggingface.co/xingchen-agi/xing4.1-preview-nvfp4</link>
-      <guid isPermaLink="false">1795401999610-official-huggingface-new-models-951d4ec4</guid>
-      <pubDate>Mon, 23 Nov 2026 02:46:36 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: xingchen-agi/xing4.1-preview-nvfp4</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan 2 models</title>
-      <link>https://huggingface.co/tencent/wepocketmodel1.0-2b</link>
-      <guid isPermaLink="false">1795401021760-tencent-official-model-weights-d919b281</guid>
-      <pubDate>Mon, 23 Nov 2026 02:30:21 GMT</pubDate>
-      <description>Tencent Hy official model weights: 2 entri model baru
-
-Ditambahkan: tencent/wepocketmodel1.0-2b, tencent/wepocketmodel1.0-4b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added xingchen-agi/xing4.1-preview-fp8</title>
-      <link>https://huggingface.co/xingchen-agi/xing4.1-preview-fp8</link>
-      <guid isPermaLink="false">1795400661046-official-huggingface-new-models-e09e1556</guid>
-      <pubDate>Mon, 23 Nov 2026 02:24:18 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: xingchen-agi/xing4.1-preview-fp8</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lingsante-3.1-air-vl</title>
-      <link>https://huggingface.co/inclusionai/lingsante-3.1-air-vl</link>
-      <guid isPermaLink="false">1795367959427-inclusionai-official-model-weights-30c34a3b</guid>
-      <pubDate>Sun, 22 Nov 2026 17:19:19 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/lingsante-3.1-air-vl</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1795367596813-artificial-analysis-api-free-5349100e</guid>
-      <pubDate>Sun, 22 Nov 2026 17:13:11 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/lingsante-3.1-flash</title>
-      <link>https://huggingface.co/inclusionai/lingsante-3.1-flash</link>
-      <guid isPermaLink="false">1795357758251-inclusionai-official-model-weights-9bdb5bf2</guid>
-      <pubDate>Sun, 22 Nov 2026 14:29:18 GMT</pubDate>
-      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
-
-Ditambahkan: inclusionai/lingsante-3.1-flash</description>
     </item>
   </channel>
 </rss>
