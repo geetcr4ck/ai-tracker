@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Image, video &amp; audio labs menambahkan scribe_v3_live_medical</title>
+      <link>https://elevenlabs.io/docs/changelog</link>
+      <guid isPermaLink="false">1795600056876-elevenlabs-changelog-models-cc6d7f9a</guid>
+      <pubDate>Wed, 25 Nov 2026 09:47:30 GMT</pubDate>
+      <description>ElevenLabs changelog: 1 entri model baru
+
+Ditambahkan: scribe_v3_live_medical</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added 2 models</title>
+      <link>https://huggingface.co/tencent/wepocketmodel1.0-2b-mlx</link>
+      <guid isPermaLink="false">1795588765888-official-huggingface-new-models-d13bf83c</guid>
+      <pubDate>Wed, 25 Nov 2026 06:39:24 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 2 entri model baru
+
+Ditambahkan: tencent/wepocketmodel1.0-2b-mlx, tencent/wepocketmodel1.0-4b-mlx</description>
+    </item>
+    <item>
+      <title>Cognition SWE menambahkan 2 models</title>
+      <link>https://docs.devin.ai/desktop/models</link>
+      <guid isPermaLink="false">1795584933297-devin-desktop-models-docs-5752695a</guid>
+      <pubDate>Wed, 25 Nov 2026 05:35:31 GMT</pubDate>
+      <description>Devin desktop models docs: 2 entri model baru
+
+Ditambahkan: swe-2.1, swe-2.1-ultrafast</description>
+    </item>
+    <item>
+      <title>Grok/xAI menambahkan 2 models</title>
+      <link>https://api.x.ai/v1/models</link>
+      <guid isPermaLink="false">1795583601623-xai-all-models-bc4d9312</guid>
+      <pubDate>Wed, 25 Nov 2026 05:13:21 GMT</pubDate>
+      <description>xAI all-model catalog: 2 entri model baru
+
+Ditambahkan: grok-4.6-latest, grok-4.7-latest</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan 2 models</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1795566015522-openrouter-models-8e1f82f9</guid>
@@ -187,29 +223,6 @@ Ditambahkan: gpt-6-astra-healthcare, gpt-6.1-sol-healthcare, gpt-6.2-astra-healt
       <description>OpenAI API pricing page: 4 new model leaks
 
 Ditambahkan: gpt-6-astra-healthcare, gpt-6.1-sol-healthcare, gpt-6.2-astra-healthcare, gpt-6.2-sol-healthcare</description>
-    </item>
-    <item>
-      <title>Bocoran model Claude: claude-opus-4-5-20251101</title>
-      <link>https://platform.claude.com/playground</link>
-      <guid isPermaLink="false">1795533671477-claude-console-app-models-8f63ebe0</guid>
-      <pubDate>Tue, 24 Nov 2026 15:21:02 GMT</pubDate>
-      <description>Claude console models: 1 bocoran model baru
-
-Ditambahkan: claude-opus-4-5-20251101</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1795519555382-artificial-analysis-llm-leaderboard-f768610a</guid>
-      <pubDate>Tue, 24 Nov 2026 11:25:53 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1795519142354-artificial-analysis-api-free-040bd127</guid>
-      <pubDate>Tue, 24 Nov 2026 11:18:59 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
     </item>
   </channel>
 </rss>
