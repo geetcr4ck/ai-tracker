@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792610146091-anthropic-news-8d594664-new-page",
-    "1792610154821-zai-models-docs-743e7673",
-    "1792610432367-openrouter-models-766e9cf5",
-    "1792610493370-inclusionai-official-model-weights-99560f40",
-    "1792610523083-qwen-model-pricing-docs-77f1024a-confirmed-removal",
     "1792614225241-openrouter-models-30150bb4",
     "1792623468738-openrouter-models-96be7c94",
     "1792629217916-official-x-model-posts-3-614889e1",
@@ -499,6 +494,11 @@
     "1795541176374-mistral-models-docs-4d3e7f01",
     "1795541528359-openai-api-models-864dcb5a",
     "1795541568034-openai-api-models-86d9fee8",
-    "1795541606527-openai-api-models-03624476"
+    "1795541606527-openai-api-models-03624476",
+    "1795583601623-xai-all-models-bc4d9312",
+    "1795584933297-devin-desktop-models-docs-5752695a",
+    "1795588765888-official-huggingface-new-models-d13bf83c",
+    "1795600056876-elevenlabs-changelog-models-cc6d7f9a",
+    "1795618842215-official-x-model-posts-4-f1c37978"
   ]
 }
