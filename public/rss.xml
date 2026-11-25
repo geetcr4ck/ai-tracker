@@ -6,6 +6,31 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan 2 models</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795566015522-openrouter-models-8e1f82f9</guid>
+      <pubDate>Wed, 25 Nov 2026 00:20:12 GMT</pubDate>
+      <description>OpenRouter model catalog: 2 entri model baru
+
+Ditambahkan: upstage/solar-mini-4-5, upstage/solar-pro-4-contributor</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan xiaomi/mimo-v2.6-flash-mopd</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795559753647-openrouter-models-c304ef83</guid>
+      <pubDate>Tue, 24 Nov 2026 22:35:50 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: xiaomi/mimo-v2.6-flash-mopd</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1795555315014-artificial-analysis-api-free-4c5375ad</guid>
+      <pubDate>Tue, 24 Nov 2026 21:21:52 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 59 baris hasil benchmark ditambahkan, 59 dihapus</description>
+    </item>
+    <item>
       <title>Image, video &amp; audio labs menambahkan niji-v8</title>
       <link>https://x.com/i/web/status/2125328040624521639</link>
       <guid isPermaLink="false">1795552698697-official-x-model-posts-3-c4f878e7</guid>
@@ -185,67 +210,6 @@ Ditambahkan: claude-opus-4-5-20251101</description>
       <guid isPermaLink="false">1795519142354-artificial-analysis-api-free-040bd127</guid>
       <pubDate>Tue, 24 Nov 2026 11:18:59 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan tencent/hy-mt3-1.8b</title>
-      <link>https://huggingface.co/tencent/hy-mt3-1.8b</link>
-      <guid isPermaLink="false">1795500781992-tencent-official-model-weights-7a47ca7e</guid>
-      <pubDate>Tue, 24 Nov 2026 06:13:01 GMT</pubDate>
-      <description>Tencent Hy official model weights: 1 entri model baru
-
-Ditambahkan: tencent/hy-mt3-1.8b</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan 2 models</title>
-      <link>https://huggingface.co/tencent/hy-mt3-30b-a3b</link>
-      <guid isPermaLink="false">1795500399425-tencent-official-model-weights-000d10a4</guid>
-      <pubDate>Tue, 24 Nov 2026 06:06:38 GMT</pubDate>
-      <description>Tencent Hy official model weights: 2 entri model baru
-
-Ditambahkan: tencent/hy-mt3-30b-a3b, tencent/hy-mt3-7b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added sensenova-u1.6</title>
-      <link>https://www.sensetime.com/cn/news</link>
-      <guid isPermaLink="false">1795500026522-sensetime-news-models-34ac400a</guid>
-      <pubDate>Tue, 24 Nov 2026 06:00:23 GMT</pubDate>
-      <description>SenseTime news (SenseNova releases): 1 entri model baru
-
-Ditambahkan: sensenova-u1.6</description>
-    </item>
-    <item>
-      <title>Tencent Hunyuan/Hy menambahkan tencent/omnievie-4b</title>
-      <link>https://huggingface.co/tencent/omnievie-4b</link>
-      <guid isPermaLink="false">1795494587555-tencent-official-model-weights-dd454050</guid>
-      <pubDate>Tue, 24 Nov 2026 04:29:47 GMT</pubDate>
-      <description>Tencent Hy official model weights: 1 entri model baru
-
-Ditambahkan: tencent/omnievie-4b</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added tencent/omnievie-4b</title>
-      <link>https://huggingface.co/tencent/omnievie-4b</link>
-      <guid isPermaLink="false">1795494568195-official-huggingface-new-models-f3357faf</guid>
-      <pubDate>Tue, 24 Nov 2026 04:29:27 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: tencent/omnievie-4b</description>
-    </item>
-    <item>
-      <title>Grok/xAI menghapus grok-build-0.1</title>
-      <link>https://docs.x.ai/docs/overview</link>
-      <guid isPermaLink="false">1795485740367-xai-docs-overview-14c7c91f</guid>
-      <pubDate>Tue, 24 Nov 2026 02:02:19 GMT</pubDate>
-      <description>xAI docs overview: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added 2 models</title>
-      <link>https://huggingface.co/sensenova/SenseNova-U1.6-8B-MoT-LoRAs</link>
-      <guid isPermaLink="false">1795485044733-huggingface-observed-publish-71f72e7b</guid>
-      <pubDate>Tue, 24 Nov 2026 01:50:40 GMT</pubDate>
-      <description>Hugging Face: 2 entri model baru
-
-Ditambahkan: sensenova/sensenova-u1.6-8b-mot-loras, sensenova/sensenova-u1.6-8b-mot-native</description>
     </item>
   </channel>
 </rss>
