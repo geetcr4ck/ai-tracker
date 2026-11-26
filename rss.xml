@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenRouter menambahkan moonshotai/kimi-k2</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795701599496-openrouter-models-9c7b0435</guid>
+      <pubDate>Thu, 26 Nov 2026 13:59:56 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: moonshotai/kimi-k2</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added 4 models</title>
+      <link>https://huggingface.co/baai/innata-0-acwm</link>
+      <guid isPermaLink="false">1795693512398-official-huggingface-new-models-673757c3</guid>
+      <pubDate>Thu, 26 Nov 2026 11:45:07 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 4 entri model baru
+
+Ditambahkan: baai/innata-0-acwm, baai/innata-0-understanding, baai/innata-0-wam-robocasa365, baai/innata-0-wam-robodojo</description>
+    </item>
+    <item>
+      <title>NVIDIA menambahkan 2 models</title>
+      <link>https://docs.nvidia.com/nim/large-language-models/latest/about-nim-llm/release-notes.html</link>
+      <guid isPermaLink="false">1795689667349-nvidia-nim-models-docs-718bd606</guid>
+      <pubDate>Thu, 26 Nov 2026 10:41:04 GMT</pubDate>
+      <description>NVIDIA NIM model release notes: 2 entri model baru
+
+Ditambahkan: nemotron-3-super-120b-a12b-bf16-mtpv2, nemotron-3.5-lightni</description>
+    </item>
+    <item>
+      <title>inclusionAI (Ant Ling/Ring) menambahkan inclusionai/ming-image-0.2-design</title>
+      <link>https://huggingface.co/inclusionai/ming-image-0.2-design</link>
+      <guid isPermaLink="false">1795689116448-inclusionai-official-model-weights-1b760860</guid>
+      <pubDate>Thu, 26 Nov 2026 10:31:55 GMT</pubDate>
+      <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
+
+Ditambahkan: inclusionai/ming-image-0.2-design</description>
+    </item>
+    <item>
       <title>Cognition SWE menambahkan swe-2.1-lightning</title>
       <link>https://docs.devin.ai/desktop/models</link>
       <guid isPermaLink="false">1795665131189-devin-desktop-models-docs-b583f2a9</guid>
@@ -49,42 +85,6 @@ Ditambahkan: bytedance-seed/seed-tts-3-0</description>
       <description>NVIDIA Nemotron official model weights: 1 entri model baru
 
 Ditambahkan: nvidia/nemotron-3.5-rerank-1b</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan tngtech/deepseek-r1t2-chimera</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795629351392-openrouter-models-ea1d88ab</guid>
-      <pubDate>Wed, 25 Nov 2026 17:55:49 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: tngtech/deepseek-r1t2-chimera</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): model identifiers</title>
-      <link>https://github.com/cloudflare/cloudflare-docs/blob/3466eb11ed737218bb7df1d613803a67412f6d41/src/content/catalog-models/recraft-vectorize.json</link>
-      <guid isPermaLink="false">1795626396580-cloudflare-gateway-catalog-45d3832f</guid>
-      <pubDate>Wed, 25 Nov 2026 17:06:34 GMT</pubDate>
-      <description>Cloudflare public model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: recraft/vectorize, topaz/proteus-4</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs announced tripo-h3.5</title>
-      <link>https://x.com/i/web/status/2125605442772517083</link>
-      <guid isPermaLink="false">1795618842215-official-x-model-posts-4-f1c37978</guid>
-      <pubDate>Wed, 25 Nov 2026 15:00:41 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 model announced
-
-Ditambahkan: tripo-h3.5</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan scribe_v3_live_medical</title>
-      <link>https://elevenlabs.io/docs/changelog</link>
-      <guid isPermaLink="false">1795600056876-elevenlabs-changelog-models-cc6d7f9a</guid>
-      <pubDate>Wed, 25 Nov 2026 09:47:30 GMT</pubDate>
-      <description>ElevenLabs changelog: 1 entri model baru
-
-Ditambahkan: scribe_v3_live_medical</description>
     </item>
   </channel>
 </rss>
