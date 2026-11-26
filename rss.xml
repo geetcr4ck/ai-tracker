@@ -6,6 +6,42 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cognition SWE menambahkan swe-2.1-lightning</title>
+      <link>https://docs.devin.ai/desktop/models</link>
+      <guid isPermaLink="false">1795665131189-devin-desktop-models-docs-b583f2a9</guid>
+      <pubDate>Thu, 26 Nov 2026 03:52:09 GMT</pubDate>
+      <description>Devin desktop models docs: 1 entri model baru
+
+Ditambahkan: swe-2.1-lightning</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen menambahkan 4 models</title>
+      <link>https://x.com/i/web/status/2125798914490249411</link>
+      <guid isPermaLink="false">1795665067184-official-x-model-posts-a95c5632</guid>
+      <pubDate>Thu, 26 Nov 2026 03:51:06 GMT</pubDate>
+      <description>Official AI lab posts on X: 4 entri model baru
+
+Ditambahkan: qwen-audio-3.1, qwen-audio-3.1-asr, qwen-audio-3.1-realtime, qwen-audio-3.1-tts</description>
+    </item>
+    <item>
+      <title>Katalog model berubah (referensi kode): seaglass-alpha</title>
+      <link>https://opencode.ai/zen/v1/models</link>
+      <guid isPermaLink="false">1795656812052-opencode-zen-catalog-c76ac464</guid>
+      <pubDate>Thu, 26 Nov 2026 01:33:31 GMT</pubDate>
+      <description>OpenCode Zen model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: seaglass-alpha</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan bytedance-seed/seed-tts-3-0</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795652502465-openrouter-models-0e18ec9d</guid>
+      <pubDate>Thu, 26 Nov 2026 00:21:40 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: bytedance-seed/seed-tts-3-0</description>
+    </item>
+    <item>
       <title>NVIDIA menambahkan nvidia/nemotron-3.5-rerank-1b</title>
       <link>https://huggingface.co/nvidia/nemotron-3.5-rerank-1b-bf16</link>
       <guid isPermaLink="false">1795638762300-nvidia-official-model-weights-35f19275</guid>
@@ -49,33 +85,6 @@ Ditambahkan: tripo-h3.5</description>
       <description>ElevenLabs changelog: 1 entri model baru
 
 Ditambahkan: scribe_v3_live_medical</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added 2 models</title>
-      <link>https://huggingface.co/tencent/wepocketmodel1.0-2b-mlx</link>
-      <guid isPermaLink="false">1795588765888-official-huggingface-new-models-d13bf83c</guid>
-      <pubDate>Wed, 25 Nov 2026 06:39:24 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 2 entri model baru
-
-Ditambahkan: tencent/wepocketmodel1.0-2b-mlx, tencent/wepocketmodel1.0-4b-mlx</description>
-    </item>
-    <item>
-      <title>Cognition SWE menambahkan 2 models</title>
-      <link>https://docs.devin.ai/desktop/models</link>
-      <guid isPermaLink="false">1795584933297-devin-desktop-models-docs-5752695a</guid>
-      <pubDate>Wed, 25 Nov 2026 05:35:31 GMT</pubDate>
-      <description>Devin desktop models docs: 2 entri model baru
-
-Ditambahkan: swe-2.1, swe-2.1-ultrafast</description>
-    </item>
-    <item>
-      <title>Grok/xAI menambahkan 2 models</title>
-      <link>https://api.x.ai/v1/models</link>
-      <guid isPermaLink="false">1795583601623-xai-all-models-bc4d9312</guid>
-      <pubDate>Wed, 25 Nov 2026 05:13:21 GMT</pubDate>
-      <description>xAI all-model catalog: 2 entri model baru
-
-Ditambahkan: grok-4.6-latest, grok-4.7-latest</description>
     </item>
   </channel>
 </rss>
