@@ -6,6 +6,67 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mistral AI menambahkan codestral-mamba-jun-6</title>
+      <link>https://docs.mistral.ai/models</link>
+      <guid isPermaLink="false">1795733507718-mistral-models-docs-ca330531</guid>
+      <pubDate>Thu, 26 Nov 2026 22:51:44 GMT</pubDate>
+      <description>Mistral model docs: 1 entri model baru
+
+Ditambahkan: codestral-mamba-jun-6</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1795725836223-artificial-analysis-llm-leaderboard-56bdd2c6</guid>
+      <pubDate>Thu, 26 Nov 2026 20:43:53 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 6 baris hasil benchmark ditambahkan, 5 dihapus</description>
+    </item>
+    <item>
+      <title>Image, video &amp; audio labs menambahkan meshy-7.5</title>
+      <link>https://x.com/i/web/status/2126028221850542511</link>
+      <guid isPermaLink="false">1795719635287-official-x-model-posts-4-d59ab0df</guid>
+      <pubDate>Thu, 26 Nov 2026 19:00:34 GMT</pubDate>
+      <description>Official AI lab posts on X (group 4): 1 entri model baru
+
+Ditambahkan: meshy-7.5</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan antdigital/lingdt-decision-fast-1.0:free</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795717988173-openrouter-models-819c5840</guid>
+      <pubDate>Thu, 26 Nov 2026 18:33:05 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: antdigital/lingdt-decision-fast-1.0:free</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan moonshotai/kimi-k2-0905</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795713175689-openrouter-models-996e0a8c</guid>
+      <pubDate>Thu, 26 Nov 2026 17:12:51 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: moonshotai/kimi-k2-0905</description>
+    </item>
+    <item>
+      <title>Katalog model berubah: added microsoft/cogact2-libero</title>
+      <link>https://huggingface.co/microsoft/cogact2-libero</link>
+      <guid isPermaLink="false">1795712077647-official-huggingface-new-models-104ea190</guid>
+      <pubDate>Thu, 26 Nov 2026 16:54:31 GMT</pubDate>
+      <description>Official vendor Hugging Face repositories: 1 entri model baru
+
+Ditambahkan: microsoft/cogact2-libero</description>
+    </item>
+    <item>
+      <title>OpenRouter menambahkan inclusionai/lingsante-3.1-air-vl</title>
+      <link>https://openrouter.ai/models</link>
+      <guid isPermaLink="false">1795707378741-openrouter-models-3b728b6e</guid>
+      <pubDate>Thu, 26 Nov 2026 15:36:14 GMT</pubDate>
+      <description>OpenRouter model catalog: 1 entri model baru
+
+Ditambahkan: inclusionai/lingsante-3.1-air-vl</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan moonshotai/kimi-k2</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1795701599496-openrouter-models-9c7b0435</guid>
@@ -76,15 +137,6 @@ Ditambahkan: seaglass-alpha</description>
       <description>OpenRouter model catalog: 1 entri model baru
 
 Ditambahkan: bytedance-seed/seed-tts-3-0</description>
-    </item>
-    <item>
-      <title>NVIDIA menambahkan nvidia/nemotron-3.5-rerank-1b</title>
-      <link>https://huggingface.co/nvidia/nemotron-3.5-rerank-1b-bf16</link>
-      <guid isPermaLink="false">1795638762300-nvidia-official-model-weights-35f19275</guid>
-      <pubDate>Wed, 25 Nov 2026 20:32:41 GMT</pubDate>
-      <description>NVIDIA Nemotron official model weights: 1 entri model baru
-
-Ditambahkan: nvidia/nemotron-3.5-rerank-1b</description>
     </item>
   </channel>
 </rss>

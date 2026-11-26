@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792681210583-inclusionai-official-model-weights-5e3abf3b",
-    "1792681878428-official-x-model-posts-3-04fe441c",
-    "1792686212309-google-antigravity-changelog-models-8753dd1d",
-    "1792691641234-anthropic-news-0f2d7865-new-page",
-    "1792692072121-microsoft-ai-news-sitemap-500e0d00-new-page",
     "1792718224935-anthropic-news-39038908-new-page",
     "1792725423605-official-x-model-posts-3-49133e89",
     "1792749741865-nvidia-nemo-unreleased-checkpoints-fc44ae81",
@@ -499,6 +494,11 @@
     "1795665131189-devin-desktop-models-docs-b583f2a9",
     "1795689116448-inclusionai-official-model-weights-1b760860",
     "1795689667349-nvidia-nim-models-docs-718bd606",
-    "1795693512398-official-huggingface-new-models-673757c3"
+    "1795693512398-official-huggingface-new-models-673757c3",
+    "1795701599496-openrouter-models-9c7b0435",
+    "1795707378741-openrouter-models-3b728b6e",
+    "1795712077647-official-huggingface-new-models-104ea190",
+    "1795713175689-openrouter-models-996e0a8c",
+    "1795717988173-openrouter-models-819c5840"
   ]
 }
