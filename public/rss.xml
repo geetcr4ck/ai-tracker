@@ -6,6 +6,29 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/leaderboards/models</link>
+      <guid isPermaLink="false">1795749058961-artificial-analysis-llm-leaderboard-66c60e25</guid>
+      <pubDate>Fri, 27 Nov 2026 03:10:55 GMT</pubDate>
+      <description>Artificial Analysis LLM leaderboard: 73 baris hasil benchmark ditambahkan, 72 dihapus</description>
+    </item>
+    <item>
+      <title>Bocoran model dari katalog: ernie-5.5-flash-preview</title>
+      <link>https://artificialanalysis.ai/models/ernie-5-5-flash</link>
+      <guid isPermaLink="false">1795748716644-artificial-analysis-model-discovery-c1694edd</guid>
+      <pubDate>Fri, 27 Nov 2026 03:05:12 GMT</pubDate>
+      <description>Artificial Analysis new model listings: 1 bocoran model baru
+
+Ditambahkan: ernie-5.5-flash-preview</description>
+    </item>
+    <item>
+      <title>Hasil benchmark Artificial Analysis berubah</title>
+      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
+      <guid isPermaLink="false">1795736998767-artificial-analysis-api-free-f179606e</guid>
+      <pubDate>Thu, 26 Nov 2026 23:49:54 GMT</pubDate>
+      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
+    </item>
+    <item>
       <title>Mistral AI menambahkan codestral-mamba-jun-6</title>
       <link>https://docs.mistral.ai/models</link>
       <guid isPermaLink="false">1795733507718-mistral-models-docs-ca330531</guid>
@@ -101,42 +124,6 @@ Ditambahkan: nemotron-3-super-120b-a12b-bf16-mtpv2, nemotron-3.5-lightni</descri
       <description>inclusionAI (Ant Ling) official model weights: 1 entri model baru
 
 Ditambahkan: inclusionai/ming-image-0.2-design</description>
-    </item>
-    <item>
-      <title>Cognition SWE menambahkan swe-2.1-lightning</title>
-      <link>https://docs.devin.ai/desktop/models</link>
-      <guid isPermaLink="false">1795665131189-devin-desktop-models-docs-b583f2a9</guid>
-      <pubDate>Thu, 26 Nov 2026 03:52:09 GMT</pubDate>
-      <description>Devin desktop models docs: 1 entri model baru
-
-Ditambahkan: swe-2.1-lightning</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen menambahkan 4 models</title>
-      <link>https://x.com/i/web/status/2125798914490249411</link>
-      <guid isPermaLink="false">1795665067184-official-x-model-posts-a95c5632</guid>
-      <pubDate>Thu, 26 Nov 2026 03:51:06 GMT</pubDate>
-      <description>Official AI lab posts on X: 4 entri model baru
-
-Ditambahkan: qwen-audio-3.1, qwen-audio-3.1-asr, qwen-audio-3.1-realtime, qwen-audio-3.1-tts</description>
-    </item>
-    <item>
-      <title>Katalog model berubah (referensi kode): seaglass-alpha</title>
-      <link>https://opencode.ai/zen/v1/models</link>
-      <guid isPermaLink="false">1795656812052-opencode-zen-catalog-c76ac464</guid>
-      <pubDate>Thu, 26 Nov 2026 01:33:31 GMT</pubDate>
-      <description>OpenCode Zen model catalog: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
-
-Ditambahkan: seaglass-alpha</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan bytedance-seed/seed-tts-3-0</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795652502465-openrouter-models-0e18ec9d</guid>
-      <pubDate>Thu, 26 Nov 2026 00:21:40 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: bytedance-seed/seed-tts-3-0</description>
     </item>
   </channel>
 </rss>
