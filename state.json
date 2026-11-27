@@ -1,10 +1,5 @@
 {
   "seenIds": [
-    "1792773634553-kimi-web-app-models-67507cd6",
-    "1792775305978-kimi-platform-sitemap-en-8ca365fd",
-    "1792775308413-kimi-platform-models-en-0d6aea33",
-    "1792775737415-official-x-model-posts-2-27ae8d08",
-    "1792775943350-kimi-platform-index-en-43372d79",
     "1792775961390-kimi-platform-sitemap-en-174a5cd2",
     "1792777376566-artificial-analysis-api-free-ba4f395a",
     "1792778291240-official-huggingface-lab-rotation-7f4d1cd9",
@@ -499,6 +494,11 @@
     "1795758888672-artificial-analysis-api-free-c3559ed5",
     "1795761423654-microsoft-ai-models-12591ff9",
     "1795762158562-official-huggingface-new-models-e0a7d5a2",
-    "1795762750360-microsoft-ai-models-12591ff9-confirmed-removal"
+    "1795762750360-microsoft-ai-models-12591ff9-confirmed-removal",
+    "1795764920376-deepseek-models-docs-9b5d18f2",
+    "1795766528193-zhipu-cn-new-releases-462e2863",
+    "1795769288075-artificial-analysis-llm-leaderboard-31be5fbd",
+    "1795780610296-artificial-analysis-api-free-389387a5",
+    "1795782581856-openrouter-models-f9d98191"
   ]
 }

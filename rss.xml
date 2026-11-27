@@ -6,6 +6,24 @@
     <description>Radar perubahan AI dari ai-tracker</description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://geetcr4ck.github.io/ai-tracker/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Social posts menambahkan d1-ultra</title>
+      <link>https://x.com/i/web/status/2126374995399975380</link>
+      <guid isPermaLink="false">1795802336436-official-x-model-posts-3-470fcc6f</guid>
+      <pubDate>Fri, 27 Nov 2026 17:58:54 GMT</pubDate>
+      <description>Official AI lab posts on X (group 3): 1 entri model baru
+
+Ditambahkan: d1-ultra</description>
+    </item>
+    <item>
+      <title>Gemini code reference: gemini-3.1</title>
+      <link>https://storage.googleapis.com/antigravity-public/antigravity-hub/2.36.0-5596661662220288/linux-arm/Antigravity.tar.gz</link>
+      <guid isPermaLink="false">1795799726364-google-antigravity-desktop-models-946d9cea</guid>
+      <pubDate>Fri, 27 Nov 2026 16:56:19 GMT</pubDate>
+      <description>Google Antigravity desktop app model strings: referensi model ditemukan di kode/tes; ketersediaan dan spesifikasi belum dikonfirmasi
+
+Ditambahkan: gemini-3.1</description>
+    </item>
+    <item>
       <title>OpenRouter menambahkan inclusionai/ling-3.2-flash</title>
       <link>https://openrouter.ai/models</link>
       <guid isPermaLink="false">1795782581856-openrouter-models-f9d98191</guid>
@@ -75,63 +93,6 @@ Ditambahkan: mai-cyber-1.1-flash</description>
       <guid isPermaLink="false">1795758888672-artificial-analysis-api-free-c3559ed5</guid>
       <pubDate>Fri, 27 Nov 2026 05:54:39 GMT</pubDate>
       <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1795749058961-artificial-analysis-llm-leaderboard-66c60e25</guid>
-      <pubDate>Fri, 27 Nov 2026 03:10:55 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 73 baris hasil benchmark ditambahkan, 72 dihapus</description>
-    </item>
-    <item>
-      <title>Bocoran model dari katalog: ernie-5.5-flash-preview</title>
-      <link>https://artificialanalysis.ai/models/ernie-5-5-flash</link>
-      <guid isPermaLink="false">1795748716644-artificial-analysis-model-discovery-c1694edd</guid>
-      <pubDate>Fri, 27 Nov 2026 03:05:12 GMT</pubDate>
-      <description>Artificial Analysis new model listings: 1 bocoran model baru
-
-Ditambahkan: ernie-5.5-flash-preview</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1795736998767-artificial-analysis-api-free-f179606e</guid>
-      <pubDate>Thu, 26 Nov 2026 23:49:54 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan, 1 dihapus</description>
-    </item>
-    <item>
-      <title>Mistral AI menambahkan codestral-mamba-jun-6</title>
-      <link>https://docs.mistral.ai/models</link>
-      <guid isPermaLink="false">1795733507718-mistral-models-docs-ca330531</guid>
-      <pubDate>Thu, 26 Nov 2026 22:51:44 GMT</pubDate>
-      <description>Mistral model docs: 1 entri model baru
-
-Ditambahkan: codestral-mamba-jun-6</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/leaderboards/models</link>
-      <guid isPermaLink="false">1795725836223-artificial-analysis-llm-leaderboard-56bdd2c6</guid>
-      <pubDate>Thu, 26 Nov 2026 20:43:53 GMT</pubDate>
-      <description>Artificial Analysis LLM leaderboard: 6 baris hasil benchmark ditambahkan, 5 dihapus</description>
-    </item>
-    <item>
-      <title>Image, video &amp; audio labs menambahkan meshy-7.5</title>
-      <link>https://x.com/i/web/status/2126028221850542511</link>
-      <guid isPermaLink="false">1795719635287-official-x-model-posts-4-d59ab0df</guid>
-      <pubDate>Thu, 26 Nov 2026 19:00:34 GMT</pubDate>
-      <description>Official AI lab posts on X (group 4): 1 entri model baru
-
-Ditambahkan: meshy-7.5</description>
-    </item>
-    <item>
-      <title>OpenRouter menambahkan antdigital/lingdt-decision-fast-1.0:free</title>
-      <link>https://openrouter.ai/models</link>
-      <guid isPermaLink="false">1795717988173-openrouter-models-819c5840</guid>
-      <pubDate>Thu, 26 Nov 2026 18:33:05 GMT</pubDate>
-      <description>OpenRouter model catalog: 1 entri model baru
-
-Ditambahkan: antdigital/lingdt-decision-fast-1.0:free</description>
     </item>
   </channel>
 </rss>
