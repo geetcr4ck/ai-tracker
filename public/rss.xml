@@ -55,44 +55,5 @@ Ditambahkan: inclusionai/ling-3.2-flash</description>
 
 Ditambahkan: glm-5.4</description>
     </item>
-    <item>
-      <title>DeepSeek menghapus deepseek-v4-pro</title>
-      <link>https://api-docs.deepseek.com/api/list-models</link>
-      <guid isPermaLink="false">1795764920376-deepseek-models-docs-9b5d18f2</guid>
-      <pubDate>Fri, 27 Nov 2026 07:35:17 GMT</pubDate>
-      <description>DeepSeek model API docs: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Microsoft menghapus mai-cyber-1-flash</title>
-      <link>https://microsoft.ai/models/</link>
-      <guid isPermaLink="false">1795762750360-microsoft-ai-models-12591ff9-confirmed-removal</guid>
-      <pubDate>Fri, 27 Nov 2026 06:59:01 GMT</pubDate>
-      <description>Microsoft AI models: 1 removed model entry</description>
-    </item>
-    <item>
-      <title>Katalog model berubah: added tencent/hy-embodied-apexio-1.0</title>
-      <link>https://huggingface.co/tencent/hy-embodied-apexio-1.0</link>
-      <guid isPermaLink="false">1795762158562-official-huggingface-new-models-e0a7d5a2</guid>
-      <pubDate>Fri, 27 Nov 2026 06:46:38 GMT</pubDate>
-      <description>Official vendor Hugging Face repositories: 1 entri model baru
-
-Ditambahkan: tencent/hy-embodied-apexio-1.0</description>
-    </item>
-    <item>
-      <title>Microsoft menambahkan mai-cyber-1.1-flash</title>
-      <link>https://microsoft.ai/models/</link>
-      <guid isPermaLink="false">1795761423654-microsoft-ai-models-12591ff9</guid>
-      <pubDate>Fri, 27 Nov 2026 06:36:55 GMT</pubDate>
-      <description>Microsoft AI models: 1 entri model baru
-
-Ditambahkan: mai-cyber-1.1-flash</description>
-    </item>
-    <item>
-      <title>Hasil benchmark Artificial Analysis berubah</title>
-      <link>https://artificialanalysis.ai/api/v2/language/models/free</link>
-      <guid isPermaLink="false">1795758888672-artificial-analysis-api-free-c3559ed5</guid>
-      <pubDate>Fri, 27 Nov 2026 05:54:39 GMT</pubDate>
-      <description>Artificial Analysis API free LLM data: 1 baris hasil benchmark ditambahkan</description>
-    </item>
   </channel>
 </rss>
